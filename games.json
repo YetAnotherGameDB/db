@@ -22,7 +22,7 @@
       "gameInstances": [
         {
           "name": "0 KARA NO SHOGI - SHOGI YOUCHIEN AYUMI-GUMI R",
-          "reginalName": "0からの将棋 将棋幼稚園 あゆみ組R",
+          "regionalName": "0からの将棋 将棋幼稚園 あゆみ組R",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-02920",
@@ -14292,27 +14292,6 @@
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-02885",
-          "region": "NTSC-J",
-          "tgdbId": 0
-        }
-      ]
-    },
-    {
-      "name": "EXCITING PRO WRESTLING 2",
-      "gameInstances": [
-        {
-          "name": "EXCITING PRO WRESTLING 2",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-03122",
-          "region": "NTSC-J",
-          "tgdbId": 0
-        },
-        {
-          "name": "EXCITING PRO WRESTLING 2 [PSONE BOOKS]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-91497",
           "region": "NTSC-J",
           "tgdbId": 0
         }
@@ -83687,6 +83666,24 @@
           "Language": "[E]",
           "serial": "SLES-03251",
           "region": "PAL",
+          "tgdbId": 0
+        },
+        {
+          "name": "EXCITING PRO WRESTLING 2",
+          "regionalName": "エキサイティングプロレス2",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-03122",
+          "region": "NTSC-J",
+          "tgdbId": 121210,
+          "upc": "4522174000038"
+        },
+        {
+          "name": "EXCITING PRO WRESTLING 2 [PSONE BOOKS]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-91497",
+          "region": "NTSC-J",
           "tgdbId": 0
         }
       ]
