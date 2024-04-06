@@ -20,4 +20,4 @@ jobs:
       uses: dcycle/json-lint
       with:
         args: |
-          games.json
+          -q games.json
