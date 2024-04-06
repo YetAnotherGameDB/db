@@ -11,13 +11,11 @@ on:
 jobs:
   validate:
     runs-on: ubuntu-latest
+    container: dcycle/json-lint:latest
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
 
     - name: Validate JSON using Docker
-      uses: dcycle/json-lint:latest
-      with:
-        args: |
-          -q games.json
+      run: json-lint -q games.json
