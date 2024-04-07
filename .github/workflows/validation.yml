@@ -24,4 +24,4 @@ jobs:
         options: -v ${{ github.workspace }}:/work
         run: |
           echo "Linting games.json"
-          json-lint -q /work/games.json
+          jsonlint -q /work/games.json
