@@ -11,11 +11,17 @@ on:
 jobs:
   validate:
     runs-on: ubuntu-latest
-    container: dcycle/json-lint:latest
+    #container: dcycle/json-lint:latest
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
 
     - name: Validate JSON using Docker
-      run: json-lint -q games.json
+      uses: addnab/docker-run-action@v3
+        with:
+          image: dcycle/json-lint:latest
+          options: -v ${{ github.workspace }}:/work
+          run: |
+            echo "Linting games.json"
+            json-lint -q /work/games.json
