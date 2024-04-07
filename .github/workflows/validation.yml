@@ -19,9 +19,9 @@ jobs:
 
     - name: Validate JSON using Docker
       uses: addnab/docker-run-action@v3
-        with:
-          image: dcycle/json-lint:latest
-          options: -v ${{ github.workspace }}:/work
-          run: |
-            echo "Linting games.json"
-            json-lint -q /work/games.json
+      with:
+        image: dcycle/json-lint:latest
+        options: -v ${{ github.workspace }}:/work
+        run: |
+          echo "Linting games.json"
+          json-lint -q /work/games.json
