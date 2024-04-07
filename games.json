@@ -34299,15 +34299,16 @@
       ]
     },
     {
-      "name": "NIGHTRUTH - EXPLANATION OF THE PARANORMAL\u00a0 -",
+      "name": "NIGHTRUTH - EXPLANATION OF THE PARANORMAL - Yami no Tobira",
       "gameInstances": [
         {
-          "name": "NIGHTRUTH - EXPLANATION OF THE PARANORMAL\u00a0 -\u00a0 [ 2 DISCS ]",
+          "name": "NIGHTRUTH - EXPLANATION OF THE PARANORMAL -Yami no Tobira",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-00561SLPS-00562",
+          "serial": "SLPS-00561",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 48682,
+          "upc": "T4959020001503"
         }
       ]
     },
@@ -60123,7 +60124,8 @@
           "Language": "[J]",
           "serial": "SLPS-00190",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 118212,
+          "upc": "4943015030043"
         }
       ]
     },
