@@ -5820,7 +5820,8 @@
           "Language": "[J]",
           "serial": "SLPM-86012",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "upc": "4988602010404"
         }
       ]
     },
@@ -8253,7 +8254,8 @@
           "Language": "[J]",
           "serial": "SLPS-00657",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 96147,
+          "upc": "T4959143900127"
         },
         {
           "name": "CLOCK TOWER 2 [PLAYSTATION THE BEST]",
@@ -8261,6 +8263,14 @@
           "Language": "[J]",
           "serial": "SLPS-91056",
           "region": "NTSC-J",
+          "tgdbId": 0
+        },
+        {
+          "name": "CLOCK TOWER 2 - THE STRUGGLE WITHIN",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLUS-00695",
+          "region": "NTSC-U",
           "tgdbId": 0
         }
       ]
@@ -25060,7 +25070,8 @@
           "Language": "[J]",
           "serial": "SLPS-03322",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "upc": "4543112055385"
         }
       ]
     },
@@ -37423,6 +37434,15 @@
           "Language": "[J]",
           "serial": "SLPS-01230SLPS-01231",
           "region": "NTSC-J",
+          "tgdbId": 93269,
+          "upc": "4961012977123"
+        },
+        {
+          "name": "PARASITE EVE\u00a0 -\u00a0 [ 3 DISCS ]\n\u00a0Includes:\u00a0\r\n\t\tParasite Eve + SquareSoft '98 Collector's CD Vol.1 - Xenogears (DEMO)",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLUS-00662SLUS-00668SLUS-90028",
+          "region": "NTSC-U",
           "tgdbId": 0
         }
       ]
@@ -65874,19 +65894,6 @@
       ]
     },
     {
-      "name": "CLOCK TOWER 2 - THE STRUGGLE WITHIN",
-      "gameInstances": [
-        {
-          "name": "CLOCK TOWER 2 - THE STRUGGLE WITHIN",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLUS-00695",
-          "region": "NTSC-U",
-          "tgdbId": 0
-        }
-      ]
-    },
-    {
       "name": "CODENAME TENKA",
       "gameInstances": [
         {
@@ -76527,19 +76534,6 @@
           "Language": "[E]",
           "serial": "SLES-00965",
           "region": "PAL",
-          "tgdbId": 0
-        }
-      ]
-    },
-    {
-      "name": "PARASITE EVE\u00a0 - (3 DISCS ]\n\u00a0Includes:\u00a0\r\n\t\tParasite Eve + SquareSoft '98 Collector's CD Vol.1 - Xenogears (DEMO)",
-      "gameInstances": [
-        {
-          "name": "PARASITE EVE\u00a0 -\u00a0 [ 3 DISCS ]\n\u00a0Includes:\u00a0\r\n\t\tParasite Eve + SquareSoft '98 Collector's CD Vol.1 - Xenogears (DEMO)",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLUS-00662SLUS-00668SLUS-90028",
-          "region": "NTSC-U",
           "tgdbId": 0
         }
       ]
