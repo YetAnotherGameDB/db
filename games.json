@@ -58980,7 +58980,8 @@
           "Language": "[J]",
           "serial": "SLPS-02377",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "upc": "4961012997107"
         },
         {
           "name": "VAGRANT STORY [PSONE BOOKS]",
@@ -58996,7 +58997,8 @@
           "Language": "[J]",
           "serial": "SLPM-87393",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 102559,
+          "upc": "4988601004749"
         },
         {
           "name": "VAGRANT STORY",
