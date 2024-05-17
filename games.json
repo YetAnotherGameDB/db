@@ -40730,7 +40730,7 @@
       ]
     },
     {
-      "name": "RAIDEN PROJECT",
+      "name": "RAIDEN",
       "gameInstances": [
         {
           "name": "RAIDEN PROJECT",
@@ -40754,6 +40754,67 @@
           "Language": "[J]",
           "serial": "SLPS-91144",
           "region": "NTSC-J",
+          "tgdbId": 0
+        },
+        {
+          "name": "THE RAIDEN PROJECT",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SCUS-94402",
+          "region": "NTSC-U",
+          "tgdbId": 0
+        },
+        {
+          "name": "THE RAIDEN PROJECT",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-00051",
+          "region": "PAL",
+          "tgdbId": 0
+        }
+      ]
+    },
+    {
+      "name": "RAIDEN II",
+      "gameInstances": [
+        {
+          "name": "RAIDEN PROJECT",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-00013",
+          "region": "NTSC-J",
+          "tgdbId": 0
+        },
+        {
+          "name": "RAIDEN PROJECT [PLAYSTATION THE BEST]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-91002",
+          "region": "NTSC-J",
+          "tgdbId": 0
+        },
+        {
+          "name": "RAIDEN PROJECT [PLAYSTATION THE BEST] [REPRINT]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-91144",
+          "region": "NTSC-J",
+          "tgdbId": 0
+        },
+        {
+          "name": "THE RAIDEN PROJECT",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SCUS-94402",
+          "region": "NTSC-U",
+          "tgdbId": 0
+        },
+        {
+          "name": "THE RAIDEN PROJECT",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-00051",
+          "region": "PAL",
           "tgdbId": 0
         }
       ]
@@ -81462,27 +81523,6 @@
           "platform": "ps1",
           "Language": "[E][F][G][S]",
           "serial": "SLES-03629",
-          "region": "PAL",
-          "tgdbId": 0
-        }
-      ]
-    },
-    {
-      "name": "THE RAIDEN PROJECT",
-      "gameInstances": [
-        {
-          "name": "THE RAIDEN PROJECT",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SCUS-94402",
-          "region": "NTSC-U",
-          "tgdbId": 0
-        },
-        {
-          "name": "THE RAIDEN PROJECT",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-00051",
           "region": "PAL",
           "tgdbId": 0
         }
