@@ -30371,7 +30371,8 @@
           "Language": "[J]",
           "serial": "SLPS-01493",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 126506,
+          "upc": "4965857040363"
         }
       ]
     },
@@ -35809,7 +35810,8 @@
           "Language": "[J]",
           "serial": "SCPS-10099",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 32678,
+          "upc": "4948872100991"
         },
         {
           "name": "ORE NO RYORI - WE COOKING [PLAYSTATION THE BEST]",
@@ -59034,8 +59036,7 @@
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SCPS-45486",
-          "region": "NTSC-J",
-          "tgdbId": 0
+          "region": "NTSC-J"
         },
         {
           "name": "VAGRANT STORY",
@@ -59043,7 +59044,7 @@
           "Language": "[J]",
           "serial": "SLPS-02377",
           "region": "NTSC-J",
-          "tgdbId": 0,
+          "tgdbId": 126507,
           "upc": "4961012997107"
         },
         {
