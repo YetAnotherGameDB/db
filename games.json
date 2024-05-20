@@ -44777,7 +44777,8 @@
           "Language": "[J]",
           "serial": "SLPS-01420",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 126589,
+          "upc": "4949776361075"
         },
         {
           "name": "SHADOW TOWER",
@@ -44785,7 +44786,7 @@
           "Language": "[E]",
           "serial": "SLUS-00863",
           "region": "NTSC-U",
-          "tgdbId": 0
+          "tgdbId": 12650
         }
       ]
     },
