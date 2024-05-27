@@ -14242,34 +14242,7 @@
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-01117",
-          "region": "NTSC-J",
-          "tgdbId": 0
-        }
-      ]
-    },
-    {
-      "name": "EXCITING BASS",
-      "gameInstances": [
-        {
-          "name": "EXCITING BASS",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-86124",
-          "region": "NTSC-J",
-          "tgdbId": 0
-        }
-      ]
-    },
-    {
-      "name": "EXCITING BASS 2",
-      "gameInstances": [
-        {
-          "name": "EXCITING BASS 2",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-86295",
-          "region": "NTSC-J",
-          "tgdbId": 0
+          "region": "NTSC-J"
         }
       ]
     },
@@ -35985,7 +35958,8 @@
           "Language": "[J]",
           "serial": "SLPS-03412",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 126746,
+          "upc": "4933516203251"
         }
       ]
     },
@@ -38104,7 +38078,8 @@
           "Language": "[E][F][G]",
           "serial": "SCES-00059",
           "region": "PAL",
-          "tgdbId": 0
+          "tgdbId": 112285,
+          "upc": "4948872100090"
         }
       ]
     },
@@ -69076,6 +69051,15 @@
           "serial": "SLES-02085",
           "region": "PAL",
           "tgdbId": 0
+        },
+        {
+          "name": "EXCITING BASS",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-86124",
+          "region": "NTSC-J",
+          "tgdbId": 126747,
+          "upc": "4988602492965"
         }
       ]
     },
@@ -69096,6 +69080,14 @@
           "Language": "[E]",
           "serial": "SLES-02596",
           "region": "PAL",
+          "tgdbId": 0
+        },
+        {
+          "name": "EXCITING BASS 2",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-86295",
+          "region": "NTSC-J",
           "tgdbId": 0
         }
       ]
