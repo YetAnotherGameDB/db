@@ -38062,7 +38062,8 @@
           "Language": "[J]",
           "serial": "SCPS-10009",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 112285,
+          "upc": "4948872100090"
         },
         {
           "name": "PHILOSOMA",
@@ -38078,8 +38079,7 @@
           "Language": "[E][F][G]",
           "serial": "SCES-00059",
           "region": "PAL",
-          "tgdbId": 112285,
-          "upc": "4948872100090"
+          "tgdbId": 0
         }
       ]
     },
