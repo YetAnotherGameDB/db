@@ -57175,35 +57175,6 @@
       ]
     },
     {
-      "name": "TOMB RAIDER - THE LAST REVELATION",
-      "gameInstances": [
-        {
-          "name": "TOMB RAIDER - THE LAST REVELATION",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-02803",
-          "region": "NTSC-J",
-          "tgdbId": 0
-        },
-        {
-          "name": "TOMB RAIDER - THE LAST REVELATION [CAPKORE]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-86896",
-          "region": "NTSC-J",
-          "tgdbId": 0
-        },
-        {
-          "name": "TOMB RAIDER - THE LAST REVELATION",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLUS-00885",
-          "region": "NTSC-U",
-          "tgdbId": 0
-        }
-      ]
-    },
-    {
       "name": "TOMB RAIDER V - CHRONICLES",
       "gameInstances": [
         {
@@ -95850,19 +95821,6 @@
       ]
     },
     {
-      "name": "TOMB RAIDER IV - LA REVELATION FINALE",
-      "gameInstances": [
-        {
-          "name": "TOMB RAIDER IV - LA REVELATION FINALE",
-          "platform": "ps1",
-          "Language": "[F]",
-          "serial": "SLES-02239",
-          "region": "PAL",
-          "tgdbId": 0
-        }
-      ]
-    },
-    {
       "name": "TOMB RAIDER IV - THE LAST REVELATION",
       "gameInstances": [
         {
@@ -95896,6 +95854,39 @@
           "serial": "SLES-02242",
           "region": "PAL",
           "tgdbId": 0
+        },
+        {
+          "name": "TOMB RAIDER IV - LA REVELATION FINALE",
+          "platform": "ps1",
+          "Language": "[F]",
+          "serial": "SLES-02239",
+          "region": "PAL",
+          "tgdbId": 0
+        },
+        {
+          "name": "TOMB RAIDER - THE LAST REVELATION",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-02803",
+          "region": "NTSC-J",
+          "tgdbId": 126949,
+          "upc": "4976219455305"
+        },
+        {
+          "name": "TOMB RAIDER - THE LAST REVELATION [CAPKORE]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-86896",
+          "region": "NTSC-J",
+          "tgdbId": 0
+        },
+        {
+          "name": "TOMB RAIDER - THE LAST REVELATION",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLUS-00885",
+          "region": "NTSC-U",
+          "tgdbId": 8349
         }
       ]
     },
