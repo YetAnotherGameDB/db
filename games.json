@@ -12842,6 +12842,20 @@
       ]
     },
     {
+      "name": "DRAGON QUEST Swords",
+      "gameInstances": [
+        {
+          "name": "DRAGON QUEST Swords 仮面の女王と鏡の塔",
+          "platform": "wii",
+          "Language": "[J]",
+          "serial": "RVL-RDQJ-JPN",
+          "region": "NTSC-J",
+          "tgdbId": 127129,
+          "upc": "4988601005142"
+        }
+      ]
+    },
+    {
       "name": "DRAGON SEEDS",
       "gameInstances": [
         {
@@ -95390,6 +95404,20 @@
           "serial": "SLES-02981",
           "region": "PAL",
           "tgdbId": 0
+        }
+      ]
+    },
+    {
+      "name": "The Last Story",
+      "gameInstances": [
+        {
+          "name": "The Last Story",
+          "platform": "wii",
+          "Language": "[J]",
+          "serial": "BSLA-RVL-SLSJ-JPN",
+          "region": "NTSC-J",
+          "tgdbId": 116108,
+          "upc": "4902370518665"
         }
       ]
     },
