@@ -50340,7 +50340,8 @@
           "Language": "[J]",
           "serial": "SLPS-01680",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 127217,
+          "upc": "4907892010529"
         },
         {
           "name": "STAR IXIOM",
@@ -50348,7 +50349,7 @@
           "Language": "[E]",
           "serial": "SCES-01707",
           "region": "PAL",
-          "tgdbId": 0
+          "tgdbId": 67893
         }
       ]
     },
