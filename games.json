@@ -3397,15 +3397,16 @@
       ]
     },
     {
-      "name": "BAKUSOU DEKOTORA DENSETSU 2 (ART TRUCK BATTLE 2)\u00a0 - (2 DISCS ]\n\u00a0Includes:\u00a0\n\t\tBakusou Dekotora Densetsu 2 + V-Rally 2 & Driver Demo)",
+      "name": "BAKUSOU DEKOTORA DENSETSU 2 (ART TRUCK BATTLE 2)- (2 DISCS ] Includes:V-Rally 2 & Driver Demo)",
       "gameInstances": [
         {
-          "name": "BAKUSOU DEKOTORA DENSETSU 2 (ART TRUCK BATTLE 2)\u00a0 -\u00a0 [ 2 DISCS ]\n\u00a0Includes:\u00a0\n\t\tBakusou Dekotora Densetsu 2 + V-Rally 2 & Driver Demos",
+          "name": "BAKUSOU DEKOTORA DENSETSU 2 (ART TRUCK BATTLE 2)- (2 DISCS ] Includes:V-Rally 2 & Driver Demo)",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-02465SLPS-02466",
+          "serial": "SLPS-02465",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 63447,
+          "upc": "4940261501822"
         }
       ]
     },
@@ -60407,7 +60408,8 @@
           "Language": "[E]",
           "serial": "SLPS-02174",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 127252,
+          "upc": "4527708010019"
         }
       ]
     },
@@ -61214,7 +61216,8 @@
           "Language": "[J]",
           "serial": "SLPS-01335",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 127254,
+          "upc": "4907892010468"
         }
       ]
     },
