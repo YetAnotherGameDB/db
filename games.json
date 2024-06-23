@@ -19870,7 +19870,8 @@
           "Language": "[J]",
           "serial": "SLPS-00578SLPS-00579SLPS-00580",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 127435,
+          "upc": "4988736060023"
         },
         {
           "name": "HARUKAZE SENTAI V-FORCE [VING BEST] [ 3 DISCS ]",
@@ -32741,7 +32742,8 @@
           "Language": "[J]",
           "serial": "SLPS-00024",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 127431,
+          "upc": "4980124010016"
         },
         {
           "name": "MYST [PLAYSTATION THE BEST]",
