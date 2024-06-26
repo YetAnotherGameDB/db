@@ -1249,7 +1249,8 @@
           "Language": "[J]",
           "serial": "SLPS-01578",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 127540,
+          "upc": "4988616010063"
         }
       ]
     },
@@ -38699,7 +38700,8 @@
           "Language": "[J]",
           "serial": "SCPS-10075",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 93549,
+          "upc": "4948872100755"
         }
       ]
     },
