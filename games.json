@@ -17399,7 +17399,8 @@
           "Language": "[J]",
           "serial": "SLPM-86236",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 127557,
+          "upc": "4964808300211"
         },
         {
           "name": "GAROU DENSETSU - WILD AMBITION [PLAYSTATION THE BEST]",
@@ -17408,6 +17409,14 @@
           "serial": "SLPM-86576",
           "region": "NTSC-J",
           "tgdbId": 0
+        },
+        {
+          "name": "FATAL FURY - WILD AMBITION",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLUS-01001",
+          "region": "NTSC-U",
+          "tgdbId": 12988
         }
       ]
     },
@@ -68570,19 +68579,6 @@
           "platform": "ps1",
           "Language": "[E]",
           "serial": "SLUS-01049",
-          "region": "NTSC-U",
-          "tgdbId": 0
-        }
-      ]
-    },
-    {
-      "name": "FATAL FURY - WILD AMBITION",
-      "gameInstances": [
-        {
-          "name": "FATAL FURY - WILD AMBITION",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLUS-01001",
           "region": "NTSC-U",
           "tgdbId": 0
         }
