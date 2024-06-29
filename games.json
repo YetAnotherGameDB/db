@@ -62475,6 +62475,22 @@
           "serial": "SLPS-00034",
           "region": "NTSC-J",
           "tgdbId": 0
+        },
+        {
+          "name": "JUPITER STRIKE",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLUS-00177",
+          "region": "NTSC-U",
+          "tgdbId": 12749
+        },
+        {
+          "name": "JUPITER STRIKE",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-00130",
+          "region": "PAL",
+          "tgdbId": 0
         }
       ]
     },
@@ -70884,27 +70900,6 @@
           "Language": "[E]",
           "serial": "SLUS-01383",
           "region": "NTSC-U",
-          "tgdbId": 0
-        }
-      ]
-    },
-    {
-      "name": "JUPITER STRIKE",
-      "gameInstances": [
-        {
-          "name": "JUPITER STRIKE",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLUS-00177",
-          "region": "NTSC-U",
-          "tgdbId": 0
-        },
-        {
-          "name": "JUPITER STRIKE",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-00130",
-          "region": "PAL",
           "tgdbId": 0
         }
       ]
