@@ -18993,7 +18993,7 @@
           "Language": "[J]",
           "serial": "SCPS-45422",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 30384
         },
         {
           "name": "GUITAR FREAKS",
@@ -19001,7 +19001,8 @@
           "Language": "[J]",
           "serial": "SLPM-86265",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 30384,
+          "upc": "4988602643961"
         },
         {
           "name": "GUITAR FREAKS [KONAMI THE BEST]",
@@ -40527,7 +40528,8 @@
           "Language": "[J]",
           "serial": "SLPS-00733",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 127793,
+          "upc": "4934878080238"
         }
       ]
     },
@@ -62396,7 +62398,8 @@
           "Language": "[J]",
           "serial": "SLPS-01980",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 127792,
+          "upc": "4904880136995"
         }
       ]
     },
