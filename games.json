@@ -50831,13 +50831,13 @@
       ]
     },
     {
-      "name": "STREET FIGHTER II MOVIE\u00a0 -",
+      "name": "STREET FIGHTER II MOVIE",
       "gameInstances": [
         {
-          "name": "STREET FIGHTER II MOVIE\u00a0 -\u00a0 [ 2 DISCS ]",
+          "name": "STREET FIGHTER II MOVIE",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-00080SLPS-00081",
+          "serial": "SLPS-00080",
           "region": "NTSC-J",
           "tgdbId": 0
         }
@@ -50852,7 +50852,8 @@
           "Language": "[J]",
           "serial": "SLPS-00070",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 127863,
+          "upc": "4976219154352"
         },
         {
           "name": "STREET FIGHTER - THE MOVIE",
