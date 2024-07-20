@@ -69943,6 +69943,20 @@
       ]
     },
     {
+      "name": "HEAVY RAIN",
+      "gameInstances": [
+        {
+          "name": "HEAVY RAIN",
+          "platform": "ps3",
+          "Language": "[J]",
+          "serial": "BCJS-30040",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4948872730402"
+        }
+      ]
+    },
+    {
       "name": "HBO BOXING",
       "gameInstances": [
         {
