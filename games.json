@@ -17425,15 +17425,16 @@
       ]
     },
     {
-      "name": "GATE KEEPERS\u00a0 -",
+      "name": "GATE KEEPERS",
       "gameInstances": [
         {
-          "name": "GATE KEEPERS\u00a0 -\u00a0 [ 2 DISCS ]",
+          "name": "GATE KEEPERS",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-02246SLPS-02247",
+          "serial": "SLPS-02246",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 128372,
+          "upc": "4997766200071"
         }
       ]
     },
