@@ -41935,20 +41935,6 @@
       ]
     },
     {
-      "name": "RITTAI NINJA KATSUGEKI TENCHU",
-      "gameInstances": [
-        {
-          "name": "RITTAI NINJA KATSUGEKI TENCHU",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-01272",
-          "region": "NTSC-J",
-          "tgdbId": 128401,
-          "upc": "4988009004099"
-        }
-      ]
-    },
-    {
       "name": "RITTAI NINJA KATSUGEKI TENCHU 2",
       "gameInstances": [
         {
@@ -81001,6 +80987,15 @@
           "serial": "SLES-01374",
           "region": "PAL",
           "tgdbId": 0
+        },
+        {
+          "name": "RITTAI NINJA KATSUGEKI TENCHU",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-01272",
+          "region": "NTSC-J",
+          "tgdbId": 128401,
+          "upc": "4988009004099"
         }
       ]
     },
