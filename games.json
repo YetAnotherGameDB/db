@@ -31261,34 +31261,22 @@
       ]
     },
     {
-      "name": "MISA NO MAHOU MONOGATARI - HEARTFUL MEMORIES\u00a0 -",
-      "gameInstances": [
-        {
-          "name": "MISA NO MAHOU MONOGATARI - HEARTFUL MEMORIES\u00a0 -\u00a0 [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-01276SLPS-01277",
-          "region": "NTSC-J",
-          "tgdbId": 0
-        },
-        {
-          "name": "MISA NO MAHOU MONOGATARI - HEARTFUL MEMORIES\u00a0 -\u00a0 [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-01276SLPS-01277",
-          "region": "NTSC-J",
-          "tgdbId": 0
-        }
-      ]
-    },
-    {
       "name": "MISA NO MAHOU MONOGATARI - HEARTFUL MEMORIES",
       "gameInstances": [
         {
-          "name": "MISA NO MAHOU MONOGATARI - HEARTFUL MEMORIES  [LIMITED EDITION]\u00a0 -\u00a0 [ 2 DISCS ]",
+          "name": "MISA NO MAHOU MONOGATARI - HEARTFUL MEMORIES",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-01274SLPS-01275",
+          "serial": "SLPS-01276",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4991694000116"
+        },
+        {
+          "name": "MISA NO MAHOU MONOGATARI - HEARTFUL MEMORIES [LIMITED EDITION]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-01274",
           "region": "NTSC-J",
           "tgdbId": 0
         }
