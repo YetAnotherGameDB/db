@@ -26114,7 +26114,8 @@
           "Language": "[J]",
           "serial": "SLPS-01365",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 11111,
+          "upc": "4967652101416"
         },
         {
           "name": "KLAYMEN KLAYMEN - NERVERHOOD NO NAZO [PLAYSTATION THE BEST]",
@@ -50506,7 +50507,8 @@
           "Language": "[J]",
           "serial": "SLPS-02153",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 129010,
+          "upc": "4938833005069"
         }
       ]
     },
