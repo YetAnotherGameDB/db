@@ -44455,15 +44455,16 @@
       ]
     },
     {
-      "name": "Sekai Saikyou Ginsei Shogi 2",
+      "name": "Saikyou Ginsei Shougi 2",
       "gameInstances": [
         {
-          "name": "Sekai Saikyou Ginsei Shogi 2",
+          "name": "Saikyou Ginsei Shougi 2",
           "platform": "ps1",
           "Language": "",
           "serial": "SLPS-03481",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 129140,
+          "upc": "4537337000565"
         }
       ]
     },
