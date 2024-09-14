@@ -70319,7 +70319,7 @@
           "Language": "[E]",
           "serial": "SLUS-00172",
           "region": "NTSC-U",
-          "tgdbId": 0
+          "tgdbId": 12731
         },
         {
           "name": "IN THE HUNT",
@@ -70327,7 +70327,7 @@
           "Language": "[E]",
           "serial": "SLES-00342",
           "region": "PAL",
-          "tgdbId": 0
+          "tgdbId": 101989
         }
       ]
     },
