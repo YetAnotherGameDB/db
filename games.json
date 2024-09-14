@@ -23873,27 +23873,6 @@
       ]
     },
     {
-      "name": "KAITEI DAISENSOU - IN THE HUNT",
-      "gameInstances": [
-        {
-          "name": "KAITEI DAISENSOU - IN THE HUNT",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-00086",
-          "region": "NTSC-J",
-          "tgdbId": 0
-        },
-        {
-          "name": "KAITEI DAISENSOU - IN THE HUNT [XING MARUYASU SERIES]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-02790",
-          "region": "NTSC-J",
-          "tgdbId": 0
-        }
-      ]
-    },
-    {
       "name": "KAITOHRANMA MIYABI",
       "gameInstances": [
         {
@@ -70317,6 +70296,23 @@
     {
       "name": "IN THE HUNT",
       "gameInstances": [
+        {
+          "name": "KAITEI DAISENSOU - IN THE HUNT",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-00086",
+          "region": "NTSC-J",
+          "tgdbId": 129174,
+          "upc": "4948536190016"
+        },
+        {
+          "name": "KAITEI DAISENSOU - IN THE HUNT [XING MARUYASU SERIES]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-02790",
+          "region": "NTSC-J",
+          "tgdbId": 0
+        },
         {
           "name": "IN THE HUNT",
           "platform": "ps1",
