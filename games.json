@@ -2040,7 +2040,8 @@
           "Language": "[J]",
           "serial": "SLPS-00406",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 63437,
+          "upc": "4988640100112"
         },
         {
           "name": "AQUANAUT NO KYUUJITSU - MEMORIES OF SUMMER '96 [ARTDINK BEST CHOICE]",
@@ -13475,7 +13476,8 @@
           "Language": "[J]",
           "serial": "SLPS-01518",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 94108,
+          "upc": "4949776363017"
         },
         {
           "name": "ECHO NIGHT [PLAYSTATION THE BEST]",
@@ -13520,7 +13522,8 @@
           "Language": "[J]",
           "serial": "SLPS-91425",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 31073,
+          "upc": "4949776363031"
         }
       ]
     },
