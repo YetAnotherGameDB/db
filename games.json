@@ -13514,7 +13514,8 @@
           "Language": "[J]",
           "serial": "SLPS-02167",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 31073,
+          "upc": "4949776363031"
         },
         {
           "name": "ECHO NIGHT 2 - NEMURI NO SHIHAISHA [PSONE BOOKS]",
@@ -13522,8 +13523,7 @@
           "Language": "[J]",
           "serial": "SLPS-91425",
           "region": "NTSC-J",
-          "tgdbId": 31073,
-          "upc": "4949776363031"
+          "tgdbId": 0
         }
       ]
     },
