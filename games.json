@@ -50493,6 +50493,39 @@
           "region": "NTSC-J",
           "tgdbId": 127733,
           "upc": "4938833005069"
+        },
+        {
+          "name": "STAR WARS - EPISODE I - LA MENACE FANTOME",
+          "platform": "ps1",
+          "Language": "[F]",
+          "serial": "SLES-02035",
+          "region": "PAL",
+          "tgdbId": 0
+        },
+        {
+          "name": "STAR WARS - EPISODE I - DIE DUNKLE BEDROHUNG",
+          "platform": "ps1",
+          "Language": "[G]",
+          "serial": "SLES-02036",
+          "region": "PAL",
+          "tgdbId": 0
+        },
+        {
+          "name": "STAR WARS - EPISODE I - LA MINACCIA FANTASMA",
+          "platform": "ps1",
+          "Language": "[I]",
+          "serial": "SLES-02037",
+          "region": "PAL",
+          "tgdbId": 0
+
+        },
+        {
+          "name": "STAR WARS - EPISODE I - LA AMENAZA FANTASMA",
+          "platform": "ps1",
+          "Language": "[S]",
+          "serial": "SLES-02038",
+          "region": "PAL",
+          "tgdbId": 0
         }
       ]
     },
@@ -94699,58 +94732,6 @@
           "platform": "ps1",
           "Language": "[E][F][G][I][S]",
           "serial": "SCES-02104",
-          "region": "PAL",
-          "tgdbId": 0
-        }
-      ]
-    },
-    {
-      "name": "STAR WARS - EPISODE I - LA MENACE FANTOME",
-      "gameInstances": [
-        {
-          "name": "STAR WARS - EPISODE I - LA MENACE FANTOME",
-          "platform": "ps1",
-          "Language": "[F]",
-          "serial": "SLES-02035",
-          "region": "PAL",
-          "tgdbId": 0
-        }
-      ]
-    },
-    {
-      "name": "STAR WARS - EPISODE I - DIE DUNKLE BEDROHUNG",
-      "gameInstances": [
-        {
-          "name": "STAR WARS - EPISODE I - DIE DUNKLE BEDROHUNG",
-          "platform": "ps1",
-          "Language": "[G]",
-          "serial": "SLES-02036",
-          "region": "PAL",
-          "tgdbId": 0
-        }
-      ]
-    },
-    {
-      "name": "STAR WARS - EPISODE I - LA MINACCIA FANTASMA",
-      "gameInstances": [
-        {
-          "name": "STAR WARS - EPISODE I - LA MINACCIA FANTASMA",
-          "platform": "ps1",
-          "Language": "[I]",
-          "serial": "SLES-02037",
-          "region": "PAL",
-          "tgdbId": 0
-        }
-      ]
-    },
-    {
-      "name": "STAR WARS - EPISODE I - LA AMENAZA FANTASMA",
-      "gameInstances": [
-        {
-          "name": "STAR WARS - EPISODE I - LA AMENAZA FANTASMA",
-          "platform": "ps1",
-          "Language": "[S]",
-          "serial": "SLES-02038",
           "region": "PAL",
           "tgdbId": 0
         }
