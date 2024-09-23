@@ -50483,16 +50483,32 @@
       ]
     },
     {
-      "name": "STAR WARS - EPISODE I - THE PHANTON MENACE",
+      "name": "STAR WARS - EPISODE I - THE PHANTOM MENACE",
       "gameInstances": [
         {
-          "name": "STAR WARS - EPISODE I - THE PHANTON MENACE",
+          "name": "STAR WARS - EPISODE I - THE PHANTOM MENACE",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-02153",
           "region": "NTSC-J",
           "tgdbId": 127733,
           "upc": "4938833005069"
+        },
+        {
+          "name": "STAR WARS - EPISODE I - THE PHANTOM MENACE",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLUS-00884",
+          "region": "NTSC-U",
+          "tgdbId": 0
+        },
+        {
+          "name": "STAR WARS - EPISODE I - THE PHANTOM MENACE",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-02034",
+          "region": "PAL",
+          "tgdbId": 0
         },
         {
           "name": "STAR WARS - EPISODE I - LA MENACE FANTOME",
@@ -79988,27 +80004,6 @@
           "platform": "ps1",
           "Language": "[S]",
           "serial": "SLES-02611",
-          "region": "PAL",
-          "tgdbId": 0
-        }
-      ]
-    },
-    {
-      "name": "STAR WARS - EPISODE I - THE PHANTOM MENACE",
-      "gameInstances": [
-        {
-          "name": "STAR WARS - EPISODE I - THE PHANTOM MENACE",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLUS-00884",
-          "region": "NTSC-U",
-          "tgdbId": 0
-        },
-        {
-          "name": "STAR WARS - EPISODE I - THE PHANTOM MENACE",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-02034",
           "region": "PAL",
           "tgdbId": 0
         }
