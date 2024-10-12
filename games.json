@@ -12725,7 +12725,8 @@
           "Language": "[J]",
           "serial": "SLPS-02391",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 51572,
+          "upc": "4945640000019"
         }
       ]
     },
@@ -12738,7 +12739,8 @@
           "Language": "[J]",
           "serial": "SLPS-02037",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "upc": "4988126510329"
         }
       ]
     },
@@ -19032,7 +19034,8 @@
           "Language": "[J]",
           "serial": "SLPM-86446",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": "93736",
+          "upc": "4988602739053"
         }
       ]
     },
@@ -56990,15 +56993,16 @@
       ]
     },
     {
-      "name": "TOKYO MAJIN GAKUEN KENPU-CYOU EMAKI\u00a0 -",
+      "name": "TOKYO MAJIN GAKUEN KENPU-CYOU EMAKI",
       "gameInstances": [
         {
-          "name": "TOKYO MAJIN GAKUEN KENPU-CYOU EMAKI\u00a0 -\u00a0 [ 4 DISCS ]",
+          "name": "TOKYO MAJIN GAKUEN KENPU-CYOU EMAKI",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-02834SLPS-02835SLPS-02836SLPS-02837",
+          "serial": "SLPS-02834",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 129797,
+          "upc": "4988126510329"
         }
       ]
     },
