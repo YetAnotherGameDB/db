@@ -27592,7 +27592,8 @@
           "Language": "[J]",
           "serial": "SIPS-60002",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "upc": "4948872600026"
         },
         {
           "name": "LEMMINGS 3D",
@@ -30271,13 +30272,13 @@
       ]
     },
     {
-      "name": "MEMORIES OFF 2ND\u00a0 -",
+      "name": "MEMORIES OFF 2ND",
       "gameInstances": [
         {
-          "name": "MEMORIES OFF 2ND\u00a0 -\u00a0 [ 2 DISCS ]",
+          "name": "MEMORIES OFF 2ND",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-03292SLPS-03293",
+          "serial": "SLPS-03292",
           "region": "NTSC-J",
           "tgdbId": 0
         }
@@ -30287,12 +30288,13 @@
       "name": "MEMORIES OFF 2ND",
       "gameInstances": [
         {
-          "name": "MEMORIES OFF 2ND [LIMITED EDITION]\u00a0 -\u00a0 [ 2 DISCS ]",
+          "name": "MEMORIES OFF 2ND [LIMITED EDITION]",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-03289SLPS-03290SLPS-03291",
+          "serial": "SLPS-03289",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "upc": "4933516103209"
         }
       ]
     },
@@ -51385,7 +51387,8 @@
           "Language": "[J]",
           "serial": "SLPS-02542",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 51579,
+          "upc": ""
         },
         {
           "name": "SUMMON NIGHT [PSONE BOOKS]",
