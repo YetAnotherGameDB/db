@@ -41591,13 +41591,13 @@
       ]
     },
     {
-      "name": "RETURN TO ZORK\u00a0 -",
+      "name": "RETURN TO ZORK",
       "gameInstances": [
         {
-          "name": "RETURN TO ZORK\u00a0 -\u00a0 [ 2 DISCS ]",
+          "name": "RETURN TO ZORK",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-00192SLPS-00193",
+          "serial": "SLPS-00192",
           "region": "NTSC-J",
           "tgdbId": 0
         }
@@ -41612,7 +41612,8 @@
           "Language": "[J]",
           "serial": "SLPS-00143",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 127338,
+          "upc": "4907095000440"
         }
       ]
     },
