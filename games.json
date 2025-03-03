@@ -8839,7 +8839,8 @@
           "Language": "[J]",
           "serial": "SCPS-10031",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 97801,
+          "upc": "49488721003111"
         },
         {
           "name": "CRASH BANDICOOT [PLAYSTATION THE BEST]",
@@ -30259,7 +30260,8 @@
           "Language": "[J]",
           "serial": "SLPS-02296",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 53806,
+          "upc": "4933516903106"
         },
         {
           "name": "MEMORIES OFF [SUPERLITE 1500 SERIES]",
@@ -41379,7 +41381,8 @@
           "Language": "[J]",
           "serial": "SLPS-01343",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "upc": "4984995110189"
         },
         {
           "name": "REBUS [PLAYSTATION THE BEST]",
