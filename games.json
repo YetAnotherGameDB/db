@@ -12484,35 +12484,6 @@
       ]
     },
     {
-      "name": "DRACULA X: NOCTURNE IN THE MOONLIGHT",
-      "gameInstances": [
-        {
-          "name": "DRACULA X: NOCTURNE IN THE MOONLIGHT",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-86023",
-          "region": "NTSC-J",
-          "tgdbId": 0
-        },
-        {
-          "name": "DRACULA X: NOCTURNE IN THE MOONLIGHT [PLAYSTATION THE BEST]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-86073",
-          "region": "NTSC-J",
-          "tgdbId": 0
-        },
-        {
-          "name": "DRACULA X: NOCTURNE IN THE MOONLIGHT [PSONE BOOKS]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-87328",
-          "region": "NTSC-J",
-          "tgdbId": 0
-        }
-      ]
-    },
-    {
       "name": "DRAGON BALL GT - FINAL BOUT",
       "gameInstances": [
         {
@@ -65664,6 +65635,31 @@
     {
       "name": "CASTLEVANIA - SYMPHONY OF THE NIGHT",
       "gameInstances": [
+        {
+          "name": "DRACULA X: NOCTURNE IN THE MOONLIGHT",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-86023",
+          "region": "NTSC-J",
+          "tgdbId": 86500,
+          "upc": "4988602008111"
+        },
+        {
+          "name": "DRACULA X: NOCTURNE IN THE MOONLIGHT [PLAYSTATION THE BEST]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-86073",
+          "region": "NTSC-J",
+          "tgdbId": 0
+        },
+        {
+          "name": "DRACULA X: NOCTURNE IN THE MOONLIGHT [PSONE BOOKS]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-87328",
+          "region": "NTSC-J",
+          "tgdbId": 0
+        },
         {
           "name": "CASTLEVANIA - SYMPHONY OF THE NIGHT",
           "platform": "ps1",
