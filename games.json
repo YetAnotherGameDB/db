@@ -19399,7 +19399,8 @@
           "Language": "[J]",
           "serial": "SLPM-86066",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "upc": "4961012977130"
         },
         {
           "name": "HAI-SHIN 2 [DIGICUBE BEST SELECTION]",
@@ -97510,6 +97511,21 @@
           "serial": "SLES-00713",
           "region": "PAL",
           "tgdbId": 0
+        }
+      ]
+    },
+    {
+      "name": "Homefront",
+      "gameInstances": [
+        {
+          "name": "Homefront",
+          "platform": "ps3",
+          "Language": "[J]",
+          "serial": "BLJS-10119",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc":"",
+          "gameyeId": 166241
         }
       ]
     },
