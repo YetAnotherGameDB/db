@@ -57040,13 +57040,13 @@
       ]
     },
     {
-      "name": "TOKYO SHADOW\u00a0 -",
+      "name": "TOKYO SHADOW",
       "gameInstances": [
         {
-          "name": "TOKYO SHADOW\u00a0 -\u00a0 [ 3 DISCS ]",
+          "name": "TOKYO SHADOW",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-00285SLPS-00286SLPS-00287",
+          "serial": "SLPS-00285",
           "region": "NTSC-J",
           "tgdbId": 0
         }
@@ -97564,6 +97564,11 @@
           "region": "PAL",
           "tgdbId": 0
         }
+      ]
+    },
+    {
+      "name": "ONE DOLLAR SHOCK",
+      "gameInstances": [
       ]
     }
   ]
