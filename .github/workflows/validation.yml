@@ -25,3 +25,14 @@ jobs:
         run: |
           echo "Linting games.json"
           jsonlint -q /work/games.json
+  integrity:
+    runs-on: ubuntu-latest
+    container:
+      image: mcr.microsoft.com/powershell:7.4-ubuntu-22.04
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run validation script
+        run: pwsh .github/scripts/validate-games.ps1
