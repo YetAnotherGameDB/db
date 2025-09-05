@@ -1,15 +1,7 @@
 {
   "enums": {
-    "platforms": [
-      "ps1",
-      "saturn",
-      "snes"
-    ],
-    "regions": [
-      "NTSC-J",
-      "NTSC-U",
-      "PAL"
-    ]
+    "platforms": [ "ps1", "saturn", "snes" ],
+    "regions": [ "NTSC-J", "NTSC-U", "PAL" ]
   },
   "games": [
     {
