@@ -343,6 +343,14 @@
           "serial": "SLPS-00011",
           "region": "NTSC-J",
           "tgdbId": 0
+        },
+        {
+          "name": "A IV EVOLUTION - A RESSHA DE IKOU 4",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-00004",
+          "region": "NTSC-J",
+          "tgdbId": 0
         }
       ],
       "id": 19
@@ -19162,7 +19170,7 @@
       "id": 943
     },
     {
-      "name": "GOKUJOU PARODIUS DA! DELUXE PACK",
+      "name": "PARODIUS DA!",
       "gameInstances": [
         {
           "name": "GOKUJOU PARODIUS DA! DELUXE PACK",
@@ -102987,6 +102995,36 @@
       "name": "ONE DOLLAR SHOCK",
       "gameInstances": [],
       "id": 5419
+    },
+    {
+      "name": "GOKUJOU PARODIUS",
+      "gameInstances": [
+        {
+          "name": "GOKUJOU PARODIUS DA! DELUXE PACK",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-00002",
+          "region": "NTSC-J",
+          "tgdbId": 0
+        },
+        {
+          "name": "GOKUJOU PARODIUS DA! DELUXE PACK [PLAYSTATION THE BEST]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-86031",
+          "region": "NTSC-J",
+          "tgdbId": 0
+        },
+        {
+          "name": "GOKUJOU PARODIUS DA! DELUXE PACK [PSONE BOOKS]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-87329",
+          "region": "NTSC-J",
+          "tgdbId": 0
+        }
+      ],
+      "id": 5420
     }
   ]
 }
