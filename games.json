@@ -19195,6 +19195,14 @@
           "serial": "SLPM-87329",
           "region": "NTSC-J",
           "tgdbId": 0
+        },
+        {
+          "name": "PARODIUS",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-00036",
+          "region": "PAL",
+          "tgdbId": 0
         }
       ],
       "id": 944
@@ -98190,20 +98198,6 @@
       "id": 5125
     },
     {
-      "name": "PARODIUS",
-      "gameInstances": [
-        {
-          "name": "PARODIUS",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-00036",
-          "region": "PAL",
-          "tgdbId": 0
-        }
-      ],
-      "id": 5126
-    },
-    {
       "name": "PAX CORPUS",
       "gameInstances": [
         {
@@ -103021,6 +103015,14 @@
           "Language": "[J]",
           "serial": "SLPM-87329",
           "region": "NTSC-J",
+          "tgdbId": 0
+        },
+        {
+          "name": "PARODIUS",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-00036",
+          "region": "PAL",
           "tgdbId": 0
         }
       ],
