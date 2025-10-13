@@ -16002,7 +16002,7 @@
       "id": 797
     },
     {
-      "name": "FINAL FANTASY VII  -",
+      "name": "FINAL FANTASY VII",
       "gameInstances": [
         {
           "name": "FINAL FANTASY VII  -  [ 3 DISCS ]",
@@ -16064,7 +16064,7 @@
       "id": 798
     },
     {
-      "name": "FINAL FANTASY VII INTERNATIONAL  -",
+      "name": "FINAL FANTASY VII INTERNATIONAL",
       "gameInstances": [
         {
           "name": "FINAL FANTASY VII INTERNATIONAL  -  [ 4 DISCS ]\n\n Includes: \n\t\tFinal Fantasy VII International + Bonus Disc",
@@ -16100,7 +16100,7 @@
       "id": 800
     },
     {
-      "name": "FINAL FANTASY VIII  -",
+      "name": "FINAL FANTASY VIII",
       "gameInstances": [
         {
           "name": "FINAL FANTASY VIII  -  [ 4 DISCS ]",
@@ -16165,23 +16165,20 @@
           "serial": "SLES-02084SLES-12084SLES-22084SLES-32084",
           "region": "PAL",
           "tgdbId": 0
-        }
+        },
+        {
+          "name": "FINAL FANTASY VIII",
+          "gameInstances": [
+          {
+            "name": "FINAL FANTASY VIII [ULTIMATE HITS]  -  [ 4 DISCS ]",
+            "platform": "ps1",
+            "Language": "[J]",
+            "serial": "SLPM-87384SLPM-87385SLPM-87386SLPM-87387",
+            "region": "NTSC-J",
+            "tgdbId": 0
+          }
       ],
       "id": 801
-    },
-    {
-      "name": "FINAL FANTASY VIII",
-      "gameInstances": [
-        {
-          "name": "FINAL FANTASY VIII [ULTIMATE HITS]  -  [ 4 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-87384SLPM-87385SLPM-87386SLPM-87387",
-          "region": "NTSC-J",
-          "tgdbId": 0
-        }
-      ],
-      "id": 802
     },
     {
       "name": "FINAL FANTASY IX  -",
@@ -72796,7 +72793,7 @@
       "id": 3739
     },
     {
-      "name": "FINAL FANTASY ANTHOLOGY  -",
+      "name": "FINAL FANTASY ANTHOLOGY",
       "gameInstances": [
         {
           "name": "FINAL FANTASY ANTHOLOGY  -  [ 2 DISCS ]\n Includes: \r\n\t\tFinal Fantasy V and Final Fantasy VI",
