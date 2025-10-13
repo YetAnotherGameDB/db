@@ -16178,7 +16178,7 @@
       "id": 801
     },
     {
-      "name": "FINAL FANTASY IX  -",
+      "name": "FINAL FANTASY IX",
       "gameInstances": [
         {
           "name": "FINAL FANTASY IX  -  [ 4 DISCS ]",
@@ -16243,13 +16243,7 @@
           "serial": "SLES-02969SLES-12969SLES-22969SLES-32969",
           "region": "PAL",
           "tgdbId": 0
-        }
-      ],
-      "id": 803
-    },
-    {
-      "name": "FINAL FANTASY IX",
-      "gameInstances": [
+        },
         {
           "name": "FINAL FANTASY IX [ULTIMATE HITS]  -  [ 4 DISCS ]",
           "platform": "ps1",
@@ -16259,7 +16253,7 @@
           "tgdbId": 0
         }
       ],
-      "id": 804
+      "id": 803
     },
     {
       "name": "FINAL FANTASY TACTICS  -",
