@@ -16167,16 +16167,13 @@
           "tgdbId": 0
         },
         {
-          "name": "FINAL FANTASY VIII",
-          "gameInstances": [
-          {
-            "name": "FINAL FANTASY VIII [ULTIMATE HITS]  -  [ 4 DISCS ]",
-            "platform": "ps1",
-            "Language": "[J]",
-            "serial": "SLPM-87384SLPM-87385SLPM-87386SLPM-87387",
-            "region": "NTSC-J",
-            "tgdbId": 0
-          }
+          "name": "FINAL FANTASY VIII [ULTIMATE HITS]  -  [ 4 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-87384SLPM-87385SLPM-87386SLPM-87387",
+          "region": "NTSC-J",
+          "tgdbId": 0
+        }
       ],
       "id": 801
     },
