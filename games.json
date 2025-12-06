@@ -7017,20 +7017,6 @@
       "id": 344
     },
     {
-      "name": "CASTLEVANIA CHRONICLE - AKUMAJO DRACULA",
-      "gameInstances": [
-        {
-          "name": "CASTLEVANIA CHRONICLE - AKUMAJO DRACULA",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-86754",
-          "region": "NTSC-J",
-          "tgdbId": 0
-        }
-      ],
-      "id": 345
-    },
-    {
       "name": "CASTROL HONDA SUPERBIKE RACING",
       "gameInstances": [
         {
@@ -69276,6 +69262,14 @@
     {
       "name": "CASTLEVANIA - CHRONICLES",
       "gameInstances": [
+        {
+          "name": "CASTLEVANIA CHRONICLE - AKUMAJO DRACULA",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-86754",
+          "region": "NTSC-J",
+          "tgdbId": 0
+        },
         {
           "name": "CASTLEVANIA - CHRONICLES",
           "platform": "ps1",
