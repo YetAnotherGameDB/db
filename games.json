@@ -7649,10 +7649,11 @@
       "id": 377
     },
     {
-      "name": "CHOCOBO NO FUSHIGI DUNGEON",
+      "name": "CHOCOBO NO FUSHIGI NA DUNGEON",
       "gameInstances": [
         {
-          "name": "CHOCOBO NO FUSHIGI DUNGEON",
+          "name": "CHOCOBO NO FUSHIGI NA DUNGEON",
+          "regionalName": "チョコボの不思議なダンジョン",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SCPS-45163",
@@ -7660,7 +7661,8 @@
           "tgdbId": 0
         },
         {
-          "name": "CHOCOBO NO FUSHIGI DUNGEON",
+          "name": "CHOCOBO NO FUSHIGI NA DUNGEON",
+          "regionalName": "チョコボの不思議なダンジョン",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-01234",
@@ -7668,7 +7670,8 @@
           "tgdbId": 0
         },
         {
-          "name": "CHOCOBO NO FUSHIGI DUNGEON [PSONE BOOKS]",
+          "name": "CHOCOBO NO FUSHIGI NA DUNGEON [PSONE BOOKS]",
+          "regionalName": "チョコボの不思議なダンジョン",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-91439",
@@ -7679,10 +7682,11 @@
       "id": 378
     },
     {
-      "name": "CHOCOBO NO FUSHIGI DUNGEON 2",
+      "name": "CHOCOBO NO FUSHIGI NA DUNGEON 2",
       "gameInstances": [
         {
-          "name": "CHOCOBO NO FUSHIGI DUNGEON 2",
+          "name": "CHOCOBO NO FUSHIGI NA DUNGEON 2",
+          "regionalName": "チョコボの不思議なダンジョン 2",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SCPS-45351",
@@ -7690,7 +7694,8 @@
           "tgdbId": 0
         },
         {
-          "name": "CHOCOBO NO FUSHIGI DUNGEON 2",
+          "name": "CHOCOBO NO FUSHIGI NA DUNGEON 2",
+          "regionalName": "チョコボの不思議なダンジョン 2",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-01771",
