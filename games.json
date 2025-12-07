@@ -7649,30 +7649,24 @@
       "id": 377
     },
     {
-      "name": "CHOCOBO NO FUSHIGI DUNGEON  -",
+      "name": "CHOCOBO NO FUSHIGI DUNGEON",
       "gameInstances": [
         {
-          "name": "CHOCOBO NO FUSHIGI DUNGEON  -  [ 2 DISCS ]",
+          "name": "CHOCOBO NO FUSHIGI DUNGEON",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SCPS-45163SCPS-45164",
+          "serial": "SCPS-45163",
           "region": "NTSC-J",
           "tgdbId": 0
         },
         {
-          "name": "CHOCOBO NO FUSHIGI DUNGEON  -  [ 2 DISCS ]",
+          "name": "CHOCOBO NO FUSHIGI DUNGEON",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-01234SLPS-01235",
+          "serial": "SLPS-01234",
           "region": "NTSC-J",
           "tgdbId": 0
-        }
-      ],
-      "id": 378
-    },
-    {
-      "name": "CHOCOBO NO FUSHIGI DUNGEON",
-      "gameInstances": [
+        },
         {
           "name": "CHOCOBO NO FUSHIGI DUNGEON [PSONE BOOKS]",
           "platform": "ps1",
@@ -7682,24 +7676,24 @@
           "tgdbId": 0
         }
       ],
-      "id": 379
+      "id": 378
     },
     {
-      "name": "CHOCOBO NO FUSHIGI DUNGEON 2  -",
+      "name": "CHOCOBO NO FUSHIGI DUNGEON 2",
       "gameInstances": [
         {
-          "name": "CHOCOBO NO FUSHIGI DUNGEON 2  -  [ 2 DISCS ]",
+          "name": "CHOCOBO NO FUSHIGI DUNGEON 2",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SCPS-45351SCPS-45352",
+          "serial": "SCPS-45351",
           "region": "NTSC-J",
           "tgdbId": 0
         },
         {
-          "name": "CHOCOBO NO FUSHIGI DUNGEON 2  -  [ 2 DISCS ]",
+          "name": "CHOCOBO NO FUSHIGI DUNGEON 2",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-01771SLPS-01772",
+          "serial": "SLPS-01771",
           "region": "NTSC-J",
           "tgdbId": 0
         }
