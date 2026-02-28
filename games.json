@@ -59542,6 +59542,14 @@
           "tgdbId": 0
         },
         {
+          "name": "TOKIMEKI MEMORIAL - FOREVER WITH YOU (LIMITED EDITION)",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-00064",
+          "region": "NTSC-J",
+          "tgdbId": 0
+        },
+        {
           "name": "TOKIMEKI MEMORIAL - FOREVER WITH YOU [PLAYSTATION THE BEST]",
           "platform": "ps1",
           "Language": "[J]",
@@ -59556,27 +59564,7 @@
           "serial": "SLPM-86053",
           "region": "NTSC-J",
           "tgdbId": 0
-        }
-      ],
-      "id": 3091
-    },
-    {
-      "name": "TOKIMEKI MEMORIAL - FOREVER WITH YOU (LIMITED EDITION)",
-      "gameInstances": [
-        {
-          "name": "TOKIMEKI MEMORIAL - FOREVER WITH YOU (LIMITED EDITION)",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-00064",
-          "region": "NTSC-J",
-          "tgdbId": 0
-        }
-      ],
-      "id": 3092
-    },
-    {
-      "name": "TOKIMEKI MEMORIAL - FOREVER WITH YOU (PSONE BOOKS)",
-      "gameInstances": [
+        },
         {
           "name": "TOKIMEKI MEMORIAL - FOREVER WITH YOU (PSONE BOOKS)",
           "platform": "ps1",
@@ -59586,7 +59574,7 @@
           "tgdbId": 0
         }
       ],
-      "id": 3093
+      "id": 3091
     },
     {
       "name": "TOKIMEKI MEMORIAL - PRIVATE COLLECTION",
@@ -59639,7 +59627,7 @@
       "id": 3096
     },
     {
-      "name": "TOKIMEKI MEMORIAL 2  -",
+      "name": "TOKIMEKI MEMORIAL 2",
       "gameInstances": [
         {
           "name": "TOKIMEKI MEMORIAL 2  -  [ 5 DISCS ]",
@@ -59656,13 +59644,7 @@
           "serial": "SLPM-86355SLPM-86356SLPM-86357SLPM-86358SLPM-86359",
           "region": "NTSC-J",
           "tgdbId": 0
-        }
-      ],
-      "id": 3097
-    },
-    {
-      "name": "TOKIMEKI MEMORIAL 2",
-      "gameInstances": [
+        },
         {
           "name": "TOKIMEKI MEMORIAL 2 [LIMITED EDITION]  -  [ 5 DISCS ]",
           "platform": "ps1",
@@ -59680,7 +59662,7 @@
           "tgdbId": 0
         }
       ],
-      "id": 3098
+      "id": 3097
     },
     {
       "name": "TOKIMEKI MEMORIAL 2 - TAISEN PUZZLE-DAMA",
