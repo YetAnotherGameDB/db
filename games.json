@@ -59755,35 +59755,29 @@
       "id": 3102
     },
     {
-      "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 3 - MEMORIES RINGING ON  -",
-      "gameInstances": [
-        {
-          "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 3 - MEMORIES RINGING ON  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-86881SLPM-86882",
-          "region": "NTSC-J",
-          "tgdbId": 0
-        }
-      ],
-      "id": 3104
-    },
-    {
       "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 3 - MEMORIES RINGING ON",
       "gameInstances": [
         {
-          "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 3 - MEMORIES RINGING ON [KONAMI THE BEST]  -  [ 2 DISCS ]",
+          "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 3 - MEMORIES RINGING ON [KONAMI THE BEST]",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPM-87217SLPM-87218",
+          "serial": "SLPM-87217",
           "region": "NTSC-J",
           "tgdbId": 0
         },
         {
-          "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 3 - MEMORIES RINGING ON [PSONE BOOKS]  -  [ 2 DISCS ]",
+          "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 3 - MEMORIES RINGING ON [PSONE BOOKS]",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPM-87312SLPM-87313",
+          "serial": "SLPM-87312",
+          "region": "NTSC-J",
+          "tgdbId": 0
+        },
+        {
+          "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 3 - MEMORIES RINGING ON",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-86881",
           "region": "NTSC-J",
           "tgdbId": 0
         }
@@ -59821,7 +59815,7 @@
       "id": 3106
     },
     {
-      "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 2 - IRODORI NO LOVE SONG  -",
+      "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 2 - IRODORI NO LOVE SONG",
       "gameInstances": [
         {
           "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 2 - IRODORI NO LOVE SONG  -  [ 2 DISCS ]",
@@ -59838,15 +59832,9 @@
           "serial": "SLPM-86070SLPM-86071",
           "region": "NTSC-J",
           "tgdbId": 0
-        }
-      ],
-      "id": 3107
-    },
-    {
-      "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 2 - IRODORI NO LOVE SONG",
-      "gameInstances": [
+        },
         {
-          "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 2 - IRODORI NO LOVE SONG [KONAMI BEST]  -  [ 2 DISCS ]",
+          "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 2 - IRODORI NO LOVE SONG [KONAMI BEST]",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPM-86361SLPM-86362",
@@ -59854,7 +59842,7 @@
           "tgdbId": 0
         },
         {
-          "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 2 - IRODORI NO LOVE SONG [PSONE BOOKS]  -  [ 2 DISCS ]",
+          "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 2 - IRODORI NO LOVE SONG [PSONE BOOKS]",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPM-87302SLPM-87303",
@@ -59865,24 +59853,18 @@
       "id": 3108
     },
     {
-      "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 3 - TABIDACHI NO UTA  -",
+      "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 3 - TABIDACHI NO UTA",
       "gameInstances": [
-        {
-          "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 3 - TABIDACHI NO UTA  -  [ 2 DISCS ]",
+          {
+          "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 3 - TABIDACHI NO UTA",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPM-86224SLPM-86225",
           "region": "NTSC-J",
           "tgdbId": 0
-        }
-      ],
-      "id": 3109
-    },
-    {
-      "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 3 - TABIDACHI NO UTA",
-      "gameInstances": [
+        },
         {
-          "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 3 - TABIDACHI NO UTA [PSONE BOOKS]  -  [ 2 DISCS ]",
+          "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 3 - TABIDACHI NO UTA [PSONE BOOKS]",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPM-87304SLPM-87305",
@@ -59890,7 +59872,7 @@
           "tgdbId": 0
         },
         {
-          "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 3 - TABIDACHI NO UTA [KONAMI BEST]  -  [ 2 DISCS ]",
+          "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 3 - TABIDACHI NO UTA [KONAMI BEST]",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPM-86373SLPM-86374",
