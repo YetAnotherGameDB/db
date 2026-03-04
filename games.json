@@ -59698,18 +59698,26 @@
       "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 1 - DANCING SUMMER VACATION",
       "gameInstances": [
         {
-          "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 1 - DANCING SUMMER VACATION [KONAMI BEST]  -  [ 2 DISCS ]",
+          "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 1 - DANCING SUMMER VACATION [KONAMI BEST]",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPM-86884SLPM-86885",
+          "serial": "SLPM-86884",
           "region": "NTSC-J",
           "tgdbId": 0
         },
         {
-          "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 1 - DANCING SUMMER VACATION [PSONE BOOKS]  -  [ 2 DISCS ]",
+          "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 1 - DANCING SUMMER VACATION [PSONE BOOKS]",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPM-87308SLPM-87309",
+          "serial": "SLPM-87308",
+          "region": "NTSC-J",
+          "tgdbId": 0
+        },
+        {
+          "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 1 - DANCING SUMMER VACATION",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-86549",
           "region": "NTSC-J",
           "tgdbId": 0
         }
@@ -59717,38 +59725,18 @@
       "id": 3100
     },
     {
-      "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 1 - DANCING SUMMER VACATION  -",
+      "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 2 - LEAPING SCHOOL FESTIVAL",
       "gameInstances": [
         {
-          "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 1 - DANCING SUMMER VACATION  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-86549SLPM-86550",
-          "region": "NTSC-J",
-          "tgdbId": 0
-        }
-      ],
-      "id": 3101
-    },
-    {
-      "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 2 - LEAPING SCHOOL FESTIVAL  -",
-      "gameInstances": [
-        {
-          "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 2 - LEAPING SCHOOL FESTIVAL  -  [ 2 DISCS ]",
+          "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 2 - LEAPING SCHOOL FESTIVAL",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPM-86775SLPM-86776",
           "region": "NTSC-J",
           "tgdbId": 0
-        }
-      ],
-      "id": 3102
-    },
-    {
-      "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 2 - LEAPING SCHOOL FESTIVAL",
-      "gameInstances": [
+        },
         {
-          "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 2 - LEAPING SCHOOL FESTIVAL [KONAMI THE BEST]  -  [ 2 DISCS ]",
+          "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 2 - LEAPING SCHOOL FESTIVAL [KONAMI THE BEST]",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPM-86941SLPM-86942",
@@ -59756,7 +59744,7 @@
           "tgdbId": 0
         },
         {
-          "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 2 - LEAPING SCHOOL FESTIVAL [PSONE BOOKS]  -  [ 2 DISCS ]",
+          "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 2 - LEAPING SCHOOL FESTIVAL [PSONE BOOKS]",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPM-87310SLPM-87311",
@@ -59764,7 +59752,7 @@
           "tgdbId": 0
         }
       ],
-      "id": 3103
+      "id": 3102
     },
     {
       "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 3 - MEMORIES RINGING ON  -",
