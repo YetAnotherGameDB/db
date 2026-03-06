@@ -346,6 +346,7 @@
         },
         {
           "name": "A IV EVOLUTION - A RESSHA DE IKOU 4",
+          "regionalName": "A列車で行こう4　EVOLUTION",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-00004",
@@ -9510,6 +9511,7 @@
       "gameInstances": [
         {
           "name": "CRIME CRACKERS",
+          "regionalName": "クライムクラッカーズ",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SCPS-10003",
@@ -19147,6 +19149,7 @@
       "gameInstances": [
         {
           "name": "GOKUJOU PARODIUS DA! DELUXE PACK",
+          "regionalName":"極上パロディウスだ！DELUXE PACK",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-00002",
@@ -30544,6 +30547,7 @@
       "gameInstances": [
         {
           "name": "MAHJONG GOKU TENJIKU",
+          "regionalName": "麻雀悟空 天竺",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-00014",
@@ -35550,6 +35554,7 @@
       "gameInstances": [
         {
           "name": "NEKKETSU OYAKO",
+          "regionalName": "熱血親子",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-00006",
@@ -43973,6 +43978,7 @@
       "gameInstances": [
         {
           "name": "RIDGE RACER",
+          "regionalName": "リッジレーサー",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-00001",
