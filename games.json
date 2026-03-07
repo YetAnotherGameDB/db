@@ -335,9 +335,13 @@
     },
     {
       "name": "A IV EVOLUTION - A RESSHA DE IKOU 4",
+      "localizedNames": {
+        "ja": "A列車で行こう4 EVOLUTION"
+      },
       "gameInstances": [
         {
           "name": "A IV EVOLUTION - A RESSHA DE IKOU 4 [COMMEMORATIVE LIMITED SET]",
+          "regionalName": "A列車で行こう4 EVOLUTION 記念限定セット",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-00011",
@@ -346,7 +350,7 @@
         },
         {
           "name": "A IV EVOLUTION - A RESSHA DE IKOU 4",
-          "regionalName": "A列車で行こう4　EVOLUTION",
+          "regionalName": "A列車で行こう4 EVOLUTION",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-00004",
