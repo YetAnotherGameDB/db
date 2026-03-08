@@ -18719,7 +18719,8 @@
           "Language": "[J]",
           "serial": "SLPS-00007",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "releaseDate": "1994-12-22"
         },
         {
           "name": "GEOM CUBE",
@@ -22544,7 +22545,8 @@
           "Language": "[J]",
           "serial": "SLPS-00020",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "releaseDate": "1994-12-22"
         }
       ],
       "id": 1128
@@ -24310,7 +24312,8 @@
           "Language": "[J]",
           "serial": "SLPS-00016",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "releaseDate": "1994-12-22"
         }
       ],
       "id": 1229
@@ -25200,7 +25203,8 @@
           "Language": "[J]",
           "serial": "SLPS-00019",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "releaseDate": "1994-12-22"
         }
       ],
       "id": 1288
@@ -26825,7 +26829,8 @@
           "Language": "[J]",
           "serial": "SLPS-00021",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "releaseDate": "1994-12-09"
         }
       ],
       "id": 1376
@@ -27141,7 +27146,8 @@
           "Language": "[J]",
           "serial": "SLPS-00017",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "releaseDate": "1994-12-16"
         },
         {
           "name": "KING'S FIELD [PSONE BOOKS]",
@@ -30576,7 +30582,8 @@
           "Language": "[J]",
           "serial": "SLPS-00014",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "releaseDate": "1994-12-04"
         }
       ],
       "id": 1586
@@ -34080,7 +34087,8 @@
           "Language": "[J]",
           "serial": "SCPS-10001",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "releaseDate": "1994-12-16"
         },
         {
           "name": "MOTOR TOON GRAND PRIX",
@@ -44009,7 +44017,8 @@
           "Language": "[J]",
           "serial": "SLPS-00001",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "releaseDate": "1994-12-04"
         },
         {
           "name": "RIDGE RACER [PLAYSTATION THE BEST]",
@@ -56169,7 +56178,8 @@
           "Language": "[J]",
           "serial": "SLPS-00003",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "releaseDate": "1994-12-04"
         }
       ],
       "id": 2924
@@ -61397,7 +61407,8 @@
           "Language": "[J]",
           "serial": "SLPS-00018",
           "region": "NTSC-J",
-          "tgdbId": 33866
+          "tgdbId": 33866,
+          "releaseDate": "1994-12-22"
         }
       ],
       "id": 3191
@@ -61449,7 +61460,8 @@
           "Language": "[J]",
           "serial": "SLPS-00015",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "releaseDate": "1994-12-09"
         }
       ],
       "id": 3193
