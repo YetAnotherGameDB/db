@@ -88570,13 +88570,7 @@
           "serial": "SLES-03138",
           "region": "PAL",
           "tgdbId": 0
-        }
-      ],
-      "id": 4519
-    },
-    {
-      "name": "007 - LE MONDE NE SUFFIT PAS",
-      "gameInstances": [
+        },
         {
           "name": "007 - LE MONDE NE SUFFIT PAS",
           "platform": "ps1",
@@ -88584,13 +88578,7 @@
           "serial": "SLES-03135",
           "region": "PAL",
           "tgdbId": 0
-        }
-      ],
-      "id": 4520
-    },
-    {
-      "name": "007 - DIE WELT IST NICHT GENUG",
-      "gameInstances": [
+        },
         {
           "name": "007 - DIE WELT IST NICHT GENUG",
           "platform": "ps1",
@@ -88598,13 +88586,7 @@
           "serial": "SLES-03136",
           "region": "PAL",
           "tgdbId": 0
-        }
-      ],
-      "id": 4521
-    },
-    {
-      "name": "007 - EL MUNDO NUNCA ES SUFICIENTE",
-      "gameInstances": [
+        },
         {
           "name": "007 - EL MUNDO NUNCA ES SUFICIENTE",
           "platform": "ps1",
@@ -88614,7 +88596,7 @@
           "tgdbId": 0
         }
       ],
-      "id": 4522
+      "id": 4519
     },
     {
       "name": "007 - DEMAIN NE MEURT JAMAIS",
