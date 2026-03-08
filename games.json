@@ -346,7 +346,8 @@
           "Language": "[J]",
           "serial": "SLPS-00011",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "releaseDate": "1994-12-04"
         },
         {
           "name": "A IV EVOLUTION - A RESSHA DE IKOU 4",
@@ -355,7 +356,8 @@
           "Language": "[J]",
           "serial": "SLPS-00004",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "releaseDate": "1994-12-04"
         }
       ],
       "id": 19
