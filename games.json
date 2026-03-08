@@ -63,6 +63,22 @@
           "serial": "SLES-01324",
           "region": "PAL",
           "tgdbId": 112733
+        },
+        {
+          "name": "007 - DEMAIN NE MEURT JAMAIS",
+          "platform": "ps1",
+          "Language": "[F]",
+          "serial": "SLES-02375",
+          "region": "PAL",
+          "tgdbId": 0
+        },
+        {
+          "name": "007 - DER MORGEN STIRBT NIE",
+          "platform": "ps1",
+          "Language": "[G]",
+          "serial": "SLES-02376",
+          "region": "PAL",
+          "tgdbId": 0
         }
       ],
       "id": 3
@@ -88597,34 +88613,6 @@
         }
       ],
       "id": 4519
-    },
-    {
-      "name": "007 - DEMAIN NE MEURT JAMAIS",
-      "gameInstances": [
-        {
-          "name": "007 - DEMAIN NE MEURT JAMAIS",
-          "platform": "ps1",
-          "Language": "[F]",
-          "serial": "SLES-02375",
-          "region": "PAL",
-          "tgdbId": 0
-        }
-      ],
-      "id": 4523
-    },
-    {
-      "name": "007 - DER MORGEN STIRBT NIE",
-      "gameInstances": [
-        {
-          "name": "007 - DER MORGEN STIRBT NIE",
-          "platform": "ps1",
-          "Language": "[G]",
-          "serial": "SLES-02376",
-          "region": "PAL",
-          "tgdbId": 0
-        }
-      ],
-      "id": 4524
     },
     {
       "name": "100% STAR",
