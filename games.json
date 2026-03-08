@@ -44009,6 +44009,9 @@
     },
     {
       "name": "RIDGE RACER",
+      "localizedNames": {
+        "ja": "リッジレーサー"
+      },
       "gameInstances": [
         {
           "name": "RIDGE RACER",
