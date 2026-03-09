@@ -9530,6 +9530,9 @@
     },
     {
       "name": "CRIME CRACKERS",
+      "localizedNames": {
+        "ja": "クライムクラッカーズ"
+      },
       "gameInstances": [
         {
           "name": "CRIME CRACKERS",
@@ -18712,9 +18715,13 @@
     },
     {
       "name": "GEOM CUBE",
+      "localizedNames": {
+        "ja": "ジオキューブ"
+      },
       "gameInstances": [
         {
           "name": "GEOM CUBE",
+          "regionalName": "ジオキューブ",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-00007",
