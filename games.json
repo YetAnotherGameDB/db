@@ -1,7 +1,15 @@
 {
   "enums": {
-    "platforms": [ "ps1", "saturn", "snes" ],
-    "regions": [ "NTSC-J", "NTSC-U", "PAL" ]
+    "platforms": [
+      "ps1",
+      "saturn",
+      "snes"
+    ],
+    "regions": [
+      "NTSC-J",
+      "NTSC-U",
+      "PAL"
+    ]
   },
   "games": [
     {
@@ -13,10 +21,14 @@
           "language": "[J]",
           "serial": "SLPS-02044",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "０からの将棋 将棋幼稚園 あゆみ組"
         }
       ],
-      "id": 1
+      "id": 1,
+      "localizedNames": {
+        "ja": "０からの将棋 将棋幼稚園 あゆみ組"
+      }
     },
     {
       "name": "0 KARA NO SHOGI - SHOGI YOUCHIEN AYUMI-GUMI R",
@@ -32,7 +44,10 @@
           "upc": "4537744108106"
         }
       ],
-      "id": 2
+      "id": 2,
+      "localizedNames": {
+        "ja": "０からの将棋 将棋幼稚園 あゆみ組Ｒ"
+      }
     },
     {
       "name": "007 - TOMORROW NEVER DIES",
@@ -46,7 +61,8 @@
           "tgdbId": 0,
           "GameyeID": 112664,
           "PriceCharting": "jp-playstation/007-tomorrow-never-dies",
-          "UPC": "4938833005137"
+          "UPC": "4938833005137",
+          "regionalName": "007 トゥモロー・ネバー・ダイ"
         },
         {
           "name": "007 - TOMORROW NEVER DIES",
@@ -81,7 +97,10 @@
           "tgdbId": 0
         }
       ],
-      "id": 3
+      "id": 3,
+      "localizedNames": {
+        "ja": "007 トゥモロー・ネバー・ダイ"
+      }
     },
     {
       "name": "100 MANYEN QUIZ HUNTER",
@@ -92,10 +111,14 @@
           "Language": "[J]",
           "serial": "SLPS-01730",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "１００万円クイズハンター"
         }
       ],
-      "id": 4
+      "id": 4,
+      "localizedNames": {
+        "ja": "１００万円クイズハンター"
+      }
     },
     {
       "name": "10101 - WILL THE STARSHIP",
@@ -106,10 +129,14 @@
           "Language": "[J]",
           "serial": "SLPS-01054",
           "region": "NTSC-J",
-          "tgdbId": 53480
+          "tgdbId": 53480,
+          "regionalName": "１０１０１ ～スターシップ・ウィル～"
         }
       ],
-      "id": 5
+      "id": 5,
+      "localizedNames": {
+        "ja": "１０１０１ ～スターシップ・ウィル～"
+      }
     },
     {
       "name": "19:03 AGANO HATSU YAKOU RESSHA",
@@ -120,7 +147,8 @@
           "Language": "[J]",
           "serial": "SLPS-01865",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "１９時０３分 上野発夜光列車"
         },
         {
           "name": "19:03 AGANO HATSU YAKOU RESSHA [RERELEASE]",
@@ -128,10 +156,14 @@
           "Language": "[J]",
           "serial": "SLPS-02881",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "１９時０３分 上野発夜光列車"
         }
       ],
-      "id": 6
+      "id": 6,
+      "localizedNames": {
+        "ja": "１９時０３分 上野発夜光列車"
+      }
     },
     {
       "name": "1 ON 1",
@@ -142,7 +174,8 @@
           "Language": "[J]",
           "serial": "SLPS-01706",
           "region": "NTSC-J",
-          "tgdbId": 105767
+          "tgdbId": 105767,
+          "regionalName": "１ｏｎ１"
         },
         {
           "name": "1 ON 1 [RERELEASE]",
@@ -150,10 +183,14 @@
           "Language": "[J]",
           "serial": "SLPS-02298",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "１ｏｎ１"
         }
       ],
-      "id": 7
+      "id": 7,
+      "localizedNames": {
+        "ja": "１ｏｎ１"
+      }
     },
     {
       "name": "20 SEIKI STRIKER RETSUDEN - THE 20TH CENTURY'S STRIKERS",
@@ -164,7 +201,8 @@
           "Language": "[J]",
           "serial": "SLPS-02348",
           "region": "NTSC-J",
-          "tgdbId": 79836
+          "tgdbId": 79836,
+          "regionalName": "２０世紀ストライカー列伝"
         },
         {
           "name": "20 SEIKI STRIKER RETSUDEN - THE 20TH CENTURY'S STRIKERS [REPRINT]",
@@ -172,7 +210,8 @@
           "Language": "[J]",
           "serial": "SLPS-02857",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "２０世紀ストライカー列伝"
         },
         {
           "name": "20 SEIKI STRIKER RETSUDEN - THE 20TH CENTURY'S STRIKERS [PSONE BOOKS]",
@@ -180,10 +219,14 @@
           "Language": "[J]",
           "serial": "SLPS-91416",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "２０世紀ストライカー列伝"
         }
       ],
-      "id": 8
+      "id": 8,
+      "localizedNames": {
+        "ja": "２０世紀ストライカー列伝"
+      }
     },
     {
       "name": "2999 GAME KIDS",
@@ -194,10 +237,14 @@
           "Language": "[J]",
           "serial": "SCPS-19004",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "２９９９年のゲーム・キッズ"
         }
       ],
-      "id": 9
+      "id": 9,
+      "localizedNames": {
+        "ja": "２９９９年のゲーム・キッズ"
+      }
     },
     {
       "name": "3D BASEBALL - THE MAJORS",
@@ -208,7 +255,8 @@
           "Language": "[J]",
           "serial": "SLPS-00693",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "３Ｄベースボール ～ザ・メジャー～"
         },
         {
           "name": "3D BASEBALL - THE MAJORS",
@@ -219,7 +267,10 @@
           "tgdbId": 0
         }
       ],
-      "id": 10
+      "id": 10,
+      "localizedNames": {
+        "ja": "３Ｄベースボール ～ザ・メジャー～"
+      }
     },
     {
       "name": "3D KAKUTOU TSUKURU",
@@ -230,10 +281,14 @@
           "Language": "[J]",
           "serial": "SLPS-01434",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "３Ｄ格闘ツクール"
         }
       ],
-      "id": 11
+      "id": 11,
+      "localizedNames": {
+        "ja": "３Ｄ格闘ツクール"
+      }
     },
     {
       "name": "3D MISSION SHOOTING FINALIST",
@@ -244,10 +299,14 @@
           "Language": "[J]",
           "serial": "SLPS-00461",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "３Ｄミッション・シューティング ファイナリスト"
         }
       ],
-      "id": 12
+      "id": 12,
+      "localizedNames": {
+        "ja": "３Ｄミッション・シューティング ファイナリスト"
+      }
     },
     {
       "name": "3D SHOOTING TSUKURU",
@@ -258,10 +317,14 @@
           "Language": "[J]",
           "serial": "SLPS-00654",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "３Ｄシューティングツクール"
         }
       ],
-      "id": 13
+      "id": 13,
+      "localizedNames": {
+        "ja": "３Ｄシューティングツクール"
+      }
     },
     {
       "name": "3X3 EYES - KYUUSEI KOUSHU  -",
@@ -272,10 +335,14 @@
           "Language": "[J]",
           "serial": "SLPS-00071SLPS-00072",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "サザンアイズ ～吸精公主～"
         }
       ],
-      "id": 14
+      "id": 14,
+      "localizedNames": {
+        "ja": "サザンアイズ ～吸精公主～"
+      }
     },
     {
       "name": "3X3 EYES - TENRINOU GENMU  -",
@@ -286,10 +353,14 @@
           "Language": "[J]",
           "serial": "SLPS-01497SLPS-01498SLPS-01499",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "サザンアイズ ～転輪王幻夢～"
         }
       ],
-      "id": 15
+      "id": 15,
+      "localizedNames": {
+        "ja": "サザンアイズ ～転輪王幻夢～"
+      }
     },
     {
       "name": "70'S ROBOT ANIME - GEPPY-X - THE SUPER BOOSTED ARMOR  -",
@@ -300,10 +371,14 @@
           "Language": "[J]",
           "serial": "SLPS-01995SLPS-01996SLPS-01997SLPS-01998",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "７０年代風ロボットアニメ ゲッＰ－Ｘ"
         }
       ],
-      "id": 16
+      "id": 16,
+      "localizedNames": {
+        "ja": "７０年代風ロボットアニメ ゲッＰ－Ｘ"
+      }
     },
     {
       "name": "'98 KOSHIEN",
@@ -314,7 +389,8 @@
           "Language": "[J]",
           "serial": "SLPS-01204",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "'９８甲子園"
         },
         {
           "name": "'98 KOSHIEN [MAGICAL 1500 SERIES]",
@@ -322,10 +398,14 @@
           "Language": "[J]",
           "serial": "SLPS-03086",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "'９８甲子園"
         }
       ],
-      "id": 17
+      "id": 17,
+      "localizedNames": {
+        "ja": "'９８甲子園"
+      }
     },
     {
       "name": "'99 KOSHIEN",
@@ -336,7 +416,8 @@
           "Language": "[J]",
           "serial": "SLPS-02110",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "'９９甲子園"
         },
         {
           "name": "'99 KOSHIEN [MAGICAL 1500 SERIES]",
@@ -344,10 +425,14 @@
           "Language": "[J]",
           "serial": "SLPS-03085",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "'９９甲子園"
         }
       ],
-      "id": 18
+      "id": 18,
+      "localizedNames": {
+        "ja": "'９９甲子園"
+      }
     },
     {
       "name": "A IV EVOLUTION - A RESSHA DE IKOU 4",
@@ -387,7 +472,8 @@
           "Language": "[J]",
           "serial": "SLPS-00125",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "Ａ列車で行こう４ ＥＶＯＬＵＴＩＯＮ ＧＬＯＢＡＬ"
         },
         {
           "name": "A IV EVOLUTION GLOBAL [PLAYSTATION THE BEST]",
@@ -395,7 +481,8 @@
           "Language": "[J]",
           "serial": "SLPS-91019",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "Ａ列車で行こう４ ＥＶＯＬＵＴＩＯＮ ＧＬＯＢＡＬ"
         },
         {
           "name": "A IV EVOLUTION GLOBAL [SUPERLITE 1500 SERIES]",
@@ -403,10 +490,14 @@
           "Language": "[J]",
           "serial": "SLPM-87231",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "Ａ列車で行こう４ ＥＶＯＬＵＴＩＯＮ ＧＬＯＢＡＬ"
         }
       ],
-      "id": 20
+      "id": 20,
+      "localizedNames": {
+        "ja": "Ａ列車で行こう４ ＥＶＯＬＵＴＩＯＮ ＧＬＯＢＡＬ"
+      }
     },
     {
       "name": "A5 - A RESSHA DE IKOU 5",
@@ -417,7 +508,8 @@
           "Language": "[J]",
           "serial": "SLPS-01120",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "Ａ５ Ａ列車で行こう５"
         },
         {
           "name": "A5 - A RESSHA DE IKOU 5 [PLAYSTATION THE BEST]",
@@ -425,7 +517,8 @@
           "Language": "[J]",
           "serial": "SLPS-91124",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "Ａ５ Ａ列車で行こう５"
         },
         {
           "name": "A5 - A RESSHA DE IKOU 5 [SUPERLITE 1500 SERIES]",
@@ -433,10 +526,14 @@
           "Language": "[J]",
           "serial": "SLPM-87238",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "Ａ５ Ａ列車で行こう５"
         }
       ],
-      "id": 21
+      "id": 21,
+      "localizedNames": {
+        "ja": "Ａ５ Ａ列車で行こう５"
+      }
     },
     {
       "name": "A NANJARIN",
@@ -19180,7 +19277,7 @@
       "gameInstances": [
         {
           "name": "GOKUJOU PARODIUS DA! DELUXE PACK",
-          "regionalName":"極上パロディウスだ！DELUXE PACK",
+          "regionalName": "極上パロディウスだ！DELUXE PACK",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-00002",
@@ -59911,7 +60008,7 @@
     {
       "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 3 - TABIDACHI NO UTA",
       "gameInstances": [
-          {
+        {
           "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 3 - TABIDACHI NO UTA",
           "platform": "ps1",
           "Language": "[J]",
