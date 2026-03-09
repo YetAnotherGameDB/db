@@ -22545,9 +22545,13 @@
     },
     {
       "name": "HOUMA HUNTER LIME - SPECIAL COLLECTION VOL.1",
+      "localizedNames": {
+        "ja": "宝満ハンター　ライム　Special Collection Vol.1"
+      },
       "gameInstances": [
         {
           "name": "HOUMA HUNTER LIME - SPECIAL COLLECTION VOL.1",
+          "regionalName": "宝満ハンター　ライム　Special Collection Vol.1",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-00020",
