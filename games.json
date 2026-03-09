@@ -157,7 +157,7 @@
           "serial": "SLPS-02881",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "１９時０３分 上野発夜光列車"
+          "regionalName": "１９時０３分 上野発夜光列車 [RERELEASE]"
         }
       ],
       "id": 6,
@@ -211,7 +211,7 @@
           "serial": "SLPS-02857",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "２０世紀ストライカー列伝"
+          "regionalName": "２０世紀ストライカー列伝 [REPRINT]"
         },
         {
           "name": "20 SEIKI STRIKER RETSUDEN - THE 20TH CENTURY'S STRIKERS [PSONE BOOKS]",
@@ -220,7 +220,7 @@
           "serial": "SLPS-91416",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "２０世紀ストライカー列伝"
+          "regionalName": "２０世紀ストライカー列伝 [PSONE BOOKS]"
         }
       ],
       "id": 8,
