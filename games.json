@@ -544,7 +544,8 @@
           "Language": "[J]",
           "serial": "SLPS-01424",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "あっナンジャリン"
         }
       ],
       "id": 22
@@ -558,7 +559,8 @@
           "Language": "[J]",
           "serial": "SLPS-02050",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "A列車で行こうZ めざせ！大陸横断"
         },
         {
           "name": "A RESSHA DE IKOU Z: MEZASE! TAIRIKU OUDAN [ARTDINK BEST CHOICE]",
@@ -566,7 +568,8 @@
           "Language": "[J]",
           "serial": "SLPS-02812",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "A列車で行こうZ めざせ！大陸横断 [ARTDINK BEST CHOICE]"
         },
         {
           "name": "A RESSHA DE IKOU Z: MEZASE! TAIRIKU OUDAN [SUPERLITE 1500 SERIES]",
@@ -574,7 +577,8 @@
           "Language": "[J]",
           "serial": "SLPM-87282",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "A列車で行こうZ めざせ！大陸横断 [SUPERLITE 1500 SERIES]"
         }
       ],
       "id": 23
@@ -588,7 +592,8 @@
           "Language": "[J]",
           "serial": "SLPS-01280",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アバラバーン"
         }
       ],
       "id": 24
@@ -602,7 +607,8 @@
           "Language": "[J]",
           "serial": "SLPS-01118",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "エイブ・ア・ゴーゴー"
         }
       ],
       "id": 25
@@ -616,7 +622,8 @@
           "Language": "[J]",
           "serial": "SLPS-02095SLPS-02096",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "エイブ'99"
         }
       ],
       "id": 26
@@ -631,7 +638,8 @@
           "serial": "SLPS-00061",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "upc": "4907892010079"
+          "upc": "4907892010079",
+          "regionalName": "エースコンバット"
         },
         {
           "name": "ACE COMBAT [PLAYSTATION THE BEST]",
@@ -639,7 +647,8 @@
           "Language": "[J]",
           "serial": "SLPS-91005",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "エースコンバット [PLAYSTATION THE BEST]"
         }
       ],
       "id": 27
@@ -653,7 +662,8 @@
           "Language": "[J]",
           "serial": "SLPS-00830",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "エースコンバット2"
         },
         {
           "name": "ACE COMBAT 2 [PLAYSTATION THE BEST]",
@@ -661,7 +671,8 @@
           "Language": "[J]",
           "serial": "SLPS-91146",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "エースコンバット2 [PLAYSTATION THE BEST]"
         },
         {
           "name": "ACE COMBAT 2",
@@ -707,7 +718,8 @@
           "Language": "[J]",
           "serial": "SCPS-45397SCPS-45398",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "エースコンバット3 エレクトロスフィア"
         },
         {
           "name": "ACE COMBAT 3 - ELECTROSPHERE  -  [ 2 DISCS ]",
@@ -715,7 +727,8 @@
           "Language": "[J]",
           "serial": "SLPS-02020SLPS-02021",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "エースコンバット3 エレクトロスフィア"
         }
       ],
       "id": 29
@@ -729,7 +742,8 @@
           "Language": "[J]",
           "serial": "SLPS-91214SLPS-91215",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "エースコンバット3 エレクトロスフィア [PLAYSTATION THE BEST]"
         },
         {
           "name": "ACE COMBAT 3 - ELECTROSPHERE",
@@ -759,7 +773,8 @@
           "Language": "[E]",
           "serial": "SLPS-02119",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アシッド"
         },
         {
           "name": "ACID [MAJOR WAVE SERIES]",
@@ -767,7 +782,8 @@
           "Language": "[E]",
           "serial": "SLPM-86589",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アシッド [MAJOR WAVE SERIES]"
         }
       ],
       "id": 31
@@ -781,7 +797,8 @@
           "Language": "[J][E]",
           "serial": "SCPS-10131SCPS-10132",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アコンカグア"
         }
       ],
       "id": 32
@@ -795,7 +812,8 @@
           "Language": "[J]",
           "serial": "SLPS-02482",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アクションバス"
         },
         {
           "name": "ACTION BASS [POKKIRI 1400 SERIES]",
@@ -803,7 +821,8 @@
           "Language": "[J]",
           "serial": "SLPM-86927",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アクションバス [POKKIRI 1400 SERIES]"
         },
         {
           "name": "ACTION BASS",
@@ -833,7 +852,8 @@
           "Language": "[J]",
           "serial": "SLPS-02586",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アクションパズル プリズムランド [本格派DE SERIES]"
         }
       ],
       "id": 34
@@ -847,7 +867,8 @@
           "Language": "[J]",
           "serial": "SLPS-00298",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アクチュア・ゴルフ"
         },
         {
           "name": "ACTUA GOLF",
@@ -869,7 +890,8 @@
           "Language": "[J]",
           "serial": "SLPM-86078",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アクチュア・アイスホッケー"
         },
         {
           "name": "ACTUA ICE HOCKEY",
@@ -891,7 +913,8 @@
           "Language": "[J]",
           "serial": "SLPS-00297",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アクチュア・サッカー"
         },
         {
           "name": "ACTUA SOCCER",
@@ -913,7 +936,8 @@
           "Language": "[J]",
           "serial": "SLPS-03510",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アドリブ王子・・・と不愉快な仲間達!?"
         }
       ],
       "id": 38
@@ -927,7 +951,8 @@
           "Language": "[J]",
           "serial": "SCPS-10126",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アディのおくりもの"
         }
       ],
       "id": 39
@@ -941,7 +966,8 @@
           "Language": "[E]",
           "serial": "SLPS-01689",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アドバン・レーシング"
         }
       ],
       "id": 40
@@ -955,7 +981,8 @@
           "Language": "[J]",
           "serial": "SLPS-00208",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アドヴァンスト ヴァリアブル・ジオ"
         },
         {
           "name": "ADVANCED V.G. [NATSU-COLE SERIES VOL.1]",
@@ -963,7 +990,8 @@
           "Language": "[J]",
           "serial": "SLPM-87122",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アドヴァンスト ヴァリアブル・ジオ [NATSU-COLE SERIES VOL.1]"
         },
         {
           "name": "ADVANCED V.G. [SUPERLITE 1500 SERIES]",
@@ -971,7 +999,8 @@
           "Language": "[J]",
           "serial": "SLPM-87227",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アドヴァンスト ヴァリアブル・ジオ [SUPERLITE 1500 SERIES]"
         }
       ],
       "id": 41
@@ -985,7 +1014,8 @@
           "Language": "[J]",
           "serial": "SLPS-01318",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アドヴァンスト ヴァリアブル・ジオ2"
         },
         {
           "name": "ADVANCED V.G. 2 [SUPERLITE 1500 SERIES]",
@@ -993,7 +1023,8 @@
           "Language": "[J]",
           "serial": "SLPM-87226",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アドヴァンスト ヴァリアブル・ジオ2 [SUPERLITE 1500 SERIES]"
         }
       ],
       "id": 42
@@ -1007,7 +1038,8 @@
           "Language": "[J]",
           "serial": "SLPS-02367",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "エアロダイブ"
         }
       ],
       "id": 43
@@ -1021,7 +1053,8 @@
           "Language": "[J]",
           "serial": "SLPS-00995",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アフレイドギア"
         },
         {
           "name": "AFRAID GEAR [REPRINT]",
@@ -1029,7 +1062,8 @@
           "Language": "[J]",
           "serial": "SLPM-86876",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アフレイドギア [REPRINT]"
         }
       ],
       "id": 44
@@ -1043,7 +1077,8 @@
           "Language": "[J]",
           "serial": "SLPM-86834",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アフレイドギア・アナザ"
         }
       ],
       "id": 45
@@ -1057,7 +1092,8 @@
           "Language": "[J]",
           "serial": "SLPS-01073",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "エージェント・アームストロング 秘密司令大作戦"
         }
       ],
       "id": 46
@@ -1071,7 +1107,8 @@
           "Language": "[J]",
           "serial": "SLPS-00179",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アジャイル・ウォーリアー"
         }
       ],
       "id": 47
@@ -1085,7 +1122,8 @@
           "Language": "",
           "serial": "SLPS-01816",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "AI囲碁7"
         }
       ],
       "id": 48
@@ -1099,7 +1137,8 @@
           "Language": "[J]",
           "serial": "SLPS-02411",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "AI麻雀2000"
         }
       ],
       "id": 49
@@ -1113,7 +1152,8 @@
           "Language": "[J]",
           "serial": "SLPM-87117",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "AI麻雀セレクション [MAJORWAVE 1500 SERIES]"
         }
       ],
       "id": 50
@@ -1127,7 +1167,8 @@
           "Language": "[J]",
           "serial": "SLPS-00109",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "AI将棋"
         },
         {
           "name": "AI SHOGI [REPRINT]",
@@ -1135,7 +1176,8 @@
           "Language": "[J]",
           "serial": "SLPS-00840",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "AI将棋 [REPRINT]"
         }
       ],
       "id": 51
@@ -1149,7 +1191,8 @@
           "Language": "[J]",
           "serial": "SLPS-01159",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "AI将棋2"
         }
       ],
       "id": 52
@@ -1163,7 +1206,8 @@
           "Language": "[J]",
           "serial": "SLPS-02285",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "AI将棋2 デラックス"
         }
       ],
       "id": 53
@@ -1177,7 +1221,8 @@
           "Language": "[J]",
           "serial": "SLPM-87068",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "AI将棋セレクション [MAJOR WAVE 1500 SERIES]"
         }
       ],
       "id": 54
@@ -1191,7 +1236,8 @@
           "Language": "[J]",
           "serial": "SLPS-00269",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "エアーマネジメント'96"
         }
       ],
       "id": 55
@@ -1205,7 +1251,8 @@
           "Language": "[J]",
           "serial": "SLPM-86788",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "エアーマネジメント'96 [KOEI TEIBAN SERIES]"
         },
         {
           "name": "AIR MANAGEMENT [KOEI THE BEST]",
@@ -1213,7 +1260,8 @@
           "Language": "[J]",
           "serial": "SLPM-86206",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "エアーマネジメント'96 [KOEI THE BEST]"
         }
       ],
       "id": 56
@@ -1227,7 +1275,8 @@
           "Language": "[J]",
           "serial": "SLPS-01879",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "エアレース チャンピオンシップ"
         },
         {
           "name": "AIR RACE CHAMPIONSHIP [XING MARUYASU SERIES VOL.8]",
@@ -1235,7 +1284,8 @@
           "Language": "[J]",
           "serial": "SLPS-03074",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "エアレース チャンピオンシップ [XING MARUYASU SERIES VOL.8]"
         }
       ],
       "id": 57
