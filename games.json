@@ -184,7 +184,7 @@
           "serial": "SLPS-02298",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "１ｏｎ１"
+          "regionalName": "１ｏｎ１ [RERELEASE]"
         }
       ],
       "id": 7,
@@ -399,7 +399,7 @@
           "serial": "SLPS-03086",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "'９８甲子園"
+          "regionalName": "'９８甲子園 [MAGICAL 1500 SERIES]"
         }
       ],
       "id": 17,
@@ -426,7 +426,7 @@
           "serial": "SLPS-03085",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "'９９甲子園"
+          "regionalName": "'９９甲子園 [MAGICAL 1500 SERIES]"
         }
       ],
       "id": 18,
@@ -482,7 +482,7 @@
           "serial": "SLPS-91019",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "Ａ列車で行こう４ ＥＶＯＬＵＴＩＯＮ ＧＬＯＢＡＬ"
+          "regionalName": "Ａ列車で行こう４ ＥＶＯＬＵＴＩＯＮ ＧＬＯＢＡＬ [PLAYSTATION THE BEST]"
         },
         {
           "name": "A IV EVOLUTION GLOBAL [SUPERLITE 1500 SERIES]",
@@ -491,7 +491,7 @@
           "serial": "SLPM-87231",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "Ａ列車で行こう４ ＥＶＯＬＵＴＩＯＮ ＧＬＯＢＡＬ"
+          "regionalName": "Ａ列車で行こう４ ＥＶＯＬＵＴＩＯＮ ＧＬＯＢＡＬ [SUPERLITE 1500 SERIES]"
         }
       ],
       "id": 20,
@@ -518,7 +518,7 @@
           "serial": "SLPS-91124",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "Ａ５ Ａ列車で行こう５"
+          "regionalName": "Ａ５ Ａ列車で行こう５ [PLAYSTATION THE BEST]"
         },
         {
           "name": "A5 - A RESSHA DE IKOU 5 [SUPERLITE 1500 SERIES]",
@@ -527,7 +527,7 @@
           "serial": "SLPM-87238",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "Ａ５ Ａ列車で行こう５"
+          "regionalName": "Ａ５ Ａ列車で行こう５ [SUPERLITE 1500 SERIES]"
         }
       ],
       "id": 21,
@@ -7791,7 +7791,7 @@
         },
         {
           "name": "CHOCOBO NO FUSHIGI NA DUNGEON [PSONE BOOKS]",
-          "regionalName": "チョコボの不思議なダンジョン",
+          "regionalName": "チョコボの不思議なダンジョン [PSONE BOOKS]",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-91439",
