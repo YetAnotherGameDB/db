@@ -1299,7 +1299,8 @@
           "Language": "[J]",
           "serial": "SIPS-60005",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "エア・アサルト"
         }
       ],
       "id": 58
@@ -1313,7 +1314,8 @@
           "Language": "[J]",
           "serial": "SLPS-00559",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "エアグレイブ"
         }
       ],
       "id": 59
@@ -1327,7 +1329,8 @@
           "Language": "[J]",
           "serial": "SLPS-01096",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "愛しあう事しか出来ない"
         },
         {
           "name": "AISHIAU KOTOSHIKA DEKINAI - NOTHING BUT LOVING YOU [PLAYSTATION THE BEST]",
@@ -1335,7 +1338,8 @@
           "Language": "[J]",
           "serial": "SLPS-02824",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "愛しあう事しか出来ない [PLAYSTATION THE BEST]"
         }
       ],
       "id": 60
@@ -1349,7 +1353,8 @@
           "Language": "[J]",
           "serial": "SLPM-86254SLPM-86255SLPM-86256SLPM-86257",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "あいたくて… ～your smiles in my heart～"
         }
       ],
       "id": 61
@@ -1363,7 +1368,8 @@
           "Language": "[J]",
           "serial": "SCPS-45302",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "封神演義 愛蔵版"
         },
         {
           "name": "AIZOUBAN HOUSHINENGI",
@@ -1371,7 +1377,8 @@
           "Language": "[J]",
           "serial": "SLPM-86209",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "封神演義 愛蔵版"
         }
       ],
       "id": 62
@@ -1385,7 +1392,8 @@
           "Language": "[J]",
           "serial": "SLPS-01462",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "赤川次郎 夜想曲"
         },
         {
           "name": "AKAGAWA JIROU - YASOUKYOKU [LIMITED EDITION]",
@@ -1393,7 +1401,8 @@
           "Language": "[J]",
           "serial": "SLPS-01415",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "赤川次郎 夜想曲 [LIMITED EDITION]"
         },
         {
           "name": "AKAGAWA JIROU - YASOUKYOKU [PLAYSTATION THE BEST]",
@@ -1401,7 +1410,8 @@
           "Language": "[J]",
           "serial": "SLPS-91151",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "赤川次郎 夜想曲 [PLAYSTATION THE BEST]"
         },
         {
           "name": "AKAGAWA JIROU - YASOUKYOKU [PSONE BOOKS]",
@@ -1409,7 +1419,8 @@
           "Language": "[J]",
           "serial": "SLPS-91503",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "赤川次郎 夜想曲 [PSONE BOOKS]"
         }
       ],
       "id": 63
@@ -1423,7 +1434,8 @@
           "Language": "[J]",
           "serial": "SLPS-03213",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "赤川次郎 夜想曲2"
         },
         {
           "name": "AKAGAWA JIROU - YASOUKYOKU 2 [PSONE BOOKS]",
@@ -1431,7 +1443,8 @@
           "Language": "[J]",
           "serial": "SLPS-91505",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "赤川次郎 夜想曲2 [PSONE BOOKS]"
         }
       ],
       "id": 64
@@ -1445,7 +1458,8 @@
           "Language": "[J]",
           "serial": "SLPS-00187",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "闘牌伝アカギ"
         }
       ],
       "id": 65
@@ -1459,7 +1473,8 @@
           "Language": "[J]",
           "serial": "SLPS-00619",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "あかずの間"
         },
         {
           "name": "AKAZU NO MA [REPRINT]",
@@ -1467,7 +1482,8 @@
           "Language": "[J]",
           "serial": "SLPS-03263",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "あかずの間 [REPRINT]"
         }
       ],
       "id": 66
@@ -1481,7 +1497,8 @@
           "Language": "[J]",
           "serial": "SLPS-02961",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "ポップでキュートな心理テスト アラバマ"
         }
       ],
       "id": 67
@@ -1496,7 +1513,8 @@
           "serial": "SLPS-01578",
           "region": "NTSC-J",
           "tgdbId": 127540,
-          "upc": "4988616010063"
+          "upc": "4988616010063",
+          "regionalName": "アルバレアの乙女～麗しの聖騎士たち～"
         }
       ],
       "id": 68
@@ -1510,7 +1528,8 @@
           "Language": "[J]",
           "serial": "SLPS-00636",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "ありす イン サイバーランド"
         }
       ],
       "id": 69
@@ -1524,7 +1543,8 @@
           "Language": "[J]",
           "serial": "SLPS-01003SLPS-01004SLPS-01005",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "B線上のアリス"
         }
       ],
       "id": 70
@@ -1576,7 +1596,8 @@
           "Language": "[J]",
           "serial": "SLPS-01527SLPS-01528SLPS-01529",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アライブ"
         }
       ],
       "id": 72
@@ -1590,7 +1611,8 @@
           "Language": "[J]",
           "serial": "SLPS-00993",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "オールスター麻雀 華麗なる勝負師からの挑戦"
         }
       ],
       "id": 73
@@ -1656,7 +1678,8 @@
           "Language": "[J]",
           "serial": "SLPS-00173",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アルナムの牙 獣族十二神徒伝説"
         }
       ],
       "id": 76
@@ -1670,7 +1693,8 @@
           "Language": "[J]",
           "serial": "SLPS-01187SLPS-01188SLPS-01189",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アルナムの翼 焼塵の空の彼方へ"
         }
       ],
       "id": 77
@@ -1746,7 +1770,8 @@
           "Language": "[J]",
           "serial": "SLPS-00141",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アローン・イン・ザ・ダーク2"
         }
       ],
       "id": 79
@@ -1760,7 +1785,8 @@
           "Language": "[J]",
           "serial": "SCPS-10035",
           "region": "NTSC-J",
-          "tgdbId": 0
+          "tgdbId": 0,
+          "regionalName": "アランドラ"
         },
         {
           "name": "ALUNDRA",
