@@ -38294,7 +38294,7 @@
           "tgdbId": 0,
           "releaseDate": "1994-12-03",
           "upc": "4907940211038",
-          "regionalName": "麻雀ステーションMAZIN麻神／PS"
+          "regionalName": "麻雀ステーションMAZIN(麻神)"
         },
         {
           "name": "MAHJONG STATION - MASHIN [SUNSOFT COLLECTION BEST]",
@@ -38304,7 +38304,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907940211991",
-          "regionalName": "麻雀ステーションMAZIN 麻神 ベスト"
+          "regionalName": "麻雀ステーションMAZIN(麻神) [SUNSOFT COLLECTION BEST]"
         },
         {
           "name": "MAHJONG STATION - MASHIN [VALUE 1500]",
@@ -38313,12 +38313,13 @@
           "serial": "SLPS-02828",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "upc": "4907940212561"
+          "upc": "4907940212561",
+          "regionalName": "麻雀ステーションMAZIN(麻神) [VALUE 1500]"
         }
       ],
       "id": 1594,
       "localizedNames": {
-        "ja": "麻雀ステーションMAZIN麻神／PS"
+        "ja": "麻雀ステーションMAZIN(麻神)"
       }
     },
     {
