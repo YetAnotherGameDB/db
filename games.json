@@ -76617,12 +76617,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4959143900035",
-          "regionalName": "ダークオークション ELJM-30811"
+          "regionalName": "トワイライトシンドローム 探索編"
         }
       ],
       "id": 3190,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "トワイライトシンドローム 探索編"
       }
     },
     {
@@ -76635,10 +76635,14 @@
           "serial": "SLPS-00018",
           "region": "NTSC-J",
           "tgdbId": 33866,
-          "releaseDate": "1994-12-22"
+          "releaseDate": "1994-12-22",
+          "regionalName": "ツインゴッデス"
         }
       ],
-      "id": 3191
+      "id": 3191,
+      "localizedNames": {
+        "ja": "ツインゴッデス"
+      }
     },
     {
       "name": "TWINBEE RPG",
