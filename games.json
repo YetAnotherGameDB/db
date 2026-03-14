@@ -42365,7 +42365,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4938833004772",
-          "regionalName": "8番出口・8番のりば"
+          "regionalName": "モトレーサー"
         },
         {
           "name": "MOTO RACER",
@@ -42386,21 +42386,21 @@
       ],
       "id": 1764,
       "localizedNames": {
-        "ja": "8番出口・8番のりば"
+        "ja": "モトレーサー"
       }
     },
     {
       "name": "MOTO RACER 2",
       "gameInstances": [
         {
-          "name": "モトレーサー2",
+          "name": "MOTO RACER 2",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-02040",
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4938833004970",
-          "regionalName": "8番出口・8番のりば"
+          "regionalName": "モトレーサー2"
         },
         {
           "name": "MOTO RACER 2",
