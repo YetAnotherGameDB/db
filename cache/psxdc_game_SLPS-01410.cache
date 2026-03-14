@@ -1,0 +1,862 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>TOCA TOURING CAR CHAMPIONSHIP - (NTSC-J)</title>
+<style>
+.tablestyle { width: 100%; background-image: url('../images/tex1.jpg'); border-left: 5px solid #FFFFFF; border-right: 5px solid #000000; border-top: 5px solid #FFFFFF; border-bottom: 5px solid #000000 }
+.sectional { background-color: #200120012001; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF }
+.bluecell { height: 23px; font-family: Trebuchet MS; font-size: 8pt; color: #000000; font-weight: bold; text-align: right; background-color: #ACCDFB; border-left: 2px solid #FFFFFF; border-right: 2px solid #000000; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #000000 }
+.darkcell { height: 23px; font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; text-align: left; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF }
+.headertable { border: 0px; width: 100% } 
+.headercell { height: 35px; background-color: #3285F5; border-left: 2px solid #FFFFFF; border-right: 2px solid #000000; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #000000 }
+ body {font-size: 8pt; font-family: "MS Sans Serif"; }</style>
+</head>
+<body style="background-color: #666666" link="#0000FF" vlink="#0000FF" topmargin="0" leftmargin="0">
+
+<!-- Game Title -->
+
+<table class="tablestyle" id="table1" cellspacing="4" cellpadding="0">
+	<tr>
+		<td style="background-color: #800000; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF; font-family: Trebuchet MS; font-size: 9pt; font-weight: bold; color: #FFFF00" align="center">
+
+		<font face="Tahoma">TOCA TOURING CAR CHAMPIONSHIP</font></td>
+	</tr>
+</table>
+
+<!-- Cover / Game ID Table -->
+
+<table class="tablestyle" id="table2" cellspacing="4" cellpadding="0">
+	<tr>
+		<td class="sectional" colspan="2">
+		  <table class="headertable" id="table3" cellspacing="2" cellpadding="2">
+			<tr>
+
+				<td class="headercell">
+				<img border="0" src="../../../images/headers/gameid.jpg" width="240" height="33"></td>
+			</tr>
+		 </table>
+	    </td>
+	</tr>
+	
+<!-- Cover Cell -->	
+	
+	<tr>
+		<td class="sectional" width="250" height="250">
+
+		<img border="0" src="../../../images/covers/J/T/SLPS-01410.jpg" width="250" height="250"></td>
+		
+<!-- Game ID Cell -->
+		
+		<td class="sectional" width="100%">
+		
+<!-- Game ID Table -->
+		
+		<table border="0" width="100%" cellpadding="0" id="table4" height="250">
+			<tr>
+				<td style="width: 100px; height: 12%; font-family: Tahoma; font-size: 8pt; font-style: italic; color: #000000; font-weight: bold; text-align: center; background-color: #ACCDFB; border-left: 2px solid #FFFFFF; border-right: 2px solid #000000; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #000000">
+				Official Title</td>
+				<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF" colspan="2">
+				&nbsp;TOCA Touring Car Championship</td>
+			</tr>
+			<tr>
+				<td style="width: 100px; height: 12%; font-family: Tahoma; font-size: 8pt; font-style: italic; color: #000000; font-weight: bold; text-align: center; background-color: #ACCDFB; border-left: 2px solid #FFFFFF; border-right: 2px solid #000000; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #000000">
+				Common Title</td>
+				<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF" colspan="2"
+				>&nbsp;TOCA Touring Car Championship</td>
+			</tr>
+			<tr>
+				<td style="width: 100px; height: 12%; font-family: Tahoma; font-size: 8pt; font-style: italic; color: #000000; font-weight: bold; text-align: center; background-color: #ACCDFB; border-left: 2px solid #FFFFFF; border-right: 2px solid #000000; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #000000">
+				Serial Number(s)</td>
+				<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF" colspan="2">
+				&nbsp;SLPS-01410</td>
+			</tr>
+			<tr>
+				<td style="width: 100px; height: 12%; font-family: Tahoma; font-size: 8pt; font-style: italic; color: #000000; font-weight: bold; text-align: center; background-color: #ACCDFB; border-left: 2px solid #FFFFFF; border-right: 2px solid #000000; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #000000">
+				Region</td>
+				<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF" colspan="2">
+				&nbsp;NTSC-J</td>
+			</tr>
+			<tr>
+				<td style="width: 100px; height: 12%; font-family: Tahoma; font-size: 8pt; font-style: italic; color: #000000; font-weight: bold; text-align: center; background-color: #ACCDFB; border-left: 2px solid #FFFFFF; border-right: 2px solid #000000; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #000000">
+				Genre / Style</td>
+				<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF">
+				&nbsp;Driving / Racing</td>
+				<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; background-color: #ACCDFB; border-left: 2px solid #FFFFFF; border-right: 2px solid #000000; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #000000" rowspan="4">
+				<p align="center">
+				<img border="0" src="../../../images/rating/esrb/esrb-e.gif" align="middle" width="89" height="89">
+				<img border="0" src="../../../images/rating/usk/usk-0.gif" align="middle" width="89" height="89"></td>
+			</tr>
+
+			<tr>
+				<td style="width: 100px; height: 12%; font-family: Tahoma; font-size: 8pt; font-style: italic; color: #000000; font-weight: bold; text-align: center; background-color: #ACCDFB; border-left: 2px solid #FFFFFF; border-right: 2px solid #000000; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #000000">
+				Developer</td>
+				<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF">
+				&nbsp;Codemasters.</td>
+			</tr>
+			<tr>
+				<td style="width: 100px; height: 12%; font-family: Tahoma; font-size: 8pt; font-style: italic; color: #000000; font-weight: bold; text-align: center; background-color: #ACCDFB; border-left: 2px solid #FFFFFF; border-right: 2px solid #000000; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #000000">
+
+				Publisher</td>
+				<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF">
+				&nbsp;Upstar (Lay-Up).</td>
+			</tr>
+			<tr>
+				<td style="width: 100px; height: 12%; font-family: Tahoma; font-size: 8pt; font-style: italic; color: #000000; font-weight: bold; text-align: center; background-color: #ACCDFB; border-left: 2px solid #FFFFFF; border-right: 2px solid #000000; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #000000">
+				Date Released</td>
+
+				<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF">
+				&nbsp;18 June 1998</td>
+			</tr>
+</table>
+		</td>
+	</tr>
+</table>
+
+<!-- Disc Info Table -->
+
+<table class="tablestyle" id="table5" cellspacing="4" cellpadding="0">
+
+	<tr>
+		<td class="sectional">
+		
+<!-- Disc Info Header -->
+		
+		<table class="headertable" id="table6" cellspacing="2" cellpadding="2">
+			<tr>
+				<td class="headercell">
+				<img border="0" src="../../../images/headers/discinfo.jpg" width="240" height="33"></td>
+			</tr>
+		</table>
+
+		
+<!-- Disc Info Sectional --> <div align="center">
+		
+		<table border="0" id="table7" cellspacing="2" cellpadding="0" height="199">
+			<tr>
+				<td class="bluecell" style="width: 150px; height: 100px; font-family: Tahoma; font-style: italic; text-align: center">Disc Number &amp;<br>
+				Printed Serial Number</td>
+				<td class="darkcell" style="width: 100px; height: 100px; text-align: center">DISC 1<br>
+				<img border="0" src="../../../images/cd.gif" width="80" height="80"><br>SLPS-01410</td>
+                <td class="darkcell" style="width: 100px; height: 100px; text-align: center"></td>
+                <td class="darkcell" style="width: 100px; height: 100px; text-align: center"></td>
+                <td class="darkcell" style="width: 100px; height: 100px; text-align: center"></td>
+                <td class="darkcell" style="width: 100px; height: 100px; text-align: center"></td>
+                <td class="darkcell" style="width: 100px; height: 100px; text-align: center"></td>
+			</tr>
+			<tr>
+				<td class="bluecell" style="width: 150px; font-family: Tahoma; font-style: italic; text-align: center">Serial Number In Disc</td>
+				<td class="darkcell" style="width: 100px; text-align: center">SLPS-01410</td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+			</tr>			
+                 <tr>
+				<td class="bluecell" style="width: 150px; font-family: Tahoma; font-style: italic; text-align: center">Media Disc ID</td>
+				<td class="darkcell" style="width: 100px; text-align: center">N / A</td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+			</tr>
+
+			<tr>
+				<td class="bluecell" style="width: 150px; font-family: Tahoma; font-style: italic; text-align: center; height:69px">Number Of Tracks</td>
+				<td class="darkcell" style="width: 100px; text-align: center; height:69px">8<br>
+				<font color="#FFFF00">( </font><font color="#ffff00">1 Data Track &<br>7 Audio Tracks )</td>
+				<td class="darkcell" style="width: 100px; text-align: center; height:69px"></td>
+				<td class="darkcell" style="width: 100px; text-align: center; height:69px"></td>
+				<td class="darkcell" style="width: 100px; text-align: center; height:69px"></td>
+				<td class="darkcell" style="width: 100px; text-align: center; height:69px"></td>
+				<td class="darkcell" style="width: 100px; text-align: center; height:69px"></td>
+			</tr>
+			<tr>
+				<td class="bluecell" style="height: 46px; width: 150px; font-family: Tahoma; font-style: italic; text-align: center">Approx. Image Size<br>
+				( Image Format Used )</td>
+				<td class="darkcell" style="height: 46px; width: 100px; text-align: center"> MB<br>
+				<font color="#FFFF00">( .bin / .cue )</font></td>
+				<td class="darkcell" style="height: 46px; width: 100px; text-align: center"></td>
+				<td class="darkcell" style="height: 46px; width: 100px; text-align: center"></td>
+				<td class="darkcell" style="height: 46px; width: 100px; text-align: center"></td>
+				<td class="darkcell" style="height: 46px; width: 100px; text-align: center"></td>
+				<td class="darkcell" style="height: 46px; width: 100px; text-align: center"></td>
+			</tr>
+			<tr>
+				<td class="bluecell" style="width: 150px; font-family: Tahoma; font-style: italic; text-align: center">Approx.Size On Disc</td>
+				<td class="darkcell" style="width: 100px; text-align: center"> MB</td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+			</tr>
+			<tr>
+
+				<td class="bluecell" style="height: 60px; width: 150px; font-family: Tahoma; font-style: italic; text-align: center">Approx. Archive Size<br>
+				( Archive Type Used )</td>
+				<td class="darkcell" style="height: 60px; width: 100px; text-align: center"> MB<br>
+				<font color="#FFFF00">( 1 RAR File with<br>2% Recovery )</font></td>
+				<td class="darkcell" style="height: 60px; width: 100px; text-align: center"></td>
+				<td class="darkcell" style="height: 60px; width: 100px; text-align: center"></td>
+				<td class="darkcell" style="height: 60px; width: 100px; text-align: center"></td>
+				<td class="darkcell" style="height: 60px; width: 100px; text-align: center"></td>
+				<td class="darkcell" style="height: 60px; width: 100px; text-align: center"></td>
+			</tr>
+			<tr>
+				<td class="bluecell" style="height: 60px; width: 150px; font-family: Tahoma; font-style: italic; text-align: center">Barcode Number(s)<br>
+				( UPC / EAN )</td>
+				<td class="darkcell" style="text-align: left" colspan="6" width="600">
+				<br>From the back cover.<br>
+				<ul><li>&nbsp;4532224002059&nbsp; -&nbsp; <img border="0" src="../../../images/flags/mini/japan.jpg" align="texttop" width="25" height="16"><br>&nbsp;</li>
+				<br>&nbsp;
+                </ul>
+                </td>
+			</tr>
+
+			</table>
+	   
+</div>
+	   
+	   </td>
+	</tr>
+</table>
+
+<!-- Languages Table -->
+
+<table class="tablestyle" id="table11" cellspacing="4" cellpadding="0">
+	<tr>
+		<td class="sectional">
+
+		
+<!-- Languages Header -->
+		
+		<table class="headertable" id="table12" cellspacing="2" cellpadding="2">
+			<tr>
+				<td class="headercell">
+				<img border="0" src="../../../images/headers/lang.jpg" width="240" height="33"></td>
+			</tr>
+		</table>
+
+<!-- Languages Sectional -->
+
+<div align="center">
+
+<table border="0" id="table13" cellspacing="2" cellpadding="0">
+	<tr>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center">
+		<img border="0" src="../../../images/flags/japan.gif" align="center" width="100" height="50" ><br>Japanese</td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>		
+	</tr>
+	<tr>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+	</tr><br>
+
+	</table>
+	<font face="Tahoma" style="font-size: 8pt; font-weight: 700; font-style: italic" color="#FFFF00">Menus and gameplay are in Japanese.</font>
+       	</div>
+       	</td>
+     </tr>
+
+</table>
+ 
+<!-- Game Description Table -->
+
+<table class="tablestyle" id="table14" cellspacing="4" cellpadding="0">
+	<tr>
+		<td class="sectional">
+
+<!-- Game Description Header -->
+		
+		<table class="headertable" id="table15" cellspacing="2" cellpadding="2">
+			<tr>
+				<td class="headercell">
+				<img border="0" src="../../../images/headers/gamedes.jpg" width="240" height="33"></td>
+			</tr>
+		</table>
+
+<!-- Game Description Sectional -->
+
+<table border="0" width="100%" id="table16" cellpadding="0">
+	<tr>
+		<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; text-align: left; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF">
+			<br>From the makers of Micro Machines comes TOCA Touring Car Championship -- Codemasters first attempt at a simulation racer. TOCA Touring Car Championship is a devastatingly real simulation of the inarguable Auto Trader/RAC British Touring Car Championship Series. A full license ensures that all the real drivers, teams, cars, courses, and advertising from the 1997 season have been digitized and stored on a single CD-ROM.
+                  <br><br>TOCA Touring Car Championship features 12 real courses that will test even the most fanatical Touring Fan to spot the differences thanks to the ultra-complicated 3D-mapping techniques that Codemasters have put in place. Each of the 16 Touring Cars have also been precisely laser sketched to ensure that every detail, curve, and texture is perfect for the game.
+                  <br><br>Commentary is provided by Tiff Needell who delivers both during and after race descriptions for the purpose of informing on the race conditions and situation. Also witness spectacular crashes, degrading car conditions leading to visual damage, tight control, a number of views including the exhilarating head cam, actual vehicle damage and a two-player option intended for multiplayer fanatics to tear it up in split-screen fashion.
+                  <br><br>Get ready to take on another season of high-speed technical racing with 3DO and Codemaster's TOCA Championship Racing. Armchair drivers will be manning the four-door Super Tourer in a family vehicle-like frame. Emulating actual FIA Super Touring rules, the individual cars feature four-wheel drive and a two-liter engine with anywhere between 2000cc and 8500 revs. Eight car manufacturers have lent their actual designs to the production of this title including Ford's Mondeo, Nissan's Primera, and Audi's A4.
+                  <br><br>TOCA Championship Racing features a variety of gameplay options including Single Races, Championship Races, and the Time Trial. Played with either one or two-players (via horizontal split-screen), the Single Race is simply extra practice to get familiar with track layouts or sharing the road with your opponents. Time Trial allows the speed freaks to compete with their own fastest laps and track times.
+                  <br><br>The Championship mode consists of an entire 24-race season at nine different track locations. In order to advance to the next round, players are required to meet certain point quota. For example, rounds one and two at Donington Park Grand Prix require at least 20 points for progression; fail to reach this number and you'll be left behind in the dust! After every six races, cups are awarded based on your season performance. If you're good enough, you'll then be able to unlock secret cheat codes for the game!
+                  <br><br>Among the nine tracks represented are the realistically designed Silverstone International, Oulton Park Fosters, Snetterton, and Brands Hatch Indy. Each track is laid out turn-by-turn in conjunction with its real-life counterpart. Additionally, TOCA Championship Racing features weather effects (sunny, cloudy, stormy, foggy), different camera views, and specialty controller support including the neGcon, MadCatz Wheel, and the Dual Shock Analog Controller.
+                  <br><br>Features:
+                  <br>* Race in finely-tuned automobiles including Ford, Audi, and Nissan
+                  <br>* Compete against a friend via split-screen
+                  <br>* Accurate physics and realistic damage
+                  <br><br>&nbsp;&nbsp;<u>Manufacturer's description:</u><br>
+                  <br>There's nothing like the blackout inducing speeds and the bone jarring spin-outs of professional raving. So, climb into the hottest driver's seat there is and watch out for the flying hoods, tires and glass as you race to victory in TOCA Championship Racing . It's Full Contact Auto Racing.
+                  <br><br>-Amazing Realism- All high-res models with accurate crash physics and car damage.
+                  <br>-Advanced Al- All computer controlled cars driven according to actual Touring Car Championship driver and car styles.
+                  <br>-Real Racing- Eight different manufacturers represented including Audi, Ford, and Nissan.
+                  <br>-Actual European Circuit Tracks- Eight courses from Europe to race and explore.
+                  <br>-Race Your Friends- Split-screen mode for 2 players.
+                  <br><br>&nbsp;&nbsp;<u>Features:</u><br>
+			<ul><li>Third or First person perspectives.</li>
+			<li>3D graphics</li>
+			<li>Cartoon graphics</li>
+			<li>Touring Cars Racing theme</li></ul>
+</td>
+
+	</tr>
+	</table>
+	       	</td>
+     </tr>
+</table>  
+
+<!-- Game Features Table -->
+
+<table class="tablestyle" id="table17" cellspacing="4" cellpadding="0">
+	<tr>
+		<td class="sectional">
+		
+
+<!-- Game Features Header -->
+		
+		<table class="headertable" id="table18" cellspacing="2" cellpadding="2">
+			<tr>
+				<td class="headercell">
+				<img border="0" src="../../../images/headers/gamefeat.jpg" width="240" height="33"></td>
+			</tr>
+		</table>
+
+<!-- Game Features Sectional -->
+
+<table border="0" width="100%" id="table19" cellspacing="2" cellpadding="0">
+
+	<tr>
+		<td class="bluecell" style="width: 200; font-family: Tahoma; font-style: italic; text-align: center">
+		Number Of Players</td>
+		<td class="darkcell">&nbsp;1-2 Players</td>
+	</tr>
+	<tr>
+		<td class="bluecell" style="width: 200; font-family: Tahoma; font-style: italic; text-align: center">
+		Number Of Memory Card Blocks</td>
+		<td class="darkcell">&nbsp;1 Block</td>
+	</tr>
+	<tr>
+		<td class="bluecell" style="width: 200; font-family: Tahoma; font-style: italic; text-align: center; height:46px">
+		Compatible Controllers Tested<br>( Official Gamepads Only )</td>
+		<td class="darkcell" style="height: 46px">&nbsp;Standard Controller / Analog Controller
+<font color="#FFFF00">( Dual Shock Controller compatible )</font></td>
+
+	</tr>
+	<tr>
+		<td class="bluecell" style="width: 200; font-family: Tahoma; font-style: italic; text-align: center; height:46px">
+		Compatible Light Guns<br>( Official Light Guns Only )</td>
+		<td class="darkcell" style="height: 46px">&nbsp;None</td>
+	</tr>
+<tr>
+		<td class="bluecell" style="width: 200; font-family: Tahoma; font-style: italic; text-align: center; height:46px">
+
+		Other Compatible Controllers<br>( Official Controllers Only )</td>
+		<td class="darkcell" style="height: 46px">&nbsp;None</td>
+	</tr>
+	<tr>
+		<td class="bluecell" style="width: 200; font-family: Tahoma; font-style: italic; text-align: center; height:46px">
+		Special Controllers Included Or<br>Supported ( Official Only )</td>
+		<td class="darkcell" style="height: 46px">&nbsp;Namco NegCon (SLEH-0003) / Mad Catz steering wheel and pedals (SLEH-00006)</td>
+	</tr>
+	<tr>
+		<td class="bluecell" style="width: 200; font-family: Tahoma; font-style: italic; text-align: center">
+		Vibration Function Compatible</td>
+		<td class="darkcell">&nbsp;Yes </td>
+	</tr>
+
+	<tr>
+		<td class="bluecell" style="width: 200; font-family: Tahoma; font-style: italic; text-align: center">
+		Multi-Tap Function Compatible</td>
+		<td class="darkcell">&nbsp;No <font color="#FFFF00">    </font></td>
+	</tr>
+<tr>
+		<td class="bluecell" style="width: 200; font-family: Tahoma; font-style: italic; text-align: center">
+		Link Cable Function Compatibile</td>
+		<td class="darkcell">&nbsp;No</td>
+	</tr>
+	</table>
+       	</td>
+     </tr>
+</table>        
+
+<!-- Screenshots Table -->
+
+<table class="tablestyle" id="table20" cellspacing="4" cellpadding="0">
+	<tr>
+		<td class="sectional">
+		
+<!-- Screenshots Header -->
+		
+		<table class="headertable" id="table21" cellspacing="2" cellpadding="2">
+			<tr>
+				<td class="headercell">
+				<img border="0" src="../../../images/headers/screens.jpg" width="240" height="33"></td>
+			</tr>
+
+		</table>
+
+<!-- Screenshots Sectional -->
+
+<table border="0" id="table22" cellspacing="2" cellpadding="0" align=center>
+	<tr>
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/P/T/SLES-00376/ss1.jpg" width="320" height="240"></td>
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/P/T/SLES-00376/ss2.jpg" width="320" height="240"></td>
+	</tr>
+	<tr>
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/P/T/SLES-00376/ss3.jpg" width="320" height="240"></td>
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/P/T/SLES-00376/ss4.jpg" width="320" height="240"></td>
+	</tr>
+	<tr>
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/P/T/SLES-00376/ss5.jpg" width="320" height="240"></td>
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/P/T/SLES-00376/ss6.jpg" width="320" height="240"></td>
+	</tr>
+	<tr>
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/P/T/SLES-00376/ss7.jpg" width="320" height="240"></td>
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/P/T/SLES-00376/ss8.jpg" width="320" height="240"></td>
+	</tr>
+	<tr>
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/P/T/SLES-00376/ss9.jpg" width="320" height="240"></td>
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/P/T/SLES-00376/ss10.jpg" width="320" height="240"></td>
+	</tr>
+	<tr>
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/P/T/SLES-00376/ss11.jpg" width="320" height="240"></td>
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/P/T/SLES-00376/ss12.jpg" width="320" height="240"></td>
+	</tr>	
+	</table>
+       	</td>
+     </tr>
+</table>  
+
+<!-- Emulation Compatibility Sectional -->
+
+<table border="0" width="100%" id="table25" cellspacing="2" cellpadding="0">
+	<tr>
+		<td class="bluecell" style="width: 130px; font-family: Tahoma; font-style: italic; text-align: center">
+		Emulator</td>
+		<td class="darkcell">&nbsp;ePSXe v.1.7.0 (Press F7 to view the first FMV Sequence in software mode)</td>
+	</tr>
+	<tr>
+
+		<td class="bluecell" style="width: 130px; font-family: Tahoma; font-style: italic; text-align: center">
+		Video Plugin</td>
+		<td class="darkcell">&nbsp;Pete's OpenGL Driver v2.9 
+		<font color="#FFFF00">( internal X & Internal Y= Very High, Stretching mode: Stretch to full window size, render Mode: 2 (Use framebuffer object) text filt = 2 FPS limit= 63, Compatibility=2,3,2; Shader effects= 1 (Fullscreen smoothin))</font></td>
+	</tr>
+	<tr>
+		<td class="bluecell" style="width: 130px; font-family: Tahoma; font-style: italic; text-align:center">
+		Audio Plugin</td>
+
+		<td class="darkcell">&nbsp;ePSXe SPU Core v.1.7.0</font></td>
+	</tr>
+	<tr>
+		<td class="bluecell" style="width: 130px; font-family: Tahoma; font-style: italic; text-align: center">
+		CD-ROM Plugin</td>
+		<td class="darkcell">&nbsp;ePSXe Cdrom plugin</td>
+	</tr>
+
+<tr>
+		<td class="bluecell" style="width: 130px; font-family: Tahoma; font-style: italic; text-align: center">
+		Game Pad Plugin</td>
+		<td class="darkcell">&nbsp;N / A</td>
+	</tr>
+	<tr>
+		<td class="bluecell" style="width: 130px; font-family: Tahoma; font-style: italic; text-align: center">
+		Vibration Compatible</td>
+		<td class="darkcell">&nbsp;Yes.</td>
+	</tr>
+	<tr>
+		<td class="bluecell" style="width: 130px; font-family: Tahoma; font-style: italic; text-align: center">
+		Console Bios Used</td>
+		<td class="darkcell">&nbsp;SCPH7502</td>
+	</tr>
+
+	</table>
+       	<br>&nbsp;<font face="Tahoma" style="font-size: 11pt; font-weight: 700; background-color:#FF0000" color="#FFFF00">&nbsp;<u>NOTE:</u>&nbsp;</font>
+<font face="Tahoma" style="font-size: 8pt; font-weight:700">&nbsp;This is not the only possible combination of plugins. There are others that will work (better or worse) for your particular hardware. We provide you with one working set-up so that you may get the game up and running, hassle-free. Testing other emulators/plugins is up to you.</font><br>&nbsp;</td>
+     </tr>
+</table>  
+
+<!-- Game Controls Table -->
+
+<table class="tablestyle" id="table14a" cellspacing="4" cellpadding="0">
+	<tr>
+		<td class="sectional">
+
+		
+<!-- Game Controls Header -->
+		
+		<table class="headertable" id="table15" cellspacing="2" cellpadding="2">
+			<tr>
+				<td class="headercell">
+				<img border="0" src="../../../images/headers/controls.jpg" width="240" height="33"></td>
+			</tr>
+		</table>
+
+<!-- Game Controls Sectional -->
+
+<table border="0" width="100%" id="table16" cellpadding="0">
+	<tr>
+		<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; text-align: left; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF">
+			<br>&nbsp;<u><i><font color="#FFFF00">ANALOG / DIGITAL CONTROLLERS CONTROLS:</font></i></u><br>
+                  &nbsp; Steer:
+                  <font color="#00FF00">&nbsp;D-Pad or Left Analog Stick</font>
+                  <br>&nbsp; Rear view -
+                  <font color="#00FF00">&nbsp;D-Pad down</font>
+                  <br>&nbsp; Accelerate -
+                  <font color="#00FF00">&nbsp;X Button</font>
+                  <br>&nbsp; Horn -
+                  <font color="#00FF00">&nbsp;Circle Button</font>				  
+                  <br>&nbsp; Change view -
+                  <font color="#00FF00">&nbsp;Triangle Button</font>
+                  <br>&nbsp; Brake -
+                  <font color="#00FF00">&nbsp;Square Button</font>				  
+                  <br>&nbsp; Shift Down -
+                  <font color="#00FF00">&nbsp;L1 Button</font>	
+                  <br>&nbsp; Shift Up -
+                  <font color="#00FF00">&nbsp;R1 Button</font>							  				  
+                  <br>&nbsp; Vibration on/off (dual shock controllers only)  -
+                  <font color="#00FF00">&nbsp;Select Button</font>
+                  <br>&nbsp; Pause game -
+                  <font color="#00FF00">&nbsp;Start Button</font><br>
+			<br>&nbsp;<u><i><font color="#FFFF00">NEGCON CONTROLS:</font></i></u><br>
+                  &nbsp; Turn wheels left or right:
+                  <font color="#00FF00">&nbsp;Twisting Left or Right</font>
+                  <br>&nbsp; Rear view -
+                  <font color="#00FF00">&nbsp;A Button</font>
+                  <br>&nbsp; Accelerate -
+                  <font color="#00FF00">&nbsp;I Button</font>
+                  <br>&nbsp; Change view -
+                  <font color="#00FF00">&nbsp;B Button</font>
+                  <br>&nbsp; Brake (reverse with automatics) -
+                  <font color="#00FF00">&nbsp;II Button</font>				  
+                  <br>&nbsp; Shift Down -
+                  <font color="#00FF00">&nbsp;Left Shoulder Button</font>	
+                  <br>&nbsp; Shift Up -
+                  <font color="#00FF00">&nbsp;Right Shoulder Button</font>		
+                  <br>&nbsp; Pause game -
+                  <font color="#00FF00">&nbsp;Start Button</font><br>
+			<br>&nbsp;<u><i><font color="#FFFF00">MADCATZ WHEEL CONTROLS:</font></i></u><br>
+                  &nbsp; Steer:
+                  <font color="#00FF00">&nbsp;Turn wheel left or right</font>
+                  <br>&nbsp; Rear view -
+                  <font color="#00FF00">&nbsp;A Button</font>
+                  <br>&nbsp; Accelerate -
+                  <font color="#00FF00">&nbsp;Right Pedal</font>
+                  <br>&nbsp; Change view -
+                  <font color="#00FF00">&nbsp;B Button</font>
+                  <br>&nbsp; Brake (reverse with automatics) -
+                  <font color="#00FF00">&nbsp;Left Pedal</font>				  
+                  <br>&nbsp; Shift Down -
+                  <font color="#00FF00">&nbsp;Stick Up</font>	
+                  <br>&nbsp; Shift Up -
+                  <font color="#00FF00">&nbsp;Stick Down</font>		
+                  <br>&nbsp; Pause game -
+                  <font color="#00FF00">&nbsp;Start Button</font><br><br>
+				  &nbsp;</td>
+	 </tr>
+	</table>
+       	</td>
+     </tr>
+</table>
+
+      
+<!-- Game Cheats Table -->
+
+<table class="tablestyle" id="table14a" cellspacing="4" cellpadding="0">
+	<tr>
+		<td class="sectional">
+		
+<!-- Game Cheats Header -->
+		
+		<table class="headertable" id="table15" cellspacing="2" cellpadding="2">
+			<tr>
+				<td class="headercell">
+				<img border="0" src="../../../images/headers/cheats.jpg" width="240" height="33"></td>
+
+			</tr>
+		</table>
+
+<!-- Game Cheats Sectional -->
+
+<table border="0" width="100%" id="table16" cellpadding="0">
+	<tr>
+		<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; text-align: left; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF">
+				  <br><u><i><font color="#FFFF00">MISC CODES (Enter the following as your name):</font></i></u><br>
+			        &nbsp; Access All Tracks -  
+                  &nbsp; <font color="#00FF00">JHAMMO</font>&nbsp;
+				  <br>&nbsp; Aggressive cars -  
+                  &nbsp; <font color="#00FF00">CMMAYHEM</font>&nbsp;
+				  <br>&nbsp; Better traction -  
+                  &nbsp; <font color="#00FF00">FLEXMOBILE</font>&nbsp;
+				  <br>&nbsp; Bonus Tank -  
+                  &nbsp; <font color="#00FF00">CMGARAGE</font>&nbsp;
+				  <br>&nbsp; Cartoon Background  -  
+                  &nbsp; <font color="#00FF00">CMTOON</font>&nbsp;
+				  <br>&nbsp; Championship -  
+                  &nbsp; <font color="#00FF00">PATSCREEM</font>&nbsp;
+				  <br>&nbsp; Fast Mode -  
+                  &nbsp; <font color="#00FF00">XBOOSTME</font>&nbsp;
+				  <br>&nbsp; Get a new camera angle -  
+                  &nbsp; <font color="#00FF00">CMFOLLOW</font>&nbsp;
+				  <br>&nbsp; Go-Kart Mode -  
+                  &nbsp; <font color="#00FF00">CMCHUN</font>&nbsp;
+				  <br>&nbsp; Helicopter View -  
+                  &nbsp; <font color="#00FF00">CMCOPTER</font>&nbsp;
+				  <br>&nbsp; Lock Tracks Back Up -  
+                  &nbsp; <font color="#00FF00">CMLOCK</font>&nbsp;
+				  <br>&nbsp; Low Gravity -  
+                  &nbsp; <font color="#00FF00">CMLOGRAV</font>&nbsp;
+				  <br>&nbsp; Micro Machines Mode -  
+                  &nbsp; <font color="#00FF00">CMMICRO</font>&nbsp;
+				  <br>&nbsp; Multicolored Fog -  
+                  &nbsp; <font color="#00FF00">CMDISCO</font>&nbsp;
+				  <br>&nbsp; Raining Cats & Dogs -  
+                  &nbsp; <font color="#00FF00">CMCATDOG</font>&nbsp;
+				  <br>&nbsp; Reverse Falling Rain -  
+                  &nbsp; <font color="#00FF00">CMRAINUP</font>&nbsp;
+				  <br>&nbsp; Shoot other cars (use the horn to shoot) -  
+                  &nbsp; <font color="#00FF00">TANK</font>&nbsp;
+				  <br>&nbsp; Staring Sky Mode -  
+                  &nbsp; <font color="#00FF00">CMSTARS</font>&nbsp;
+				  <br>&nbsp; Upside Down -  
+                  &nbsp; <font color="#00FF00">CMUPSIDE</font>&nbsp;<br>
+				  <br><u><i><font color="#FFFF00">ACTION REPLAY CODES:</font></i></u><br>
+			        &nbsp; Time 00:00 - 
+                  &nbsp; <font color="#00FF00"><br>800A62DA 0000</font>&nbsp;<br><br>	  
+	 </tr>
+	</table>
+       	</td>
+
+     </tr>
+</table>
+
+<!-- High Resolution Covers Table -->
+
+<table class="tablestyle" id="table26" cellspacing="4" cellpadding="0">
+	<tr>
+		<td class="sectional">
+		
+<!-- High Resolution Covers Header -->
+		
+		<table class="headertable" id="table27" cellspacing="2" cellpadding="2">
+			<tr>
+
+				<td class="headercell">
+				<img border="0" src="../../../images/headers/hirescovers.jpg" width="240" height="33"></td>
+			</tr>
+		</table>
+
+<!-- High Resolution Covers Sectional -->
+
+<table border="0" id="table28" cellspacing="2" cellpadding="0" align="center">
+	<tr>
+		<td class="bluecell" colspan=6 style="font-family: Tahoma; font-style: italic; text-align: center; font-size: 10pt">
+		<img border="0" src="../../../images/flags/mini/japan.jpg" align="texttop" width="25" height="16">&nbsp;-&nbsp;Jewel Case Covers</td>
+	</tr>
+	<tr>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center">FRONT</td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center">BACK</td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center">INSIDE</td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+	</tr>
+	<tr>
+            <td class="darkcell" style="width: 130px; height: 105px; text-align: center">
+		<a target="_blank" href="../../../images/hires/J/T/SLPS-01410/SLPS-01410-F-ALL.html">
+		<img border="0" src="../../../images/thumbs/J/T/SLPS-01410/SLPS-01410-F-ALL.jpg" width="100" height="100"></a></td>
+            <td class="darkcell" style="width: 130px; height: 105px; text-align: center">
+		<a target="_blank" href="../../../images/hires/J/T/SLPS-01410/SLPS-01410-B-ALL.html">
+		<img border="0" src="../../../images/thumbs/J/T/SLPS-01410/SLPS-01410-B-ALL.jpg" width="100" height="100"></a></td>
+            <td class="darkcell" style="width: 130px; height: 105px; text-align: center">
+		<img border="0" src="../../../images/thumbs/none.jpg" width="129" height="100" align="center"></td>
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center; "></td>		
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center; "></td>
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center; "></td>
+	</tr>
+	<tr>
+            <td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px">
+		<font color="#FFFFFF">CLICK THE IMAGE</font><br>Dim. - 1400 x 1407 pix.<br>Res. - 
+		300 dpi<br>File Size - 363 KB</td>
+            <td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px">
+		<font color="#FFFFFF">CLICK THE IMAGE</font><br>Dim. - 1738 x 1375 pix.<br>Res. - 
+	    300 dpi<br>File Size - 572 KB</td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px">MISSING<br>PLEASE CONTRIBUTE</td>
+	 	<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+	 	<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+	</tr>
+	</table>
+<table border="0" id="table28" cellspacing="2" cellpadding="0" align="center">
+	<tr>
+		<td class="bluecell" colspan=6 style="font-family: Tahoma; font-style: italic; text-align: center; font-size: 10pt">
+		<img border="0" src="../../../images/flags/mini/europe.jpg" align="texttop" width="25" height="16">&nbsp;-&nbsp;Adverts Covers</td>
+	</tr>
+	<tr>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center">EUROPEAN ADVERT</td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center">EUROPEAN ADVERT ALTERNATE</td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+	</tr>
+	<tr>
+            <td class="darkcell" style="width: 130px; height: 105px; text-align: center">
+		<a target="_blank" href="../../../images/hires/P/T/SLES-00376/SLES-00376-A-1.html">
+		<img border="0" src="../../../images/thumbs/P/T/SLES-00376/SLES-00376-A-1.jpg" width="100" height="100"></a></td>
+            <td class="darkcell" style="width: 130px; height: 105px; text-align: center">
+		<a target="_blank" href="../../../images/hires/P/T/SLES-00376/SLES-00376-A-2.html">
+		<img border="0" src="../../../images/thumbs/P/T/SLES-00376/SLES-00376-A-2.jpg" width="100" height="100"></a></td>
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center; "></td>
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center; "></td>		
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center; "></td>
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center; "></td>
+	</tr>
+	<tr>
+            <td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px">
+		<font color="#FFFFFF">CLICK THE IMAGE</font><br>Dim. - 1600 x 2043 pix.<br>Res. - 
+		300 dpi<br>File Size - 624 KB</td>
+            <td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px">
+		<font color="#FFFFFF">CLICK THE IMAGE</font><br>Dim. - 1440 x 1979 pix.<br>Res. - 
+		300 dpi<br>File Size - 777 KB</td>
+	 	<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+	 	<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+	 	<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+	</tr>
+	</table>	
+<table border="0" id="table29" align="center" cellspacing="2" cellpadding="0">
+	<tr>
+		<td class="bluecell" colspan=6 style="font-family: Tahoma; font-style: italic; text-align: center; font-size: 10pt">
+		<img border="0" src="../../../images/flags/mini/japan.jpg" align="texttop">&nbsp;-&nbsp;Disc Cover</td>
+	</tr>
+	<tr>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center">DISC</td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+        <td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+        <td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+        <td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+        <td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+	</tr>
+	<tr>
+            <td class="darkcell" style="width: 130px; height: 105px; text-align: center">
+		<img border="0" src="../../../images/thumbs/none.jpg" width="129" height="100" align="center"></td>
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center;"></td>
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center;"></td>
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center;"></td>
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center;"></td>
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center;"></td>
+	</tr>
+	<tr>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px">MISSING<br>PLEASE CONTRIBUTE</td>
+	 	<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+	</tr>
+</table>
+       	</td>
+     </tr>
+</table>
+
+<!-- Other Regions Released Table -->
+
+<table class="tablestyle" id="table30" cellspacing="4" cellpadding="0">
+	<tr>
+		<td class="sectional">
+
+		
+<!-- Other Regions Released Header -->
+		
+		<table class="headertable" id="table31" cellspacing="2" cellpadding="2">
+			<tr>
+				<td class="headercell">
+				<img border="0" src="../../../images/headers/orr.jpg" width="240" height="33"></td>
+			</tr>
+		</table>
+		
+<!-- Other Discs In This Set Sectional -->				
+		
+        <table border="0" width="100%" id="table32" cellspacing="2" cellpadding="0">
+
+			<tr>
+                        <td class="darkcell" style="font-family: Trebuchet MS"><br>
+				  &nbsp;<font color="#FFFF00"><u><i>NTSC-U:</i></u></font>
+				<ul><li>TOCA Championship Racing [SLUS-00611]&nbsp; -&nbsp;
+				<img border="0" src="../../../images/flags/mini/usa.jpg" align="top" width="25" height="16"><br>&nbsp;</li></ul>
+				  &nbsp;<font color="#FFFF00"><u><i>PAL:</i></u></font>
+				<ul><li>TOCA Touring Car Championship [SLES-00376]&nbsp; -&nbsp;
+				<img border="0" src="../../../images/flags/mini/europe.jpg" align="top" width="25" height="16"><br>&nbsp;</li>
+				<li>TOCA Touring Car Championship [Platinum Version] [SLES-00376]&nbsp; -&nbsp;
+				<img border="0" src="../../../images/flags/mini/europe.jpg" align="top" width="25" height="16"><br>&nbsp;</li></ul>				
+</td>
+      			</tr>
+			</table>
+
+       </td>
+     </tr>
+</table>        
+
+<!-- Comments Table -->
+
+<table class="tablestyle" id="table33" cellspacing="4" cellpadding="0">
+	<tr>
+		<td class="sectional">
+		
+<!-- Comments Header -->
+		
+		<table class="headertable" id="table34" cellspacing="2" cellpadding="2">
+			<tr>
+
+				<td class="headercell">
+				<img border="0" src="../../../images/headers/comments.jpg" width="240" height="33"></td>
+			</tr>
+		</table>
+
+<!-- Comments Sectional -->
+
+<table border="0" width="100%" id="table35" cellspacing="2" cellpadding="0">
+	<tr>
+		<td class="darkcell"  style="font-family: Trebuchet MS">
+		<br>Thanks to <font color="#ACCDFB">AKRATE69</font> for providing the game front & back hires covers.		
+        	<br>We couldn't find some of the information and covers for this game. When more accurate information or covers are obtained, the entry will be updated adding the missing information. 
+            If you have information or covers that would complete this entry, please feel free to contribute them by clicking the <font color="#ACCDFB">CONTRIBUTE</font> link in the menu on the left. You will find instructions on how to proceed.<br>&nbsp;</p></td>
+	   </tr>
+	</table>
+       	</td>
+     </tr>
+</table>  
+
+</body>
+</html>

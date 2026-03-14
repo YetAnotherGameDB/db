@@ -1,0 +1,872 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>BODY HAZARD - (NTSC-J)</title>
+<style>
+.tablestyle { width: 100%; background-image: url('../images/tex1.jpg'); border-left: 5px solid #FFFFFF; border-right: 5px solid #000000; border-top: 5px solid #FFFFFF; border-bottom: 5px solid #000000 }
+.sectional { background-color: #200120012001; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF }
+.bluecell { height: 23px; font-family: Trebuchet MS; font-size: 8pt; color: #000000; font-weight: bold; text-align: right; background-color: #ACCDFB; border-left: 2px solid #FFFFFF; border-right: 2px solid #000000; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #000000 }
+.darkcell { height: 23px; font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; text-align: left; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF }
+.headertable { border: 0px; width: 100% } 
+.headercell { height: 35px; background-color: #3285F5; border-left: 2px solid #FFFFFF; border-right: 2px solid #000000; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #000000 }
+ body {font-size: 8pt; font-family: "MS Sans Serif"; }</style>
+</head>
+<body style="background-color: #666666" link="#0000FF" vlink="#0000FF" topmargin="0" leftmargin="0">
+
+<!-- Game Title -->
+
+<table class="tablestyle" id="table1" cellspacing="4" cellpadding="0">
+	<tr>
+		<td style="background-color: #800000; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF; font-family: Trebuchet MS; font-size: 9pt; font-weight: bold; color: #FFFF00" align="center">
+
+		<font face="Tahoma">BODY HAZARD</font></td>
+	</tr>
+</table>
+
+<!-- Cover / Game ID Table -->
+
+<table class="tablestyle" id="table2" cellspacing="4" cellpadding="0">
+	<tr>
+		<td class="sectional" colspan="2">
+		  <table class="headertable" id="table3" cellspacing="2" cellpadding="2">
+			<tr>
+
+				<td class="headercell">
+				<img border="0" src="../../../images/headers/gameid.jpg" width="240" height="33"></td>
+			</tr>
+		 </table>
+	    </td>
+	</tr>
+	
+<!-- Cover Cell -->	
+	
+	<tr>
+		<td class="sectional" width="250" height="250">
+
+		<img border="0" src="../../../images/covers/J/B/SLPS-00865.jpg" width="250" height="250"></td>
+		
+<!-- Game ID Cell -->
+		
+		<td class="sectional" width="100%">
+		
+<!-- Game ID Table -->
+		
+		<table border="0" width="100%" cellpadding="0" id="table4" height="250">
+			<tr>
+				<td style="width: 100px; height: 12%; font-family: Tahoma; font-size: 8pt; font-style: italic; color: #000000; font-weight: bold; text-align: center; background-color: #ACCDFB; border-left: 2px solid #FFFFFF; border-right: 2px solid #000000; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #000000">
+				Official Title</td>
+				<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF" colspan="2">
+				&nbsp;Body Hazard</td>
+			</tr>
+			<tr>
+				<td style="width: 100px; height: 12%; font-family: Tahoma; font-size: 8pt; font-style: italic; color: #000000; font-weight: bold; text-align: center; background-color: #ACCDFB; border-left: 2px solid #FFFFFF; border-right: 2px solid #000000; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #000000">
+				Common Title</td>
+				<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF" colspan="2"
+				>&nbsp;Body Hazard</td>
+			</tr>
+			<tr>
+				<td style="width: 100px; height: 12%; font-family: Tahoma; font-size: 8pt; font-style: italic; color: #000000; font-weight: bold; text-align: center; background-color: #ACCDFB; border-left: 2px solid #FFFFFF; border-right: 2px solid #000000; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #000000">
+				Serial Number(s)</td>
+				<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF" colspan="2">
+				&nbsp;SLPS-00865</td>
+			</tr>
+			<tr>
+				<td style="width: 100px; height: 12%; font-family: Tahoma; font-size: 8pt; font-style: italic; color: #000000; font-weight: bold; text-align: center; background-color: #ACCDFB; border-left: 2px solid #FFFFFF; border-right: 2px solid #000000; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #000000">
+				Region</td>
+				<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF" colspan="2">
+				&nbsp;NTSC-J</td>
+			</tr>
+			<tr>
+				<td style="width: 100px; height: 12%; font-family: Tahoma; font-size: 8pt; font-style: italic; color: #000000; font-weight: bold; text-align: center; background-color: #ACCDFB; border-left: 2px solid #FFFFFF; border-right: 2px solid #000000; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #000000">
+				Genre / Style</td>
+				<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF">
+				&nbsp;Action&nbsp; / Adventure / Beat'em up</td>
+				<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; background-color: #ACCDFB; border-left: 2px solid #FFFFFF; border-right: 2px solid #000000; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #000000" rowspan="4">
+				<p align="center">
+				<img border="0" src="../../../images/rating/esrb/esrb-t.gif" align="middle" width="89" height="89">
+				<img border="0" src="../../../images/rating/usk/usk-0.gif" align="middle" width="89" height="89"></td>
+			</tr>
+
+			<tr>
+				<td style="width: 100px; height: 12%; font-family: Tahoma; font-size: 8pt; font-style: italic; color: #000000; font-weight: bold; text-align: center; background-color: #ACCDFB; border-left: 2px solid #FFFFFF; border-right: 2px solid #000000; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #000000">
+				Developer</td>
+				<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF">
+				&nbsp;Grey Matter.</td>
+			</tr>
+			<tr>
+				<td style="width: 100px; height: 12%; font-family: Tahoma; font-size: 8pt; font-style: italic; color: #000000; font-weight: bold; text-align: center; background-color: #ACCDFB; border-left: 2px solid #FFFFFF; border-right: 2px solid #000000; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #000000">
+
+				Publisher</td>
+				<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF">
+				&nbsp;Human Entertainment.</td>
+			</tr>
+			<tr>
+				<td style="width: 100px; height: 12%; font-family: Tahoma; font-size: 8pt; font-style: italic; color: #000000; font-weight: bold; text-align: center; background-color: #ACCDFB; border-left: 2px solid #FFFFFF; border-right: 2px solid #000000; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #000000">
+				Date Released</td>
+
+				<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF">
+				&nbsp;3 July 1997</td>
+			</tr>
+</table>
+		</td>
+	</tr>
+</table>
+
+<!-- Disc Info Table -->
+
+<table class="tablestyle" id="table5" cellspacing="4" cellpadding="0">
+
+	<tr>
+		<td class="sectional">
+		
+<!-- Disc Info Header -->
+		
+		<table class="headertable" id="table6" cellspacing="2" cellpadding="2">
+			<tr>
+				<td class="headercell">
+				<img border="0" src="../../../images/headers/discinfo.jpg" width="240" height="33"></td>
+			</tr>
+		</table>
+
+		
+<!-- Disc Info Sectional --> <div align="center">
+		
+		<table border="0" id="table7" cellspacing="2" cellpadding="0" height="199">
+			<tr>
+				<td class="bluecell" style="width: 150px; height: 100px; font-family: Tahoma; font-style: italic; text-align: center">Disc Number &amp;<br>
+				Printed Serial Number</td>
+				<td class="darkcell" style="width: 100px; height: 100px; text-align: center">DISC 1<br>
+				<img border="0" src="../../../images/cd.gif" width="80" height="80"><br>SLPS-00865</td>
+                <td class="darkcell" style="width: 100px; height: 100px; text-align: center"></td>
+                <td class="darkcell" style="width: 100px; height: 100px; text-align: center"></td>
+                <td class="darkcell" style="width: 100px; height: 100px; text-align: center"></td>
+                <td class="darkcell" style="width: 100px; height: 100px; text-align: center"></td>
+                <td class="darkcell" style="width: 100px; height: 100px; text-align: center"></td>
+			</tr>
+			<tr>
+				<td class="bluecell" style="width: 150px; font-family: Tahoma; font-style: italic; text-align: center">Serial Number In Disc</td>
+				<td class="darkcell" style="width: 100px; text-align: center">SLPS-00865</td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+			</tr>			
+                 <tr>
+				<td class="bluecell" style="width: 150px; font-family: Tahoma; font-style: italic; text-align: center">Media Disc ID</td>
+				<td class="darkcell" style="width: 100px; text-align: center">N / A</td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+			</tr>
+
+			<tr>
+				<td class="bluecell" style="width: 150px; font-family: Tahoma; font-style: italic; text-align: center; height:69px">Number Of Tracks</td>
+				<td class="darkcell" style="width: 100px; text-align: center; height:69px">16<br>
+				<font color="#FFFF00">( </font><font color="#ffff00">1 Data Track &<br>15 Audio Tracks )</td>
+				<td class="darkcell" style="width: 100px; text-align: center; height:69px"></td>
+				<td class="darkcell" style="width: 100px; text-align: center; height:69px"></td>
+				<td class="darkcell" style="width: 100px; text-align: center; height:69px"></td>
+				<td class="darkcell" style="width: 100px; text-align: center; height:69px"></td>
+				<td class="darkcell" style="width: 100px; text-align: center; height:69px"></td>
+			</tr>
+			<tr>
+				<td class="bluecell" style="height: 46px; width: 150px; font-family: Tahoma; font-style: italic; text-align: center">Approx. Image Size<br>
+				( Image Format Used )</td>
+				<td class="darkcell" style="height: 46px; width: 100px; text-align: center"> MB<br>
+				<font color="#FFFF00">( .bin / .cue )</font></td>
+				<td class="darkcell" style="height: 46px; width: 100px; text-align: center"></td>
+				<td class="darkcell" style="height: 46px; width: 100px; text-align: center"></td>
+				<td class="darkcell" style="height: 46px; width: 100px; text-align: center"></td>
+				<td class="darkcell" style="height: 46px; width: 100px; text-align: center"></td>
+				<td class="darkcell" style="height: 46px; width: 100px; text-align: center"></td>
+			</tr>
+			<tr>
+				<td class="bluecell" style="width: 150px; font-family: Tahoma; font-style: italic; text-align: center">Approx.Size On Disc</td>
+				<td class="darkcell" style="width: 100px; text-align: center"> MB</td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+				<td class="darkcell" style="width: 100px; text-align: center"></td>
+			</tr>
+			<tr>
+
+				<td class="bluecell" style="height: 60px; width: 150px; font-family: Tahoma; font-style: italic; text-align: center">Approx. Archive Size<br>
+				( Archive Type Used )</td>
+				<td class="darkcell" style="height: 60px; width: 100px; text-align: center"> MB<br>
+				<font color="#FFFF00">( 1 RAR File with<br>2% Recovery )</font></td>
+				<td class="darkcell" style="height: 60px; width: 100px; text-align: center"></td>
+				<td class="darkcell" style="height: 60px; width: 100px; text-align: center"></td>
+				<td class="darkcell" style="height: 60px; width: 100px; text-align: center"></td>
+				<td class="darkcell" style="height: 60px; width: 100px; text-align: center"></td>
+				<td class="darkcell" style="height: 60px; width: 100px; text-align: center"></td>
+			</tr>
+			<tr>
+				<td class="bluecell" style="height: 60px; width: 150px; font-family: Tahoma; font-style: italic; text-align: center">Barcode Number(s)<br>
+				( UPC / EAN )</td>
+				<td class="darkcell" style="text-align: left" colspan="6" width="600">
+				<br>From the back cover.<br>
+				<ul><li>&nbsp;4959143900189&nbsp; -&nbsp; <img border="0" src="../../../images/flags/mini/japan.jpg" align="texttop" width="25" height="16"><br>&nbsp;</li>
+				<br>&nbsp;
+                </ul>
+                </td>
+			</tr>
+
+			</table>
+	   
+</div>
+	   
+	   </td>
+	</tr>
+</table>
+
+<!-- Languages Table -->
+
+<table class="tablestyle" id="table11" cellspacing="4" cellpadding="0">
+	<tr>
+		<td class="sectional">
+
+		
+<!-- Languages Header -->
+		
+		<table class="headertable" id="table12" cellspacing="2" cellpadding="2">
+			<tr>
+				<td class="headercell">
+				<img border="0" src="../../../images/headers/lang.jpg" width="240" height="33"></td>
+			</tr>
+		</table>
+
+<!-- Languages Sectional -->
+
+<div align="center">
+
+<table border="0" id="table13" cellspacing="2" cellpadding="0">
+	<tr>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center">
+		<img border="0" src="../../../images/flags/japan.gif" align="center" width="100" height="50" ><br>Japanese</td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+	</tr>
+	<tr>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+		<td class="darkcell" style="height: 80px; width: 105px; text-align:center"></td>
+	</tr><br>
+
+	</table>
+	<font face="Tahoma" style="font-size: 8pt; font-weight: 700; font-style: italic" color="#FFFF00">Menus and gameplay are in Japanese.</font>
+       	</div>
+       	</td>
+     </tr>
+
+</table>
+ 
+<!-- Game Description Table -->
+
+<table class="tablestyle" id="table14" cellspacing="4" cellpadding="0">
+	<tr>
+		<td class="sectional">
+
+<!-- Game Description Header -->
+		
+		<table class="headertable" id="table15" cellspacing="2" cellpadding="2">
+			<tr>
+				<td class="headercell">
+				<img border="0" src="../../../images/headers/gamedes.jpg" width="240" height="33"></td>
+			</tr>
+		</table>
+
+<!-- Game Description Sectional -->
+
+<table border="0" width="100%" id="table16" cellpadding="0">
+	<tr>
+		<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; text-align: left; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF">
+			<br>Captain Blake Hunter is one tough character; he's a top agent in the Earth Command Defense Forces and one heck of a martial artist. Though he knows no fear, he must prepare himself for the fight of a lifetime -- alone. One day, Hunter was mysteriously transported to unknown regions of an alien universe. As Hunter, you'll explore five alien moons crawling with deadly critters and uncharted territory.
+                  <br><br>As a third-person fighting adventure, Perfect Weapon has loads of martial arts maneuvers to master, aliens to destroy and options to select. Each moon has specific alien organisms and terrain -- whereas the sub-arctic Ice Moon is crawling with savage Icemen and the ferocious Alopex, the Proteus Moon features genetically altered mutants in a technological setting. Other moons include the Garden Moon complete with Shaolin Monks, a Forest Moon and the blazingly hot Desert Moon; there's well over 1,300 rendered environments in which to interact! Additionally, you'll fight over 20 unique alien races throughout the adventure.
+                  <br><br>While the main focus of gameplay is fighting, there is some exploration and adventuring elements included. When there's no enemies around, you can do one of three things: take a gander at your surroundings, relax your body, or practice new maneuvers. Practicing the moves is highly important for succession and the destruction of alien bad guys. Hunter's moves include a devastating scissors and sweep kick, various punches and grabs, tackles, throws, and a ferocious roundhouse combination; there are over 100 martial arts maneuvers to master.
+                  <br><br>Located throughout the moons are helpful items including keys to unlocked doors, health pickups, and a map beacon that displays one quarter of the current map area. There's also a detector that reveals hidden items, power gloves that increase Hunter's damage, a transmitter that disables lasers and protective armor useful in battle. After picking up any given icon, you'll want to access the inventory screen in order to use the item. Be careful, though -- he can only carry four items at once.
+                  <br><br>Perfect Weapon also features a screen navigator that points you in the right direction and locates alien critters. There are three difficulty settings (easy, normal, and perfect) with options for sound effects, sound testing, music, controller configurations, and credits. You can either save your game to a PlayStation memory card or utilize the password feature.
+                  <br><br>Captain Blake Hunter will be put to the test as never before...get ready to rumble.
+                  <br><br>Features:
+                  <br>* Take the role of Captain Blake Hunter and defeat the enemy with a swift scissor kick to the face
+                  <br>* Work your way through numerous environments spread over five different levels of combat
+                  <br>* Be the Perfect Weapon and take out 20 different alien attackers
+                  <br><br>&nbsp;&nbsp;<u>Manufacturer's description:</u><br>
+                  <br>THE ULTIMATE BATTLE IS THE ONE YOU FIGHT ALONE
+                  <br><br>"I have reviewed over 1,000 games and have never seen anything like Perfect Weapon."
+                  <br>Lawrence Neves, Senior Editor Game Pro
+                  <br><br>"Perfect Weapon may very well end up as one of the most unique and exciting products to hit the PlayStation this year!"
+                  <br>Greg Off, Editor-In-Chief, PS Extreme
+                  <br><br>4 lethal alien attackers can gang-up on you using FIRST and ONLY Behavioral Artificial Intelligence.
+                  <br><br>Take on 20 merciless alien species with over 100 martial arts moves.
+                  <br><br>Explore over 1,300 rendered environments across five hostile worlds.
+                  <br><br>Camera angles move as fast as you do.
+                  <br><br>Survival lies cloaked in deception...
+                  <br><br>&nbsp;&nbsp;<u>Features:</u><br>
+			<ul><li>Third person perspective.</li>
+			<li>3D graphics</li>
+			<li>Cartoon graphics</li>
+			<li>SCI-FI, Fantasy & Futuristic themes.</li></ul>
+</td>
+
+	</tr>
+	</table>
+	       	</td>
+     </tr>
+</table>  
+
+<!-- Game Features Table -->
+
+<table class="tablestyle" id="table17" cellspacing="4" cellpadding="0">
+	<tr>
+		<td class="sectional">
+		
+
+<!-- Game Features Header -->
+		
+		<table class="headertable" id="table18" cellspacing="2" cellpadding="2">
+			<tr>
+				<td class="headercell">
+				<img border="0" src="../../../images/headers/gamefeat.jpg" width="240" height="33"></td>
+			</tr>
+		</table>
+
+<!-- Game Features Sectional -->
+
+<table border="0" width="100%" id="table19" cellspacing="2" cellpadding="0">
+
+	<tr>
+		<td class="bluecell" style="width: 200; font-family: Tahoma; font-style: italic; text-align: center">
+		Number Of Players</td>
+		<td class="darkcell">&nbsp;1 Player</td>
+	</tr>
+	<tr>
+		<td class="bluecell" style="width: 200; font-family: Tahoma; font-style: italic; text-align: center">
+		Number Of Memory Card Blocks</td>
+		<td class="darkcell">&nbsp;1 Block</td>
+	</tr>
+	<tr>
+		<td class="bluecell" style="width: 200; font-family: Tahoma; font-style: italic; text-align: center; height:46px">
+		Compatible Controllers Tested<br>( Official Gamepads Only )</td>
+		<td class="darkcell" style="height: 46px">&nbsp;Standard Controller
+<font color="#FFFF00">( Digital Controller compatible only )</font></td>
+
+	</tr>
+	<tr>
+		<td class="bluecell" style="width: 200; font-family: Tahoma; font-style: italic; text-align: center; height:46px">
+		Compatible Light Guns<br>( Official Light Guns Only )</td>
+		<td class="darkcell" style="height: 46px">&nbsp;None</td>
+	</tr>
+<tr>
+		<td class="bluecell" style="width: 200; font-family: Tahoma; font-style: italic; text-align: center; height:46px">
+
+		Other Compatible Controllers<br>( Official Controllers Only )</td>
+		<td class="darkcell" style="height: 46px">&nbsp;None</td>
+	</tr>
+	<tr>
+		<td class="bluecell" style="width: 200; font-family: Tahoma; font-style: italic; text-align: center; height:46px">
+		Special Controllers Included Or<br>Supported ( Official Only )</td>
+		<td class="darkcell" style="height: 46px">&nbsp;None</td>
+	</tr>
+	<tr>
+		<td class="bluecell" style="width: 200; font-family: Tahoma; font-style: italic; text-align: center">
+		Vibration Function Compatible</td>
+		<td class="darkcell">&nbsp;No</td>
+	</tr>
+
+	<tr>
+		<td class="bluecell" style="width: 200; font-family: Tahoma; font-style: italic; text-align: center">
+		Multi-Tap Function Compatible</td>
+		<td class="darkcell">&nbsp;No <font color="#FFFF00">   </font></td>
+	</tr>
+<tr>
+		<td class="bluecell" style="width: 200; font-family: Tahoma; font-style: italic; text-align: center">
+		Link Cable Function Compatibile</td>
+		<td class="darkcell">&nbsp;No</td>
+	</tr>
+	</table>
+       	</td>
+     </tr>
+</table>        
+
+<!-- Screenshots Table -->
+
+<table class="tablestyle" id="table20" cellspacing="4" cellpadding="0">
+	<tr>
+		<td class="sectional">
+		
+<!-- Screenshots Header -->
+		
+		<table class="headertable" id="table21" cellspacing="2" cellpadding="2">
+			<tr>
+				<td class="headercell">
+				<img border="0" src="../../../images/headers/screens.jpg" width="240" height="33"></td>
+			</tr>
+
+		</table>
+
+<!-- Screenshots Sectional -->
+
+<table border="0" id="table22" cellspacing="2" cellpadding="0" align=center>
+	<tr>
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/U/P/SLUS-00341/ss1.jpg" width="320" height="240"></td>
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/U/P/SLUS-00341/ss2.jpg" width="320" height="240"></td>
+	</tr>
+
+	<tr>
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/U/P/SLUS-00341/ss3.jpg" width="320" height="240"></td>
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/U/P/SLUS-00341/ss4.jpg" width="320" height="240"></td>
+	</tr>
+<tr>
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/U/P/SLUS-00341/ss5.jpg" width="320" height="240"></td>
+
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/U/P/SLUS-00341/ss6.jpg" width="320" height="240"></td>
+	</tr>
+<tr>
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/U/P/SLUS-00341/ss7.jpg" width="320" height="240"></td>
+
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/U/P/SLUS-00341/ss8.jpg" width="320" height="240"></td>
+	</tr>
+<tr>
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/U/P/SLUS-00341/ss9.jpg" width="320" height="240"></td>
+
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/U/P/SLUS-00341/ss10.jpg" width="320" height="240"></td>
+	</tr>
+<tr>
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/U/P/SLUS-00341/ss11.jpg" width="320" height="240"></td>
+
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/U/P/SLUS-00341/ss12.jpg" width="320" height="240"></td>
+	</tr>
+<tr>
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/U/P/SLUS-00341/ss13.jpg" width="320" height="240"></td>
+
+		<td class="darkcell" style="width: 322px; height: 246px">
+		<img border="0" src="../../../images/screens/U/P/SLUS-00341/ss14.jpg" width="320" height="240"></td>
+	</tr>
+	</table>
+       	</td>
+     </tr>
+</table>  
+
+<!-- Emulation Compatibility Sectional -->
+
+<table border="0" width="100%" id="table25" cellspacing="2" cellpadding="0">
+	<tr>
+		<td class="bluecell" style="width: 130px; font-family: Tahoma; font-style: italic; text-align: center">
+		Emulator</td>
+		<td class="darkcell">&nbsp;ePSXe v.1.7.0</td>
+	</tr>
+	<tr>
+
+		<td class="bluecell" style="width: 130px; font-family: Tahoma; font-style: italic; text-align: center">
+		Video Plugin</td>
+		<td class="darkcell">&nbsp;Pete's OpenGL Driver v2.9 
+		<font color="#FFFF00">( internal X & Internal Y= Very High, Stretching mode: Stretch to full window size, render Mode: 2 (Use framebuffer object) text filt = 2 FPS limit= 63, Compatibility=2,3,2; Shader effects= 1 (Fullscreen smoothin))</font></td>
+	</tr>
+	<tr>
+		<td class="bluecell" style="width: 130px; font-family: Tahoma; font-style: italic; text-align:center">
+		Audio Plugin</td>
+
+		<td class="darkcell">&nbsp;ePSXe SPU Core v.1.7.0</font></td>
+	</tr>
+	<tr>
+		<td class="bluecell" style="width: 130px; font-family: Tahoma; font-style: italic; text-align: center">
+		CD-ROM Plugin</td>
+		<td class="darkcell">&nbsp;ePSXe Cdrom plugin</td>
+	</tr>
+
+<tr>
+		<td class="bluecell" style="width: 130px; font-family: Tahoma; font-style: italic; text-align: center">
+		Game Pad Plugin</td>
+		<td class="darkcell">&nbsp;N / A</td>
+	</tr>
+	<tr>
+		<td class="bluecell" style="width: 130px; font-family: Tahoma; font-style: italic; text-align: center">
+		Vibration Compatible</td>
+		<td class="darkcell">&nbsp;The game doesn't have it (Digital only).</td>
+	</tr>
+	<tr>
+		<td class="bluecell" style="width: 130px; font-family: Tahoma; font-style: italic; text-align: center">
+		Console Bios Used</td>
+		<td class="darkcell">&nbsp;SCPH7502</td>
+	</tr>
+
+	</table>
+       	<br>&nbsp;<font face="Tahoma" style="font-size: 11pt; font-weight: 700; background-color:#FF0000" color="#FFFF00">&nbsp;<u>NOTE:</u>&nbsp;</font>
+<font face="Tahoma" style="font-size: 8pt; font-weight:700">&nbsp;This is not the only possible combination of plugins. There are others that will work (better or worse) for your particular hardware. We provide you with one working set-up so that you may get the game up and running, hassle-free. Testing other emulators/plugins is up to you.</font><br>&nbsp;</td>
+     </tr>
+</table>  
+
+<!-- Game Controls Table -->
+
+<table class="tablestyle" id="table14a" cellspacing="4" cellpadding="0">
+	<tr>
+		<td class="sectional">
+
+		
+<!-- Game Controls Header -->
+		
+		<table class="headertable" id="table15" cellspacing="2" cellpadding="2">
+			<tr>
+				<td class="headercell">
+				<img border="0" src="../../../images/headers/controls.jpg" width="240" height="33"></td>
+			</tr>
+		</table>
+
+<!-- Game Controls Sectional -->
+
+<table border="0" width="100%" id="table16" cellpadding="0">
+	<tr>
+		<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; text-align: left; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF">
+			<br>&nbsp;<u><i><font color="#FFFF00">EXPLORATION MODE CONTROLS:</font></i></u><br>
+                  &nbsp; Move character:
+                  <font color="#00FF00">&nbsp;D-Pad</font>
+                  <br>&nbsp; Run:
+                  <font color="#00FF00">&nbsp;D-Pad up + X Button</font>
+                  <br>&nbsp; Select action:
+                  <font color="#00FF00">&nbsp;X Button</font>
+                  <br>&nbsp; Relax or explore:
+                  <font color="#00FF00">&nbsp;L2 Button</font>
+                  <br>&nbsp; Combat stance / practice moves:
+                  <font color="#00FF00">&nbsp;R2 Button</font>
+                  <br>&nbsp; Pause game / Menu:
+                  <font color="#00FF00">&nbsp;Start Button</font><br>
+			<br>&nbsp;<u><i><font color="#FFFF00">COMBAT MODE CONTROLS:</font></i></u><br>
+                  &nbsp; Dash:
+                  <font color="#00FF00">&nbsp;D-Pad up (twice)</font>
+                  <br>&nbsp; Run:
+                  <font color="#00FF00">&nbsp;D-Pad up and hold</font>
+                  <br>&nbsp; Back flip:
+                  <font color="#00FF00">&nbsp;D-Pad down</font>
+                  <br>&nbsp; Back flip with 180 degree turn:
+                  <font color="#00FF00">&nbsp;D-Pad up and hold</font>
+                  <br>&nbsp; Jump:
+                  <font color="#00FF00">&nbsp;R1 Button</font>
+                  <br>&nbsp; Crouch:
+                  <font color="#00FF00">&nbsp;L1 Button</font>
+                  <br>&nbsp; Left kick:
+                  <font color="#00FF00">&nbsp;X Button</font>
+                  <br>&nbsp; Right kick:
+                  <font color="#00FF00">&nbsp;Circle Button</font>
+                  <br>&nbsp; Left punch:
+                  <font color="#00FF00">&nbsp;Square Button</font>
+                  <br>&nbsp; Right punch:
+                  <font color="#00FF00">&nbsp;Triangle Button</font>
+                  <br>&nbsp; Sweep kick:
+                  <font color="#00FF00">&nbsp;L1 + X or Circle Button</font>
+                  <br>&nbsp; Palm strike:
+                  <font color="#00FF00">&nbsp;Hold L1 + Triangle + Square Button</font>
+                  <br>&nbsp; Scissor kick:
+                  <font color="#00FF00">&nbsp;Hold L1 While Letting Go Press X Button</font>
+                  <br>&nbsp; Jump kick:
+                  <font color="#00FF00">&nbsp;R1 + X Button</font>
+                  <br>&nbsp; Knee grapple (must be near opponent):
+                  <font color="#00FF00">&nbsp;Triangle + Circle Button</font>
+                  <br>&nbsp; Tackle:
+                  <font color="#00FF00">&nbsp;Dash + Square + X Button</font>
+                  <br>&nbsp; Uppercut:
+                  <font color="#00FF00">&nbsp;D-Pad Forward + Square Button</font>
+                  <br>&nbsp; Spinning back punch:
+                  <font color="#00FF00">&nbsp;D-Pad Down + Triangle Button</font>
+                  <br>&nbsp; Back kick:
+                  <font color="#00FF00">&nbsp;D-Pad Down + X Button</font>
+                  <br>&nbsp; Side kick combos:
+                  <font color="#00FF00">&nbsp;D-Pad Down + X,X,X Button</font>
+                  <br>&nbsp; Grapple throw:
+                  <font color="#00FF00">&nbsp;Square + X Button</font>
+                  <br>&nbsp; Jab side kick combo:
+                  <font color="#00FF00">&nbsp;Triangle + X Button</font>
+                  <br>&nbsp; Round house combo:
+                  <font color="#00FF00">&nbsp;X + Circle Button</font>
+                  <br>&nbsp; Map:
+                  <font color="#00FF00">&nbsp;Select Button</font>
+                  <br>&nbsp; Pause game:
+                  <font color="#00FF00">&nbsp;Start Button</font><br>
+     &nbsp;</td>
+	 </tr>
+	</table>
+       	</td>
+     </tr>
+</table>
+
+      
+<!-- Game Cheats Table -->
+
+<table class="tablestyle" id="table14a" cellspacing="4" cellpadding="0">
+	<tr>
+		<td class="sectional">
+		
+<!-- Game Cheats Header -->
+		
+		<table class="headertable" id="table15" cellspacing="2" cellpadding="2">
+			<tr>
+				<td class="headercell">
+				<img border="0" src="../../../images/headers/cheats.jpg" width="240" height="33"></td>
+
+			</tr>
+		</table>
+
+<!-- Game Cheats Sectional -->
+
+<table border="0" width="100%" id="table16" cellpadding="0">
+	<tr>
+		<td style="font-family: Trebuchet MS; font-size: 8pt; color: #FFFFFF; font-weight: bold; text-align: left; background-color: #333333; border-left: 2px solid #000000; border-right: 2px solid #FFFFFF; border-top: 2px solid #000000; border-bottom: 2px solid #FFFFFF">
+          		<br><u><i><font color="#FFFF00">MISC CODES:</font></i></u><br>
+			&nbsp; All attacks - 
+                  &nbsp; <font color="#00FF00">Pause the game and press L2, R2, R1, L1</font>&nbsp;
+			<br>&nbsp; Big Head Mode - 
+                  &nbsp; <font color="#00FF00">While paused press L1 + L2 + R2 + Down</font>&nbsp;
+			<br>&nbsp; Cyborg Mode - 
+                  &nbsp; <font color="#00FF00">While paused press R1 + R2 + Triangle + Circle</font>&nbsp;
+			<br>&nbsp; Invencibility - 
+                  &nbsp; <font color="#00FF00">Pause the game and press Circle + Square + Right, then release the buttons and press Left + R1 + R2</font>&nbsp;
+			<br>&nbsp; Level Select - 
+                  &nbsp; <font color="#00FF00">Pause the game, hold R1 and press Square, Triangle, Circle, X</font>&nbsp;
+			<br>&nbsp; Sphere Mode - 
+                  &nbsp; <font color="#00FF00">Pause the game and press L1 + L2 + Circle + Square</font>&nbsp;
+			<br>&nbsp; Unlock Morgone Level - 
+                  &nbsp; <font color="#00FF00">Pause the game and press X, X, Square, X, Square, Square, Triangle, Circle</font>&nbsp;<br>
+          		<br><u><i><font color="#FFFF00">LEVEL PASSWORD CODES:</font></i></u><br>
+			&nbsp; Desert Moon - 
+                  &nbsp; <font color="#00FF00">Circle, X, X, X, Triangle, Circle, Triangle, Triangle</font>&nbsp;
+			<br>&nbsp; Forest Moon - 
+                  &nbsp; <font color="#00FF00">Circle, Triangle, Square, Circle, Square, Square, Triangle, Triangle</font>&nbsp;
+			<br>&nbsp; Garden Moon - 
+                  &nbsp; <font color="#00FF00">Circle, X, X, Triangle, Circle, Circle, x, Triangle</font>&nbsp;
+			<br>&nbsp; Proteus Moon - 
+                  &nbsp; <font color="#00FF00">X, X, Square, X, Square, Square, Triangle, Circle</font>&nbsp;<br>
+	 </tr>
+	</table>
+       	</td>
+
+     </tr>
+</table>
+
+<!-- High Resolution Covers Table -->
+
+<table class="tablestyle" id="table26" cellspacing="4" cellpadding="0">
+	<tr>
+		<td class="sectional">
+		
+<!-- High Resolution Covers Header -->
+		
+		<table class="headertable" id="table27" cellspacing="2" cellpadding="2">
+			<tr>
+
+				<td class="headercell">
+				<img border="0" src="../../../images/headers/hirescovers.jpg" width="240" height="33"></td>
+			</tr>
+		</table>
+
+<!-- High Resolution Covers Sectional -->
+
+<table border="0" id="table28" cellspacing="2" cellpadding="0" align="center">
+	<tr>
+		<td class="bluecell" colspan=6 style="font-family: Tahoma; font-style: italic; text-align: center; font-size: 10pt">
+		<img border="0" src="../../../images/flags/mini/japan.jpg" align="texttop" width="25" height="16">&nbsp;-&nbsp;Jewel Case Covers</td>
+	</tr>
+	<tr>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center">FRONT</td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center">BACK</td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center">INSIDE</td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+	</tr>
+	<tr>
+            <td class="darkcell" style="width: 130px; height: 105px; text-align: center">
+		<a target="_blank" href="../../../images/hires/J/B/SLPS-00865/SLPS-00865-F-ALL.html">
+		<img border="0" src="../../../images/thumbs/J/B/SLPS-00865/SLPS-00865-F-ALL.jpg" width="100" height="100"></a></td>
+            <td class="darkcell" style="width: 130px; height: 105px; text-align: center">
+		<a target="_blank" href="../../../images/hires/J/B/SLPS-00865/SLPS-00865-B-ALL.html">
+		<img border="0" src="../../../images/thumbs/J/B/SLPS-00865/SLPS-00865-B-ALL.jpg" width="100" height="100"></a></td>
+            <td class="darkcell" style="width: 130px; height: 105px; text-align: center">
+		<img border="0" src="../../../images/thumbs/none.jpg" width="129" height="100" align="center"></td>
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center; "></td>
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center; "></td>
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center; "></td>
+	</tr>
+	<tr>
+            <td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px">
+		<font color="#FFFFFF">CLICK THE IMAGE</font><br>Dim. - 500 x 498 pix.<br>Res. - 
+		300 dpi<br>File Size - 46 KB</td>
+            <td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px">
+		<font color="#FFFFFF">CLICK THE IMAGE</font><br>Dim. - 638 x 500 pix.<br>Res. - 
+		300 dpi<br>File Size - 91 KB</td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px">MISSING<br>PLEASE CONTRIBUTE</td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+	</tr>
+	</table>
+<table border="0" id="table28" cellspacing="2" cellpadding="0" align="center">
+	<tr>
+		<td class="bluecell" colspan=6 style="font-family: Tahoma; font-style: italic; text-align: center; font-size: 10pt">
+		<img border="0" src="../../../images/flags/mini/usa.jpg" align="texttop" width="25" height="16">&nbsp;-&nbsp;Jewel Case Covers</td>
+	</tr>
+	<tr>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center">USA ADVERT PAGE 1</td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center">USA ADVERT PAGE 2</td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+	</tr>
+	<tr>
+            <td class="darkcell" style="width: 130px; height: 105px; text-align: center">
+		<a target="_blank" href="../../../images/hires/U/P/SLUS-00341/SLUS-00341-A-1.html">
+		<img border="0" src="../../../images/thumbs/U/P/SLUS-00341/SLUS-00341-A-1.jpg" width="100" height="100"></a></td>
+            <td class="darkcell" style="width: 130px; height: 105px; text-align: center">
+		<a target="_blank" href="../../../images/hires/U/P/SLUS-00341/SLUS-00341-A-2.html">
+		<img border="0" src="../../../images/thumbs/U/P/SLUS-00341/SLUS-00341-A-2.jpg" width="100" height="100"></a></td>
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center; "></td>
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center; "></td>
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center; "></td>
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center; "></td>
+	</tr>
+	<tr>
+            <td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px">
+		<font color="#FFFFFF">CLICK THE IMAGE</font><br>Dim. - 2297 x 3117 pix.<br>Res. - 
+		300 dpi<br>File Size - 1019 KB</td>
+            <td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px">
+		<font color="#FFFFFF">CLICK THE IMAGE</font><br>Dim. - 2322 x 3131 pix.<br>Res. - 
+		300 dpi<br>File Size - 828 KB</td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+	</tr>
+	</table>
+<table border="0" id="table29" align="center" cellspacing="2" cellpadding="0">
+	<tr>
+		<td class="bluecell" colspan=6 style="font-family: Tahoma; font-style: italic; text-align: center; font-size: 10pt">
+		<img border="0" src="../../../images/flags/mini/japan.jpg" align="texttop">&nbsp;-&nbsp;Disc Cover</td>
+	</tr>
+	<tr>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center">DISC</td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+        <td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+        <td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+        <td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+        <td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center"></td>
+	</tr>
+	<tr>
+            <td class="darkcell" style="width: 130px; height: 105px; text-align: center">
+		<a target="_blank" href="../../../images/hires/J/B/SLPS-00865/SLPS-00865-D-ALL.html">
+		<img border="0" src="../../../images/thumbs/J/B/SLPS-00865/SLPS-00865-D-ALL.jpg" width="100" height="100"></a></td>
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center;"></td>
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center;"></td>
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center;"></td>
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center;"></td>
+        <td class="darkcell" style="width: 130px; height: 105px; text-align: center;"></td>
+	</tr>
+	<tr>
+            <td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px">
+		<font color="#FFFFFF">CLICK THE IMAGE</font><br>Dim. - 500 x 499 pix.<br>Res. - 
+		300 dpi<br>File Size - 53 KB</td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+		<td class="darkcell" style="width: 130px; color: #FFFF00; text-align: center; height:69px"></td>
+	</tr>
+</table>
+       	</td>
+     </tr>
+</table>
+
+<!-- Other Regions Released Table -->
+
+<table class="tablestyle" id="table30" cellspacing="4" cellpadding="0">
+	<tr>
+		<td class="sectional">
+
+		
+<!-- Other Regions Released Header -->
+		
+		<table class="headertable" id="table31" cellspacing="2" cellpadding="2">
+			<tr>
+				<td class="headercell">
+				<img border="0" src="../../../images/headers/orr.jpg" width="240" height="33"></td>
+			</tr>
+		</table>
+		
+<!-- Other Discs In This Set Sectional -->				
+		
+        <table border="0" width="100%" id="table32" cellspacing="2" cellpadding="0">
+
+			<tr>
+                        <td class="darkcell" style="font-family: Trebuchet MS"><br>
+			      &nbsp;<font color="#FFFF00"><u><i>NTSC-U:</i></u></font>
+				<ul><li>Perfect Weapon [SLUS-00341]&nbsp; -&nbsp;
+				<img border="0" src="../../../images/flags/mini/usa.jpg" align="top" width="25" height="16"><br>&nbsp;</li></ul>
+			      &nbsp;<font color="#FFFF00"><u><i>PAL:</i></u></font>
+				<ul><li>Perfect Weapon [SLES-00581]&nbsp; -&nbsp;
+				<img border="0" src="../../../images/flags/mini/europe.jpg" align="top" width="25" height="16"><br>&nbsp;</li>
+                        <li>Perfect Weapon [SLES-00685]&nbsp; -&nbsp;
+				<img border="0" src="../../../images/flags/mini/france.jpg" align="top" width="25" height="16"><br>&nbsp;</li>
+                        <li>Perfect Weapon [SLES-00686]&nbsp; -&nbsp;
+				<img border="0" src="../../../images/flags/mini/germany.jpg" align="top" width="25" height="16"><br>&nbsp;</li></ul>
+</td>
+      			</tr>
+			</table>
+
+       </td>
+     </tr>
+</table>        
+
+<!-- Comments Table -->
+
+<table class="tablestyle" id="table33" cellspacing="4" cellpadding="0">
+	<tr>
+		<td class="sectional">
+		
+<!-- Comments Header -->
+		
+		<table class="headertable" id="table34" cellspacing="2" cellpadding="2">
+			<tr>
+
+				<td class="headercell">
+				<img border="0" src="../../../images/headers/comments.jpg" width="240" height="33"></td>
+			</tr>
+		</table>
+
+<!-- Comments Sectional -->
+
+<table border="0" width="100%" id="table35" cellspacing="2" cellpadding="0">
+	<tr>
+		<td class="darkcell"  style="font-family: Trebuchet MS">
+		<br>We couldn't find some of the information and covers for this game. When more accurate information or covers are obtained, the entry will be updated adding the missing information. 
+            If you have information or covers that would complete this entry, please feel free to contribute them by clicking the <font color="#ACCDFB">CONTRIBUTE</font> link in the menu on the left. You will find instructions on how to proceed.<br>&nbsp;</p></td>
+	   </tr>
+	</table>
+       	</td>
+     </tr>
+</table>  
+
+</body>
+</html>
