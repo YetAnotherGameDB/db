@@ -6576,7 +6576,7 @@
           "serial": "SCPS-45129",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "[お得品] BLOODY ROAR(ブラッディロア)"
+          "regionalName": "ブラッディロア"
         },
         {
           "name": "BLOODY ROAR",
@@ -6586,7 +6586,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988607050061",
-          "regionalName": "[お得品] BLOODY ROAR(ブラッディロア)"
+          "regionalName": "ブラッディロア"
         },
         {
           "name": "BLOODY ROAR [PLAYSTATION THE BEST]",
@@ -6596,7 +6596,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988607050320",
-          "regionalName": "[お得品] BLOODY ROAR(ブラッディロア)"
+          "regionalName": "ブラッディロア [PLAYSTATION THE BEST]"
         },
         {
           "name": "BLOODY ROAR",
@@ -6617,7 +6617,7 @@
       ],
       "id": 260,
       "localizedNames": {
-        "ja": "[お得品] BLOODY ROAR(ブラッディロア)"
+        "ja": "ブラッディロア"
       }
     },
     {
@@ -6630,7 +6630,7 @@
           "serial": "SCPS-45374",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "プレイステーション ブラッディロア2"
+          "regionalName": "ブラッディロア2"
         },
         {
           "name": "BLOODY ROAR 2 - BRINGER OF THE NEW AGE",
@@ -6640,7 +6640,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988607050207",
-          "regionalName": "プレイステーション ブラッディロア2"
+          "regionalName": "ブラッディロア2"
         },
         {
           "name": "BLOODY ROAR 2 - BRINGER OF THE NEW AGE",
@@ -6653,7 +6653,7 @@
       ],
       "id": 261,
       "localizedNames": {
-        "ja": "プレイステーション ブラッディロア2"
+        "ja": "ブラッディロア2"
       }
     },
     {
@@ -8699,12 +8699,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4943616000537",
-          "regionalName": "[お得品] CAROM SHOT(キャロムショット) ザ・3Dビリヤード アジェンダ"
+          "regionalName": "CAROM SHOT(キャロムショット) ザ・3Dビリヤード アジェンダ"
         }
       ],
       "id": 342,
       "localizedNames": {
-        "ja": "[お得品] CAROM SHOT(キャロムショット) ザ・3Dビリヤード アジェンダ"
+        "ja": "CAROM SHOT(キャロムショット) ザ・3Dビリヤード アジェンダ"
       }
     },
     {
@@ -31520,7 +31520,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543112136732",
-          "regionalName": "[お得品] 仮面ライダーアギト BANDAI THE BEST(SLPS-03529) バンダイ(20030220)"
+          "regionalName": "仮面ライダーアギト BANDAI THE BEST(SLPS-03529) バンダイ(20030220)"
         }
       ],
       "id": 1294,
@@ -32069,12 +32069,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4990136129736",
-          "regionalName": "[お得品] 競馬最勝の法則'97 Vol.1 狙え!万馬券! シャングリ・ラ"
+          "regionalName": "競馬最勝の法則'97 Vol.1 狙え!万馬券! シャングリ・ラ"
         }
       ],
       "id": 1319,
       "localizedNames": {
-        "ja": "[お得品] 競馬最勝の法則'97 Vol.1 狙え!万馬券! シャングリ・ラ"
+        "ja": "競馬最勝の法則'97 Vol.1 狙え!万馬券! シャングリ・ラ"
       }
     },
     {
@@ -40802,7 +40802,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907859108160",
-          "regionalName": "[お得品] ミニ四駆 爆走兄弟レッツ&ゴー!! WGP HYPER HEAT(ハイパーヒート)"
+          "regionalName": "ミニ四駆 爆走兄弟レッツ&ゴー!! WGP HYPER HEAT(ハイパーヒート)"
         }
       ],
       "id": 1698,
@@ -44727,7 +44727,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4529651000659",
-          "regionalName": "[お得品] Major Wave シリーズ 発車オーライ!ガタンゴトン ハムスター(SLPM-86766)(20010329)"
+          "regionalName": "Major Wave シリーズ 発車オーライ!ガタンゴトン ハムスター(SLPM-86766)(20010329)"
         }
       ],
       "id": 1852,
@@ -50242,7 +50242,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988110021312",
-          "regionalName": "[お得品] パイロットになろう!"
+          "regionalName": "パイロットになろう!"
         }
       ],
       "id": 2079,
