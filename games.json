@@ -575,7 +575,10 @@
           "upc": "4539033000016"
         }
       ],
-      "id": 22
+      "id": 22,
+      "localizedNames": {
+        "ja": "あっナンジャリン"
+      }
     },
     {
       "name": "A RESSHA DE IKOU Z: MEZASE! TAIRIKU OUDAN",
@@ -611,7 +614,10 @@
           "upc": "4944076003175"
         }
       ],
-      "id": 23
+      "id": 23,
+      "localizedNames": {
+        "ja": "A列車で行こうZ めざせ！大陸横断"
+      }
     },
     {
       "name": "ABALABURN",
@@ -627,7 +633,10 @@
           "upc": "4904880137190"
         }
       ],
-      "id": 24
+      "id": 24,
+      "localizedNames": {
+        "ja": "アバラバーン"
+      }
     },
     {
       "name": "ABE A GO GO",
@@ -643,7 +652,10 @@
           "upc": "4512557600320"
         }
       ],
-      "id": 25
+      "id": 25,
+      "localizedNames": {
+        "ja": "エイブ・ア・ゴーゴー"
+      }
     },
     {
       "name": "ABE '99",
@@ -658,7 +670,10 @@
           "regionalName": "エイブ'99"
         }
       ],
-      "id": 26
+      "id": 26,
+      "localizedNames": {
+        "ja": "エイブ'99"
+      }
     },
     {
       "name": "ACE COMBAT",
@@ -684,7 +699,10 @@
           "upc": "4907892010215"
         }
       ],
-      "id": 27
+      "id": 27,
+      "localizedNames": {
+        "ja": "エースコンバット"
+      }
     },
     {
       "name": "ACE COMBAT 2",
@@ -742,7 +760,10 @@
           "tgdbId": 0
         }
       ],
-      "id": 28
+      "id": 28,
+      "localizedNames": {
+        "ja": "エースコンバット2"
+      }
     },
     {
       "name": "ACE COMBAT 3 - ELECTROSPHERE",
@@ -767,7 +788,10 @@
           "upc": "4907892010642"
         }
       ],
-      "id": 29
+      "id": 29,
+      "localizedNames": {
+        "ja": "エースコンバット3 エレクトロスフィア"
+      }
     },
     {
       "name": "ACE COMBAT 3 - ELECTROSPHERE",
@@ -799,7 +823,10 @@
           "tgdbId": 0
         }
       ],
-      "id": 30
+      "id": 30,
+      "localizedNames": {
+        "ja": "エースコンバット3 エレクトロスフィア [PLAYSTATION THE BEST]"
+      }
     },
     {
       "name": "ACID",
@@ -825,7 +852,10 @@
           "upc": "4529651000321"
         }
       ],
-      "id": 31
+      "id": 31,
+      "localizedNames": {
+        "ja": "アシッド"
+      }
     },
     {
       "name": "ACONCAGUA",
@@ -841,7 +871,10 @@
           "upc": "4948872101318"
         }
       ],
-      "id": 32
+      "id": 32,
+      "localizedNames": {
+        "ja": "アコンカグア"
+      }
     },
     {
       "name": "ACTION BASS",
@@ -883,7 +916,10 @@
           "tgdbId": 0
         }
       ],
-      "id": 33
+      "id": 33,
+      "localizedNames": {
+        "ja": "アクションバス"
+      }
     },
     {
       "name": "ACTION PUZZLE - PRISM LAND",
@@ -899,7 +935,10 @@
           "upc": "4961508006184"
         }
       ],
-      "id": 34
+      "id": 34,
+      "localizedNames": {
+        "ja": "アクションパズル プリズムランド [本格派DE SERIES]"
+      }
     },
     {
       "name": "ACTUA GOLF",
@@ -923,7 +962,10 @@
           "tgdbId": 0
         }
       ],
-      "id": 35
+      "id": 35,
+      "localizedNames": {
+        "ja": "アクチュア・ゴルフ"
+      }
     },
     {
       "name": "ACTUA ICE HOCKEY",
@@ -947,7 +989,10 @@
           "tgdbId": 0
         }
       ],
-      "id": 36
+      "id": 36,
+      "localizedNames": {
+        "ja": "アクチュア・アイスホッケー"
+      }
     },
     {
       "name": "ACTUA SOCCER",
@@ -971,7 +1016,10 @@
           "tgdbId": 0
         }
       ],
-      "id": 37
+      "id": 37,
+      "localizedNames": {
+        "ja": "アクチュア・サッカー"
+      }
     },
     {
       "name": "AD LIB OUJI - PRINCE & UNPLEASANT FRIENDS",
@@ -986,7 +1034,10 @@
           "regionalName": "アドリブ王子・・・と不愉快な仲間達!?"
         }
       ],
-      "id": 38
+      "id": 38,
+      "localizedNames": {
+        "ja": "アドリブ王子・・・と不愉快な仲間達!?"
+      }
     },
     {
       "name": "ADDIE NO OKURIMONO - TO MOZE FROM ADDIE",
@@ -1002,7 +1053,10 @@
           "upc": "4948872101264"
         }
       ],
-      "id": 39
+      "id": 39,
+      "localizedNames": {
+        "ja": "アディのおくりもの"
+      }
     },
     {
       "name": "ADVAN RACING",
@@ -1018,7 +1072,10 @@
           "upc": "4984995110233"
         }
       ],
-      "id": 40
+      "id": 40,
+      "localizedNames": {
+        "ja": "アドバン・レーシング"
+      }
     },
     {
       "name": "ADVANCED V.G.",
@@ -1054,7 +1111,10 @@
           "upc": "4944076002888"
         }
       ],
-      "id": 41
+      "id": 41,
+      "localizedNames": {
+        "ja": "アドヴァンスト ヴァリアブル・ジオ"
+      }
     },
     {
       "name": "ADVANCED V.G. 2",
@@ -1080,7 +1140,10 @@
           "upc": "4944076002895"
         }
       ],
-      "id": 42
+      "id": 42,
+      "localizedNames": {
+        "ja": "アドヴァンスト ヴァリアブル・ジオ2"
+      }
     },
     {
       "name": "AERODIVE",
@@ -1096,7 +1159,10 @@
           "upc": "4983164734485"
         }
       ],
-      "id": 43
+      "id": 43,
+      "localizedNames": {
+        "ja": "エアロダイブ"
+      }
     },
     {
       "name": "AFRAID GEAR",
@@ -1122,7 +1188,10 @@
           "upc": "4948799010021"
         }
       ],
-      "id": 44
+      "id": 44,
+      "localizedNames": {
+        "ja": "アフレイドギア"
+      }
     },
     {
       "name": "AFRAID GEAR ANOTHER",
@@ -1138,7 +1207,10 @@
           "upc": "4948799010014"
         }
       ],
-      "id": 45
+      "id": 45,
+      "localizedNames": {
+        "ja": "アフレイドギア・アナザ"
+      }
     },
     {
       "name": "AGENT ARMSTRONG - HIMITSU SHIREI DAISAKUSEN",
@@ -1154,7 +1226,10 @@
           "upc": "4997795973021"
         }
       ],
-      "id": 46
+      "id": 46,
+      "localizedNames": {
+        "ja": "エージェント・アームストロング 秘密司令大作戦"
+      }
     },
     {
       "name": "AGILE WARRIOR",
@@ -1170,7 +1245,10 @@
           "upc": "4940062700028"
         }
       ],
-      "id": 47
+      "id": 47,
+      "localizedNames": {
+        "ja": "アジャイル・ウォーリアー"
+      }
     },
     {
       "name": "Ai Igo 7",
@@ -1185,7 +1263,10 @@
           "regionalName": "AI囲碁7"
         }
       ],
-      "id": 48
+      "id": 48,
+      "localizedNames": {
+        "ja": "AI囲碁7"
+      }
     },
     {
       "name": "AI MAHJONG 2000",
@@ -1201,7 +1282,10 @@
           "upc": "4988722505491"
         }
       ],
-      "id": 49
+      "id": 49,
+      "localizedNames": {
+        "ja": "AI麻雀2000"
+      }
     },
     {
       "name": "AI MAHJONG SELECTION",
@@ -1217,7 +1301,10 @@
           "upc": "4529651000833"
         }
       ],
-      "id": 50
+      "id": 50,
+      "localizedNames": {
+        "ja": "AI麻雀セレクション [MAJORWAVE 1500 SERIES]"
+      }
     },
     {
       "name": "AI SHOGI",
@@ -1243,7 +1330,10 @@
           "upc": "4512557600122"
         }
       ],
-      "id": 51
+      "id": 51,
+      "localizedNames": {
+        "ja": "AI将棋"
+      }
     },
     {
       "name": "AI SHOGI 2",
@@ -1259,7 +1349,10 @@
           "upc": "4512577600344"
         }
       ],
-      "id": 52
+      "id": 52,
+      "localizedNames": {
+        "ja": "AI将棋2"
+      }
     },
     {
       "name": "AI SHOGI 2 DELUXE",
@@ -1275,7 +1368,10 @@
           "upc": "4988722505309"
         }
       ],
-      "id": 53
+      "id": 53,
+      "localizedNames": {
+        "ja": "AI将棋2 デラックス"
+      }
     },
     {
       "name": "AI SHOGI SELECTION",
@@ -1291,7 +1387,10 @@
           "upc": "4529651000826"
         }
       ],
-      "id": 54
+      "id": 54,
+      "localizedNames": {
+        "ja": "AI将棋セレクション [MAJOR WAVE 1500 SERIES]"
+      }
     },
     {
       "name": "AIR MANAGEMENT '96",
@@ -1307,7 +1406,10 @@
           "upc": "4988615007804"
         }
       ],
-      "id": 55
+      "id": 55,
+      "localizedNames": {
+        "ja": "エアーマネジメント'96"
+      }
     },
     {
       "name": "AIR MANAGEMENT",
@@ -1333,7 +1435,10 @@
           "upc": "4988615013096"
         }
       ],
-      "id": 56
+      "id": 56,
+      "localizedNames": {
+        "ja": "エアーマネジメント'96 [KOEI TEIBAN SERIES]"
+      }
     },
     {
       "name": "AIR RACE CHAMPIONSHIP",
@@ -1359,7 +1464,10 @@
           "upc": "4948536190597"
         }
       ],
-      "id": 57
+      "id": 57,
+      "localizedNames": {
+        "ja": "エアレース チャンピオンシップ"
+      }
     },
     {
       "name": "AIRASSAULTS",
@@ -1375,7 +1483,10 @@
           "upc": "4948872600057"
         }
       ],
-      "id": 58
+      "id": 58,
+      "localizedNames": {
+        "ja": "エア・アサルト"
+      }
     },
     {
       "name": "AIRGRAVE",
@@ -1391,7 +1502,10 @@
           "upc": "4512168010020"
         }
       ],
-      "id": 59
+      "id": 59,
+      "localizedNames": {
+        "ja": "エアグレイブ"
+      }
     },
     {
       "name": "AISHIAU KOTOSHIKA DEKINAI - NOTHING BUT LOVING YOU",
@@ -1417,7 +1531,10 @@
           "upc": "4953507006371"
         }
       ],
-      "id": 60
+      "id": 60,
+      "localizedNames": {
+        "ja": "愛しあう事しか出来ない"
+      }
     },
     {
       "name": "AITAKUTE... YOUR SMILES IN MY HEART",
@@ -1433,7 +1550,10 @@
           "upc": "4988602438949"
         }
       ],
-      "id": 61
+      "id": 61,
+      "localizedNames": {
+        "ja": "あいたくて… ～your smiles in my heart～"
+      }
     },
     {
       "name": "AIZOUBAN HOUSHINENGI",
@@ -1457,7 +1577,10 @@
           "regionalName": "封神演義 愛蔵版"
         }
       ],
-      "id": 62
+      "id": 62,
+      "localizedNames": {
+        "ja": "封神演義 愛蔵版"
+      }
     },
     {
       "name": "AKAGAWA JIROU - YASOUKYOKU",
@@ -1503,7 +1626,10 @@
           "upc": "4988110021282"
         }
       ],
-      "id": 63
+      "id": 63,
+      "localizedNames": {
+        "ja": "赤川次郎 夜想曲"
+      }
     },
     {
       "name": "AKAGAWA JIROU - YASOUKYOKU 2",
@@ -1529,7 +1655,10 @@
           "upc": "4988110021299"
         }
       ],
-      "id": 64
+      "id": 64,
+      "localizedNames": {
+        "ja": "赤川次郎 夜想曲2"
+      }
     },
     {
       "name": "AKAGI TOPAITEN",
@@ -1545,7 +1674,10 @@
           "upc": "4957227702001"
         }
       ],
-      "id": 65
+      "id": 65,
+      "localizedNames": {
+        "ja": "闘牌伝アカギ"
+      }
     },
     {
       "name": "AKAZU NO MA",
@@ -1571,7 +1703,10 @@
           "upc": "4939915000576"
         }
       ],
-      "id": 66
+      "id": 66,
+      "localizedNames": {
+        "ja": "あかずの間"
+      }
     },
     {
       "name": "ALABAMA - POP DE CUTE NA SHINRI TEST",
@@ -1587,7 +1722,10 @@
           "upc": "4527823990487"
         }
       ],
-      "id": 67
+      "id": 67,
+      "localizedNames": {
+        "ja": "ポップでキュートな心理テスト アラバマ"
+      }
     },
     {
       "name": "ALBALEA NO OTOME - URUWASHI NO SEISHIKITACHI",
@@ -1603,7 +1741,10 @@
           "regionalName": "アルバレアの乙女～麗しの聖騎士たち～"
         }
       ],
-      "id": 68
+      "id": 68,
+      "localizedNames": {
+        "ja": "アルバレアの乙女～麗しの聖騎士たち～"
+      }
     },
     {
       "name": "ALICE IN CYBERLAND",
@@ -1619,7 +1760,10 @@
           "upc": "4934878080139"
         }
       ],
-      "id": 69
+      "id": 69,
+      "localizedNames": {
+        "ja": "ありす イン サイバーランド"
+      }
     },
     {
       "name": "ALICE IN BORDERLINES",
@@ -1634,7 +1778,10 @@
           "regionalName": "B線上のアリス"
         }
       ],
-      "id": 70
+      "id": 70,
+      "localizedNames": {
+        "ja": "B線上のアリス"
+      }
     },
     {
       "name": "ALIEN TRILOGY",
@@ -1689,7 +1836,10 @@
           "upc": "4995492212054"
         }
       ],
-      "id": 72
+      "id": 72,
+      "localizedNames": {
+        "ja": "アライブ"
+      }
     },
     {
       "name": "ALL-STAR MAHJONG - KAREINARU SHOBUSHI KARA NO CHOSEN",
@@ -1705,7 +1855,10 @@
           "upc": "4988013041196"
         }
       ],
-      "id": 73
+      "id": 73,
+      "localizedNames": {
+        "ja": "オールスター麻雀 華麗なる勝負師からの挑戦"
+      }
     },
     {
       "name": "ALL STAR TENNIS '99",
@@ -1773,7 +1926,10 @@
           "regionalName": "アルナムの牙 獣族十二神徒伝説"
         }
       ],
-      "id": 76
+      "id": 76,
+      "localizedNames": {
+        "ja": "アルナムの牙 獣族十二神徒伝説"
+      }
     },
     {
       "name": "ALNAM NO TSUBASA - WING OF ALNAM",
@@ -1789,7 +1945,10 @@
           "upc": "4994615596040"
         }
       ],
-      "id": 77
+      "id": 77,
+      "localizedNames": {
+        "ja": "アルナムの翼 焼塵の空の彼方へ"
+      }
     },
     {
       "name": "ALONE IN THE DARK - THE NEW NIGHTMARE",
@@ -1868,7 +2027,10 @@
           "upc": "4938833002280"
         }
       ],
-      "id": 79
+      "id": 79,
+      "localizedNames": {
+        "ja": "アローン・イン・ザ・ダーク2"
+      }
     },
     {
       "name": "ALUNDRA",
@@ -1932,7 +2094,10 @@
           "tgdbId": 0
         }
       ],
-      "id": 80
+      "id": 80,
+      "localizedNames": {
+        "ja": "アランドラ"
+      }
     },
     {
       "name": "ALUNDRA 2 - MASHINKA NO NAZO",
@@ -8323,7 +8488,10 @@
           "tgdbId": 0
         }
       ],
-      "id": 378
+      "id": 378,
+      "localizedNames": {
+        "ja": "チョコボの不思議なダンジョン"
+      }
     },
     {
       "name": "CHOCOBO NO FUSHIGI NA DUNGEON 2",
@@ -8347,7 +8515,10 @@
           "tgdbId": 0
         }
       ],
-      "id": 380
+      "id": 380,
+      "localizedNames": {
+        "ja": "チョコボの不思議なダンジョン 2"
+      }
     },
     {
       "name": "CHOCOBO RACING",
@@ -20519,7 +20690,10 @@
           "tgdbId": 0
         }
       ],
-      "id": 944
+      "id": 944,
+      "localizedNames": {
+        "ja": "極上パロディウスだ！DELUXE PACK"
+      }
     },
     {
       "name": "GOKUU DENSETSU - MAGIC BEAST WARRIORS",
@@ -32649,7 +32823,10 @@
           "upc": "4938833001481"
         }
       ],
-      "id": 1586
+      "id": 1586,
+      "localizedNames": {
+        "ja": "麻雀悟空 天竺"
+      }
     },
     {
       "name": "MAHJONG GOKU TENJIKU '99",
@@ -37942,7 +38119,10 @@
           "upc": "4907095000402"
         }
       ],
-      "id": 1835
+      "id": 1835,
+      "localizedNames": {
+        "ja": "熱血親子"
+      }
     },
     {
       "name": "NEKO NA KANKEI",
@@ -92544,7 +92724,10 @@
           "upc": "4522174000083"
         }
       ],
-      "id": 4503
+      "id": 4503,
+      "localizedNames": {
+        "ja": "エキサイティングプロレス2"
+      }
     },
     {
       "name": "WWF WAR ZONE",
