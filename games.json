@@ -157,6 +157,7 @@
         {
           "name": "19:03 AGANO HATSU YAKOU RESSHA [RERELEASE]",
           "platform": "ps1",
+
           "Language": "[J]",
           "serial": "SLPS-02881",
           "region": "NTSC-J",
@@ -2312,7 +2313,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615010927",
-          "regionalName": "アンジェリーク・デュエット(Angelique Duet) 通常版 コーエー (19980730)"
+          "regionalName": "アンジェリーク・デュエット(Angelique Duet) 通常版 コーエー"
         },
         {
           "name": "ANGELIQUE DUET [KOEI THE BEST]",
@@ -2336,7 +2337,7 @@
       ],
       "id": 87,
       "localizedNames": {
-        "ja": "アンジェリーク・デュエット(Angelique Duet) 通常版 コーエー (19980730)"
+        "ja": "アンジェリーク・デュエット(Angelique Duet) 通常版 コーエー"
       }
     },
     {
@@ -2491,12 +2492,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076000709",
-          "regionalName": "SuperLite1500シリーズ アンゴルモア99 サクセス (19990826)"
+          "regionalName": "SuperLite1500シリーズ アンゴルモア99 サクセス"
         }
       ],
       "id": 92,
       "localizedNames": {
-        "ja": "SuperLite1500シリーズ アンゴルモア99 サクセス (19990826)"
+        "ja": "SuperLite1500シリーズ アンゴルモア99 サクセス"
       }
     },
     {
@@ -3634,7 +3635,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988616010025",
-          "regionalName": "重装機兵ヴァルケン2(ASSAULT SUIT VALKEN 2) 日本コンピュータシステム (19990729)"
+          "regionalName": "重装機兵ヴァルケン2(ASSAULT SUIT VALKEN 2) 日本コンピュータシステム"
         },
         {
           "name": "ASSAULT SUITS VALKEN 2 [RERELEASE]",
@@ -3648,7 +3649,7 @@
       ],
       "id": 139,
       "localizedNames": {
-        "ja": "重装機兵ヴァルケン2(ASSAULT SUIT VALKEN 2) 日本コンピュータシステム (19990729)"
+        "ja": "重装機兵ヴァルケン2(ASSAULT SUIT VALKEN 2) 日本コンピュータシステム"
       }
     },
     {
@@ -3754,7 +3755,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988709100084",
-          "regionalName": "あすか120%ファイナル BURNING Fest.(バーニングフェスト) ファミリーソフト (19990527)"
+          "regionalName": "あすか120%ファイナル BURNING Fest.(バーニングフェスト) ファミリーソフト"
         },
         {
           "name": "ASUKA 120% - BURNING FEST FINAL [SUPERLITE 1500 SERIES]",
@@ -3769,7 +3770,7 @@
       ],
       "id": 143,
       "localizedNames": {
-        "ja": "あすか120%ファイナル BURNING Fest.(バーニングフェスト) ファミリーソフト (19990527)"
+        "ja": "あすか120%ファイナル BURNING Fest.(バーニングフェスト) ファミリーソフト"
       }
     },
     {
@@ -4141,7 +4142,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4512861100035",
-          "regionalName": "AZITO-アジト- ASTEC21 (19970228)"
+          "regionalName": "AZITO-アジト- ASTEC21"
         },
         {
           "name": "AZITO [MAJOR WAVE SERIES]",
@@ -4156,7 +4157,7 @@
       ],
       "id": 159,
       "localizedNames": {
-        "ja": "AZITO-アジト- ASTEC21 (19970228)"
+        "ja": "AZITO-アジト- ASTEC21"
       }
     },
     {
@@ -4254,12 +4255,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988736060030",
-          "regionalName": "バックガイナー 〜よみがえる勇者たち〜 覚醒編 「ガイナー転生」 ビング (19980129)"
+          "regionalName": "バックガイナー 〜よみがえる勇者たち〜 覚醒編 「ガイナー転生」 ビング"
         }
       ],
       "id": 164,
       "localizedNames": {
-        "ja": "バックガイナー 〜よみがえる勇者たち〜 覚醒編 「ガイナー転生」 ビング (19980129)"
+        "ja": "バックガイナー 〜よみがえる勇者たち〜 覚醒編 「ガイナー転生」 ビング"
       }
     },
     {
@@ -4577,12 +4578,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4904880138630",
-          "regionalName": "爆転シュート ベイブレード ベイバトルトーナメント タカラトミー (20011213)"
+          "regionalName": "爆転シュート ベイブレード ベイバトルトーナメント タカラトミー"
         }
       ],
       "id": 179,
       "localizedNames": {
-        "ja": "爆転シュート ベイブレード ベイバトルトーナメント タカラトミー (20011213)"
+        "ja": "爆転シュート ベイブレード ベイバトルトーナメント タカラトミー"
       }
     },
     {
@@ -5762,12 +5763,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988021095341",
-          "regionalName": "BIG CHALLENGE GOLF(ビッグチャレンジゴルフ) 〜東京よみうりカントリークラブ編〜 バップ (19970314)"
+          "regionalName": "BIG CHALLENGE GOLF(ビッグチャレンジゴルフ) 〜東京よみうりカントリークラブ編〜 バップ"
         }
       ],
       "id": 226,
       "localizedNames": {
-        "ja": "BIG CHALLENGE GOLF(ビッグチャレンジゴルフ) 〜東京よみうりカントリークラブ編〜 バップ (19970314)"
+        "ja": "BIG CHALLENGE GOLF(ビッグチャレンジゴルフ) 〜東京よみうりカントリークラブ編〜 バップ"
       }
     },
     {
@@ -7648,12 +7649,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602643923",
-          "regionalName": "ブリーディングスタッド'99 コナミデジタルエンタテインメント (19991111)"
+          "regionalName": "ブリーディングスタッド'99 コナミデジタルエンタテインメント"
         }
       ],
       "id": 301,
       "localizedNames": {
-        "ja": "ブリーディングスタッド'99 コナミデジタルエンタテインメント (19991111)"
+        "ja": "ブリーディングスタッド'99 コナミデジタルエンタテインメント"
       }
     },
     {
@@ -7965,7 +7966,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4541617007014",
-          "regionalName": "バーストリック/ウェイクボーディング メトロ (20000706)"
+          "regionalName": "バーストリック/ウェイクボーディング メトロ"
         },
         {
           "name": "BURSTRICK WAKE BOARDING!!",
@@ -7986,7 +7987,7 @@
       ],
       "id": 314,
       "localizedNames": {
-        "ja": "バーストリック/ウェイクボーディング メトロ (20000706)"
+        "ja": "バーストリック/ウェイクボーディング メトロ"
       }
     },
     {
@@ -8692,12 +8693,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4943616000537",
-          "regionalName": "[お得品] CAROM SHOT(キャロムショット) ザ・3Dビリヤード アジェンダ (19970425)"
+          "regionalName": "[お得品] CAROM SHOT(キャロムショット) ザ・3Dビリヤード アジェンダ"
         }
       ],
       "id": 342,
       "localizedNames": {
-        "ja": "[お得品] CAROM SHOT(キャロムショット) ザ・3Dビリヤード アジェンダ (19970425)"
+        "ja": "[お得品] CAROM SHOT(キャロムショット) ザ・3Dビリヤード アジェンダ"
       }
     },
     {
@@ -10537,7 +10538,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988002324538",
-          "regionalName": "クラシックロード ビクターエンタテインメント (19951215)"
+          "regionalName": "クラシックロード ビクターエンタテインメント"
         },
         {
           "name": "CLASSIC ROAD [PLAYSTATION THE BEST]",
@@ -10552,7 +10553,7 @@
       ],
       "id": 420,
       "localizedNames": {
-        "ja": "クラシックロード ビクターエンタテインメント (19951215)"
+        "ja": "クラシックロード ビクターエンタテインメント"
       }
     },
     {
@@ -11342,7 +11343,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948204001026",
-          "regionalName": "COOL BOARDERS 4(クールボーダーズ4) ウエップシステム (20000309)"
+          "regionalName": "COOL BOARDERS 4(クールボーダーズ4) ウエップシステム"
         },
         {
           "name": "COOL BOARDERS 4",
@@ -11363,7 +11364,7 @@
       ],
       "id": 451,
       "localizedNames": {
-        "ja": "COOL BOARDERS 4(クールボーダーズ4) ウエップシステム (20000309)"
+        "ja": "COOL BOARDERS 4(クールボーダーズ4) ウエップシステム"
       }
     },
     {
@@ -11492,7 +11493,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425610221",
-          "regionalName": "カウボーイビバップ(Cowboy Bebop) バンダイ (19980514)"
+          "regionalName": "カウボーイビバップ(Cowboy Bebop) バンダイ"
         },
         {
           "name": "COWBOY BEBOP [BANDAI THE BEST]",
@@ -11507,7 +11508,7 @@
       ],
       "id": 457,
       "localizedNames": {
-        "ja": "カウボーイビバップ(Cowboy Bebop) バンダイ (19980514)"
+        "ja": "カウボーイビバップ(Cowboy Bebop) バンダイ"
       }
     },
     {
@@ -11864,12 +11865,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4904880135868",
-          "regionalName": "CRISIS CITY(クライシスシティ) タカラ (19980604)"
+          "regionalName": "CRISIS CITY(クライシスシティ) タカラ"
         }
       ],
       "id": 469,
       "localizedNames": {
-        "ja": "CRISIS CITY(クライシスシティ) タカラ (19980604)"
+        "ja": "CRISIS CITY(クライシスシティ) タカラ"
       }
     },
     {
@@ -11883,12 +11884,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4983164738247",
-          "regionalName": "クリティカルブロウ バンダイナムコエンターテインメント (19971204)"
+          "regionalName": "クリティカルブロウ バンダイナムコエンターテインメント"
         }
       ],
       "id": 470,
       "localizedNames": {
-        "ja": "クリティカルブロウ バンダイナムコエンターテインメント (19971204)"
+        "ja": "クリティカルブロウ バンダイナムコエンターテインメント"
       }
     },
     {
@@ -11902,12 +11903,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4966550796014",
-          "regionalName": "CRITICOM -ザ・クリティカルコンバット- ビック東海 (19961004)"
+          "regionalName": "CRITICOM -ザ・クリティカルコンバット- ビック東海"
         }
       ],
       "id": 471,
       "localizedNames": {
-        "ja": "CRITICOM -ザ・クリティカルコンバット- ビック東海 (19961004)"
+        "ja": "CRITICOM -ザ・クリティカルコンバット- ビック東海"
       }
     },
     {
@@ -12067,12 +12068,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4992713021143",
-          "regionalName": "CRW カウンター・レボリューション・ウォー アクレイムジャパン (19960830)"
+          "regionalName": "CRW カウンター・レボリューション・ウォー アクレイムジャパン"
         }
       ],
       "id": 479,
       "localizedNames": {
-        "ja": "CRW カウンター・レボリューション・ウォー アクレイムジャパン (19960830)"
+        "ja": "CRW カウンター・レボリューション・ウォー アクレイムジャパン"
       }
     },
     {
@@ -12162,7 +12163,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988697902004",
-          "regionalName": "サイバー大戦略 出撃! はるか隊 システムソフト (19990204)"
+          "regionalName": "サイバー大戦略 出撃! はるか隊 システムソフト"
         },
         {
           "name": "CYBER DAISENRYAKU [SUPERLITE 1500 SERIES]",
@@ -12177,7 +12178,7 @@
       ],
       "id": 484,
       "localizedNames": {
-        "ja": "サイバー大戦略 出撃! はるか隊 システムソフト (19990204)"
+        "ja": "サイバー大戦略 出撃! はるか隊 システムソフト"
       }
     },
     {
@@ -12609,7 +12610,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948426962013",
-          "regionalName": "大戦略 Players Spirit(プレイヤーズスピリット) エスコット (19960329)"
+          "regionalName": "大戦略 Players Spirit(プレイヤーズスピリット) エスコット"
         },
         {
           "name": "DAISENRYAKU - PLAYER'S SPIRIT [PLAYSTATION THE BEST]",
@@ -12624,7 +12625,7 @@
       ],
       "id": 500,
       "localizedNames": {
-        "ja": "大戦略 Players Spirit(プレイヤーズスピリット) エスコット (19960329)"
+        "ja": "大戦略 Players Spirit(プレイヤーズスピリット) エスコット"
       }
     },
     {
@@ -14417,12 +14418,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543112055446",
-          "regionalName": "デジモンテイマーズ バトルエボリューション バンダイ (20011213)"
+          "regionalName": "デジモンテイマーズ バトルエボリューション バンダイ"
         }
       ],
       "id": 573,
       "localizedNames": {
-        "ja": "デジモンテイマーズ バトルエボリューション バンダイ (20011213)"
+        "ja": "デジモンテイマーズ バトルエボリューション バンダイ"
       }
     },
     {
@@ -14436,12 +14437,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543112017277",
-          "regionalName": "デジモンテイマーズ ポケットクルモン バンダイナムコエンターテインメント (20010517)"
+          "regionalName": "デジモンテイマーズ ポケットクルモン バンダイナムコエンターテインメント"
         }
       ],
       "id": 574,
       "localizedNames": {
-        "ja": "デジモンテイマーズ ポケットクルモン バンダイナムコエンターテインメント (20010517)"
+        "ja": "デジモンテイマーズ ポケットクルモン バンダイナムコエンターテインメント"
       }
     },
     {
@@ -14551,12 +14552,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425746739",
-          "regionalName": "デジモンワールド デジタルカードバトル バンダイナムコエンターテインメント (19991222)"
+          "regionalName": "デジモンワールド デジタルカードバトル バンダイナムコエンターテインメント"
         }
       ],
       "id": 577,
       "localizedNames": {
-        "ja": "デジモンワールド デジタルカードバトル バンダイナムコエンターテインメント (19991222)"
+        "ja": "デジモンワールド デジタルカードバトル バンダイナムコエンターテインメント"
       }
     },
     {
@@ -14940,7 +14941,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4517015940215",
-          "regionalName": "DISC DERBY(ディスクダービー) 名馬を作ろう!! ダス (20000330)"
+          "regionalName": "DISC DERBY(ディスクダービー) 名馬を作ろう!! ダス"
         },
         {
           "name": "DISC DERBY - MEIBA WO TSUKUROU!! [REPRINT]",
@@ -14955,7 +14956,7 @@
       ],
       "id": 592,
       "localizedNames": {
-        "ja": "DISC DERBY(ディスクダービー) 名馬を作ろう!! ダス (20000330)"
+        "ja": "DISC DERBY(ディスクダービー) 名馬を作ろう!! ダス"
       }
     },
     {
@@ -15073,7 +15074,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602689006",
-          "regionalName": "TARZAN(ターザン) コナミ (19991202)"
+          "regionalName": "TARZAN(ターザン) コナミ"
         },
         {
           "name": "DISNEY'S TARZAN",
@@ -15166,7 +15167,7 @@
       ],
       "id": 597,
       "localizedNames": {
-        "ja": "TARZAN(ターザン) コナミ (19991202)"
+        "ja": "TARZAN(ターザン) コナミ"
       }
     },
     {
@@ -15654,12 +15655,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872101424",
-          "regionalName": "どこでもいっしょ デラックスパック(iモードもいっしょ・携帯接続ケーブル同梱版) ソニー・コンピュータエンタテインメント (20010524)"
+          "regionalName": "どこでもいっしょ デラックスパック(iモードもいっしょ・携帯接続ケーブル同梱版) ソニー・コンピュータエンタテインメント"
         }
       ],
       "id": 618,
       "localizedNames": {
-        "ja": "どこでもいっしょ デラックスパック(iモードもいっしょ・携帯接続ケーブル同梱版) ソニー・コンピュータエンタテインメント (20010524)"
+        "ja": "どこでもいっしょ デラックスパック(iモードもいっしょ・携帯接続ケーブル同梱版) ソニー・コンピュータエンタテインメント"
       }
     },
     {
@@ -15683,7 +15684,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4933516203237",
-          "regionalName": "どこまでも青く・・・。 初回限定版 エレクトロニック・アーツ (20020221)"
+          "regionalName": "どこまでも青く・・・。 初回限定版 エレクトロニック・アーツ"
         }
       ],
       "id": 619,
@@ -16477,12 +16478,12 @@
           "region": "NTSC-J",
           "tgdbId": 51572,
           "upc": "4945640000019",
-          "regionalName": "PANDORA MAX SERIES Vol.1(パンドラマックスシリーズ Vol.1) ドラゴンナイツ・グロリアス パンドラボックス (19991118)"
+          "regionalName": "PANDORA MAX SERIES Vol.1(パンドラマックスシリーズ Vol.1) ドラゴンナイツ・グロリアス パンドラボックス"
         }
       ],
       "id": 648,
       "localizedNames": {
-        "ja": "PANDORA MAX SERIES Vol.1(パンドラマックスシリーズ Vol.1) ドラゴンナイツ・グロリアス パンドラボックス (19991118)"
+        "ja": "PANDORA MAX SERIES Vol.1(パンドラマックスシリーズ Vol.1) ドラゴンナイツ・グロリアス パンドラボックス"
       }
     },
     {
@@ -16970,7 +16971,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4904880133772",
-          "regionalName": "DX人生ゲーム(デラックス人生ゲーム) タカラトミー (19960322)"
+          "regionalName": "DX人生ゲーム(デラックス人生ゲーム) タカラトミー"
         },
         {
           "name": "DX JINSEI GAME - THE GAME OF LIFE [PLAYSTATION THE BEST]",
@@ -16985,7 +16986,7 @@
       ],
       "id": 667,
       "localizedNames": {
-        "ja": "DX人生ゲーム(デラックス人生ゲーム) タカラトミー (19960322)"
+        "ja": "DX人生ゲーム(デラックス人生ゲーム) タカラトミー"
       }
     },
     {
@@ -17181,7 +17182,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4904880134175",
-          "regionalName": "DX 日本特急旅行ゲーム タカラ (19961220)"
+          "regionalName": "DX 日本特急旅行ゲーム タカラ"
         },
         {
           "name": "DX NIPPON TOKKYU RYOKOU GAME - LET'S TRAVEL IN JAPAN [PLAYSTATION THE BEST]",
@@ -17196,7 +17197,7 @@
       ],
       "id": 676,
       "localizedNames": {
-        "ja": "DX 日本特急旅行ゲーム タカラ (19961220)"
+        "ja": "DX 日本特急旅行ゲーム タカラ"
       }
     },
     {
@@ -17292,7 +17293,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4904880137923",
-          "regionalName": "DX社長ゲーム タカラ (19990708)"
+          "regionalName": "DX社長ゲーム タカラ"
         },
         {
           "name": "DX SHACHOU GAME [PSONE BOOKS]",
@@ -17317,7 +17318,7 @@
       ],
       "id": 681,
       "localizedNames": {
-        "ja": "DX社長ゲーム タカラ (19990708)"
+        "ja": "DX社長ゲーム タカラ"
       }
     },
     {
@@ -18027,12 +18028,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4994964116081",
-          "regionalName": "エルフを狩るモノたち -花札編- アルトロン (19970828)"
+          "regionalName": "エルフを狩るモノたち -花札編- アルトロン"
         }
       ],
       "id": 712,
       "localizedNames": {
-        "ja": "エルフを狩るモノたち -花札編- アルトロン (19970828)"
+        "ja": "エルフを狩るモノたち -花札編- アルトロン"
       }
     },
     {
@@ -18122,7 +18123,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4933516103186",
-          "regionalName": "エミーリア(Emmyrea) エレクトロニック・アーツ (20010524)"
+          "regionalName": "エミーリア(Emmyrea) エレクトロニック・アーツ"
         },
         {
           "name": "EMMYREA [SUPERLITE 1500 SERIES]",
@@ -18137,7 +18138,7 @@
       ],
       "id": 717,
       "localizedNames": {
-        "ja": "エミーリア(Emmyrea) エレクトロニック・アーツ (20010524)"
+        "ja": "エミーリア(Emmyrea) エレクトロニック・アーツ"
       }
     },
     {
@@ -18179,12 +18180,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076000631",
-          "regionalName": "SuperLite1500シリーズ あのこどこのこ エンドレスシーズン(SLPM-86259) サクセス (19990722)"
+          "regionalName": "SuperLite1500シリーズ あのこどこのこ エンドレスシーズン(SLPM-86259) サクセス"
         }
       ],
       "id": 719,
       "localizedNames": {
-        "ja": "SuperLite1500シリーズ あのこどこのこ エンドレスシーズン(SLPM-86259) サクセス (19990722)"
+        "ja": "SuperLite1500シリーズ あのこどこのこ エンドレスシーズン(SLPM-86259) サクセス"
       }
     },
     {
@@ -18372,12 +18373,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4522174000014",
-          "regionalName": "封神領域エルツヴァーユ(Eretzvaju) ユークス (19990114)"
+          "regionalName": "封神領域エルツヴァーユ(Eretzvaju) ユークス"
         }
       ],
       "id": 730,
       "localizedNames": {
-        "ja": "封神領域エルツヴァーユ(Eretzvaju) ユークス (19990114)"
+        "ja": "封神領域エルツヴァーユ(Eretzvaju) ユークス"
       }
     },
     {
@@ -18676,7 +18677,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4965857040387",
-          "regionalName": "エクソダスギルティ 限定版 イマジニア (19981126)"
+          "regionalName": "エクソダスギルティ 限定版 イマジニア"
         }
       ],
       "id": 744,
@@ -18752,7 +18753,7 @@
           "region": "NTSC-J",
           "tgdbId": 127474,
           "upc": "4953507970177",
-          "regionalName": "F-1 GRANDPRIX 1996 チーム運営シミュレーション ココナッツジャパン (19970117)"
+          "regionalName": "F-1 GRANDPRIX 1996 チーム運営シミュレーション ココナッツジャパン"
         },
         {
           "name": "F-1 GRAND PRIX '96 - TEAM UNEI SIMULATION [SUPERLITE 1500 SERIES]",
@@ -18767,7 +18768,7 @@
       ],
       "id": 748,
       "localizedNames": {
-        "ja": "F-1 GRANDPRIX 1996 チーム運営シミュレーション ココナッツジャパン (19970117)"
+        "ja": "F-1 GRANDPRIX 1996 チーム運営シミュレーション ココナッツジャパン"
       }
     },
     {
@@ -19218,12 +19219,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4513244900358",
-          "regionalName": "FAVORITE DEAR(フェイバリットディア) 純白の預言者 NECインターチャネル (20001207)"
+          "regionalName": "FAVORITE DEAR(フェイバリットディア) 純白の預言者 NECインターチャネル"
         }
       ],
       "id": 771,
       "localizedNames": {
-        "ja": "FAVORITE DEAR(フェイバリットディア) 純白の預言者 NECインターチャネル (20001207)"
+        "ja": "FAVORITE DEAR(フェイバリットディア) 純白の預言者 NECインターチャネル"
       }
     },
     {
@@ -19370,12 +19371,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4938833005175",
-          "regionalName": "FIFA 2001 ヨーロッパリーグサッカー エレクトロニック・アーツ・スクウェア (20000330)"
+          "regionalName": "FIFA 2001 ヨーロッパリーグサッカー エレクトロニック・アーツ・スクウェア"
         }
       ],
       "id": 777,
       "localizedNames": {
-        "ja": "FIFA 2001 ヨーロッパリーグサッカー エレクトロニック・アーツ・スクウェア (20000330)"
+        "ja": "FIFA 2001 ヨーロッパリーグサッカー エレクトロニック・アーツ・スクウェア"
       }
     },
     {
@@ -19516,12 +19517,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948536190054",
-          "regionalName": "FIGHTING ILLUSION〜K-1 GRAND PRIX〜(ファイティングイリュージョン K-1グランプリ) エクシング (19960809)"
+          "regionalName": "FIGHTING ILLUSION〜K-1 GRAND PRIX〜(ファイティングイリュージョン K-1グランプリ) エクシング"
         }
       ],
       "id": 784,
       "localizedNames": {
-        "ja": "FIGHTING ILLUSION〜K-1 GRAND PRIX〜(ファイティングイリュージョン K-1グランプリ) エクシング (19960809)"
+        "ja": "FIGHTING ILLUSION〜K-1 GRAND PRIX〜(ファイティングイリュージョン K-1グランプリ) エクシング"
       }
     },
     {
@@ -19601,12 +19602,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948536190245",
-          "regionalName": "FIGHTING ILLUSION V K‐1 GRAND PRIX'99(ファイティングイリュージョン5 K-1グランプリ'99) エクシング (19990930)"
+          "regionalName": "FIGHTING ILLUSION V K‐1 GRAND PRIX'99(ファイティングイリュージョン5 K-1グランプリ'99) エクシング"
         }
       ],
       "id": 787,
       "localizedNames": {
-        "ja": "FIGHTING ILLUSION V K‐1 GRAND PRIX'99(ファイティングイリュージョン5 K-1グランプリ'99) エクシング (19990930)"
+        "ja": "FIGHTING ILLUSION V K‐1 GRAND PRIX'99(ファイティングイリュージョン5 K-1グランプリ'99) エクシング"
       }
     },
     {
@@ -20193,12 +20194,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110165",
-          "regionalName": "ファイナルラウンド アトラス (19980312)"
+          "regionalName": "ファイナルラウンド アトラス"
         }
       ],
       "id": 807,
       "localizedNames": {
-        "ja": "ファイナルラウンド アトラス (19980312)"
+        "ja": "ファイナルラウンド アトラス"
       }
     },
     {
@@ -20523,12 +20524,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076001485",
-          "regionalName": "SuperLite1500シリーズ フィッシング倶楽部〜防波堤の釣り篇〜 サクセス (20000824)"
+          "regionalName": "SuperLite1500シリーズ フィッシング倶楽部〜防波堤の釣り篇〜 サクセス"
         }
       ],
       "id": 821,
       "localizedNames": {
-        "ja": "SuperLite1500シリーズ フィッシング倶楽部〜防波堤の釣り篇〜 サクセス (20000824)"
+        "ja": "SuperLite1500シリーズ フィッシング倶楽部〜防波堤の釣り篇〜 サクセス"
       }
     },
     {
@@ -20657,7 +20658,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076001669",
-          "regionalName": "SuperLite1500シリーズ フランベルジュの精霊(SLPM-86711) サクセス (20010222)"
+          "regionalName": "SuperLite1500シリーズ フランベルジュの精霊(SLPM-86711) サクセス"
         }
       ],
       "id": 827,
@@ -20994,12 +20995,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4536996000015",
-          "regionalName": "フォックスジャンクション トリップス (19980429)"
+          "regionalName": "フォックスジャンクション トリップス"
         }
       ],
       "id": 839,
       "localizedNames": {
-        "ja": "フォックスジャンクション トリップス (19980429)"
+        "ja": "フォックスジャンクション トリップス"
       }
     },
     {
@@ -21348,7 +21349,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988601004848",
-          "regionalName": "ULTIMATE HITS フロントミッションオルタナティヴ(SLPM-87398) スクウェア (20061005)"
+          "regionalName": "ULTIMATE HITS フロントミッションオルタナティヴ(SLPM-87398) スクウェア"
         }
       ],
       "id": 851,
@@ -21694,7 +21695,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948025000192",
-          "regionalName": "小室哲哉 ガボールスクリーン(gaball screen) 初回限定版 アンティノスレコード (19961206)"
+          "regionalName": "小室哲哉 ガボールスクリーン(gaball screen) 初回限定版 アンティノスレコード"
         }
       ],
       "id": 863,
@@ -21837,7 +21838,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988110020162",
-          "regionalName": "学校をつくろう!! ビクターインタラクティブソフトウェア (19971218)"
+          "regionalName": "学校をつくろう!! ビクターインタラクティブソフトウェア"
         },
         {
           "name": "GAKKOU O TSUKUROU!! - LET'S MAKE A SCHOOL!! [PLAYSTATION THE BEST]",
@@ -21862,7 +21863,7 @@
       ],
       "id": 870,
       "localizedNames": {
-        "ja": "学校をつくろう!! ビクターインタラクティブソフトウェア (19971218)"
+        "ja": "学校をつくろう!! ビクターインタラクティブソフトウェア"
       }
     },
     {
@@ -21876,7 +21877,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988110020421",
-          "regionalName": "学校をつくろう!!2 マーベラスインタラクティブ (19981210)"
+          "regionalName": "学校をつくろう!!2 マーベラスインタラクティブ"
         },
         {
           "name": "GAKKOU O TSUKUROU!! 2 [PSONE BOOKS]",
@@ -21891,7 +21892,7 @@
       ],
       "id": 871,
       "localizedNames": {
-        "ja": "学校をつくろう!!2 マーベラスインタラクティブ (19981210)"
+        "ja": "学校をつくろう!!2 マーベラスインタラクティブ"
       }
     },
     {
@@ -21998,12 +21999,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110097",
-          "regionalName": "GALEOZ(ガレオス) アトラス (19961220)"
+          "regionalName": "GALEOZ(ガレオス) アトラス"
         }
       ],
       "id": 876,
       "localizedNames": {
-        "ja": "GALEOZ(ガレオス) アトラス (19961220)"
+        "ja": "GALEOZ(ガレオス) アトラス"
       }
     },
     {
@@ -22095,7 +22096,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4960677400076",
-          "regionalName": "ギャロップレーサー2(Gallop Racer 2) テクモ (19971120)"
+          "regionalName": "ギャロップレーサー2(Gallop Racer 2) テクモ"
         },
         {
           "name": "GALLOP RACER 2 - ONE & ONLY ROAD TO VICTORY [PLAYSTATION THE BEST]",
@@ -22110,7 +22111,7 @@
       ],
       "id": 879,
       "localizedNames": {
-        "ja": "ギャロップレーサー2(Gallop Racer 2) テクモ (19971120)"
+        "ja": "ギャロップレーサー2(Gallop Racer 2) テクモ"
       }
     },
     {
@@ -22500,7 +22501,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872100366",
-          "regionalName": "がんばれ森川君2号 通常版 ソニー・コンピュータエンタテインメント (19970523)"
+          "regionalName": "がんばれ森川君2号 通常版 ソニー・コンピュータエンタテインメント"
         },
         {
           "name": "GANBARE MORIKAWA KIME 2ND - PET IN TV [LIMITED EDITION]",
@@ -22515,7 +22516,7 @@
       ],
       "id": 894,
       "localizedNames": {
-        "ja": "がんばれ森川君2号 通常版 ソニー・コンピュータエンタテインメント (19970523)"
+        "ja": "がんばれ森川君2号 通常版 ソニー・コンピュータエンタテインメント"
       }
     },
     {
@@ -22668,12 +22669,12 @@
           "region": "NTSC-J",
           "tgdbId": 128372,
           "upc": "4997766200071",
-          "regionalName": "ゲートキーパーズ 角川書店 (19991216)"
+          "regionalName": "ゲートキーパーズ 角川書店"
         }
       ],
       "id": 900,
       "localizedNames": {
-        "ja": "ゲートキーパーズ 角川書店 (19991216)"
+        "ja": "ゲートキーパーズ 角川書店"
       }
     },
     {
@@ -23003,7 +23004,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4542084000102",
-          "regionalName": "幻想水滸外伝 Vol.2 クリスタルバレーの決闘 KCE東京 (20010322)"
+          "regionalName": "幻想水滸外伝 Vol.2 クリスタルバレーの決闘 KCE東京"
         },
         {
           "name": "GENSO SUIKO GAIDEN VOL.2 - CRYSTAL VALLET NO KETTOU [KONAMI THE BEST]",
@@ -23028,7 +23029,7 @@
       ],
       "id": 915,
       "localizedNames": {
-        "ja": "幻想水滸外伝 Vol.2 クリスタルバレーの決闘 KCE東京 (20010322)"
+        "ja": "幻想水滸外伝 Vol.2 クリスタルバレーの決闘 KCE東京"
       }
     },
     {
@@ -23704,7 +23705,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961355677483",
-          "regionalName": "鋼仁戦記 東京書籍 (19980806)"
+          "regionalName": "鋼仁戦記 東京書籍"
         },
         {
           "name": "GO-JIN SENKI [BEST PRICE]",
@@ -23719,7 +23720,7 @@
       ],
       "id": 943,
       "localizedNames": {
-        "ja": "鋼仁戦記 東京書籍 (19980806)"
+        "ja": "鋼仁戦記 東京書籍"
       }
     },
     {
@@ -24324,7 +24325,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4517015940086",
-          "regionalName": "グレイトラグビー実況'98 ワールドカップへの道 ダス (19980521)"
+          "regionalName": "グレイトラグビー実況'98 ワールドカップへの道 ダス"
         },
         {
           "name": "GREAT RUGBY JIKKYOU '98 - WORLD CUP E NO MICHI [NICE PRICE!]",
@@ -24349,7 +24350,7 @@
       ],
       "id": 966,
       "localizedNames": {
-        "ja": "グレイトラグビー実況'98 ワールドカップへの道 ダス (19980521)"
+        "ja": "グレイトラグビー実況'98 ワールドカップへの道 ダス"
       }
     },
     {
@@ -24532,12 +24533,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4956358120517",
-          "regionalName": "GROUND STROKE(グランド・ストローク) ADVANCED TENNIS GAME(アドバンスド テニス ゲーム) エス・ピー・エス (19950811)"
+          "regionalName": "GROUND STROKE(グランド・ストローク) ADVANCED TENNIS GAME(アドバンスド テニス ゲーム) エス・ピー・エス"
         }
       ],
       "id": 974,
       "localizedNames": {
-        "ja": "GROUND STROKE(グランド・ストローク) ADVANCED TENNIS GAME(アドバンスド テニス ゲーム) エス・ピー・エス (19950811)"
+        "ja": "GROUND STROKE(グランド・ストローク) ADVANCED TENNIS GAME(アドバンスド テニス ゲーム) エス・ピー・エス"
       }
     },
     {
@@ -24763,12 +24764,12 @@
           "region": "NTSC-J",
           "tgdbId": 93736,
           "upc": "4988602739053",
-          "regionalName": "GUITAR FREAKS APPEND 2nd MIX(ギターフリークス アペンド 2ndミックス) コナミデジタルエンタテインメント (20000224)"
+          "regionalName": "GUITAR FREAKS APPEND 2nd MIX(ギターフリークス アペンド 2ndミックス) コナミデジタルエンタテインメント"
         }
       ],
       "id": 983,
       "localizedNames": {
-        "ja": "GUITAR FREAKS APPEND 2nd MIX(ギターフリークス アペンド 2ndミックス) コナミデジタルエンタテインメント (20000224)"
+        "ja": "GUITAR FREAKS APPEND 2nd MIX(ギターフリークス アペンド 2ndミックス) コナミデジタルエンタテインメント"
       }
     },
     {
@@ -25126,12 +25127,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425751245",
-          "regionalName": "GUNPEY(グンペイ) バンダイナムコエンターテインメント (19991216)"
+          "regionalName": "GUNPEY(グンペイ) バンダイナムコエンターテインメント"
         }
       ],
       "id": 999,
       "localizedNames": {
-        "ja": "GUNPEY(グンペイ) バンダイナムコエンターテインメント (19991216)"
+        "ja": "GUNPEY(グンペイ) バンダイナムコエンターテインメント"
       }
     },
     {
@@ -25291,7 +25292,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4519612900050",
-          "regionalName": "牌神2(Hai-Shin-2) DigiCube Best Selection(SLPS-02432) デジキューブ (19991125)"
+          "regionalName": "牌神2(Hai-Shin-2) DigiCube Best Selection(SLPS-02432) デジキューブ"
         },
         {
           "name": "HAI-SHIN 2 [PSONE BOOKS]",
@@ -26543,7 +26544,7 @@
           "region": "NTSC-J",
           "tgdbId": 127847,
           "upc": "4933766921097",
-          "regionalName": "ヒロイン・ドリーム 2 マップジャパン (19980625)"
+          "regionalName": "ヒロイン・ドリーム 2 マップジャパン"
         },
         {
           "name": "HEROINE DREAM 2 [THE BEST BUY]",
@@ -26558,7 +26559,7 @@
       ],
       "id": 1059,
       "localizedNames": {
-        "ja": "ヒロイン・ドリーム 2 マップジャパン (19980625)"
+        "ja": "ヒロイン・ドリーム 2 マップジャパン"
       }
     },
     {
@@ -27897,12 +27898,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4532589000028",
-          "regionalName": "HOSHIGAMI(ほしがみ) 〜沈みゆく蒼き大地〜 マックスファイブ (20020207)"
+          "regionalName": "HOSHIGAMI(ほしがみ) 〜沈みゆく蒼き大地〜 マックスファイブ"
         }
       ],
       "id": 1127,
       "localizedNames": {
-        "ja": "HOSHIGAMI(ほしがみ) 〜沈みゆく蒼き大地〜 マックスファイブ (20020207)"
+        "ja": "HOSHIGAMI(ほしがみ) 〜沈みゆく蒼き大地〜 マックスファイブ"
       }
     },
     {
@@ -28151,7 +28152,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988262301706",
-          "regionalName": "漂流記(ひょうりゅうき) ケイエスエス (19991028)"
+          "regionalName": "漂流記(ひょうりゅうき) ケイエスエス"
         },
         {
           "name": "HYOURYUU KI - THE REPORTAGE BEYOND THE SEA [MAJOR WAVE SERIES]",
@@ -28166,7 +28167,7 @@
       ],
       "id": 1139,
       "localizedNames": {
-        "ja": "漂流記(ひょうりゅうき) ケイエスエス (19991028)"
+        "ja": "漂流記(ひょうりゅうき) ケイエスエス"
       }
     },
     {
@@ -28218,7 +28219,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4959143900073",
-          "regionalName": "ハイパーファイナルマッチテニス ヒューマン (19960322)"
+          "regionalName": "ハイパーファイナルマッチテニス ヒューマン"
         },
         {
           "name": "HYPER FINAL MATCH TENNIS",
@@ -28231,7 +28232,7 @@
       ],
       "id": 1142,
       "localizedNames": {
-        "ja": "ハイパーファイナルマッチテニス ヒューマン (19960322)"
+        "ja": "ハイパーファイナルマッチテニス ヒューマン"
       }
     },
     {
@@ -28336,12 +28337,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988110400117",
-          "regionalName": "はいぱぁセキュリティーズ2 マーベラスインタラクティブ (19980625)"
+          "regionalName": "はいぱぁセキュリティーズ2 マーベラスインタラクティブ"
         }
       ],
       "id": 1148,
       "localizedNames": {
-        "ja": "はいぱぁセキュリティーズ2 マーベラスインタラクティブ (19980625)"
+        "ja": "はいぱぁセキュリティーズ2 マーベラスインタラクティブ"
       }
     },
     {
@@ -28974,12 +28975,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872190060",
-          "regionalName": "プレイステーションコミック第5弾 「ブザービーター(前編)」 ソニー・コンピュータエンタテインメント (19990527)"
+          "regionalName": "プレイステーションコミック第5弾 「ブザービーター(前編)」 ソニー・コンピュータエンタテインメント"
         }
       ],
       "id": 1175,
       "localizedNames": {
-        "ja": "プレイステーションコミック第5弾 「ブザービーター(前編)」 ソニー・コンピュータエンタテインメント (19990527)"
+        "ja": "プレイステーションコミック第5弾 「ブザービーター(前編)」 ソニー・コンピュータエンタテインメント"
       }
     },
     {
@@ -29069,7 +29070,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543112055453",
-          "regionalName": "犬夜叉 通常版 バンダイ (20011227)"
+          "regionalName": "犬夜叉 通常版 バンダイ"
         },
         {
           "name": "INUYASHA RPG [LIMITED EDITION]",
@@ -29084,7 +29085,7 @@
       ],
       "id": 1179,
       "localizedNames": {
-        "ja": "犬夜叉 通常版 バンダイ (20011227)"
+        "ja": "犬夜叉 通常版 バンダイ"
       }
     },
     {
@@ -29098,7 +29099,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543112136657",
-          "regionalName": "犬夜叉 戦国お伽合戦 通常版 バンダイ (20021205)"
+          "regionalName": "犬夜叉 戦国お伽合戦 通常版 バンダイ"
         },
         {
           "name": "INUYASHA - SENGOKU OTOGI KASSEN [LIMITED EDITION]",
@@ -29113,7 +29114,7 @@
       ],
       "id": 1180,
       "localizedNames": {
-        "ja": "犬夜叉 戦国お伽合戦 通常版 バンダイ (20021205)"
+        "ja": "犬夜叉 戦国お伽合戦 通常版 バンダイ"
       }
     },
     {
@@ -29180,7 +29181,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4904880133970",
-          "regionalName": "…いる! タカラ (19980326)"
+          "regionalName": "…いる! タカラ"
         },
         {
           "name": "...IRU! [THE BEST TAKARAMONO]",
@@ -29195,7 +29196,7 @@
       ],
       "id": 1184,
       "localizedNames": {
-        "ja": "…いる! タカラ (19980326)"
+        "ja": "…いる! タカラ"
       }
     },
     {
@@ -29440,12 +29441,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602026566",
-          "regionalName": "Jリーグ 実況ウイニングイレブン'97 コナミ (19961122)"
+          "regionalName": "Jリーグ 実況ウイニングイレブン'97 コナミ"
         }
       ],
       "id": 1194,
       "localizedNames": {
-        "ja": "Jリーグ 実況ウイニングイレブン'97 コナミ (19961122)"
+        "ja": "Jリーグ 実況ウイニングイレブン'97 コナミ"
       }
     },
     {
@@ -29592,12 +29593,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4542084000034",
-          "regionalName": "Jリーグ実況ウイニングイレブン2000 2nd KCE東京 (20001130)"
+          "regionalName": "Jリーグ実況ウイニングイレブン2000 2nd KCE東京"
         }
       ],
       "id": 1202,
       "localizedNames": {
-        "ja": "Jリーグ実況ウイニングイレブン2000 2nd KCE東京 (20001130)"
+        "ja": "Jリーグ実況ウイニングイレブン2000 2nd KCE東京"
       }
     },
     {
@@ -29735,7 +29736,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4989006000145",
-          "regionalName": "雀牌遊戯'99 たぬきの皮算用 メディアリング (19981217)"
+          "regionalName": "雀牌遊戯'99 たぬきの皮算用 メディアリング"
         },
         {
           "name": "JANHAI YUUGI '99 - TANUKI NO KAWAZANYOU [FUKYUUYUUBAN 1500 SERIES]",
@@ -29750,7 +29751,7 @@
       ],
       "id": 1210,
       "localizedNames": {
-        "ja": "雀牌遊戯'99 たぬきの皮算用 メディアリング (19981217)"
+        "ja": "雀牌遊戯'99 たぬきの皮算用 メディアリング"
       }
     },
     {
@@ -29912,7 +29913,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872600200",
-          "regionalName": "Jet Moto(ジェットモト) ソニー・コンピュータエンタテインメント (19970807)"
+          "regionalName": "Jet Moto(ジェットモト) ソニー・コンピュータエンタテインメント"
         },
         {
           "name": "JET MOTO",
@@ -29925,7 +29926,7 @@
       ],
       "id": 1216,
       "localizedNames": {
-        "ja": "Jet Moto(ジェットモト) ソニー・コンピュータエンタテインメント (19970807)"
+        "ja": "Jet Moto(ジェットモト) ソニー・コンピュータエンタテインメント"
       }
     },
     {
@@ -30116,7 +30117,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602730098",
-          "regionalName": "実況ゴルフマスター2000 コナミ (20000330)"
+          "regionalName": "実況ゴルフマスター2000 コナミ"
         },
         {
           "name": "JIKKYOU GOLF MASTER 2000 [KONAMI THE BEST]",
@@ -30131,7 +30132,7 @@
       ],
       "id": 1226,
       "localizedNames": {
-        "ja": "実況ゴルフマスター2000 コナミ (20000330)"
+        "ja": "実況ゴルフマスター2000 コナミ"
       }
     },
     {
@@ -30145,12 +30146,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602665086",
-          "regionalName": "実況 J.LEAGUE 1999 パーフェクトストライカー(実況Jリーグ1999 パーフェクトストライカー) コナミデジタルエンタテインメント (19991202)"
+          "regionalName": "実況 J.LEAGUE 1999 パーフェクトストライカー(実況Jリーグ1999 パーフェクトストライカー) コナミデジタルエンタテインメント"
         }
       ],
       "id": 1227,
       "localizedNames": {
-        "ja": "実況 J.LEAGUE 1999 パーフェクトストライカー(実況Jリーグ1999 パーフェクトストライカー) コナミデジタルエンタテインメント (19991202)"
+        "ja": "実況 J.LEAGUE 1999 パーフェクトストライカー(実況Jリーグ1999 パーフェクトストライカー) コナミデジタルエンタテインメント"
       }
     },
     {
@@ -30336,12 +30337,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4541964000003",
-          "regionalName": "実況パワフルプロ野球2000 決定版 コナミ (20001221)"
+          "regionalName": "実況パワフルプロ野球2000 決定版 コナミ"
         }
       ],
       "id": 1237,
       "localizedNames": {
-        "ja": "実況パワフルプロ野球2000 決定版 コナミ (20001221)"
+        "ja": "実況パワフルプロ野球2000 決定版 コナミ"
       }
     },
     {
@@ -30893,12 +30894,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961355677490",
-          "regionalName": "Jaggernaut〜戦慄の扉〜(ジャガーノート〜戦慄の扉〜) 東京書籍 (19981119)"
+          "regionalName": "Jaggernaut〜戦慄の扉〜(ジャガーノート〜戦慄の扉〜) 東京書籍"
         }
       ],
       "id": 1266,
       "localizedNames": {
-        "ja": "Jaggernaut〜戦慄の扉〜(ジャガーノート〜戦慄の扉〜) 東京書籍 (19981119)"
+        "ja": "Jaggernaut〜戦慄の扉〜(ジャガーノート〜戦慄の扉〜) 東京書籍"
       }
     },
     {
@@ -31479,7 +31480,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543112034014",
-          "regionalName": "仮面ライダーアギト バンダイ (20011129)"
+          "regionalName": "仮面ライダーアギト バンダイ"
         },
         {
           "name": "KAMEN RIDER AGITO [BANDAI THE BEST]",
@@ -31494,7 +31495,7 @@
       ],
       "id": 1294,
       "localizedNames": {
-        "ja": "仮面ライダーアギト バンダイ (20011129)"
+        "ja": "仮面ライダーアギト バンダイ"
       }
     },
     {
@@ -31537,12 +31538,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543112136602",
-          "regionalName": "仮面ライダー龍騎 バンダイナムコエンターテインメント (20021128)"
+          "regionalName": "仮面ライダー龍騎 バンダイナムコエンターテインメント"
         }
       ],
       "id": 1296,
       "localizedNames": {
-        "ja": "仮面ライダー龍騎 バンダイナムコエンターテインメント (20021128)"
+        "ja": "仮面ライダー龍騎 バンダイナムコエンターテインメント"
       }
     },
     {
@@ -31637,12 +31638,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4995151000411",
-          "regionalName": "華蘭虎龍学園 どきどき編 ジェイ・ウィング (20000224)"
+          "regionalName": "華蘭虎龍学園 どきどき編 ジェイ・ウィング"
         }
       ],
       "id": 1301,
       "localizedNames": {
-        "ja": "華蘭虎龍学園 どきどき編 ジェイ・ウィング (20000224)"
+        "ja": "華蘭虎龍学園 どきどき編 ジェイ・ウィング"
       }
     },
     {
@@ -31790,12 +31791,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4994934100065",
-          "regionalName": "かっとびチューン 元気 (19980423)"
+          "regionalName": "かっとびチューン 元気"
         }
       ],
       "id": 1308,
       "localizedNames": {
-        "ja": "かっとびチューン 元気 (19980423)"
+        "ja": "かっとびチューン 元気"
       }
     },
     {
@@ -31923,12 +31924,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4990136129811",
-          "regionalName": "競馬エイト '98春 シャングリ・ラ (19980429)"
+          "regionalName": "競馬エイト '98春 シャングリ・ラ"
         }
       ],
       "id": 1313,
       "localizedNames": {
-        "ja": "競馬エイト '98春 シャングリ・ラ (19980429)"
+        "ja": "競馬エイト '98春 シャングリ・ラ"
       }
     },
     {
@@ -32037,12 +32038,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4990136129736",
-          "regionalName": "[お得品] 競馬最勝の法則'97 Vol.1 狙え!万馬券! シャングリ・ラ (19970411)"
+          "regionalName": "[お得品] 競馬最勝の法則'97 Vol.1 狙え!万馬券! シャングリ・ラ"
         }
       ],
       "id": 1319,
       "localizedNames": {
-        "ja": "[お得品] 競馬最勝の法則'97 Vol.1 狙え!万馬券! シャングリ・ラ (19970411)"
+        "ja": "[お得品] 競馬最勝の法則'97 Vol.1 狙え!万馬券! シャングリ・ラ"
       }
     },
     {
@@ -32056,12 +32057,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4990136129743",
-          "regionalName": "競馬最勝の法則'97 Vol.II To HIT! シャングリ・ラ (19971016)"
+          "regionalName": "競馬最勝の法則'97 Vol.II To HIT! シャングリ・ラ"
         }
       ],
       "id": 1320,
       "localizedNames": {
-        "ja": "競馬最勝の法則'97 Vol.II To HIT! シャングリ・ラ (19971016)"
+        "ja": "競馬最勝の法則'97 Vol.II To HIT! シャングリ・ラ"
       }
     },
     {
@@ -32252,7 +32253,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4935228987917",
-          "regionalName": "ケロケロキング(the game KEROKEROKING) メディアファクトリー (20001102)"
+          "regionalName": "ケロケロキング(the game KEROKEROKING) メディアファクトリー"
         },
         {
           "name": "KERO KERO KING [LIMITED EDITION]",
@@ -32262,7 +32263,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4935228987917",
-          "regionalName": "ケロケロキング(the game KEROKEROKING) メディアファクトリー (20001102)"
+          "regionalName": "ケロケロキング(the game KEROKEROKING) メディアファクトリー"
         },
         {
           "name": "KERO KERO KING [PSONE BOOKS]",
@@ -32276,7 +32277,7 @@
       ],
       "id": 1330,
       "localizedNames": {
-        "ja": "ケロケロキング(the game KEROKEROKING) メディアファクトリー (20001102)"
+        "ja": "ケロケロキング(the game KEROKEROKING) メディアファクトリー"
       }
     },
     {
@@ -32355,12 +32356,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425562971",
-          "regionalName": "GUNDAM 0079 THE WAR FOR EARTH(ガンダム0079 ザ ウォー フォー アース) バンダイ (19970502)"
+          "regionalName": "GUNDAM 0079 THE WAR FOR EARTH(ガンダム0079 ザ ウォー フォー アース) バンダイ"
         }
       ],
       "id": 1334,
       "localizedNames": {
-        "ja": "GUNDAM 0079 THE WAR FOR EARTH(ガンダム0079 ザ ウォー フォー アース) バンダイ (19970502)"
+        "ja": "GUNDAM 0079 THE WAR FOR EARTH(ガンダム0079 ザ ウォー フォー アース) バンダイ"
       }
     },
     {
@@ -33404,7 +33405,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988009003191",
-          "regionalName": "キリーク・ザ・ブラッド(KIKEAK The Blood) ソニー・ミュージックエンタテインメント (19950127)"
+          "regionalName": "キリーク・ザ・ブラッド(KIKEAK The Blood) ソニー・ミュージックエンタテインメント"
         },
         {
           "name": "KILEAK - THE BLOOD",
@@ -33417,7 +33418,7 @@
       ],
       "id": 1377,
       "localizedNames": {
-        "ja": "キリーク・ザ・ブラッド(KIKEAK The Blood) ソニー・ミュージックエンタテインメント (19950127)"
+        "ja": "キリーク・ザ・ブラッド(KIKEAK The Blood) ソニー・ミュージックエンタテインメント"
       }
     },
     {
@@ -33545,12 +33546,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4946569000210",
-          "regionalName": "キミにSteady(キミにステディ) シーディーブロス (20000928)"
+          "regionalName": "キミにSteady(キミにステディ) シーディーブロス"
         }
       ],
       "id": 1383,
       "localizedNames": {
-        "ja": "キミにSteady(キミにステディ) シーディーブロス (20000928)"
+        "ja": "キミにSteady(キミにステディ) シーディーブロス"
       }
     },
     {
@@ -33564,7 +33565,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4904880137947",
-          "regionalName": "君の気持ち、僕のこころ タカラトミー (19990914)"
+          "regionalName": "君の気持ち、僕のこころ タカラトミー"
         },
         {
           "name": "KIMI NO KIMOCHI BOKU NO KOKORO [THE BEST TAKARAMONO]",
@@ -33579,7 +33580,7 @@
       ],
       "id": 1384,
       "localizedNames": {
-        "ja": "君の気持ち、僕のこころ タカラトミー (19990914)"
+        "ja": "君の気持ち、僕のこころ タカラトミー"
       }
     },
     {
@@ -33641,12 +33642,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4938838099179",
-          "regionalName": "金田一少年の事件簿3 青龍伝説殺人事件 講談社 (19990805)"
+          "regionalName": "金田一少年の事件簿3 青龍伝説殺人事件 講談社"
         }
       ],
       "id": 1387,
       "localizedNames": {
-        "ja": "金田一少年の事件簿3 青龍伝説殺人事件 講談社 (19990805)"
+        "ja": "金田一少年の事件簿3 青龍伝説殺人事件 講談社"
       }
     },
     {
@@ -33679,7 +33680,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4953507980879",
-          "regionalName": "KING of BOWLING 2(キングオブボウリング2) プロフェッショナル編 ココナッツジャパン (19980827)"
+          "regionalName": "KING of BOWLING 2(キングオブボウリング2) プロフェッショナル編 ココナッツジャパン"
         },
         {
           "name": "KING OF BOWLING 2 [PLAYSTATION THE BEST]",
@@ -33701,7 +33702,7 @@
       ],
       "id": 1389,
       "localizedNames": {
-        "ja": "KING of BOWLING 2(キングオブボウリング2) プロフェッショナル編 ココナッツジャパン (19980827)"
+        "ja": "KING of BOWLING 2(キングオブボウリング2) プロフェッショナル編 ココナッツジャパン"
       }
     },
     {
@@ -33989,7 +33990,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602069150",
-          "regionalName": "筋肉番付 VOL.3 〜最強のチャレンジャー誕生!〜 コナミ (20001221)"
+          "regionalName": "筋肉番付 VOL.3 〜最強のチャレンジャー誕生!〜 コナミ"
         },
         {
           "name": "KINNIKU BANZUKE VOL.3 - SAIKYU NO CHALLENGER TANJOU! [KONAMI THE BEST]",
@@ -34004,7 +34005,7 @@
       ],
       "id": 1400,
       "localizedNames": {
-        "ja": "筋肉番付 VOL.3 〜最強のチャレンジャー誕生!〜 コナミ (20001221)"
+        "ja": "筋肉番付 VOL.3 〜最強のチャレンジャー誕生!〜 コナミ"
       }
     },
     {
@@ -34526,12 +34527,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988110020704",
-          "regionalName": "こもっち マーベラスインタラクティブ (20010920)"
+          "regionalName": "こもっち マーベラスインタラクティブ"
         }
       ],
       "id": 1424,
       "localizedNames": {
-        "ja": "こもっち マーベラスインタラクティブ (20010920)"
+        "ja": "こもっち マーベラスインタラクティブ"
       }
     },
     {
@@ -35567,12 +35568,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4983164734195",
-          "regionalName": "くるみミラクル バンプレスト (19970925)"
+          "regionalName": "くるみミラクル バンプレスト"
         }
       ],
       "id": 1467,
       "localizedNames": {
-        "ja": "くるみミラクル バンプレスト (19970925)"
+        "ja": "くるみミラクル バンプレスト"
       }
     },
     {
@@ -35819,12 +35820,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907095000419",
-          "regionalName": "球転界(きゅうてんかい) Fantasic Pinball テクノソフト (19950331)"
+          "regionalName": "球転界(きゅうてんかい) Fantasic Pinball テクノソフト"
         }
       ],
       "id": 1480,
       "localizedNames": {
-        "ja": "球転界(きゅうてんかい) Fantasic Pinball テクノソフト (19950331)"
+        "ja": "球転界(きゅうてんかい) Fantasic Pinball テクノソフト"
       }
     },
     {
@@ -35838,7 +35839,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961355677681",
-          "regionalName": "Lの季節(エルのきせつ) 〜A piece of memories〜 BEST PRICE(SLPS-03222) トンキンハウス (20010607)"
+          "regionalName": "Lの季節(エルのきせつ) 〜A piece of memories〜 BEST PRICE(SLPS-03222) トンキンハウス"
         },
         {
           "name": "L NO KISETSU - A PIECE OF MEMORIES [LIMITED EDITION]",
@@ -35853,7 +35854,7 @@
       ],
       "id": 1481,
       "localizedNames": {
-        "ja": "Lの季節(エルのきせつ) 〜A piece of memories〜 BEST PRICE(SLPS-03222) トンキンハウス (20010607)"
+        "ja": "Lの季節(エルのきせつ) 〜A piece of memories〜 BEST PRICE(SLPS-03222) トンキンハウス"
       }
     },
     {
@@ -35923,7 +35924,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4517015940048",
-          "regionalName": "LAKE MASTERS(レイクマスターズ) ダス (19960802)"
+          "regionalName": "LAKE MASTERS(レイクマスターズ) ダス"
         },
         {
           "name": "LAKE MASTERS [NICE PRICE 2800]",
@@ -35938,7 +35939,7 @@
       ],
       "id": 1484,
       "localizedNames": {
-        "ja": "LAKE MASTERS(レイクマスターズ) ダス (19960802)"
+        "ja": "LAKE MASTERS(レイクマスターズ) ダス"
       }
     },
     {
@@ -35952,7 +35953,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4517015940093",
-          "regionalName": "レイクマスターズ2(LAKE MASTERS2) バスフィッシング イン ジャパン ダス (19980709)"
+          "regionalName": "レイクマスターズ2(LAKE MASTERS2) バスフィッシング イン ジャパン ダス"
         },
         {
           "name": "LAKE MASTERS 2 - BASS FISHING IN JAPAN [REPRINT]",
@@ -35967,7 +35968,7 @@
       ],
       "id": 1485,
       "localizedNames": {
-        "ja": "レイクマスターズ2(LAKE MASTERS2) バスフィッシング イン ジャパン ダス (19980709)"
+        "ja": "レイクマスターズ2(LAKE MASTERS2) バスフィッシング イン ジャパン ダス"
       }
     },
     {
@@ -36205,12 +36206,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4510508200049",
-          "regionalName": "リーディングジョッキー'99 ハーベストワン (19990401)"
+          "regionalName": "リーディングジョッキー'99 ハーベストワン"
         }
       ],
       "id": 1495,
       "localizedNames": {
-        "ja": "リーディングジョッキー'99 ハーベストワン (19990401)"
+        "ja": "リーディングジョッキー'99 ハーベストワン"
       }
     },
     {
@@ -36394,12 +36395,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010864",
-          "regionalName": "リベログランデ2(Liberogrande 2) バンダイナムコエンターテインメント (20000907)"
+          "regionalName": "リベログランデ2(Liberogrande 2) バンダイナムコエンターテインメント"
         }
       ],
       "id": 1503,
       "localizedNames": {
-        "ja": "リベログランデ2(Liberogrande 2) バンダイナムコエンターテインメント (20000907)"
+        "ja": "リベログランデ2(Liberogrande 2) バンダイナムコエンターテインメント"
       }
     },
     {
@@ -36545,12 +36546,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4930203410107",
-          "regionalName": "リトルラバーズ シーソーゲーム エヌ・ティー・ティー出版 (19990902)"
+          "regionalName": "リトルラバーズ シーソーゲーム エヌ・ティー・ティー出版"
         }
       ],
       "id": 1510,
       "localizedNames": {
-        "ja": "リトルラバーズ シーソーゲーム エヌ・ティー・ティー出版 (19990902)"
+        "ja": "リトルラバーズ シーソーゲーム エヌ・ティー・ティー出版"
       }
     },
     {
@@ -37032,7 +37033,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907940212639",
-          "regionalName": "value 1500 LOVE GAME'S わいわいテニス2(SLPS-02983) サン電子 (20001207)"
+          "regionalName": "value 1500 LOVE GAME'S わいわいテニス2(SLPS-02983) サン電子"
         }
       ],
       "id": 1532,
@@ -37127,12 +37128,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4533476000046",
-          "regionalName": "ラヴ・セラピー ビーファクトリー (19980709)"
+          "regionalName": "ラヴ・セラピー ビーファクトリー"
         }
       ],
       "id": 1537,
       "localizedNames": {
-        "ja": "ラヴ・セラピー ビーファクトリー (19980709)"
+        "ja": "ラヴ・セラピー ビーファクトリー"
       }
     },
     {
@@ -37682,12 +37683,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4904880138265",
-          "regionalName": "マクロスプラス ゲームエディション タカラトミー (20000629)"
+          "regionalName": "マクロスプラス ゲームエディション タカラトミー"
         }
       ],
       "id": 1564,
       "localizedNames": {
-        "ja": "マクロスプラス ゲームエディション タカラトミー (20000629)"
+        "ja": "マクロスプラス ゲームエディション タカラトミー"
       }
     },
     {
@@ -37906,12 +37907,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4529651000666",
-          "regionalName": "Major Wave シリーズ マジカルドロップF 大冒険もラクじゃない!(SLPM-86805) ハムスター (20010426)"
+          "regionalName": "Major Wave シリーズ マジカルドロップF 大冒険もラクじゃない!(SLPM-86805) ハムスター"
         }
       ],
       "id": 1575,
       "localizedNames": {
-        "ja": "Major Wave シリーズ マジカルドロップF 大冒険もラクじゃない!(SLPM-86805) ハムスター (20010426)"
+        "ja": "Major Wave シリーズ マジカルドロップF 大冒険もラクじゃない!(SLPM-86805) ハムスター"
       }
     },
     {
@@ -38302,7 +38303,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615008375",
-          "regionalName": "麻雀大会II Special(マージャンタイカイ2 スペシャル) コーエー (19961129)"
+          "regionalName": "麻雀大会II Special(マージャンタイカイ2 スペシャル) コーエー"
         },
         {
           "name": "MAHJONG TAIKAI II SPECIAL [KOEI TEIBAN SERIES]",
@@ -38326,7 +38327,7 @@
       ],
       "id": 1595,
       "localizedNames": {
-        "ja": "麻雀大会II Special(マージャンタイカイ2 スペシャル) コーエー (19961129)"
+        "ja": "麻雀大会II Special(マージャンタイカイ2 スペシャル) コーエー"
       }
     },
     {
@@ -38383,12 +38384,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4537744083120",
-          "regionalName": "0からの麻雀 麻雀幼稚園 たまご組 アフェクト (19980312)"
+          "regionalName": "0からの麻雀 麻雀幼稚園 たまご組 アフェクト"
         }
       ],
       "id": 1598,
       "localizedNames": {
-        "ja": "0からの麻雀 麻雀幼稚園 たまご組 アフェクト (19980312)"
+        "ja": "0からの麻雀 麻雀幼稚園 たまご組 アフェクト"
       }
     },
     {
@@ -39243,12 +39244,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4965857040479",
-          "regionalName": "メダロットR・パーツコレクション イマジニア (20000316)"
+          "regionalName": "メダロットR・パーツコレクション イマジニア"
         }
       ],
       "id": 1636,
       "localizedNames": {
-        "ja": "メダロットR・パーツコレクション イマジニア (20000316)"
+        "ja": "メダロットR・パーツコレクション イマジニア"
       }
     },
     {
@@ -39461,7 +39462,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425709642",
-          "regionalName": "名探偵コナン バンダイ (19981119)"
+          "regionalName": "名探偵コナン バンダイ"
         },
         {
           "name": "MEITANTEI CONAN [PLAYSTATION THE BEST]",
@@ -39476,7 +39477,7 @@
       ],
       "id": 1643,
       "localizedNames": {
-        "ja": "名探偵コナン バンダイ (19981119)"
+        "ja": "名探偵コナン バンダイ"
       }
     },
     {
@@ -39790,12 +39791,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4933516103209",
-          "regionalName": "Memories Off 2nd(メモリーズオフ・セカンド) キッド (20010927)"
+          "regionalName": "Memories Off 2nd(メモリーズオフ・セカンド) キッド"
         }
       ],
       "id": 1660,
       "localizedNames": {
-        "ja": "Memories Off 2nd(メモリーズオフ・セカンド) キッド (20010927)"
+        "ja": "Memories Off 2nd(メモリーズオフ・セカンド) キッド"
       }
     },
     {
@@ -39809,12 +39810,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4530290001440",
-          "regionalName": "免許をとろう トワイライトエクスプレス (20000525)"
+          "regionalName": "免許をとろう トワイライトエクスプレス"
         }
       ],
       "id": 1661,
       "localizedNames": {
-        "ja": "免許をとろう トワイライトエクスプレス (20000525)"
+        "ja": "免許をとろう トワイライトエクスプレス"
       }
     },
     {
@@ -39885,12 +39886,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4525642000097",
-          "regionalName": "マーメイドの季節〜カーテンコール〜 ネットビレッジ (20020801)"
+          "regionalName": "マーメイドの季節〜カーテンコール〜 ネットビレッジ"
         }
       ],
       "id": 1665,
       "localizedNames": {
-        "ja": "マーメイドの季節〜カーテンコール〜 ネットビレッジ (20020801)"
+        "ja": "マーメイドの季節〜カーテンコール〜 ネットビレッジ"
       }
     },
     {
@@ -40170,12 +40171,12 @@
           "region": "NTSC-J",
           "tgdbId": 106550,
           "upc": "4988013034792",
-          "regionalName": "メタルジャケット(METAL JACKET) ポニーキャニオン (19950922)"
+          "regionalName": "メタルジャケット(METAL JACKET) ポニーキャニオン"
         }
       ],
       "id": 1674,
       "localizedNames": {
-        "ja": "メタルジャケット(METAL JACKET) ポニーキャニオン (19950922)"
+        "ja": "メタルジャケット(METAL JACKET) ポニーキャニオン"
       }
     },
     {
@@ -40675,12 +40676,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110110",
-          "regionalName": "南方珀堂登場 アトラス (19970807)"
+          "regionalName": "南方珀堂登場 アトラス"
         }
       ],
       "id": 1694,
       "localizedNames": {
-        "ja": "南方珀堂登場 アトラス (19970807)"
+        "ja": "南方珀堂登場 アトラス"
       }
     },
     {
@@ -40884,12 +40885,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076002000",
-          "regionalName": "SuperLite GOLDシリーズ みんなの囲碁 サクセス (20011025)"
+          "regionalName": "SuperLite GOLDシリーズ みんなの囲碁 サクセス"
         }
       ],
       "id": 1703,
       "localizedNames": {
-        "ja": "SuperLite GOLDシリーズ みんなの囲碁 サクセス (20011025)"
+        "ja": "SuperLite GOLDシリーズ みんなの囲碁 サクセス"
       }
     },
     {
@@ -40980,12 +40981,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907953200043",
-          "regionalName": "バッシング ビート(BASSING BEAT) ハーティロビン (19980211)"
+          "regionalName": "バッシング ビート(BASSING BEAT) ハーティロビン"
         }
       ],
       "id": 1708,
       "localizedNames": {
-        "ja": "バッシング ビート(BASSING BEAT) ハーティロビン (19980211)"
+        "ja": "バッシング ビート(BASSING BEAT) ハーティロビン"
       }
     },
     {
@@ -41158,12 +41159,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4997795963015",
-          "regionalName": "未踏峰への挑戦 アルプス編 ウイネット (19970724)"
+          "regionalName": "未踏峰への挑戦 アルプス編 ウイネット"
         }
       ],
       "id": 1716,
       "localizedNames": {
-        "ja": "未踏峰への挑戦 アルプス編 ウイネット (19970724)"
+        "ja": "未踏峰への挑戦 アルプス編 ウイネット"
       }
     },
     {
@@ -41918,12 +41919,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4960677400229",
-          "regionalName": "モンスターファーム バトルカード テクモ (20000323)"
+          "regionalName": "モンスターファーム バトルカード テクモ"
         }
       ],
       "id": 1745,
       "localizedNames": {
-        "ja": "モンスターファーム バトルカード テクモ (20000323)"
+        "ja": "モンスターファーム バトルカード テクモ"
       }
     },
     {
@@ -41937,12 +41938,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4960677400243",
-          "regionalName": "モンスターファームジャンプ テクモ (20010322)"
+          "regionalName": "モンスターファームジャンプ テクモ"
         }
       ],
       "id": 1746,
       "localizedNames": {
-        "ja": "モンスターファームジャンプ テクモ (20010322)"
+        "ja": "モンスターファームジャンプ テクモ"
       }
     },
     {
@@ -42500,12 +42501,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988658977072",
-          "regionalName": "もってけたまご with がんばれかものはし ナグザット (19980423)"
+          "regionalName": "もってけたまご with がんばれかものはし ナグザット"
         }
       ],
       "id": 1769,
       "localizedNames": {
-        "ja": "もってけたまご with がんばれかものはし ナグザット (19980423)"
+        "ja": "もってけたまご with がんばれかものはし ナグザット"
       }
     },
     {
@@ -42978,12 +42979,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988110020544",
-          "regionalName": "マイホームドリーム2 庭付き一戸建てで、行こう! ビクターソフト (19991202)"
+          "regionalName": "マイホームドリーム2 庭付き一戸建てで、行こう! ビクターソフト"
         }
       ],
       "id": 1790,
       "localizedNames": {
-        "ja": "マイホームドリーム2 庭付き一戸建てで、行こう! ビクターソフト (19991202)"
+        "ja": "マイホームドリーム2 庭付き一戸建てで、行こう! ビクターソフト"
       }
     },
     {
@@ -42997,12 +42998,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988110020544",
-          "regionalName": "マイホームドリーム2 庭付き一戸建てで、行こう! ビクターソフト (19991202)"
+          "regionalName": "マイホームドリーム2 庭付き一戸建てで、行こう! ビクターソフト"
         }
       ],
       "id": 1791,
       "localizedNames": {
-        "ja": "マイホームドリーム2 庭付き一戸建てで、行こう! ビクターソフト (19991202)"
+        "ja": "マイホームドリーム2 庭付き一戸建てで、行こう! ビクターソフト"
       }
     },
     {
@@ -43963,7 +43964,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4938833004192",
-          "regionalName": "NBA LIVE 97 エレクトロニック・アーツ (19970228)"
+          "regionalName": "NBA LIVE 97 エレクトロニック・アーツ"
         },
         {
           "name": "NBA LIVE 97",
@@ -43984,7 +43985,7 @@
       ],
       "id": 1825,
       "localizedNames": {
-        "ja": "NBA LIVE 97 エレクトロニック・アーツ (19970228)"
+        "ja": "NBA LIVE 97 エレクトロニック・アーツ"
       }
     },
     {
@@ -44960,12 +44961,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4571128000020",
-          "regionalName": "NIGHT RAID(ナイトレイド) タクミコーポレーション (20021010)"
+          "regionalName": "NIGHT RAID(ナイトレイド) タクミコーポレーション"
         }
       ],
       "id": 1863,
       "localizedNames": {
-        "ja": "NIGHT RAID(ナイトレイド) タクミコーポレーション (20021010)"
+        "ja": "NIGHT RAID(ナイトレイド) タクミコーポレーション"
       }
     },
     {
@@ -45079,7 +45080,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988658997124",
-          "regionalName": "手ほどき麻雀 入門編 日本プロ麻雀連盟公認 加賀テック (19990325)"
+          "regionalName": "手ほどき麻雀 入門編 日本プロ麻雀連盟公認 加賀テック"
         },
         {
           "name": "NIHON PRO MAHJONG RENMEI KOUNIN - TEHODOKI MAHJONG NYUUMON-HEN [RERELEASE]",
@@ -45094,7 +45095,7 @@
       ],
       "id": 1868,
       "localizedNames": {
-        "ja": "手ほどき麻雀 入門編 日本プロ麻雀連盟公認 加賀テック (19990325)"
+        "ja": "手ほどき麻雀 入門編 日本プロ麻雀連盟公認 加賀テック"
       }
     },
     {
@@ -46011,12 +46012,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4529651000338",
-          "regionalName": "NOeL3 MISSION ON THE LINE(ノエル3 ミッション オン ザ ライン) Major Wave シリーズ(SLPM-86609) ハムスター (20000831)"
+          "regionalName": "NOeL3 MISSION ON THE LINE(ノエル3 ミッション オン ザ ライン) Major Wave シリーズ(SLPM-86609) ハムスター"
         }
       ],
       "id": 1904,
       "localizedNames": {
-        "ja": "NOeL3 MISSION ON THE LINE(ノエル3 ミッション オン ザ ライン) Major Wave シリーズ(SLPM-86609) ハムスター (20000831)"
+        "ja": "NOeL3 MISSION ON THE LINE(ノエル3 ミッション オン ザ ライン) Major Wave シリーズ(SLPM-86609) ハムスター"
       }
     },
     {
@@ -46747,7 +46748,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219553476",
-          "regionalName": "ワンピースマンション カプコン (20010621)"
+          "regionalName": "ワンピースマンション カプコン"
         },
         {
           "name": "ONE PIECE MANSION",
@@ -46768,7 +46769,7 @@
       ],
       "id": 1935,
       "localizedNames": {
-        "ja": "ワンピースマンション カプコン (20010621)"
+        "ja": "ワンピースマンション カプコン"
       }
     },
     {
@@ -46796,7 +46797,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988606101290",
-          "regionalName": "音楽ツクール かなでーる2 アスキー (19980312)"
+          "regionalName": "音楽ツクール かなでーる2 アスキー"
         },
         {
           "name": "ONGAKU TSUKURU - KANADE-RU 2 [REPRINT]",
@@ -46806,12 +46807,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988606224074",
-          "regionalName": "音楽ツクール かなでーる2 ベスト版(SLPS-02684) アスキー (20000502)"
+          "regionalName": "音楽ツクール かなでーる2 ベスト版(SLPS-02684) アスキー"
         }
       ],
       "id": 1937,
       "localizedNames": {
-        "ja": "音楽ツクール かなでーる2 アスキー (19980312)"
+        "ja": "音楽ツクール かなでーる2 アスキー"
       }
     },
     {
@@ -48019,7 +48020,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4517120397072",
-          "regionalName": "パチスロ完全攻略ユニバーサル公式ガイド Vol.3 日本シスコン (19980806)"
+          "regionalName": "パチスロ完全攻略ユニバーサル公式ガイド Vol.3 日本シスコン"
         },
         {
           "name": "PACHI SLOT KANZEN KOURYAKU 3 - UNIVERSAL KOUSHIKI GAIDO VOL.3 [PLAYSTATION THE BEST]",
@@ -48034,7 +48035,7 @@
       ],
       "id": 1989,
       "localizedNames": {
-        "ja": "パチスロ完全攻略ユニバーサル公式ガイド Vol.3 日本シスコン (19980806)"
+        "ja": "パチスロ完全攻略ユニバーサル公式ガイド Vol.3 日本シスコン"
       }
     },
     {
@@ -49683,12 +49684,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4519784320021",
-          "regionalName": "ぱすてるみゅーず ソフトオフィス (19970821)"
+          "regionalName": "ぱすてるみゅーず ソフトオフィス"
         }
       ],
       "id": 2058,
       "localizedNames": {
-        "ja": "ぱすてるみゅーず ソフトオフィス (19970821)"
+        "ja": "ぱすてるみゅーず ソフトオフィス"
       }
     },
     {
@@ -49802,12 +49803,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4963919740107",
-          "regionalName": "パーフェクトゴルフ2 セタ (19980528)"
+          "regionalName": "パーフェクトゴルフ2 セタ"
         }
       ],
       "id": 2064,
       "localizedNames": {
-        "ja": "パーフェクトゴルフ2 セタ (19980528)"
+        "ja": "パーフェクトゴルフ2 セタ"
       }
     },
     {
@@ -49821,12 +49822,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988027020651",
-          "regionalName": "PERFECT PERFORMER THE YELLOW MONKEY(パーフェクト パフォーマー ザ イエロー モンキー) ファンハウス (19990701)"
+          "regionalName": "PERFECT PERFORMER THE YELLOW MONKEY(パーフェクト パフォーマー ザ イエロー モンキー) ファンハウス"
         }
       ],
       "id": 2065,
       "localizedNames": {
-        "ja": "PERFECT PERFORMER THE YELLOW MONKEY(パーフェクト パフォーマー ザ イエロー モンキー) ファンハウス (19990701)"
+        "ja": "PERFECT PERFORMER THE YELLOW MONKEY(パーフェクト パフォーマー ザ イエロー モンキー) ファンハウス"
       }
     },
     {
@@ -50024,7 +50025,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4938833004215",
-          "regionalName": "PGA TOUR 97 エレクトロニック・アーツ (19970320)"
+          "regionalName": "PGA TOUR 97 エレクトロニック・アーツ"
         },
         {
           "name": "PGA TOUR GOLF '97",
@@ -50045,7 +50046,7 @@
       ],
       "id": 2072,
       "localizedNames": {
-        "ja": "PGA TOUR 97 エレクトロニック・アーツ (19970320)"
+        "ja": "PGA TOUR 97 エレクトロニック・アーツ"
       }
     },
     {
@@ -50135,12 +50136,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988607050252",
-          "regionalName": "Piとメール(ピッとメール) PocketStation(ポケットステーション/ポケステ)専用 ハドソン (19990211)"
+          "regionalName": "Piとメール(ピッとメール) PocketStation(ポケットステーション/ポケステ)専用 ハドソン"
         }
       ],
       "id": 2076,
       "localizedNames": {
-        "ja": "Piとメール(ピッとメール) PocketStation(ポケットステーション/ポケステ)専用 ハドソン (19990211)"
+        "ja": "Piとメール(ピッとメール) PocketStation(ポケットステーション/ポケステ)専用 ハドソン"
       }
     },
     {
@@ -50327,12 +50328,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4932688000071",
-          "regionalName": "四柱推命ピタグラフ データム・ポリスター (19951229)"
+          "regionalName": "四柱推命ピタグラフ データム・ポリスター"
         }
       ],
       "id": 2085,
       "localizedNames": {
-        "ja": "四柱推命ピタグラフ データム・ポリスター (19951229)"
+        "ja": "四柱推命ピタグラフ データム・ポリスター"
       }
     },
     {
@@ -50538,7 +50539,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4959275000016",
-          "regionalName": "プレイで覚える英単語 でるでる1700 センター試験レベル対応 ナガセ (19990114)"
+          "regionalName": "プレイで覚える英単語 でるでる1700 センター試験レベル対応 ナガセ"
         },
         {
           "name": "PLAY DE OBOERU - EITANGO DERUDERU 1700 [CENTER SHIKEN LEVEL TAIOU]",
@@ -50563,7 +50564,7 @@
       ],
       "id": 2095,
       "localizedNames": {
-        "ja": "プレイで覚える英単語 でるでる1700 センター試験レベル対応 ナガセ (19990114)"
+        "ja": "プレイで覚える英単語 でるでる1700 センター試験レベル対応 ナガセ"
       }
     },
     {
@@ -50950,12 +50951,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872100762",
-          "regionalName": "ポケットムームー(Pocket muu muu) ソニー・コンピュータエンタテインメント (19990204)"
+          "regionalName": "ポケットムームー(Pocket muu muu) ソニー・コンピュータエンタテインメント"
         }
       ],
       "id": 2114,
       "localizedNames": {
-        "ja": "ポケットムームー(Pocket muu muu) ソニー・コンピュータエンタテインメント (19990204)"
+        "ja": "ポケットムームー(Pocket muu muu) ソニー・コンピュータエンタテインメント"
       }
     },
     {
@@ -51739,12 +51740,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961012977024",
-          "regionalName": "パワーステークス(POWER STAKES) スクウェア (19970411)"
+          "regionalName": "パワーステークス(POWER STAKES) スクウェア"
         }
       ],
       "id": 2147,
       "localizedNames": {
-        "ja": "パワーステークス(POWER STAKES) スクウェア (19970411)"
+        "ja": "パワーステークス(POWER STAKES) スクウェア"
       }
     },
     {
@@ -52206,12 +52207,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988262301225",
-          "regionalName": "プロレス戦国伝 週刊プロレス監修 ケイエスエス (19970627)"
+          "regionalName": "プロレス戦国伝 週刊プロレス監修 ケイエスエス"
         }
       ],
       "id": 2167,
       "localizedNames": {
-        "ja": "プロレス戦国伝 週刊プロレス監修 ケイエスエス (19970627)"
+        "ja": "プロレス戦国伝 週刊プロレス監修 ケイエスエス"
       }
     },
     {
@@ -52244,12 +52245,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988262301232",
-          "regionalName": "プロレス戦国伝 〜HYPER TAG MATCH〜(ハイパータッグマッチ) ケイエスエス (19971023)"
+          "regionalName": "プロレス戦国伝 〜HYPER TAG MATCH〜(ハイパータッグマッチ) ケイエスエス"
         }
       ],
       "id": 2169,
       "localizedNames": {
-        "ja": "プロレス戦国伝 〜HYPER TAG MATCH〜(ハイパータッグマッチ) ケイエスエス (19971023)"
+        "ja": "プロレス戦国伝 〜HYPER TAG MATCH〜(ハイパータッグマッチ) ケイエスエス"
       }
     },
     {
@@ -52429,12 +52430,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988611970096",
-          "regionalName": "サイキックフォース パズル大戦 タイトー (19971002)"
+          "regionalName": "サイキックフォース パズル大戦 タイトー"
         }
       ],
       "id": 2179,
       "localizedNames": {
-        "ja": "サイキックフォース パズル大戦 タイトー (19971002)"
+        "ja": "サイキックフォース パズル大戦 タイトー"
       }
     },
     {
@@ -52497,12 +52498,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988010040390",
-          "regionalName": "PuffyのP.S. I Love You ソニー・ミュージックエンタテインメント (19990311)"
+          "regionalName": "PuffyのP.S. I Love You ソニー・ミュージックエンタテインメント"
         }
       ],
       "id": 2182,
       "localizedNames": {
-        "ja": "PuffyのP.S. I Love You ソニー・ミュージックエンタテインメント (19990311)"
+        "ja": "PuffyのP.S. I Love You ソニー・ミュージックエンタテインメント"
       }
     },
     {
@@ -52687,7 +52688,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4974365820022",
-          "regionalName": "ぷよぷよSUN決定盤 廉価版(SLPM-87213) セガゲームス (20030130)"
+          "regionalName": "ぷよぷよSUN決定盤 廉価版(SLPM-87213) セガゲームス"
         }
       ],
       "id": 2191,
@@ -53107,12 +53108,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4519612900715",
-          "regionalName": "NICE PRICEシリーズ Vol.6 クイズDEバトル デジキューブ (20020314)"
+          "regionalName": "NICE PRICEシリーズ Vol.6 クイズDEバトル デジキューブ"
         }
       ],
       "id": 2209,
       "localizedNames": {
-        "ja": "NICE PRICEシリーズ Vol.6 クイズDEバトル デジキューブ (20020314)"
+        "ja": "NICE PRICEシリーズ Vol.6 クイズDEバトル デジキューブ"
       }
     },
     {
@@ -53634,7 +53635,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4514120980907",
-          "regionalName": "ラリー・デ・アフリカ プリズム・アーツ (19980923)"
+          "regionalName": "ラリー・デ・アフリカ プリズム・アーツ"
         },
         {
           "name": "RALLY DE AFRICA [BEST PRICE 1500]",
@@ -53649,7 +53650,7 @@
       ],
       "id": 2230,
       "localizedNames": {
-        "ja": "ラリー・デ・アフリカ プリズム・アーツ (19980923)"
+        "ja": "ラリー・デ・アフリカ プリズム・アーツ"
       }
     },
     {
@@ -54331,7 +54332,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4967652101539",
-          "regionalName": "リフレイン ラブ(Refrain Love) 〜あなたに逢いたい〜 リバーヒルBEST(SLPS-02151) リバーヒルソフト (19990701)"
+          "regionalName": "リフレイン ラブ(Refrain Love) 〜あなたに逢いたい〜 リバーヒルBEST(SLPS-02151) リバーヒルソフト"
         }
       ],
       "id": 2252,
@@ -55876,12 +55877,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4541993000036",
-          "regionalName": "RPGツクール4 エンターブレイン (20001207)"
+          "regionalName": "RPGツクール4 エンターブレイン"
         }
       ],
       "id": 2309,
       "localizedNames": {
-        "ja": "RPGツクール4 エンターブレイン (20001207)"
+        "ja": "RPGツクール4 エンターブレイン"
       }
     },
     {
@@ -55949,7 +55950,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4536592000228",
-          "regionalName": "R・TYPE(アールタイプ) 〜Rs BEST〜(SLPS-03310) アイレム (20011025)"
+          "regionalName": "R・TYPE(アールタイプ) 〜Rs BEST〜(SLPS-03310) アイレム"
         },
         {
           "name": "R-TYPES",
@@ -55970,7 +55971,7 @@
       ],
       "id": 2311,
       "localizedNames": {
-        "ja": "R・TYPE(アールタイプ) 〜Rs BEST〜(SLPS-03310) アイレム (20011025)"
+        "ja": "R・TYPE(アールタイプ) 〜Rs BEST〜(SLPS-03310) アイレム"
       }
     },
     {
@@ -56232,12 +56233,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4959143900257",
-          "regionalName": "S.Q. サウンドキューブ ヒューマン (19980312)"
+          "regionalName": "S.Q. サウンドキューブ ヒューマン"
         }
       ],
       "id": 2321,
       "localizedNames": {
-        "ja": "S.Q. サウンドキューブ ヒューマン (19980312)"
+        "ja": "S.Q. サウンドキューブ ヒューマン"
       }
     },
     {
@@ -56429,7 +56430,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4989006000282",
-          "regionalName": "普及版1500円シリーズ 麻雀鳥頭紀行(まーじゃんとりあたまきこう) 普及版(SLPS-03064) メディアリング (20001207)"
+          "regionalName": "普及版1500円シリーズ 麻雀鳥頭紀行(まーじゃんとりあたまきこう) 普及版(SLPS-03064) メディアリング"
         }
       ],
       "id": 2326,
@@ -56829,7 +56830,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543112136688",
-          "regionalName": "サムライディーパー キョウ(SAMURAI DEEPER KYO) バンダイナムコエンターテインメント (20021212)"
+          "regionalName": "サムライディーパー キョウ(SAMURAI DEEPER KYO) バンダイナムコエンターテインメント"
         }
       ],
       "id": 2343,
@@ -57338,12 +57339,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4997940200019",
-          "regionalName": "SANKYO FEVER(サンキョーフィーバー) 実機シミュレーション ティー・イー・エヌ研究所 (19960308)"
+          "regionalName": "SANKYO FEVER(サンキョーフィーバー) 実機シミュレーション ティー・イー・エヌ研究所"
         }
       ],
       "id": 2358,
       "localizedNames": {
-        "ja": "SANKYO FEVER(サンキョーフィーバー) 実機シミュレーション ティー・イー・エヌ研究所 (19960308)"
+        "ja": "SANKYO FEVER(サンキョーフィーバー) 実機シミュレーション ティー・イー・エヌ研究所"
       }
     },
     {
@@ -57730,12 +57731,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543112003690",
-          "regionalName": "SDガンダム英雄伝 大決戦!!騎士VS武者 バンダイナムコエンターテインメント (20010301)"
+          "regionalName": "SDガンダム英雄伝 大決戦!!騎士VS武者 バンダイナムコエンターテインメント"
         }
       ],
       "id": 2375,
       "localizedNames": {
-        "ja": "SDガンダム英雄伝 大決戦!!騎士VS武者 バンダイナムコエンターテインメント (20010301)"
+        "ja": "SDガンダム英雄伝 大決戦!!騎士VS武者 バンダイナムコエンターテインメント"
       }
     },
     {
@@ -57757,7 +57758,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425563817",
-          "regionalName": "SDガンダム GCENTURY(ジーセンチュリー) バンダイ (19970320)"
+          "regionalName": "SDガンダム GCENTURY(ジーセンチュリー) バンダイ"
         },
         {
           "name": "SD GUNDAM G-CENTURY [PLAYSTATION THE BEST]",
@@ -57772,7 +57773,7 @@
       ],
       "id": 2376,
       "localizedNames": {
-        "ja": "SDガンダム GCENTURY(ジーセンチュリー) バンダイ (19970320)"
+        "ja": "SDガンダム GCENTURY(ジーセンチュリー) バンダイ"
       }
     },
     {
@@ -57900,12 +57901,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543112017291",
-          "regionalName": "SDガンダム ジージェネレーション・ゼロ BANDAI THE BEST(SLPS-03206-7) バンダイ (20010502)"
+          "regionalName": "SDガンダム ジージェネレーション・ゼロ BANDAI THE BEST(SLPS-03206-7) バンダイ"
         }
       ],
       "id": 2383,
       "localizedNames": {
-        "ja": "SDガンダム ジージェネレーション・ゼロ BANDAI THE BEST(SLPS-03206-7) バンダイ (20010502)"
+        "ja": "SDガンダム ジージェネレーション・ゼロ BANDAI THE BEST(SLPS-03206-7) バンダイ"
       }
     },
     {
@@ -58146,7 +58147,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4974229524219",
-          "regionalName": "聖刻(ワース) 1092 操兵伝(限定版) ユタカ (19971106)"
+          "regionalName": "聖刻(ワース) 1092 操兵伝(限定版) ユタカ"
         }
       ],
       "id": 2394,
@@ -58389,12 +58390,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543112003720",
-          "regionalName": "仙界通録正史〜TVアニメーション仙界伝封神演義より〜 バンダイナムコエンターテインメント (20010329)"
+          "regionalName": "仙界通録正史〜TVアニメーション仙界伝封神演義より〜 バンダイナムコエンターテインメント"
         }
       ],
       "id": 2408,
       "localizedNames": {
-        "ja": "仙界通録正史〜TVアニメーション仙界伝封神演義より〜 バンダイナムコエンターテインメント (20010329)"
+        "ja": "仙界通録正史〜TVアニメーション仙界伝封神演義より〜 バンダイナムコエンターテインメント"
       }
     },
     {
@@ -58786,12 +58787,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543112084521",
-          "regionalName": "シャーマンキング スピリットオブシャーマンズ バンダイナムコエンターテインメント (20020606)"
+          "regionalName": "シャーマンキング スピリットオブシャーマンズ バンダイナムコエンターテインメント"
         }
       ],
       "id": 2426,
       "localizedNames": {
-        "ja": "シャーマンキング スピリットオブシャーマンズ バンダイナムコエンターテインメント (20020606)"
+        "ja": "シャーマンキング スピリットオブシャーマンズ バンダイナムコエンターテインメント"
       }
     },
     {
@@ -58853,12 +58854,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076001744",
-          "regionalName": "SuperLite1500シリーズ 上海ダイナスティ サクセス (20010322)"
+          "regionalName": "SuperLite1500シリーズ 上海ダイナスティ サクセス"
         }
       ],
       "id": 2429,
       "localizedNames": {
-        "ja": "SuperLite1500シリーズ 上海ダイナスティ サクセス (20010322)"
+        "ja": "SuperLite1500シリーズ 上海ダイナスティ サクセス"
       }
     },
     {
@@ -58872,7 +58873,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907940211960",
-          "regionalName": "上海 真的武勇(シャンハイ シンテキブユウ) サン電子 (19980923)"
+          "regionalName": "上海 真的武勇(シャンハイ シンテキブユウ) サン電子"
         },
         {
           "name": "SHANGHAI MATEKIBUYU [VALUE 1500 SERIES]",
@@ -58887,7 +58888,7 @@
       ],
       "id": 2430,
       "localizedNames": {
-        "ja": "上海 真的武勇(シャンハイ シンテキブユウ) サン電子 (19980923)"
+        "ja": "上海 真的武勇(シャンハイ シンテキブユウ) サン電子"
       }
     },
     {
@@ -58901,12 +58902,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988611201107",
-          "regionalName": "上海 〜昇龍再臨〜 スクウェア・エニックス (20010607)"
+          "regionalName": "上海 〜昇龍再臨〜 スクウェア・エニックス"
         }
       ],
       "id": 2431,
       "localizedNames": {
-        "ja": "上海 〜昇龍再臨〜 スクウェア・エニックス (20010607)"
+        "ja": "上海 〜昇龍再臨〜 スクウェア・エニックス"
       }
     },
     {
@@ -59175,12 +59176,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4939915000385",
-          "regionalName": "四季おりおりのバス釣り ヴィジット (20000615)"
+          "regionalName": "四季おりおりのバス釣り ヴィジット"
         }
       ],
       "id": 2443,
       "localizedNames": {
-        "ja": "四季おりおりのバス釣り ヴィジット (20000615)"
+        "ja": "四季おりおりのバス釣り ヴィジット"
       }
     },
     {
@@ -59364,7 +59365,7 @@
           "region": "NTSC-J",
           "tgdbId": 32192,
           "upc": "4904810778110",
-          "regionalName": "闘魂烈伝 新日本プロレスリング タカラトミー (19950929)"
+          "regionalName": "闘魂烈伝 新日本プロレスリング タカラトミー"
         },
         {
           "name": "SHIN NIHON PRO WRESTLING - TOUKON RETSUDEN [PLAYSTATION THE BEST]",
@@ -59379,7 +59380,7 @@
       ],
       "id": 2452,
       "localizedNames": {
-        "ja": "闘魂烈伝 新日本プロレスリング タカラトミー (19950929)"
+        "ja": "闘魂烈伝 新日本プロレスリング タカラトミー"
       }
     },
     {
@@ -59451,7 +59452,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425555898",
-          "regionalName": "新SD戦国伝 機動武者大戦 限定版 バンダイ (19961220)"
+          "regionalName": "新SD戦国伝 機動武者大戦 限定版 バンダイ"
         }
       ],
       "id": 2455,
@@ -59507,12 +59508,12 @@
           "region": "NTSC-J",
           "tgdbId": 127562,
           "upc": "4984841013602",
-          "regionalName": "新世紀エヴァンゲリオン エヴァと愉快な仲間たち ガイナックス (19980723)"
+          "regionalName": "新世紀エヴァンゲリオン エヴァと愉快な仲間たち ガイナックス"
         }
       ],
       "id": 2457,
       "localizedNames": {
-        "ja": "新世紀エヴァンゲリオン エヴァと愉快な仲間たち ガイナックス (19980723)"
+        "ja": "新世紀エヴァンゲリオン エヴァと愉快な仲間たち ガイナックス"
       }
     },
     {
@@ -59694,7 +59695,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988021095488",
-          "regionalName": "新世紀GPXサイバーフォーミュラ 新たなる挑戦者 廉価版(SLPS-03558) バップ (20030821)"
+          "regionalName": "新世紀GPXサイバーフォーミュラ 新たなる挑戦者 廉価版(SLPS-03558) バップ"
         }
       ],
       "id": 2464,
@@ -60733,12 +60734,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990890",
-          "regionalName": "SIMPLE1500実用シリーズ Vol.07 楽しく学ぶ運転免許 ディースリー・パブリッシャー (20010502)"
+          "regionalName": "SIMPLE1500実用シリーズ Vol.07 楽しく学ぶ運転免許 ディースリー・パブリッシャー"
         }
       ],
       "id": 2507,
       "localizedNames": {
-        "ja": "SIMPLE1500実用シリーズ Vol.07 楽しく学ぶ運転免許 ディースリー・パブリッシャー (20010502)"
+        "ja": "SIMPLE1500実用シリーズ Vol.07 楽しく学ぶ運転免許 ディースリー・パブリッシャー"
       }
     },
     {
@@ -61039,7 +61040,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990043",
-          "regionalName": "SIMPLE1500シリーズ Vol.1 THE 麻雀 ディースリー・パブリッシャー (19991101)"
+          "regionalName": "SIMPLE1500シリーズ Vol.1 THE 麻雀 ディースリー・パブリッシャー"
         }
       ],
       "id": 2523,
@@ -61317,7 +61318,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4949478880188",
-          "regionalName": "SIMPLE1500シリーズ Vol.11 THE ピンボール カルチュア・パブリッシャーズ (19990722)"
+          "regionalName": "SIMPLE1500シリーズ Vol.11 THE ピンボール カルチュア・パブリッシャーズ"
         },
         {
           "name": "SIMPLE 1500 SERIES VOL.011 - THE PINBALL [RERELEASE]",
@@ -61332,7 +61333,7 @@
       ],
       "id": 2533,
       "localizedNames": {
-        "ja": "SIMPLE1500シリーズ Vol.11 THE ピンボール カルチュア・パブリッシャーズ (19990722)"
+        "ja": "SIMPLE1500シリーズ Vol.11 THE ピンボール カルチュア・パブリッシャーズ"
       }
     },
     {
@@ -61356,7 +61357,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990159",
-          "regionalName": "THE クイズ SIMPLE 1500シリーズ Vol.12(SLPS-02448) ディースリー・パブリッシャー (19991101)"
+          "regionalName": "THE クイズ SIMPLE 1500シリーズ Vol.12(SLPS-02448) ディースリー・パブリッシャー"
         }
       ],
       "id": 2534,
@@ -61375,7 +61376,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4949478880218",
-          "regionalName": "THE レース SIMPLE1500シリーズVol.13 カルチュア・パブリッシャーズ (19990722)"
+          "regionalName": "THE レース SIMPLE1500シリーズVol.13 カルチュア・パブリッシャーズ"
         },
         {
           "name": "SIMPLE 1500 SERIES VOL.013 - THE RACE [REPRINT]",
@@ -61390,7 +61391,7 @@
       ],
       "id": 2535,
       "localizedNames": {
-        "ja": "THE レース SIMPLE1500シリーズVol.13 カルチュア・パブリッシャーズ (19990722)"
+        "ja": "THE レース SIMPLE1500シリーズVol.13 カルチュア・パブリッシャーズ"
       }
     },
     {
@@ -61462,12 +61463,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990197",
-          "regionalName": "SIMPLE1500シリーズ Vol.16 THE パチスロ ディースリー・パブリッシャー (19991102)"
+          "regionalName": "SIMPLE1500シリーズ Vol.16 THE パチスロ ディースリー・パブリッシャー"
         }
       ],
       "id": 2538,
       "localizedNames": {
-        "ja": "SIMPLE1500シリーズ Vol.16 THE パチスロ ディースリー・パブリッシャー (19991102)"
+        "ja": "SIMPLE1500シリーズ Vol.16 THE パチスロ ディースリー・パブリッシャー"
       }
     },
     {
@@ -61481,7 +61482,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4949478880256",
-          "regionalName": "THE バイクレース SIMPLE1500シリーズ Vol.17 カルチュア・パブリッシャーズ (19990930)"
+          "regionalName": "THE バイクレース SIMPLE1500シリーズ Vol.17 カルチュア・パブリッシャーズ"
         },
         {
           "name": "SIMPLE 1500 SERIES VOL.017 - THE BIKE RACE [RERELEASE]",
@@ -61496,7 +61497,7 @@
       ],
       "id": 2539,
       "localizedNames": {
-        "ja": "THE バイクレース SIMPLE1500シリーズ Vol.17 カルチュア・パブリッシャーズ (19990930)"
+        "ja": "THE バイクレース SIMPLE1500シリーズ Vol.17 カルチュア・パブリッシャーズ"
       }
     },
     {
@@ -61524,12 +61525,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990029",
-          "regionalName": "SIMPLE1500シリーズ Vol.19 THE すごろく ディースリー・パブリッシャー (19991118)"
+          "regionalName": "SIMPLE1500シリーズ Vol.19 THE すごろく ディースリー・パブリッシャー"
         }
       ],
       "id": 2541,
       "localizedNames": {
-        "ja": "SIMPLE1500シリーズ Vol.19 THE すごろく ディースリー・パブリッシャー (19991118)"
+        "ja": "SIMPLE1500シリーズ Vol.19 THE すごろく ディースリー・パブリッシャー"
       }
     },
     {
@@ -61629,12 +61630,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990289",
-          "regionalName": "SIMPLE1500シリーズ Vol.24 THE ガンシューティング ディースリー・パブリッシャー (19991209)"
+          "regionalName": "SIMPLE1500シリーズ Vol.24 THE ガンシューティング ディースリー・パブリッシャー"
         }
       ],
       "id": 2546,
       "localizedNames": {
-        "ja": "SIMPLE1500シリーズ Vol.24 THE ガンシューティング ディースリー・パブリッシャー (19991209)"
+        "ja": "SIMPLE1500シリーズ Vol.24 THE ガンシューティング ディースリー・パブリッシャー"
       }
     },
     {
@@ -61800,12 +61801,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990425",
-          "regionalName": "SIMPLE1500シリーズ Vol.33 THE 卓球 ディースリー・パブリッシャー (20000803)"
+          "regionalName": "SIMPLE1500シリーズ Vol.33 THE 卓球 ディースリー・パブリッシャー"
         }
       ],
       "id": 2555,
       "localizedNames": {
-        "ja": "SIMPLE1500シリーズ Vol.33 THE 卓球 ディースリー・パブリッシャー (20000803)"
+        "ja": "SIMPLE1500シリーズ Vol.33 THE 卓球 ディースリー・パブリッシャー"
       }
     },
     {
@@ -61857,12 +61858,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990456",
-          "regionalName": "SIMPLE1500シリーズVol.36 THE恋愛シミュレーション〜夏色セレブレーション〜 ディースリー・パブリッシャー (20000824)"
+          "regionalName": "SIMPLE1500シリーズVol.36 THE恋愛シミュレーション〜夏色セレブレーション〜 ディースリー・パブリッシャー"
         }
       ],
       "id": 2558,
       "localizedNames": {
-        "ja": "SIMPLE1500シリーズVol.36 THE恋愛シミュレーション〜夏色セレブレーション〜 ディースリー・パブリッシャー (20000824)"
+        "ja": "SIMPLE1500シリーズVol.36 THE恋愛シミュレーション〜夏色セレブレーション〜 ディースリー・パブリッシャー"
       }
     },
     {
@@ -61876,12 +61877,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990463",
-          "regionalName": "SIMPLE1500シリーズ Vol.37 THE イラストパズル&スライドパズル ディースリー・パブリッシャー (20000914)"
+          "regionalName": "SIMPLE1500シリーズ Vol.37 THE イラストパズル&スライドパズル ディースリー・パブリッシャー"
         }
       ],
       "id": 2559,
       "localizedNames": {
-        "ja": "SIMPLE1500シリーズ Vol.37 THE イラストパズル&スライドパズル ディースリー・パブリッシャー (20000914)"
+        "ja": "SIMPLE1500シリーズ Vol.37 THE イラストパズル&スライドパズル ディースリー・パブリッシャー"
       }
     },
     {
@@ -62066,12 +62067,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990616",
-          "regionalName": "SIMPLE1500シリーズ Vol.47 THE スケートボード ディースリー・パブリッシャー (20001116)"
+          "regionalName": "SIMPLE1500シリーズ Vol.47 THE スケートボード ディースリー・パブリッシャー"
         }
       ],
       "id": 2569,
       "localizedNames": {
-        "ja": "SIMPLE1500シリーズ Vol.47 THE スケートボード ディースリー・パブリッシャー (20001116)"
+        "ja": "SIMPLE1500シリーズ Vol.47 THE スケートボード ディースリー・パブリッシャー"
       }
     },
     {
@@ -62208,12 +62209,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990692",
-          "regionalName": "SIMPLE1500シリーズ Vol.55 THE ダーツ ディースリー・パブリッシャー (20010201)"
+          "regionalName": "SIMPLE1500シリーズ Vol.55 THE ダーツ ディースリー・パブリッシャー"
         }
       ],
       "id": 2577,
       "localizedNames": {
-        "ja": "SIMPLE1500シリーズ Vol.55 THE ダーツ ディースリー・パブリッシャー (20010201)"
+        "ja": "SIMPLE1500シリーズ Vol.55 THE ダーツ ディースリー・パブリッシャー"
       }
     },
     {
@@ -62284,12 +62285,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990708",
-          "regionalName": "SIMPLE1500シリーズ Vol.59 THE 推理 〜IT探偵:18の事件簿〜 ディースリー・パブリッシャー (20010426)"
+          "regionalName": "SIMPLE1500シリーズ Vol.59 THE 推理 〜IT探偵:18の事件簿〜 ディースリー・パブリッシャー"
         }
       ],
       "id": 2581,
       "localizedNames": {
-        "ja": "SIMPLE1500シリーズ Vol.59 THE 推理 〜IT探偵:18の事件簿〜 ディースリー・パブリッシャー (20010426)"
+        "ja": "SIMPLE1500シリーズ Vol.59 THE 推理 〜IT探偵:18の事件簿〜 ディースリー・パブリッシャー"
       }
     },
     {
@@ -62303,12 +62304,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990791",
-          "regionalName": "SIMPLE1500シリーズ Vol.60 THE テーブルホッケー ディースリー・パブリッシャー (20010426)"
+          "regionalName": "SIMPLE1500シリーズ Vol.60 THE テーブルホッケー ディースリー・パブリッシャー"
         }
       ],
       "id": 2582,
       "localizedNames": {
-        "ja": "SIMPLE1500シリーズ Vol.60 THE テーブルホッケー ディースリー・パブリッシャー (20010426)"
+        "ja": "SIMPLE1500シリーズ Vol.60 THE テーブルホッケー ディースリー・パブリッシャー"
       }
     },
     {
@@ -62341,12 +62342,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990821",
-          "regionalName": "SIMPLE1500シリーズ Vol.62 THE スキー ディースリー・パブリッシャー (20010531)"
+          "regionalName": "SIMPLE1500シリーズ Vol.62 THE スキー ディースリー・パブリッシャー"
         }
       ],
       "id": 2584,
       "localizedNames": {
-        "ja": "SIMPLE1500シリーズ Vol.62 THE スキー ディースリー・パブリッシャー (20010531)"
+        "ja": "SIMPLE1500シリーズ Vol.62 THE スキー ディースリー・パブリッシャー"
       }
     },
     {
@@ -62379,12 +62380,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990845",
-          "regionalName": "SIMPLE1500シリーズ Vol.64 THE キックボクシング ディースリー・パブリッシャー (20010705)"
+          "regionalName": "SIMPLE1500シリーズ Vol.64 THE キックボクシング ディースリー・パブリッシャー"
         }
       ],
       "id": 2586,
       "localizedNames": {
-        "ja": "SIMPLE1500シリーズ Vol.64 THE キックボクシング ディースリー・パブリッシャー (20010705)"
+        "ja": "SIMPLE1500シリーズ Vol.64 THE キックボクシング ディースリー・パブリッシャー"
       }
     },
     {
@@ -62436,12 +62437,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990876",
-          "regionalName": "SIMPLE1500シリーズ Vol.67 THE サッカー 〜ダイナマイトサッカー1500〜 ディースリー・パブリッシャー (20010809)"
+          "regionalName": "SIMPLE1500シリーズ Vol.67 THE サッカー 〜ダイナマイトサッカー1500〜 ディースリー・パブリッシャー"
         }
       ],
       "id": 2589,
       "localizedNames": {
-        "ja": "SIMPLE1500シリーズ Vol.67 THE サッカー 〜ダイナマイトサッカー1500〜 ディースリー・パブリッシャー (20010809)"
+        "ja": "SIMPLE1500シリーズ Vol.67 THE サッカー 〜ダイナマイトサッカー1500〜 ディースリー・パブリッシャー"
       }
     },
     {
@@ -62621,12 +62622,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990968",
-          "regionalName": "SIMPLE1500シリーズ Vol.77 THE 水泳 ディースリー・パブリッシャー (20011025)"
+          "regionalName": "SIMPLE1500シリーズ Vol.77 THE 水泳 ディースリー・パブリッシャー"
         }
       ],
       "id": 2599,
       "localizedNames": {
-        "ja": "SIMPLE1500シリーズ Vol.77 THE 水泳 ディースリー・パブリッシャー (20011025)"
+        "ja": "SIMPLE1500シリーズ Vol.77 THE 水泳 ディースリー・パブリッシャー"
       }
     },
     {
@@ -63320,12 +63321,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543112107350",
-          "regionalName": "SIMPLEキャラクター2000シリーズ Vol.11 名探偵コナン THE ボードゲーム バンダイナムコエンターテインメント (20020829)"
+          "regionalName": "SIMPLEキャラクター2000シリーズ Vol.11 名探偵コナン THE ボードゲーム バンダイナムコエンターテインメント"
         }
       ],
       "id": 2637,
       "localizedNames": {
-        "ja": "SIMPLEキャラクター2000シリーズ Vol.11 名探偵コナン THE ボードゲーム バンダイナムコエンターテインメント (20020829)"
+        "ja": "SIMPLEキャラクター2000シリーズ Vol.11 名探偵コナン THE ボードゲーム バンダイナムコエンターテインメント"
       }
     },
     {
@@ -64274,12 +64275,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010536",
-          "regionalName": "スマッシュコート2 バンダイナムコエンターテインメント (19981112)"
+          "regionalName": "スマッシュコート2 バンダイナムコエンターテインメント"
         }
       ],
       "id": 2684,
       "localizedNames": {
-        "ja": "スマッシュコート2 バンダイナムコエンターテインメント (19981112)"
+        "ja": "スマッシュコート2 バンダイナムコエンターテインメント"
       }
     },
     {
@@ -64293,12 +64294,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010888",
-          "regionalName": "スマッシュコート3(SMASH COURT 3) バンダイナムコエンターテインメント (20001109)"
+          "regionalName": "スマッシュコート3(SMASH COURT 3) バンダイナムコエンターテインメント"
         }
       ],
       "id": 2685,
       "localizedNames": {
-        "ja": "スマッシュコート3(SMASH COURT 3) バンダイナムコエンターテインメント (20001109)"
+        "ja": "スマッシュコート3(SMASH COURT 3) バンダイナムコエンターテインメント"
       }
     },
     {
@@ -65326,12 +65327,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4904880133833",
-          "regionalName": "コブラ・ザ・シューティング タカラトミー (19961122)"
+          "regionalName": "コブラ・ザ・シューティング タカラトミー"
         }
       ],
       "id": 2729,
       "localizedNames": {
-        "ja": "コブラ・ザ・シューティング タカラトミー (19961122)"
+        "ja": "コブラ・ザ・シューティング タカラトミー"
       }
     },
     {
@@ -65752,7 +65753,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4995857161096",
-          "regionalName": "純情で可憐 メイマイ騎士団 スペクトラルフォース聖少女外伝 アイディアファクトリー (19991125)"
+          "regionalName": "純情で可憐 メイマイ騎士団 スペクトラルフォース聖少女外伝 アイディアファクトリー"
         },
         {
           "name": "SPECTRAL FORCE - THE BAND OF MEYMAY KNIGHTS [IDEA FACTORY COLLECTION]",
@@ -65767,7 +65768,7 @@
       ],
       "id": 2746,
       "localizedNames": {
-        "ja": "純情で可憐 メイマイ騎士団 スペクトラルフォース聖少女外伝 アイディアファクトリー (19991125)"
+        "ja": "純情で可憐 メイマイ騎士団 スペクトラルフォース聖少女外伝 アイディアファクトリー"
       }
     },
     {
@@ -66270,12 +66271,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4946318196010",
-          "regionalName": "ステークスウィナー GI完全制覇への道 ザウルス (19961206)"
+          "regionalName": "ステークスウィナー GI完全制覇への道 ザウルス"
         }
       ],
       "id": 2763,
       "localizedNames": {
-        "ja": "ステークスウィナー GI完全制覇への道 ザウルス (19961206)"
+        "ja": "ステークスウィナー GI完全制覇への道 ザウルス"
       }
     },
     {
@@ -67383,12 +67384,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4953507951176",
-          "regionalName": "ストライカー(STRIKER) ワールドカップ プレミアムステージ ココナッツジャパン (19951122)"
+          "regionalName": "ストライカー(STRIKER) ワールドカップ プレミアムステージ ココナッツジャパン"
         }
       ],
       "id": 2802,
       "localizedNames": {
-        "ja": "ストライカー(STRIKER) ワールドカップ プレミアムステージ ココナッツジャパン (19951122)"
+        "ja": "ストライカー(STRIKER) ワールドカップ プレミアムステージ ココナッツジャパン"
       }
     },
     {
@@ -67520,7 +67521,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988110020520",
-          "regionalName": "サブマリンハンター鯱(シャチ) ビクターインタラクティブ (19991102)"
+          "regionalName": "サブマリンハンター鯱(シャチ) ビクターインタラクティブ"
         },
         {
           "name": "SUBMARINE HUNTER SYA-CHI [PSONE BOOKS]",
@@ -67543,7 +67544,7 @@
       ],
       "id": 2808,
       "localizedNames": {
-        "ja": "サブマリンハンター鯱(シャチ) ビクターインタラクティブ (19991102)"
+        "ja": "サブマリンハンター鯱(シャチ) ビクターインタラクティブ"
       }
     },
     {
@@ -68471,12 +68472,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4983164734492",
-          "regionalName": "第2次スーパーロボット大戦 バンダイナムコエンターテインメント (19991202)"
+          "regionalName": "第2次スーパーロボット大戦 バンダイナムコエンターテインメント"
         }
       ],
       "id": 2847,
       "localizedNames": {
-        "ja": "第2次スーパーロボット大戦 バンダイナムコエンターテインメント (19991202)"
+        "ja": "第2次スーパーロボット大戦 バンダイナムコエンターテインメント"
       }
     },
     {
@@ -69562,12 +69563,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988003183301",
-          "regionalName": "出世麻雀 大接待 キングレコード (19960823)"
+          "regionalName": "出世麻雀 大接待 キングレコード"
         }
       ],
       "id": 2899,
       "localizedNames": {
-        "ja": "出世麻雀 大接待 キングレコード (19960823)"
+        "ja": "出世麻雀 大接待 キングレコード"
       }
     },
     {
@@ -69581,12 +69582,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425738468",
-          "regionalName": "Tactical Armor Custom ガサラキ(タクティカル アーマー カスタム ガサラキ) バンダイナムコエンターテインメント (20000113)"
+          "regionalName": "Tactical Armor Custom ガサラキ(タクティカル アーマー カスタム ガサラキ) バンダイナムコエンターテインメント"
         }
       ],
       "id": 2900,
       "localizedNames": {
-        "ja": "Tactical Armor Custom ガサラキ(タクティカル アーマー カスタム ガサラキ) バンダイナムコエンターテインメント (20000113)"
+        "ja": "Tactical Armor Custom ガサラキ(タクティカル アーマー カスタム ガサラキ) バンダイナムコエンターテインメント"
       }
     },
     {
@@ -69684,12 +69685,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988762080408",
-          "regionalName": "大海信長伝 下天II アイマックス (19970606)"
+          "regionalName": "大海信長伝 下天II アイマックス"
         }
       ],
       "id": 2905,
       "localizedNames": {
-        "ja": "大海信長伝 下天II アイマックス (19970606)"
+        "ja": "大海信長伝 下天II アイマックス"
       }
     },
     {
@@ -69838,7 +69839,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425609928",
-          "regionalName": "TAIL CONCERTO テイルコンチェルト バンダイ (19980416)"
+          "regionalName": "TAIL CONCERTO テイルコンチェルト バンダイ"
         },
         {
           "name": "TAIL CONCERTO",
@@ -69859,7 +69860,7 @@
       ],
       "id": 2911,
       "localizedNames": {
-        "ja": "TAIL CONCERTO テイルコンチェルト バンダイ (19980416)"
+        "ja": "TAIL CONCERTO テイルコンチェルト バンダイ"
       }
     },
     {
@@ -69902,12 +69903,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4524026000005",
-          "regionalName": "太陽のお告げ 恋愛・相性・仕事・勉強・・・あなたを占います プログレス (19990422)"
+          "regionalName": "太陽のお告げ 恋愛・相性・仕事・勉強・・・あなたを占います プログレス"
         }
       ],
       "id": 2913,
       "localizedNames": {
-        "ja": "太陽のお告げ 恋愛・相性・仕事・勉強・・・あなたを占います プログレス (19990422)"
+        "ja": "太陽のお告げ 恋愛・相性・仕事・勉強・・・あなたを占います プログレス"
       }
     },
     {
@@ -70208,12 +70209,12 @@
           "tgdbId": 0,
           "releaseDate": "1994-12-03",
           "upc": "4991425000217",
-          "regionalName": "TAMA(たま) タイムワーナーインタラクティブ (19941203)"
+          "regionalName": "TAMA(たま) タイムワーナーインタラクティブ"
         }
       ],
       "id": 2924,
       "localizedNames": {
-        "ja": "TAMA(たま) タイムワーナーインタラクティブ (19941203)"
+        "ja": "TAMA(たま) タイムワーナーインタラクティブ"
       }
     },
     {
@@ -70418,7 +70419,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4989006000244",
-          "regionalName": "探偵 神宮寺三郎 夢の終わりに 普及版(SLPS-03014) メディアリング (20001019)"
+          "regionalName": "探偵 神宮寺三郎 夢の終わりに 普及版(SLPS-03014) メディアリング"
         }
       ],
       "id": 2932,
@@ -70538,12 +70539,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4542084000133",
-          "regionalName": "テクノビービー KCE東京 (20010426)"
+          "regionalName": "テクノビービー KCE東京"
         }
       ],
       "id": 2937,
       "localizedNames": {
-        "ja": "テクノビービー KCE東京 (20010426)"
+        "ja": "テクノビービー KCE東京"
       }
     },
     {
@@ -70876,12 +70877,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076000617",
-          "regionalName": "SuperLite1500シリーズ Vol.7 テナントウォーズα(SLPM-86240) サクセス (19990722)"
+          "regionalName": "SuperLite1500シリーズ Vol.7 テナントウォーズα(SLPM-86240) サクセス"
         }
       ],
       "id": 2947,
       "localizedNames": {
-        "ja": "SuperLite1500シリーズ Vol.7 テナントウォーズα(SLPM-86240) サクセス (19990722)"
+        "ja": "SuperLite1500シリーズ Vol.7 テナントウォーズα(SLPM-86240) サクセス"
       }
     },
     {
@@ -71138,12 +71139,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4935066600054",
-          "regionalName": "天使同盟 エンターグラム (19980423)"
+          "regionalName": "天使同盟 エンターグラム"
         }
       ],
       "id": 2958,
       "localizedNames": {
-        "ja": "天使同盟 エンターグラム (19980423)"
+        "ja": "天使同盟 エンターグラム"
       }
     },
     {
@@ -71641,7 +71642,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4512557600276",
-          "regionalName": "ロストチルドレン(THE CITY OF LOST CHILDREN) ゲームバンク (19980115)"
+          "regionalName": "ロストチルドレン(THE CITY OF LOST CHILDREN) ゲームバンク"
         },
         {
           "name": "THE CITY OF LOST CHILDREN",
@@ -71662,7 +71663,7 @@
       ],
       "id": 2982,
       "localizedNames": {
-        "ja": "ロストチルドレン(THE CITY OF LOST CHILDREN) ゲームバンク (19980115)"
+        "ja": "ロストチルドレン(THE CITY OF LOST CHILDREN) ゲームバンク"
       }
     },
     {
@@ -71715,7 +71716,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4959143900226",
-          "regionalName": "ザ・コンビニ2 全国チェーン展開だ! ヒューマン (19971218)"
+          "regionalName": "ザ・コンビニ2 全国チェーン展開だ! ヒューマン"
         },
         {
           "name": "THE CONVENI! 2 - ZENKOKU CHAIN TENKAIDA! [MAJOR WAVE SERIES]",
@@ -71730,7 +71731,7 @@
       ],
       "id": 2984,
       "localizedNames": {
-        "ja": "ザ・コンビニ2 全国チェーン展開だ! ヒューマン (19971218)"
+        "ja": "ザ・コンビニ2 全国チェーン展開だ! ヒューマン"
       }
     },
     {
@@ -71831,7 +71832,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4940062700103",
-          "regionalName": "THE DEEP(ザ ディープ) 失われた深海 ヴァージンインタラクティブエンターテインメント (19961018)"
+          "regionalName": "THE DEEP(ザ ディープ) 失われた深海 ヴァージンインタラクティブエンターテインメント"
         },
         {
           "name": "THE DEEP - USHINAWARETA SHINKAI [REPRINT]",
@@ -71846,7 +71847,7 @@
       ],
       "id": 2988,
       "localizedNames": {
-        "ja": "THE DEEP(ザ ディープ) 失われた深海 ヴァージンインタラクティブエンターテインメント (19961018)"
+        "ja": "THE DEEP(ザ ディープ) 失われた深海 ヴァージンインタラクティブエンターテインメント"
       }
     },
     {
@@ -72694,12 +72695,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4542082000050",
-          "regionalName": "ザ・マエストロムジーク・アンコールディスク GAE (20001122)"
+          "regionalName": "ザ・マエストロムジーク・アンコールディスク GAE"
         }
       ],
       "id": 3019,
       "localizedNames": {
-        "ja": "ザ・マエストロムジーク・アンコールディスク GAE (20001122)"
+        "ja": "ザ・マエストロムジーク・アンコールディスク GAE"
       }
     },
     {
@@ -72747,12 +72748,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4512332000017",
-          "regionalName": "ザ・マッチゴルフ(THE MATCH GOLF) ズーメックス (19980122)"
+          "regionalName": "ザ・マッチゴルフ(THE MATCH GOLF) ズーメックス"
         }
       ],
       "id": 3022,
       "localizedNames": {
-        "ja": "ザ・マッチゴルフ(THE MATCH GOLF) ズーメックス (19980122)"
+        "ja": "ザ・マッチゴルフ(THE MATCH GOLF) ズーメックス"
       }
     },
     {
@@ -72896,12 +72897,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4983164734041",
-          "regionalName": "THE OPEN GOLF History of Turnberry(ジ・オープンゴルフ ヒストリーオブターンベリー) バンダイナムコエンターテインメント (19960719)"
+          "regionalName": "THE OPEN GOLF History of Turnberry(ジ・オープンゴルフ ヒストリーオブターンベリー) バンダイナムコエンターテインメント"
         }
       ],
       "id": 3028,
       "localizedNames": {
-        "ja": "THE OPEN GOLF History of Turnberry(ジ・オープンゴルフ ヒストリーオブターンベリー) バンダイナムコエンターテインメント (19960719)"
+        "ja": "THE OPEN GOLF History of Turnberry(ジ・オープンゴルフ ヒストリーオブターンベリー) バンダイナムコエンターテインメント"
       }
     },
     {
@@ -73141,7 +73142,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4939915000262",
-          "regionalName": "ザ・心理ゲームIV いつも心に青空を(廉価版)(SLPS-02257) ヴィジット (19990902)"
+          "regionalName": "ザ・心理ゲームIV いつも心に青空を(廉価版)(SLPS-02257) ヴィジット"
         }
       ],
       "id": 3038,
@@ -73700,12 +73701,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961508956014",
-          "regionalName": "サラブレッドブリーダーIIプラス ヘクト (19951117)"
+          "regionalName": "サラブレッドブリーダーIIプラス ヘクト"
         }
       ],
       "id": 3064,
       "localizedNames": {
-        "ja": "サラブレッドブリーダーIIプラス ヘクト (19951117)"
+        "ja": "サラブレッドブリーダーIIプラス ヘクト"
       }
     },
     {
@@ -74143,12 +74144,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988611960028",
-          "regionalName": "タイムギャル&忍者ハヤテ(TIME GAL & 忍者ハヤテ) タイトー (19960705)"
+          "regionalName": "タイムギャル&忍者ハヤテ(TIME GAL & 忍者ハヤテ) タイトー"
         }
       ],
       "id": 3080,
       "localizedNames": {
-        "ja": "タイムギャル&忍者ハヤテ(TIME GAL & 忍者ハヤテ) タイトー (19960705)"
+        "ja": "タイムギャル&忍者ハヤテ(TIME GAL & 忍者ハヤテ) タイトー"
       }
     },
     {
@@ -74181,12 +74182,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4995492212030",
-          "regionalName": "TIZ Tokyo Insect Zoo(ティズ トーキョー インセクト ズー) ゼネラル・エンタテイメント (19960329)"
+          "regionalName": "TIZ Tokyo Insect Zoo(ティズ トーキョー インセクト ズー) ゼネラル・エンタテイメント"
         }
       ],
       "id": 3082,
       "localizedNames": {
-        "ja": "TIZ Tokyo Insect Zoo(ティズ トーキョー インセクト ズー) ゼネラル・エンタテイメント (19960329)"
+        "ja": "TIZ Tokyo Insect Zoo(ティズ トーキョー インセクト ズー) ゼネラル・エンタテイメント"
       }
     },
     {
@@ -74869,12 +74870,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4933766921080",
-          "regionalName": "東京23区制服WARS(東京23区制服ウォーズ) マップジャパン (19980326)"
+          "regionalName": "東京23区制服WARS(東京23区制服ウォーズ) マップジャパン"
         }
       ],
       "id": 3115,
       "localizedNames": {
-        "ja": "東京23区制服WARS(東京23区制服ウォーズ) マップジャパン (19980326)"
+        "ja": "東京23区制服WARS(東京23区制服ウォーズ) マップジャパン"
       }
     },
     {
@@ -75150,7 +75151,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988110020063",
-          "regionalName": "トゥームレイダース(Tomb Raiders) ビクターインタラクティブ (19970214)"
+          "regionalName": "トゥームレイダース(Tomb Raiders) ビクターインタラクティブ"
         },
         {
           "name": "TOMB RAIDERS [PLAYSTATION THE BEST]",
@@ -75175,7 +75176,7 @@
       ],
       "id": 3129,
       "localizedNames": {
-        "ja": "トゥームレイダース(Tomb Raiders) ビクターインタラクティブ (19970214)"
+        "ja": "トゥームレイダース(Tomb Raiders) ビクターインタラクティブ"
       }
     },
     {
@@ -75654,7 +75655,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872600156",
-          "regionalName": "Total NBA '97(トータル NBA'97) ソニー・コンピュータエンタテインメント (19970627)"
+          "regionalName": "Total NBA '97(トータル NBA'97) ソニー・コンピュータエンタテインメント"
         },
         {
           "name": "TOTAL NBA '97",
@@ -75667,7 +75668,7 @@
       ],
       "id": 3147,
       "localizedNames": {
-        "ja": "Total NBA '97(トータル NBA'97) ソニー・コンピュータエンタテインメント (19970627)"
+        "ja": "Total NBA '97(トータル NBA'97) ソニー・コンピュータエンタテインメント"
       }
     },
     {
@@ -75985,7 +75986,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4938833004093",
-          "regionalName": "トリプルプレイベースボール エレクトロニック・アーツ (19970117)"
+          "regionalName": "トリプルプレイベースボール エレクトロニック・アーツ"
         },
         {
           "name": "TRIPLE PLAY '97",
@@ -75998,7 +75999,7 @@
       ],
       "id": 3163,
       "localizedNames": {
-        "ja": "トリプルプレイベースボール エレクトロニック・アーツ (19970117)"
+        "ja": "トリプルプレイベースボール エレクトロニック・アーツ"
       }
     },
     {
@@ -76458,12 +76459,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543112107367",
-          "regionalName": "TVanimation X〜運命の選択〜 バンダイナムコエンターテインメント (20020822)"
+          "regionalName": "TVanimation X〜運命の選択〜 バンダイナムコエンターテインメント"
         }
       ],
       "id": 3185,
       "localizedNames": {
-        "ja": "TVanimation X〜運命の選択〜 バンダイナムコエンターテインメント (20020822)"
+        "ja": "TVanimation X〜運命の選択〜 バンダイナムコエンターテインメント"
       }
     },
     {
@@ -77039,7 +77040,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219454773",
-          "regionalName": "ULTIMATE FIGHTING CHAMPIONSHIP(アルティメット ファイティング チャンピオンシップ) カプコン (20010125)"
+          "regionalName": "ULTIMATE FIGHTING CHAMPIONSHIP(アルティメット ファイティング チャンピオンシップ) カプコン"
         },
         {
           "name": "ULTIMATE FIGHTING CHAMPIONSHIP",
@@ -77060,7 +77061,7 @@
       ],
       "id": 3211,
       "localizedNames": {
-        "ja": "ULTIMATE FIGHTING CHAMPIONSHIP(アルティメット ファイティング チャンピオンシップ) カプコン (20010125)"
+        "ja": "ULTIMATE FIGHTING CHAMPIONSHIP(アルティメット ファイティング チャンピオンシップ) カプコン"
       }
     },
     {
@@ -77204,12 +77205,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948722009757",
-          "regionalName": "梅沢由香里の対局囲碁 平成棋院2 ダイキ (19981217)"
+          "regionalName": "梅沢由香里の対局囲碁 平成棋院2 ダイキ"
         }
       ],
       "id": 3216,
       "localizedNames": {
-        "ja": "梅沢由香里の対局囲碁 平成棋院2 ダイキ (19981217)"
+        "ja": "梅沢由香里の対局囲碁 平成棋院2 ダイキ"
       }
     },
     {
@@ -77399,7 +77400,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902931950507",
-          "regionalName": "UNO(ウノ) メディアクエスト (19980402)"
+          "regionalName": "UNO(ウノ) メディアクエスト"
         },
         {
           "name": "UNO [SUPERLITE 1500 SERIES]",
@@ -77414,7 +77415,7 @@
       ],
       "id": 3226,
       "localizedNames": {
-        "ja": "UNO(ウノ) メディアクエスト (19980402)"
+        "ja": "UNO(ウノ) メディアクエスト"
       }
     },
     {
@@ -78153,12 +78154,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4965857040080",
-          "regionalName": "ヴィクトリー・スパイク イマジニア (19960607)"
+          "regionalName": "ヴィクトリー・スパイク イマジニア"
         }
       ],
       "id": 3250,
       "localizedNames": {
-        "ja": "ヴィクトリー・スパイク イマジニア (19960607)"
+        "ja": "ヴィクトリー・スパイク イマジニア"
       }
     },
     {
@@ -78328,12 +78329,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4960641090111",
-          "regionalName": "バーチャルボウリング テンピンアレイの奇跡 日本物産 (19970731)"
+          "regionalName": "バーチャルボウリング テンピンアレイの奇跡 日本物産"
         }
       ],
       "id": 3255,
       "localizedNames": {
-        "ja": "バーチャルボウリング テンピンアレイの奇跡 日本物産 (19970731)"
+        "ja": "バーチャルボウリング テンピンアレイの奇跡 日本物産"
       }
     },
     {
@@ -78399,7 +78400,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4933766922087",
-          "regionalName": "バーチャパチスロ・オリンピアスペシャル マップジャパン (19981022)"
+          "regionalName": "バーチャパチスロ・オリンピアスペシャル マップジャパン"
         },
         {
           "name": "VIRTUA PACHI-SLOT OLYMPIA SPECIAL [THE BEST BUY]",
@@ -78413,7 +78414,7 @@
       ],
       "id": 3259,
       "localizedNames": {
-        "ja": "バーチャパチスロ・オリンピアスペシャル マップジャパン (19981022)"
+        "ja": "バーチャパチスロ・オリンピアスペシャル マップジャパン"
       }
     },
     {
@@ -78966,7 +78967,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988679200173",
-          "regionalName": "わくわくバレー ベスト版(SLPS-02346) アテナ (19991007)"
+          "regionalName": "わくわくバレー ベスト版(SLPS-02346) アテナ"
         }
       ],
       "id": 3287,
@@ -79479,12 +79480,12 @@
           "region": "NTSC-J",
           "tgdbId": 127252,
           "upc": "4527708010019",
-          "regionalName": "Wild Boater(ワイルドボーター) タオヒューマンシステムズ (19991102)"
+          "regionalName": "Wild Boater(ワイルドボーター) タオヒューマンシステムズ"
         }
       ],
       "id": 3306,
       "localizedNames": {
-        "ja": "Wild Boater(ワイルドボーター) タオヒューマンシステムズ (19991102)"
+        "ja": "Wild Boater(ワイルドボーター) タオヒューマンシステムズ"
       }
     },
     {
@@ -79744,7 +79745,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615014062",
-          "regionalName": "Winning Post4(ウイニングポスト4) 光栄 (19990918)"
+          "regionalName": "Winning Post4(ウイニングポスト4) 光栄"
         },
         {
           "name": "WINNING POST 4 [KOEI THE BEST]",
@@ -79759,7 +79760,7 @@
       ],
       "id": 3316,
       "localizedNames": {
-        "ja": "Winning Post4(ウイニングポスト4) 光栄 (19990918)"
+        "ja": "Winning Post4(ウイニングポスト4) 光栄"
       }
     },
     {
@@ -79927,7 +79928,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4949606770015",
-          "regionalName": "ウィザードリィ リルガミン サーガ(Wizardry Llylgamyn Saga) ローカス (19980226)"
+          "regionalName": "ウィザードリィ リルガミン サーガ(Wizardry Llylgamyn Saga) ローカス"
         },
         {
           "name": "WIZARDRY - LLYLGAMYN SAGA [PLAYSTATION THE BEST]",
@@ -79947,12 +79948,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076002291",
-          "regionalName": "Wizardry: Llylgamyn Saga(ウィザードリィ リルガミン サーガ) SuperLite Goldシリーズ(SLPM-87037) サクセス (20020328)"
+          "regionalName": "Wizardry: Llylgamyn Saga(ウィザードリィ リルガミン サーガ) SuperLite Goldシリーズ(SLPM-87037) サクセス"
         }
       ],
       "id": 3323,
       "localizedNames": {
-        "ja": "ウィザードリィ リルガミン サーガ(Wizardry Llylgamyn Saga) ローカス (19980226)"
+        "ja": "ウィザードリィ リルガミン サーガ(Wizardry Llylgamyn Saga) ローカス"
       }
     },
     {
@@ -80297,12 +80298,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4953507960277",
-          "regionalName": "WORLD CUP GOLF(ワールドカップゴルフ) イン・ハイアット ドラドビーチ ココナッツジャパン (19960301)"
+          "regionalName": "WORLD CUP GOLF(ワールドカップゴルフ) イン・ハイアット ドラドビーチ ココナッツジャパン"
         }
       ],
       "id": 3336,
       "localizedNames": {
-        "ja": "WORLD CUP GOLF(ワールドカップゴルフ) イン・ハイアット ドラドビーチ ココナッツジャパン (19960301)"
+        "ja": "WORLD CUP GOLF(ワールドカップゴルフ) イン・ハイアット ドラドビーチ ココナッツジャパン"
       }
     },
     {
@@ -80316,7 +80317,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4953507980671",
-          "regionalName": "ワールドリーグサッカー ココナッツジャパン (19980507)"
+          "regionalName": "ワールドリーグサッカー ココナッツジャパン"
         },
         {
           "name": "WORLD LEAGUE SOCCER - CHALLENGE NIPPON! [FAMILY PRICE 1500]",
@@ -80330,7 +80331,7 @@
       ],
       "id": 3337,
       "localizedNames": {
-        "ja": "ワールドリーグサッカー ココナッツジャパン (19980507)"
+        "ja": "ワールドリーグサッカー ココナッツジャパン"
       }
     },
     {
@@ -81643,12 +81644,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872100694",
-          "regionalName": "雪割りの花(YUKIWARI NO HANA) やるドラシリーズVol.4 ソニー・コンピュータエンタテインメント (19981126)"
+          "regionalName": "雪割りの花(YUKIWARI NO HANA) やるドラシリーズVol.4 ソニー・コンピュータエンタテインメント"
         }
       ],
       "id": 3394,
       "localizedNames": {
-        "ja": "雪割りの花(YUKIWARI NO HANA) やるドラシリーズVol.4 ソニー・コンピュータエンタテインメント (19981126)"
+        "ja": "雪割りの花(YUKIWARI NO HANA) やるドラシリーズVol.4 ソニー・コンピュータエンタテインメント"
       }
     },
     {
@@ -82014,12 +82015,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4942330421314",
-          "regionalName": "悠久幻想曲 保存版 〜PerpetualCollection(パーペチュアルコレクション) メディアワークス (19991014)"
+          "regionalName": "悠久幻想曲 保存版 〜PerpetualCollection(パーペチュアルコレクション) メディアワークス"
         }
       ],
       "id": 3410,
       "localizedNames": {
-        "ja": "悠久幻想曲 保存版 〜PerpetualCollection(パーペチュアルコレクション) メディアワークス (19991014)"
+        "ja": "悠久幻想曲 保存版 〜PerpetualCollection(パーペチュアルコレクション) メディアワークス"
       }
     },
     {
@@ -82215,7 +82216,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988013040694",
-          "regionalName": "ZAP! SNOWBOADRING TRIX '98(ザップ! スノーボーディングトリックス'98) ポニーキャニオン (19971225)"
+          "regionalName": "ZAP! SNOWBOADRING TRIX '98(ザップ! スノーボーディングトリックス'98) ポニーキャニオン"
         },
         {
           "name": "ZAP! SNOWBOARDING TRIX '98 [FUKYUUBAN 1500 SERIES]",
@@ -82230,7 +82231,7 @@
       ],
       "id": 3419,
       "localizedNames": {
-        "ja": "ZAP! SNOWBOADRING TRIX '98(ザップ! スノーボーディングトリックス'98) ポニーキャニオン (19971225)"
+        "ja": "ZAP! SNOWBOADRING TRIX '98(ザップ! スノーボーディングトリックス'98) ポニーキャニオン"
       }
     },
     {
@@ -82535,12 +82536,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4989006000114",
-          "regionalName": "ZERO4 CHAMP Doozy-J(ゼロヨンチャンプ Doozy-J) メディアリング (19970620)"
+          "regionalName": "ZERO4 CHAMP Doozy-J(ゼロヨンチャンプ Doozy-J) メディアリング"
         }
       ],
       "id": 3430,
       "localizedNames": {
-        "ja": "ZERO4 CHAMP Doozy-J(ゼロヨンチャンプ Doozy-J) メディアリング (19970620)"
+        "ja": "ZERO4 CHAMP Doozy-J(ゼロヨンチャンプ Doozy-J) メディアリング"
       }
     },
     {
@@ -90650,7 +90651,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948536190542",
-          "regionalName": "海底大戦争 マル安シリーズ4(SLPS-02790) エクシング (20000601)"
+          "regionalName": "海底大戦争 マル安シリーズ4(SLPS-02790) エクシング"
         },
         {
           "name": "IN THE HUNT",
@@ -101873,12 +101874,12 @@
           "region": "NTSC-J",
           "tgdbId": 128401,
           "upc": "4988009004099",
-          "regionalName": "立体忍者活劇 天誅 ソニー・コンピュータエンタテインメント (19980226)"
+          "regionalName": "立体忍者活劇 天誅 ソニー・コンピュータエンタテインメント"
         }
       ],
       "id": 4369,
       "localizedNames": {
-        "ja": "立体忍者活劇 天誅 ソニー・コンピュータエンタテインメント (19980226)"
+        "ja": "立体忍者活劇 天誅 ソニー・コンピュータエンタテインメント"
       }
     },
     {
