@@ -23777,7 +23777,8 @@
           "serial": "SLPM-86031",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "upc": "4988602049169"
+          "upc": "4988602049169",
+          "regionalName": "極上パロディウスだ！DELUXE PACK  [PLAYSTATION THE BEST]"
         },
         {
           "name": "GOKUJOU PARODIUS DA! DELUXE PACK [PSONE BOOKS]",
@@ -23787,7 +23788,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602087123",
-          "regionalName": "極上パロディウスだ ! デラックスパック"
+          "regionalName": "極上パロディウスだ！DELUXE PACK  [PSONE BOOKS]"
         },
         {
           "name": "PARODIUS",
@@ -23800,7 +23801,7 @@
       ],
       "id": 944,
       "localizedNames": {
-        "ja": "極上パロディウスだ！DELUXE PACK"
+        "ja": "パロディウスだ！"
       }
     },
     {
@@ -33824,7 +33825,7 @@
           "tgdbId": 0,
           "releaseDate": "1994-12-16",
           "upc": "4949776361013",
-          "regionalName": "ダークオークション ELJM-30811"
+          "regionalName": "キングスフィールド"
         },
         {
           "name": "KING'S FIELD [PSONE BOOKS]",
@@ -33834,7 +33835,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4949776361082",
-          "regionalName": "KING'S FIELD(キングスフィールド) PSoneBooks フロム・ソフトウェア(SLPS-91401)(20011115)"
+          "regionalName": "キングスフィールド [PSONE BOOKS]"
         },
         {
           "name": "KING'S FIELD",
@@ -33855,7 +33856,7 @@
       ],
       "id": 1394,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "キングスフィールド"
       }
     },
     {
