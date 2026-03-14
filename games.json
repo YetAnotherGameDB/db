@@ -42393,7 +42393,7 @@
       "name": "MOTO RACER 2",
       "gameInstances": [
         {
-          "name": "MOTO RACER 2",
+          "name": "モトレーサー2",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-02040",
@@ -42421,7 +42421,7 @@
       ],
       "id": 1765,
       "localizedNames": {
-        "ja": "8番出口・8番のりば"
+        "ja": "モトレーサー2"
       }
     },
     {
@@ -42436,7 +42436,7 @@
           "tgdbId": 0,
           "releaseDate": "1994-12-16",
           "upc": "4948872100014",
-          "regionalName": "8番出口・8番のりば"
+          "regionalName": "モータートゥーン・グランプリ"
         },
         {
           "name": "MOTOR TOON GRAND PRIX",
@@ -42449,7 +42449,7 @@
       ],
       "id": 1766,
       "localizedNames": {
-        "ja": "8番出口・8番のりば"
+        "ja": "モータートゥーン・グランプリ"
       }
     },
     {
@@ -70198,10 +70198,10 @@
       }
     },
     {
-      "name": "TAMA - ADVENTUROUS BALL IN GIDDY LABYRINTH",
+      "name": "TAMA",
       "gameInstances": [
         {
-          "name": "TAMA - ADVENTUROUS BALL IN GIDDY LABYRINTH",
+          "name": "TAMA",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-00003",
@@ -70209,12 +70209,12 @@
           "tgdbId": 0,
           "releaseDate": "1994-12-03",
           "upc": "4991425000217",
-          "regionalName": "TAMA(たま) タイムワーナーインタラクティブ"
+          "regionalName": "TAMA(たま)"
         }
       ],
       "id": 2924,
       "localizedNames": {
-        "ja": "TAMA(たま) タイムワーナーインタラクティブ"
+        "ja": "TAMA"
       }
     },
     {
