@@ -5018,7 +5018,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4904880133093",
-          "regionalName": "闘神伝"
+          "regionalName": "闘神伝",
+          "releaseDate": "1995-01-01"
         },
         {
           "name": "BATTLE ARENA TOSHINDEN",
@@ -11394,7 +11395,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4949978002011",
-          "regionalName": "コズミックレース"
+          "regionalName": "コズミックレース",
+          "releaseDate": "1995-01-20"
         }
       ],
       "id": 452,
