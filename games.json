@@ -31766,7 +31766,9 @@
           "serial": "SLPS-00028",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "releaseDate": "1995-02-03"
+          "releaseDate": "1995-02-03",
+          "regionalName": "ジグソーワールド",
+          "upc": "4995506000011"
         },
         {
           "name": "JIGSAW WORLD [HONKAKUHA DE SERIES]",
@@ -31775,10 +31777,14 @@
           "serial": "SLPS-02251",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "releaseDate": "1999-09-14"
+          "releaseDate": "1999-09-14",
+          "regionalName": "ジグソーワールド [HONKAKUHA DE SERIES]"
         }
       ],
-      "id": 1221
+      "id": 1221,
+      "localizedNames": {
+        "ja": "ジグソーワールド"
+      }
     },
     {
       "name": "JIKKI PACHI-SLOT TETTEL KOURYAKU - SPEED-CR KINKAKUJI 3",
@@ -35363,7 +35369,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988009003191",
-          "regionalName": "キリーク・ザ・ブラッド(KIKEAK The Blood) ソニー・ミュージックエンタテインメント",
+          "regionalName": "キリーク・ザ・ブラッド",
           "releaseDate": "1995-01-27"
         },
         {
@@ -35377,7 +35383,7 @@
       ],
       "id": 1377,
       "localizedNames": {
-        "ja": "キリーク・ザ・ブラッド(KIKEAK The Blood) ソニー・ミュージックエンタテインメント"
+        "ja": "キリーク・ザ・ブラッド"
       }
     },
     {
