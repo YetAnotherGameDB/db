@@ -23010,13 +23010,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4518770000008",
-          "regionalName": "PS）テクノソレイユ/ガイアシード/PlayStation1",
+          "regionalName": "ガイアシード",
           "releaseDate": "1996-12-13"
         }
       ],
       "id": 866,
       "localizedNames": {
-        "ja": "PS）テクノソレイユ/ガイアシード/PlayStation1"
+        "ja": "ガイアシード"
       }
     },
     {
@@ -56634,7 +56634,7 @@
           "region": "NTSC-J",
           "tgdbId": 105857,
           "upc": "4949794000017",
-          "regionalName": "雷電プロジェクト／PS",
+          "regionalName": "雷電プロジェクト",
           "releaseDate": "1995-01-27"
         },
         {
@@ -56674,7 +56674,7 @@
       ],
       "id": 2226,
       "localizedNames": {
-        "ja": "雷電プロジェクト／PS"
+        "ja": "雷電プロジェクト"
       }
     },
     {
@@ -81380,13 +81380,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988126510039",
-          "regionalName": "宇宙生物フロポン君P！／PS",
+          "regionalName": "宇宙生物フロポン君P！",
           "releaseDate": "1995-03-31"
         }
       ],
       "id": 3204,
       "localizedNames": {
-        "ja": "宇宙生物フロポン君P！／PS"
+        "ja": "宇宙生物フロポン君P！"
       }
     },
     {
