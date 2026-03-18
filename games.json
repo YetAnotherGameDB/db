@@ -62864,7 +62864,7 @@
           "region": "NTSC-J",
           "tgdbId": 32192,
           "upc": "4904810778110",
-          "regionalName": "闘魂烈伝 新日本プロレスリング タカラトミー",
+          "regionalName": "闘魂烈伝 新日本プロレスリング",
           "releaseDate": "1995-09-29"
         },
         {
@@ -62881,7 +62881,7 @@
       ],
       "id": 2452,
       "localizedNames": {
-        "ja": "闘魂烈伝 新日本プロレスリング タカラトミー"
+        "ja": "闘魂烈伝 新日本プロレスリング"
       }
     },
     {
@@ -82128,7 +82128,8 @@
           "serial": "SLPS-00103",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "releaseDate": "1995-09-22"
+          "releaseDate": "1995-09-22",
+          "regionalName": "Vテニス"
         },
         {
           "name": "V-TENNIS",
@@ -82147,7 +82148,10 @@
           "tgdbId": 0
         }
       ],
-      "id": 3232
+      "id": 3232,
+      "localizedNames": {
+        "ja": "Vテニス"
+      }
     },
     {
       "name": "V-TENNIS 2",
