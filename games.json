@@ -18805,7 +18805,7 @@
           "tgdbId": 0,
           "upc": "4988602008272",
           "regionalName": "永世名人",
-          "releaseDate": "1995-08-09"
+          "releaseDate": "1995-09-08"
         }
       ],
       "id": 700,
@@ -31256,13 +31256,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602624274",
-          "regionalName": "Jリーグ実況ウイニングイレブン(J.LEAGUE JIKKYOU WINNING ELEVEN) コナミ",
+          "regionalName": "Jリーグ実況ウイニングイレブン",
           "releaseDate": "1995-07-21"
         }
       ],
       "id": 1199,
       "localizedNames": {
-        "ja": "Jリーグ実況ウイニングイレブン(J.LEAGUE JIKKYOU WINNING ELEVEN) コナミ"
+        "ja": "Jリーグ実況ウイニングイレブン"
       }
     },
     {
@@ -31276,13 +31276,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602523096",
-          "regionalName": "Jリーグ 実況ウイニングイレブン ’98−’99／PS",
+          "regionalName": "Jリーグ 実況ウイニングイレブン ’98−’99",
           "releaseDate": "1998-12-03"
         }
       ],
       "id": 1200,
       "localizedNames": {
-        "ja": "Jリーグ 実況ウイニングイレブン ’98−’99／PS"
+        "ja": "Jリーグ 実況ウイニングイレブン ’98−’99"
       }
     },
     {
@@ -31296,13 +31296,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602779509",
-          "regionalName": "Jリーグ 実況ウイニングイレブン2000／PS",
+          "regionalName": "Jリーグ 実況ウイニングイレブン2000",
           "releaseDate": "2000-06-29"
         }
       ],
       "id": 1201,
       "localizedNames": {
-        "ja": "Jリーグ 実況ウイニングイレブン2000／PS"
+        "ja": "Jリーグ 実況ウイニングイレブン2000"
       }
     },
     {
@@ -31316,13 +31316,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4542084000034",
-          "regionalName": "Jリーグ実況ウイニングイレブン2000 2nd KCE東京",
+          "regionalName": "Jリーグ実況ウイニングイレブン2000 2nd",
           "releaseDate": "2000-11-30"
         }
       ],
       "id": 1202,
       "localizedNames": {
-        "ja": "Jリーグ実況ウイニングイレブン2000 2nd KCE東京"
+        "ja": "Jリーグ実況ウイニングイレブン2000 2nd"
       }
     },
     {
