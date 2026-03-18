@@ -2256,7 +2256,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988002324637",
-          "regionalName": "アメリカ横断ウルトラクイズ／PS",
+          "regionalName": "アメリカ横断ウルトラクイズ",
           "releaseDate": "1996-02-23"
         },
         {
@@ -2278,13 +2278,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988110020445",
-          "regionalName": "アメリカ横断ウルトラクイズ 復刻版（再販）／PS",
+          "regionalName": "アメリカ横断ウルトラクイズ 復刻版（再販）",
           "releaseDate": "1998-12-03"
         }
       ],
       "id": 82,
       "localizedNames": {
-        "ja": "アメリカ横断ウルトラクイズ／PS"
+        "ja": "アメリカ横断ウルトラクイズ"
       }
     },
     {
@@ -2401,7 +2401,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4953507951275",
-          "regionalName": "エンジェルグラフィティ あなたへのプロフィール／PS",
+          "regionalName": "エンジェルグラフィティ あなたへのプロフィール",
           "releaseDate": "1996-07-26"
         },
         {
@@ -2418,7 +2418,7 @@
       ],
       "id": 86,
       "localizedNames": {
-        "ja": "エンジェルグラフィティ あなたへのプロフィール／PS"
+        "ja": "エンジェルグラフィティ あなたへのプロフィール"
       }
     },
     {
@@ -2443,7 +2443,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615014338",
-          "regionalName": "アンジェリーク デュエット（再販）／PS",
+          "regionalName": "アンジェリーク デュエット（再販）",
           "releaseDate": "2000-02-24"
         },
         {
@@ -3651,7 +3651,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988927030088",
-          "regionalName": "アートカミオン 芸術伝／PS",
+          "regionalName": "アートカミオン 芸術伝",
           "releaseDate": "1999-12-16"
         },
         {
@@ -3668,7 +3668,7 @@
       ],
       "id": 131,
       "localizedNames": {
-        "ja": "アートカミオン 芸術伝／PS"
+        "ja": "アートカミオン 芸術伝"
       }
     },
     {
@@ -4032,7 +4032,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4943015030111",
-          "regionalName": "エリーのアトリエ ザールブルグの錬金術師2（再販）／PS",
+          "regionalName": "エリーのアトリエ ザールブルグの錬金術師2（再販）",
           "releaseDate": "1998-12-17"
         },
         {
@@ -4043,13 +4043,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4943015030142",
-          "regionalName": "エリーのアトリエ ザールブルグの錬金術師2（再販）／PS",
+          "regionalName": "エリーのアトリエ ザールブルグの錬金術師2（再販）",
           "releaseDate": "1999-12-16"
         }
       ],
       "id": 146,
       "localizedNames": {
-        "ja": "エリーのアトリエ ザールブルグの錬金術師2（再販）／PS"
+        "ja": "エリーのアトリエ ザールブルグの錬金術師2（再販）"
       }
     },
     {
@@ -4196,7 +4196,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425548609",
-          "regionalName": "オウバードフォース／PS",
+          "regionalName": "オウバードフォース",
           "releaseDate": "1996-10-25"
         },
         {
@@ -4213,7 +4213,7 @@
       ],
       "id": 152,
       "localizedNames": {
-        "ja": "オウバードフォース／PS"
+        "ja": "オウバードフォース"
       }
     },
     {
@@ -4438,13 +4438,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543112077431",
-          "regionalName": "あずまんが ドンジャラ王／PS",
+          "regionalName": "あずまんが ドンジャラ王",
           "releaseDate": "2002-04-18"
         }
       ],
       "id": 162,
       "localizedNames": {
-        "ja": "あずまんが ドンジャラ王／PS"
+        "ja": "あずまんが ドンジャラ王"
       }
     },
     {
@@ -4586,7 +4586,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300198",
-          "regionalName": "幕末浪漫 月華の剣士／PS",
+          "regionalName": "幕末浪漫 月華の剣士",
           "releaseDate": "1999-02-25"
         },
         {
@@ -4603,7 +4603,7 @@
       ],
       "id": 168,
       "localizedNames": {
-        "ja": "幕末浪漫 月華の剣士／PS"
+        "ja": "幕末浪漫 月華の剣士"
       }
     },
     {
@@ -4736,7 +4736,7 @@
           "region": "NTSC-J",
           "tgdbId": 60262,
           "upc": "4959143900301",
-          "regionalName": "爆走デコトラ伝説 男一匹夢街道／PS",
+          "regionalName": "爆走デコトラ伝説 男一匹夢街道",
           "releaseDate": "1998-06-25"
         },
         {
@@ -4751,7 +4751,7 @@
       ],
       "id": 175,
       "localizedNames": {
-        "ja": "爆走デコトラ伝説 男一匹夢街道／PS"
+        "ja": "爆走デコトラ伝説 男一匹夢街道"
       }
     },
     {
@@ -5024,7 +5024,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4933438001072",
-          "regionalName": "バロックシンドローム Major Waveシリーズ（再販）／PS",
+          "regionalName": "バロックシンドローム Major Waveシリーズ（再販）",
           "releaseDate": "2001-11-22"
         }
       ],
@@ -5562,13 +5562,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076000945",
-          "regionalName": "バトルすごろくハンター SuperLite1500シリーズ／PS",
+          "regionalName": "バトルすごろくハンター SuperLite1500シリーズ",
           "releaseDate": "1999-12-22"
         }
       ],
       "id": 205,
       "localizedNames": {
-        "ja": "バトルすごろくハンター SuperLite1500シリーズ／PS"
+        "ja": "バトルすごろくハンター SuperLite1500シリーズ"
       }
     },
     {
@@ -5778,7 +5778,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602657883",
-          "regionalName": "ビートマニア APPEND 4thMix the beat goes on／PS",
+          "regionalName": "ビートマニア APPEND 4thMix the beat goes on",
           "releaseDate": "1999-09-09"
         },
         {
@@ -5789,13 +5789,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602657883",
-          "regionalName": "ビートマニア APPEND 4thMix the beat goes on／PS",
+          "regionalName": "ビートマニア APPEND 4thMix the beat goes on",
           "releaseDate": "1999-09-09"
         }
       ],
       "id": 214,
       "localizedNames": {
-        "ja": "ビートマニア APPEND 4thMix the beat goes on／PS"
+        "ja": "ビートマニア APPEND 4thMix the beat goes on"
       }
     },
     {
@@ -5849,13 +5849,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602078114",
-          "regionalName": "ビートマニア APPEND ClubMIX（クラブミックス）／PS",
+          "regionalName": "ビートマニア APPEND ClubMIX（クラブミックス）",
           "releaseDate": "2000-12-21"
         }
       ],
       "id": 217,
       "localizedNames": {
-        "ja": "ビートマニア APPEND ClubMIX（クラブミックス）／PS"
+        "ja": "ビートマニア APPEND ClubMIX（クラブミックス）"
       }
     },
     {
@@ -6424,13 +6424,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4994068800305",
-          "regionalName": "美少女戦士セーラームーンSupers（限定版）／PS",
+          "regionalName": "美少女戦士セーラームーンSupers（限定版）",
           "releaseDate": "1996-03-08"
         }
       ],
       "id": 239,
       "localizedNames": {
-        "ja": "美少女戦士セーラームーンSupers（限定版）／PS"
+        "ja": "美少女戦士セーラームーンSupers（限定版）"
       }
     },
     {
@@ -7222,13 +7222,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4517120399021",
-          "regionalName": "ぼくは航空管制官／PS",
+          "regionalName": "ぼくは航空管制官",
           "releaseDate": "1999-12-22"
         }
       ],
       "id": 269,
       "localizedNames": {
-        "ja": "ぼくは航空管制官／PS"
+        "ja": "ぼくは航空管制官"
       }
     },
     {
@@ -7253,7 +7253,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988110020797",
-          "regionalName": "牧場物語 ハーベストムーン（再販）／PS",
+          "regionalName": "牧場物語 ハーベストムーン（再販）",
           "releaseDate": "2000-12-07"
         }
       ],
@@ -7304,13 +7304,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602691061",
-          "regionalName": "牧場経営的ボードゲーム うまぽりぃ／PS",
+          "regionalName": "牧場経営的ボードゲーム うまぽりぃ",
           "releaseDate": "1999-12-25"
         }
       ],
       "id": 272,
       "localizedNames": {
-        "ja": "牧場経営的ボードゲーム うまぽりぃ／PS"
+        "ja": "牧場経営的ボードゲーム うまぽりぃ"
       }
     },
     {
@@ -7425,7 +7425,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988607050481",
-          "regionalName": "ボンバーマンランド HUDSON THE BEST（再販）／PS",
+          "regionalName": "ボンバーマンランド HUDSON THE BEST（再販）",
           "releaseDate": "2002-06-06"
         },
         {
@@ -7671,7 +7671,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4939814100018",
-          "regionalName": "BOXER’S ROAD（ボクサーズロード）（再販）／PS",
+          "regionalName": "BOXER’S ROAD（ボクサーズロード）（再販）",
           "releaseDate": "1996-09-09"
         }
       ],
@@ -8045,13 +8045,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602010404",
-          "regionalName": "ブリーディングスタッド 牧場で逢いましょう／PS",
+          "regionalName": "ブリーディングスタッド 牧場で逢いましょう",
           "releaseDate": "1997-03-27"
         }
       ],
       "id": 299,
       "localizedNames": {
-        "ja": "ブリーディングスタッド 牧場で逢いましょう／PS"
+        "ja": "ブリーディングスタッド 牧場で逢いましょう"
       }
     },
     {
@@ -8085,13 +8085,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602643923",
-          "regionalName": "ブリーディングスタッド'99 コナミデジタルエンタテインメント",
+          "regionalName": "ブリーディングスタッド'99",
           "releaseDate": "1999-11-11"
         }
       ],
       "id": 301,
       "localizedNames": {
-        "ja": "ブリーディングスタッド'99 コナミデジタルエンタテインメント"
+        "ja": "ブリーディングスタッド'99"
       }
     },
     {
@@ -8453,7 +8453,7 @@
           "serial": "SCPS-45028",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "ブシドーブレード／PS",
+          "regionalName": "ブシドーブレード",
           "releaseDate": "1997-03-14"
         },
         {
@@ -8464,7 +8464,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961012967025",
-          "regionalName": "ブシドーブレード／PS",
+          "regionalName": "ブシドーブレード",
           "releaseDate": "1997-03-14"
         },
         {
@@ -8486,7 +8486,7 @@
       ],
       "id": 315,
       "localizedNames": {
-        "ja": "ブシドーブレード／PS"
+        "ja": "ブシドーブレード"
       }
     },
     {
@@ -8580,13 +8580,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988601003216",
-          "regionalName": "バストアムーブ2／PS",
+          "regionalName": "バストアムーブ2",
           "releaseDate": "1999-04-15"
         }
       ],
       "id": 318,
       "localizedNames": {
-        "ja": "バストアムーブ2／PS"
+        "ja": "バストアムーブ2"
       }
     },
     {
@@ -8978,7 +8978,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988006935624",
-          "regionalName": "キャプテン・ラヴ／PS",
+          "regionalName": "キャプテン・ラヴ",
           "releaseDate": "1999-03-11"
         },
         {
@@ -8995,7 +8995,7 @@
       ],
       "id": 335,
       "localizedNames": {
-        "ja": "キャプテン・ラヴ／PS"
+        "ja": "キャプテン・ラヴ"
       }
     },
     {
@@ -9284,13 +9284,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076001997",
-          "regionalName": "Castrol HONDA VTR SuperLite1500シリーズ／PS",
+          "regionalName": "Castrol HONDA VTR SuperLite1500シリーズ",
           "releaseDate": "2001-10-25"
         }
       ],
       "id": 347,
       "localizedNames": {
-        "ja": "Castrol HONDA VTR SuperLite1500シリーズ／PS"
+        "ja": "Castrol HONDA VTR SuperLite1500シリーズ"
       }
     },
     {
@@ -9723,7 +9723,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4994964116289",
-          "regionalName": "チェックメイト（再販）／PS",
+          "regionalName": "チェックメイト（再販）",
           "releaseDate": "2001-02-15"
         },
         {
@@ -9737,7 +9737,7 @@
       ],
       "id": 363,
       "localizedNames": {
-        "ja": "チェックメイト（再販）／PS"
+        "ja": "チェックメイト（再販）"
       }
     },
     {
@@ -9859,7 +9859,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4515646840294",
-          "regionalName": "ちびキャラゲーム銀河英雄伝説ラインハルト（限定版）／PS",
+          "regionalName": "ちびキャラゲーム銀河英雄伝説ラインハルト（限定版）",
           "releaseDate": "1997-05-27"
         },
         {
@@ -9876,7 +9876,7 @@
       ],
       "id": 369,
       "localizedNames": {
-        "ja": "ちびキャラゲーム銀河英雄伝説ラインハルト（限定版）／PS"
+        "ja": "ちびキャラゲーム銀河英雄伝説ラインハルト（限定版）"
       }
     },
     {
@@ -10015,7 +10015,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988616010018",
-          "regionalName": "超兄貴 究極無敵銀河最強男／PS",
+          "regionalName": "超兄貴 究極無敵銀河最強男",
           "releaseDate": "1995-12-29"
         },
         {
@@ -10026,13 +10026,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4539457000166",
-          "regionalName": "超兄貴 究極無敵銀河最強男／PS",
+          "regionalName": "超兄貴 究極無敵銀河最強男",
           "releaseDate": "2001-08-30"
         }
       ],
       "id": 376,
       "localizedNames": {
-        "ja": "超兄貴 究極無敵銀河最強男／PS"
+        "ja": "超兄貴 究極無敵銀河最強男"
       }
     },
     {
@@ -10428,7 +10428,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4904880135844",
-          "regionalName": "チョロQ マリン Qボート／PS",
+          "regionalName": "チョロQ マリン Qボート",
           "releaseDate": "1998-06-25"
         },
         {
@@ -10455,7 +10455,7 @@
       ],
       "id": 390,
       "localizedNames": {
-        "ja": "チョロQ マリン Qボート／PS"
+        "ja": "チョロQ マリン Qボート"
       }
     },
     {
@@ -10645,7 +10645,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961012027095",
-          "regionalName": "クロノ・クロス Psone Books（再販）／PS",
+          "regionalName": "クロノ・クロス Psone Books（再販）",
           "releaseDate": "2002-02-21"
         },
         {
@@ -10656,7 +10656,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961012007295",
-          "regionalName": "クロノ・クロス Psone Books（再販）／PS",
+          "regionalName": "クロノ・クロス Psone Books（再販）",
           "releaseDate": "2000-10-26"
         },
         {
@@ -10667,13 +10667,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988601004695",
-          "regionalName": "クロノ・クロス Psone Books（再販）／PS",
+          "regionalName": "クロノ・クロス Psone Books（再販）",
           "releaseDate": "2006-07-20"
         }
       ],
       "id": 398,
       "localizedNames": {
-        "ja": "クロノ・クロス Psone Books（再販）／PS"
+        "ja": "クロノ・クロス Psone Books（再販）"
       }
     },
     {
@@ -11337,13 +11337,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4515646845121",
-          "regionalName": "クリックまんが 銀河英雄伝説(2)イゼルローン攻略／PS",
+          "regionalName": "クリックまんが 銀河英雄伝説(2)イゼルローン攻略",
           "releaseDate": "1999-11-18"
         }
       ],
       "id": 428,
       "localizedNames": {
-        "ja": "クリックまんが 銀河英雄伝説(2)イゼルローン攻略／PS"
+        "ja": "クリックまんが 銀河英雄伝説(2)イゼルローン攻略"
       }
     },
     {
@@ -11876,7 +11876,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948204000012",
-          "regionalName": "クールボーダーズ／PS",
+          "regionalName": "クールボーダーズ",
           "releaseDate": "1996-08-30"
         },
         {
@@ -11909,7 +11909,7 @@
       ],
       "id": 447,
       "localizedNames": {
-        "ja": "クールボーダーズ／PS"
+        "ja": "クールボーダーズ"
       }
     },
     {
@@ -11932,13 +11932,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948204000036",
-          "regionalName": "クールボーダーズ2／PS",
+          "regionalName": "クールボーダーズ2",
           "releaseDate": "1997-08-28"
         }
       ],
       "id": 448,
       "localizedNames": {
-        "ja": "クールボーダーズ2／PS"
+        "ja": "クールボーダーズ2"
       }
     },
     {
@@ -12323,7 +12323,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872913188",
-          "regionalName": "クラッシュ・バンディクー3 ブッとび！世界一周Psone Book（再販）／PS",
+          "regionalName": "クラッシュ・バンディクー3 ブッとび！世界一周Psone Book（再販）",
           "releaseDate": "2001-12-06"
         }
       ],
@@ -12383,7 +12383,7 @@
           "serial": "SCPS-45470",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "クラッシュ・バンディクーレーシング／PS",
+          "regionalName": "クラッシュ・バンディクーレーシング",
           "releaseDate": "1999-12-16"
         },
         {
@@ -12394,7 +12394,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872101189",
-          "regionalName": "クラッシュ・バンディクーレーシング／PS",
+          "regionalName": "クラッシュ・バンディクーレーシング",
           "releaseDate": "1999-12-16"
         },
         {
@@ -12405,7 +12405,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872912303",
-          "regionalName": "クラッシュ・バンディクーレーシング／PS",
+          "regionalName": "クラッシュ・バンディクーレーシング",
           "releaseDate": "2001-05-17"
         },
         {
@@ -12416,13 +12416,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872913287",
-          "regionalName": "クラッシュ・バンディクーレーシング／PS",
+          "regionalName": "クラッシュ・バンディクーレーシング",
           "releaseDate": "2002-12-05"
         }
       ],
       "id": 462,
       "localizedNames": {
-        "ja": "クラッシュ・バンディクーレーシング／PS"
+        "ja": "クラッシュ・バンディクーレーシング"
       }
     },
     {
@@ -13111,13 +13111,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4992713950016",
-          "regionalName": "Dの食卓 コンプリートグラフィックス（再販）／PS",
+          "regionalName": "Dの食卓 コンプリートグラフィックス（再販）",
           "releaseDate": "1998-09-07"
         }
       ],
       "id": 493,
       "localizedNames": {
-        "ja": "Dの食卓 コンプリートグラフィックス（再販）／PS"
+        "ja": "Dの食卓 コンプリートグラフィックス（再販）"
       }
     },
     {
@@ -13235,7 +13235,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615014208",
-          "regionalName": "大航海時代IV　PORTO　ESTADO（ポルトエシュタード）　コーエー定番シリーズ（再販）／PS",
+          "regionalName": "大航海時代IV　PORTO　ESTADO（ポルトエシュタード）　コーエー定番シリーズ（再販）",
           "releaseDate": "1999-12-02"
         },
         {
@@ -13246,7 +13246,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615020759",
-          "regionalName": "大航海時代IV　PORTO　ESTADO（ポルトエシュタード）　コーエー定番シリーズ（再販）／PS",
+          "regionalName": "大航海時代IV　PORTO　ESTADO（ポルトエシュタード）　コーエー定番シリーズ（再販）",
           "releaseDate": "2004-12-06"
         },
         {
@@ -13257,7 +13257,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615016363",
-          "regionalName": "大航海時代IV　PORTO　ESTADO（ポルトエシュタード）　コーエー定番シリーズ（再販）／PS",
+          "regionalName": "大航海時代IV　PORTO　ESTADO（ポルトエシュタード）　コーエー定番シリーズ（再販）",
           "releaseDate": "2001-12-06"
         },
         {
@@ -13268,13 +13268,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615014239",
-          "regionalName": "大航海時代IV　PORTO　ESTADO（ポルトエシュタード）　コーエー定番シリーズ（再販）／PS",
+          "regionalName": "大航海時代IV　PORTO　ESTADO（ポルトエシュタード）　コーエー定番シリーズ（再販）",
           "releaseDate": "1999-12-02"
         }
       ],
       "id": 497,
       "localizedNames": {
-        "ja": "大航海時代IV　PORTO　ESTADO（ポルトエシュタード）　コーエー定番シリーズ（再販）／PS"
+        "ja": "大航海時代IV　PORTO　ESTADO（ポルトエシュタード）　コーエー定番シリーズ（再販）"
       }
     },
     {
@@ -13288,7 +13288,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4939915000170",
-          "regionalName": "大幽霊屋敷 浜村淳の実話怪談／PS",
+          "regionalName": "大幽霊屋敷 浜村淳の実話怪談",
           "releaseDate": "1998-07-02"
         },
         {
@@ -13299,13 +13299,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4939915000248",
-          "regionalName": "大幽霊屋敷 浜村淳の実話怪談（再販）／PS",
+          "regionalName": "大幽霊屋敷 浜村淳の実話怪談（再販）",
           "releaseDate": "1999-08-05"
         }
       ],
       "id": 498,
       "localizedNames": {
-        "ja": "大幽霊屋敷 浜村淳の実話怪談／PS"
+        "ja": "大幽霊屋敷 浜村淳の実話怪談"
       }
     },
     {
@@ -13457,7 +13457,7 @@
           "serial": "SCPS-45428",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "ダンスダンスレボリューション 2nd Remix／PS",
+          "regionalName": "ダンスダンスレボリューション 2nd Remix",
           "releaseDate": "1999-08-26"
         },
         {
@@ -13468,13 +13468,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602655520",
-          "regionalName": "ダンスダンスレボリューション 2nd Remix／PS",
+          "regionalName": "ダンスダンスレボリューション 2nd Remix",
           "releaseDate": "1999-08-26"
         }
       ],
       "id": 504,
       "localizedNames": {
-        "ja": "ダンスダンスレボリューション 2nd Remix／PS"
+        "ja": "ダンスダンスレボリューション 2nd Remix"
       }
     },
     {
@@ -13518,7 +13518,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602717655",
-          "regionalName": "ダンスダンスレボリューション 2nd Remix APPEND クラブ VOL．2／PS",
+          "regionalName": "ダンスダンスレボリューション 2nd Remix APPEND クラブ VOL．2",
           "releaseDate": "1999-12-22"
         },
         {
@@ -13528,13 +13528,13 @@
           "serial": "SCPS-45471",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "ダンスダンスレボリューション 2nd Remix APPEND クラブ VOL．2／PS",
+          "regionalName": "ダンスダンスレボリューション 2nd Remix APPEND クラブ VOL．2",
           "releaseDate": "1999-12-22"
         }
       ],
       "id": 506,
       "localizedNames": {
-        "ja": "ダンスダンスレボリューション 2nd Remix APPEND クラブ VOL．2／PS"
+        "ja": "ダンスダンスレボリューション 2nd Remix APPEND クラブ VOL．2"
       }
     },
     {
@@ -13771,13 +13771,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602702415",
-          "regionalName": "ダンシングステージ フューチャリング トゥルーキスディスティネーション／PS",
+          "regionalName": "ダンシングステージ フューチャリング トゥルーキスディスティネーション",
           "releaseDate": "1999-12-09"
         }
       ],
       "id": 517,
       "localizedNames": {
-        "ja": "ダンシングステージ フューチャリング トゥルーキスディスティネーション／PS"
+        "ja": "ダンシングステージ フューチャリング トゥルーキスディスティネーション"
       }
     },
     {
@@ -13834,13 +13834,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4932873820118",
-          "regionalName": "ダライアス外伝／PS",
+          "regionalName": "ダライアス外伝",
           "releaseDate": "1996-12-20"
         }
       ],
       "id": 520,
       "localizedNames": {
-        "ja": "ダライアス外伝／PS"
+        "ja": "ダライアス外伝"
       }
     },
     {
@@ -14280,13 +14280,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4959143900172",
-          "regionalName": "DEKA4駆 TOUGH THE TRUCK／PS",
+          "regionalName": "DEKA4駆 TOUGH THE TRUCK",
           "releaseDate": "1997-05-30"
         }
       ],
       "id": 538,
       "localizedNames": {
-        "ja": "DEKA4駆 TOUGH THE TRUCK／PS"
+        "ja": "DEKA4駆 TOUGH THE TRUCK"
       }
     },
     {
@@ -15248,13 +15248,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961012977048",
-          "regionalName": "デジカルリーグ／PS",
+          "regionalName": "デジカルリーグ",
           "releaseDate": "1997-06-20"
         }
       ],
       "id": 572,
       "localizedNames": {
-        "ja": "デジカルリーグ／PS"
+        "ja": "デジカルリーグ"
       }
     },
     {
@@ -15455,13 +15455,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543112084606",
-          "regionalName": "デジモンワールド3新たなる冒険の扉／PS",
+          "regionalName": "デジモンワールド3新たなる冒険の扉",
           "releaseDate": "2002-07-04"
         }
       ],
       "id": 579,
       "localizedNames": {
-        "ja": "デジモンワールド3新たなる冒険の扉／PS"
+        "ja": "デジモンワールド3新たなる冒険の扉"
       }
     },
     {
@@ -16772,7 +16772,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4905040070302",
-          "regionalName": "ドラえもん2　SOS！おとぎの国／PS",
+          "regionalName": "ドラえもん2　SOS！おとぎの国",
           "releaseDate": "1997-02-21"
         },
         {
@@ -16789,7 +16789,7 @@
       ],
       "id": 625,
       "localizedNames": {
-        "ja": "ドラえもん2　SOS！おとぎの国／PS"
+        "ja": "ドラえもん2　SOS！おとぎの国"
       }
     },
     {
@@ -16814,7 +16814,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4905040070913",
-          "regionalName": "ドラえもん3 魔界のダンジョン 復刻版（再販）／PS",
+          "regionalName": "ドラえもん3 魔界のダンジョン 復刻版（再販）",
           "releaseDate": "2002-04-04"
         }
       ],
@@ -16970,7 +16970,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4959093201107",
-          "regionalName": "撞球re−mix ビリヤードマルチプル／PS",
+          "regionalName": "撞球re−mix ビリヤードマルチプル",
           "releaseDate": "1999-04-01"
         },
         {
@@ -16987,7 +16987,7 @@
       ],
       "id": 634,
       "localizedNames": {
-        "ja": "撞球re−mix ビリヤードマルチプル／PS"
+        "ja": "撞球re−mix ビリヤードマルチプル"
       }
     },
     {
@@ -17173,7 +17173,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425574059",
-          "regionalName": "ドラゴンボール FINAL BOUT（ファイナルバウト）／PS",
+          "regionalName": "ドラゴンボール FINAL BOUT（ファイナルバウト）",
           "releaseDate": "1997-08-21"
         },
         {
@@ -17247,7 +17247,7 @@
       ],
       "id": 642,
       "localizedNames": {
-        "ja": "ドラゴンボール FINAL BOUT（ファイナルバウト）／PS"
+        "ja": "ドラゴンボール FINAL BOUT（ファイナルバウト）"
       }
     },
     {
@@ -17391,13 +17391,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543112107503",
-          "regionalName": "DRAGON DRIVE（ドラゴンドライブ）／PS",
+          "regionalName": "DRAGON DRIVE（ドラゴンドライブ）",
           "releaseDate": "2002-10-03"
         }
       ],
       "id": 646,
       "localizedNames": {
-        "ja": "DRAGON DRIVE（ドラゴンドライブ）／PS"
+        "ja": "DRAGON DRIVE（ドラゴンドライブ）"
       }
     },
     {
@@ -17471,13 +17471,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988601003254",
-          "regionalName": "ドラゴンクエストキャラクターズ トルネコの大冒険2不思議のダンジョン／PS",
+          "regionalName": "ドラゴンクエストキャラクターズ トルネコの大冒険2不思議のダンジョン",
           "releaseDate": "1999-09-15"
         }
       ],
       "id": 650,
       "localizedNames": {
-        "ja": "ドラゴンクエストキャラクターズ トルネコの大冒険2不思議のダンジョン／PS"
+        "ja": "ドラゴンクエストキャラクターズ トルネコの大冒険2不思議のダンジョン"
       }
     },
     {
@@ -17980,7 +17980,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4904880134632",
-          "regionalName": "DX人生ゲームII／PS",
+          "regionalName": "DX人生ゲームII",
           "releaseDate": "1997-07-24"
         },
         {
@@ -17991,13 +17991,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4904880137497",
-          "regionalName": "DX人生ゲームII（再販）／PS",
+          "regionalName": "DX人生ゲームII（再販）",
           "releaseDate": "1998-10-08"
         }
       ],
       "id": 668,
       "localizedNames": {
-        "ja": "DX人生ゲームII／PS"
+        "ja": "DX人生ゲームII"
       }
     },
     {
@@ -18062,7 +18062,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4904880140404",
-          "regionalName": "DX人生ゲームIV THE BEST タカラモノ（再販）／PS",
+          "regionalName": "DX人生ゲームIV THE BEST タカラモノ（再販）",
           "releaseDate": "2003-07-10"
         }
       ],
@@ -18082,13 +18082,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4904880139859",
-          "regionalName": "DX人生ゲームV／PS",
+          "regionalName": "DX人生ゲームV",
           "releaseDate": "2002-12-05"
         }
       ],
       "id": 672,
       "localizedNames": {
-        "ja": "DX人生ゲームV／PS"
+        "ja": "DX人生ゲームV"
       }
     },
     {
@@ -18102,13 +18102,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110837",
-          "regionalName": "DX人生ゲームV　THE　BEST　タカラモノ（再販）／PS",
+          "regionalName": "DX人生ゲームV　THE　BEST　タカラモノ（再販）",
           "releaseDate": "2004-09-22"
         }
       ],
       "id": 673,
       "localizedNames": {
-        "ja": "DX人生ゲームV　THE　BEST　タカラモノ（再販）／PS"
+        "ja": "DX人生ゲームV　THE　BEST　タカラモノ（再販）"
       }
     },
     {
@@ -18662,7 +18662,7 @@
           "serial": "SCPS-45364",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "エアガイツ Psone Books（再販）／PS",
+          "regionalName": "エアガイツ Psone Books（再販）",
           "releaseDate": "1998-12-17"
         },
         {
@@ -18673,7 +18673,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961012987030",
-          "regionalName": "エアガイツ Psone Books（再販）／PS",
+          "regionalName": "エアガイツ Psone Books（再販）",
           "releaseDate": "1998-12-17"
         },
         {
@@ -18684,7 +18684,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961012027071",
-          "regionalName": "エアガイツ Psone Books（再販）／PS",
+          "regionalName": "エアガイツ Psone Books（再販）",
           "releaseDate": "2002-01-17"
         },
         {
@@ -18695,13 +18695,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961012007257",
-          "regionalName": "エアガイツ Psone Books（再販）／PS",
+          "regionalName": "エアガイツ Psone Books（再販）",
           "releaseDate": "2000-09-28"
         }
       ],
       "id": 696,
       "localizedNames": {
-        "ja": "エアガイツ Psone Books（再販）／PS"
+        "ja": "エアガイツ Psone Books（再販）"
       }
     },
     {
@@ -18975,13 +18975,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4959359006033",
-          "regionalName": "elan plus（エラン・プラス）（再販）／PS",
+          "regionalName": "elan plus（エラン・プラス）（再販）",
           "releaseDate": "2000-05-11"
         }
       ],
       "id": 708,
       "localizedNames": {
-        "ja": "elan plus（エラン・プラス）（再販）／PS"
+        "ja": "elan plus（エラン・プラス）（再販）"
       }
     },
     {
@@ -19283,13 +19283,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4996121004019",
-          "regionalName": "Engacho！ えんがちょ！／PS",
+          "regionalName": "Engacho！ えんがちょ！",
           "releaseDate": "1999-11-18"
         }
       ],
       "id": 721,
       "localizedNames": {
-        "ja": "Engacho！ えんがちょ！／PS"
+        "ja": "Engacho！ えんがちょ！"
       }
     },
     {
@@ -19303,13 +19303,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615010934",
-          "regionalName": "ENIGMA（エニグマ）／PS",
+          "regionalName": "ENIGMA（エニグマ）",
           "releaseDate": "1998-04-02"
         }
       ],
       "id": 722,
       "localizedNames": {
-        "ja": "ENIGMA（エニグマ）／PS"
+        "ja": "ENIGMA（エニグマ）"
       }
     },
     {
@@ -19458,13 +19458,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872600040",
-          "regionalName": "ESPN Street Games（ストリートゲームス）／PS",
+          "regionalName": "ESPN Street Games（ストリートゲームス）",
           "releaseDate": "1996-05-24"
         }
       ],
       "id": 731,
       "localizedNames": {
-        "ja": "ESPN Street Games（ストリートゲームス）／PS"
+        "ja": "ESPN Street Games（ストリートゲームス）"
       }
     },
     {
@@ -19709,13 +19709,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4522174000021",
-          "regionalName": "エキサイティングプロレス／PS",
+          "regionalName": "エキサイティングプロレス",
           "releaseDate": "2000-08-03"
         }
       ],
       "id": 742,
       "localizedNames": {
-        "ja": "エキサイティングプロレス／PS"
+        "ja": "エキサイティングプロレス"
       }
     },
     {
@@ -20282,13 +20282,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4513244900228",
-          "regionalName": "FAVORITE DEAR（フェイバリットディア）／PS",
+          "regionalName": "FAVORITE DEAR（フェイバリットディア）",
           "releaseDate": "1999-02-25"
         }
       ],
       "id": 769,
       "localizedNames": {
-        "ja": "FAVORITE DEAR（フェイバリットディア）／PS"
+        "ja": "FAVORITE DEAR（フェイバリットディア）"
       }
     },
     {
@@ -20302,7 +20302,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4513244900532",
-          "regionalName": "FAVORITE DEAR（フェイバリットディア）円環の物語／PS",
+          "regionalName": "FAVORITE DEAR（フェイバリットディア）円環の物語",
           "releaseDate": "2001-09-27"
         },
         {
@@ -20319,7 +20319,7 @@
       ],
       "id": 770,
       "localizedNames": {
-        "ja": "FAVORITE DEAR（フェイバリットディア）円環の物語／PS"
+        "ja": "FAVORITE DEAR（フェイバリットディア）円環の物語"
       }
     },
     {
@@ -20515,7 +20515,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4938833004758",
-          "regionalName": "FIFAロードトゥワールドカップ98／PS",
+          "regionalName": "FIFAロードトゥワールドカップ98",
           "releaseDate": "1998-05-14"
         },
         {
@@ -20532,7 +20532,7 @@
       ],
       "id": 778,
       "localizedNames": {
-        "ja": "FIFAロードトゥワールドカップ98／PS"
+        "ja": "FIFAロードトゥワールドカップ98"
       }
     },
     {
@@ -20574,13 +20574,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4938833004925",
-          "regionalName": "FIFA WORLD CUP’98フランス98総集編／PS",
+          "regionalName": "FIFA WORLD CUP’98フランス98総集編",
           "releaseDate": "1998-11-05"
         }
       ],
       "id": 780,
       "localizedNames": {
-        "ja": "FIFA WORLD CUP’98フランス98総集編／PS"
+        "ja": "FIFA WORLD CUP’98フランス98総集編"
       }
     },
     {
@@ -20921,7 +20921,7 @@
           "serial": "SCPS-45029",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "ファイナルファンタジーIV／PS",
+          "regionalName": "ファイナルファンタジーIV",
           "releaseDate": "1997-03-21"
         },
         {
@@ -20932,13 +20932,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961012967070",
-          "regionalName": "ファイナルファンタジーIV／PS",
+          "regionalName": "ファイナルファンタジーIV",
           "releaseDate": "1997-03-21"
         }
       ],
       "id": 795,
       "localizedNames": {
-        "ja": "ファイナルファンタジーIV／PS"
+        "ja": "ファイナルファンタジーIV"
       }
     },
     {
@@ -20951,7 +20951,7 @@
           "serial": "SCPS-45214",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "ファイナルファンタジーV／PS",
+          "regionalName": "ファイナルファンタジーV",
           "releaseDate": "1998-03-19"
         },
         {
@@ -20962,13 +20962,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961012977185",
-          "regionalName": "ファイナルファンタジーV／PS",
+          "regionalName": "ファイナルファンタジーV",
           "releaseDate": "1998-03-19"
         }
       ],
       "id": 796,
       "localizedNames": {
-        "ja": "ファイナルファンタジーV／PS"
+        "ja": "ファイナルファンタジーV"
       }
     },
     {
@@ -20981,7 +20981,7 @@
           "serial": "SCPS-45387",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "ファイナルファンタジーVI （コンビニ専売）／PS",
+          "regionalName": "ファイナルファンタジーVI （コンビニ専売）",
           "releaseDate": "1999-03-11"
         },
         {
@@ -20992,13 +20992,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961012987085",
-          "regionalName": "ファイナルファンタジーVI （コンビニ専売）／PS",
+          "regionalName": "ファイナルファンタジーVI （コンビニ専売）",
           "releaseDate": "1999-03-11"
         }
       ],
       "id": 797,
       "localizedNames": {
-        "ja": "ファイナルファンタジーVI （コンビニ専売）／PS"
+        "ja": "ファイナルファンタジーVI （コンビニ専売）"
       }
     },
     {
@@ -21284,7 +21284,7 @@
           "serial": "SCPS-45087SCPS-45088",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "ファイナルファンタジータクティクス／PS",
+          "regionalName": "ファイナルファンタジータクティクス",
           "releaseDate": "1997-06-20"
         },
         {
@@ -21295,13 +21295,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961012977031",
-          "regionalName": "ファイナルファンタジータクティクス／PS",
+          "regionalName": "ファイナルファンタジータクティクス",
           "releaseDate": "1997-06-20"
         }
       ],
       "id": 805,
       "localizedNames": {
-        "ja": "ファイナルファンタジータクティクス／PS"
+        "ja": "ファイナルファンタジータクティクス"
       }
     },
     {
@@ -21584,7 +21584,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988110400094",
-          "regionalName": "フィッシュアイズ（再販）／PS",
+          "regionalName": "フィッシュアイズ（再販）",
           "releaseDate": "1999-10-10"
         },
         {
@@ -21694,13 +21694,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076001508",
-          "regionalName": "フィッシング倶楽部(2)ボート釣り SuperLite1500シリーズ／PS",
+          "regionalName": "フィッシング倶楽部(2)ボート釣り SuperLite1500シリーズ",
           "releaseDate": "2000-08-24"
         }
       ],
       "id": 820,
       "localizedNames": {
-        "ja": "フィッシング倶楽部(2)ボート釣り SuperLite1500シリーズ／PS"
+        "ja": "フィッシング倶楽部(2)ボート釣り SuperLite1500シリーズ"
       }
     },
     {
@@ -21845,7 +21845,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4933516003134",
-          "regionalName": "フランベルジュの精霊／PS",
+          "regionalName": "フランベルジュの精霊",
           "releaseDate": "2000-04-27"
         },
         {
@@ -21862,7 +21862,7 @@
       ],
       "id": 827,
       "localizedNames": {
-        "ja": "フランベルジュの精霊／PS"
+        "ja": "フランベルジュの精霊"
       }
     },
     {
@@ -22056,13 +22056,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4953507971273",
-          "regionalName": "チーム運営シミュレーション2 Formula GRANDPRIX 1997年版／PS",
+          "regionalName": "チーム運営シミュレーション2 Formula GRANDPRIX 1997年版",
           "releaseDate": "1997-12-25"
         }
       ],
       "id": 835,
       "localizedNames": {
-        "ja": "チーム運営シミュレーション2 Formula GRANDPRIX 1997年版／PS"
+        "ja": "チーム運営シミュレーション2 Formula GRANDPRIX 1997年版"
       }
     },
     {
@@ -22496,7 +22496,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961012997039",
-          "regionalName": "フロントミッション サード Psone Books（再販）／PS",
+          "regionalName": "フロントミッション サード Psone Books（再販）",
           "releaseDate": "1999-09-02"
         },
         {
@@ -22507,7 +22507,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961012027064",
-          "regionalName": "フロントミッション サード Psone Books（再販）／PS",
+          "regionalName": "フロントミッション サード Psone Books（再販）",
           "releaseDate": "2002-01-17"
         },
         {
@@ -22518,7 +22518,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961012007288",
-          "regionalName": "フロントミッション サード Psone Books（再販）／PS",
+          "regionalName": "フロントミッション サード Psone Books（再販）",
           "releaseDate": "2000-09-28"
         },
         {
@@ -22529,7 +22529,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988601004831",
-          "regionalName": "フロントミッション サード Psone Books（再販）／PS",
+          "regionalName": "フロントミッション サード Psone Books（再販）",
           "releaseDate": "2006-10-05"
         },
         {
@@ -22551,7 +22551,7 @@
       ],
       "id": 850,
       "localizedNames": {
-        "ja": "フロントミッション サード Psone Books（再販）／PS"
+        "ja": "フロントミッション サード Psone Books（再販）"
       }
     },
     {
@@ -22970,13 +22970,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4941493000824",
-          "regionalName": "ガジェット　Past　as　Future／PS",
+          "regionalName": "ガジェット　Past　as　Future",
           "releaseDate": "1997-11-27"
         }
       ],
       "id": 864,
       "localizedNames": {
-        "ja": "ガジェット　Past　as　Future／PS"
+        "ja": "ガジェット　Past　as　Future"
       }
     },
     {
@@ -23119,7 +23119,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988110021336",
-          "regionalName": "学校をつくろう！！ Psone Books（再販）／PS",
+          "regionalName": "学校をつくろう！！ Psone Books（再販）",
           "releaseDate": "2003-01-16"
         }
       ],
@@ -23590,7 +23590,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907940213032",
-          "regionalName": "ゲームの達人2 サンコレBest（再販）／PS",
+          "regionalName": "ゲームの達人2 サンコレBest（再販）",
           "releaseDate": "2001-10-04"
         }
       ],
@@ -23753,7 +23753,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602008135",
-          "regionalName": "がんばれゴエモン　宇宙海賊アコギング／PS",
+          "regionalName": "がんばれゴエモン　宇宙海賊アコギング",
           "releaseDate": "1996-03-22"
         },
         {
@@ -23764,7 +23764,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602049152",
-          "regionalName": "がんばれゴエモン　宇宙海賊アコギング／PS",
+          "regionalName": "がんばれゴエモン　宇宙海賊アコギング",
           "releaseDate": "1997-03-20"
         },
         {
@@ -23775,13 +23775,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602087109",
-          "regionalName": "がんばれゴエモン　宇宙海賊アコギング／PS",
+          "regionalName": "がんばれゴエモン　宇宙海賊アコギング",
           "releaseDate": "2003-11-20"
         }
       ],
       "id": 893,
       "localizedNames": {
-        "ja": "がんばれゴエモン　宇宙海賊アコギング／PS"
+        "ja": "がんばれゴエモン　宇宙海賊アコギング"
       }
     },
     {
@@ -23815,7 +23815,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872100335",
-          "regionalName": "がんばれ森川君2号（初回限定版）／PS",
+          "regionalName": "がんばれ森川君2号（初回限定版）",
           "releaseDate": "1997-05-23"
         }
       ],
@@ -24139,7 +24139,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872101349",
-          "regionalName": "激突トマラルク　Tomarunner　Vs　L’Arc−en−Ciel／PS",
+          "regionalName": "激突トマラルク　Tomarunner　Vs　L’Arc−en−Ciel",
           "releaseDate": "2000-07-19"
         },
         {
@@ -24150,13 +24150,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872913201",
-          "regionalName": "激突トマラルク　Tomarunner　Vs　L’Arc−en−Ciel／PS",
+          "regionalName": "激突トマラルク　Tomarunner　Vs　L’Arc−en−Ciel",
           "releaseDate": "2001-12-06"
         }
       ],
       "id": 908,
       "localizedNames": {
-        "ja": "激突トマラルク　Tomarunner　Vs　L’Arc−en−Ciel／PS"
+        "ja": "激突トマラルク　Tomarunner　Vs　L’Arc−en−Ciel"
       }
     },
     {
@@ -24434,7 +24434,7 @@
           "serial": "SCPS-45369",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "幻想水滸伝II（再販）／PS",
+          "regionalName": "幻想水滸伝II（再販）",
           "releaseDate": "1998-12-17"
         },
         {
@@ -24445,7 +24445,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602433036",
-          "regionalName": "幻想水滸伝II（再販）／PS",
+          "regionalName": "幻想水滸伝II（再販）",
           "releaseDate": "1998-12-17"
         },
         {
@@ -24456,7 +24456,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602695007",
-          "regionalName": "幻想水滸伝II（再販）／PS",
+          "regionalName": "幻想水滸伝II（再販）",
           "releaseDate": "1999-12-09"
         },
         {
@@ -24467,13 +24467,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602091106",
-          "regionalName": "幻想水滸伝II（再販）／PS",
+          "regionalName": "幻想水滸伝II（再販）",
           "releaseDate": "2002-07-11"
         }
       ],
       "id": 917,
       "localizedNames": {
-        "ja": "幻想水滸伝II（再販）／PS"
+        "ja": "幻想水滸伝II（再販）"
       }
     },
     {
@@ -24487,13 +24487,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4995151000657",
-          "regionalName": "幻想魔伝 最遊記／PS",
+          "regionalName": "幻想魔伝 最遊記",
           "releaseDate": "2002-12-26"
         }
       ],
       "id": 918,
       "localizedNames": {
-        "ja": "幻想魔伝 最遊記／PS"
+        "ja": "幻想魔伝 最遊記"
       }
     },
     {
@@ -24865,13 +24865,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872100823",
-          "regionalName": "グローバルフォース新・戦闘国家／PS",
+          "regionalName": "グローバルフォース新・戦闘国家",
           "releaseDate": "1999-03-11"
         }
       ],
       "id": 933,
       "localizedNames": {
-        "ja": "グローバルフォース新・戦闘国家／PS"
+        "ja": "グローバルフォース新・戦闘国家"
       }
     },
     {
@@ -25240,7 +25240,7 @@
           "serial": "SCPS-45434",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "Goo! Goo! SOUNDY(グー!グー!サウンディ) コナミデジタルエンタテインメント",
+          "regionalName": "Goo! Goo! SOUNDY(グー!グー!サウンディ)",
           "releaseDate": "1999-09-22"
         },
         {
@@ -25251,13 +25251,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602488876",
-          "regionalName": "Goo! Goo! SOUNDY(グー!グー!サウンディ) コナミデジタルエンタテインメント",
+          "regionalName": "Goo! Goo! SOUNDY(グー!グー!サウンディ)",
           "releaseDate": "1999-09-22"
         }
       ],
       "id": 949,
       "localizedNames": {
-        "ja": "Goo! Goo! SOUNDY(グー!グー!サウンディ) コナミデジタルエンタテインメント"
+        "ja": "Goo! Goo! SOUNDY(グー!グー!サウンディ)"
       }
     },
     {
@@ -25512,7 +25512,7 @@
           "serial": "SCPS-45457SCPS-45458",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "GRAN　TURISMO　2／PS",
+          "regionalName": "GRAN　TURISMO　2",
           "releaseDate": "1999-12-11"
         },
         {
@@ -25523,7 +25523,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872101165",
-          "regionalName": "GRAN　TURISMO　2／PS",
+          "regionalName": "GRAN　TURISMO　2",
           "releaseDate": "1999-12-11"
         },
         {
@@ -25545,7 +25545,7 @@
       ],
       "id": 959,
       "localizedNames": {
-        "ja": "GRAN　TURISMO　2／PS"
+        "ja": "GRAN　TURISMO　2"
       }
     },
     {
@@ -25902,7 +25902,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602085808",
-          "regionalName": "GROOVE ADVENTURE RAVE 悠久の絆／PS",
+          "regionalName": "GROOVE ADVENTURE RAVE 悠久の絆",
           "releaseDate": "2002-01-31"
         },
         {
@@ -25913,7 +25913,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602096361",
-          "regionalName": "GROOVE ADVENTURE RAVE 悠久の絆 KONAMI THE BEST（再販）／PS",
+          "regionalName": "GROOVE ADVENTURE RAVE 悠久の絆 KONAMI THE BEST（再販）",
           "releaseDate": "2002-12-12"
         },
         {
@@ -25929,7 +25929,7 @@
       ],
       "id": 972,
       "localizedNames": {
-        "ja": "GROOVE ADVENTURE RAVE 悠久の絆／PS"
+        "ja": "GROOVE ADVENTURE RAVE 悠久の絆"
       }
     },
     {
@@ -26206,13 +26206,13 @@
           "region": "NTSC-J",
           "tgdbId": 93736,
           "upc": "4988602739053",
-          "regionalName": "GUITAR FREAKS APPEND 2nd MIX(ギターフリークス アペンド 2ndミックス) コナミデジタルエンタテインメント",
+          "regionalName": "GUITAR FREAKS APPEND 2nd MIX(ギターフリークス アペンド 2ndミックス)",
           "releaseDate": "2000-02-24"
         }
       ],
       "id": 983,
       "localizedNames": {
-        "ja": "GUITAR FREAKS APPEND 2nd MIX(ギターフリークス アペンド 2ndミックス) コナミデジタルエンタテインメント"
+        "ja": "GUITAR FREAKS APPEND 2nd MIX(ギターフリークス アペンド 2ndミックス)"
       }
     },
     {
@@ -26337,7 +26337,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010666",
-          "regionalName": "ガンバレット（再販）／PS",
+          "regionalName": "ガンバレット（再販）",
           "releaseDate": "1999-07-29"
         }
       ],
@@ -26550,13 +26550,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4983164734300",
-          "regionalName": "銃夢 火星の記憶／PS",
+          "regionalName": "銃夢 火星の記憶",
           "releaseDate": "1998-08-27"
         }
       ],
       "id": 997,
       "localizedNames": {
-        "ja": "銃夢 火星の記憶／PS"
+        "ja": "銃夢 火星の記憶"
       }
     },
     {
@@ -27040,13 +27040,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4530290001563",
-          "regionalName": "ハッピーダイエット／PS",
+          "regionalName": "ハッピーダイエット",
           "releaseDate": "2001-04-26"
         }
       ],
       "id": 1016,
       "localizedNames": {
-        "ja": "ハッピーダイエット／PS"
+        "ja": "ハッピーダイエット"
       }
     },
     {
@@ -27332,7 +27332,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615014277",
-          "regionalName": "遙かなる時空の中で　KOEI　The　Best（再販）／PS",
+          "regionalName": "遙かなる時空の中で　KOEI　The　Best（再販）",
           "releaseDate": "2000-04-06"
         },
         {
@@ -27343,7 +27343,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615019852",
-          "regionalName": "遙かなる時空の中で　KOEI　The　Best（再販）／PS",
+          "regionalName": "遙かなる時空の中で　KOEI　The　Best（再販）",
           "releaseDate": "2004-08-05"
         },
         {
@@ -27354,13 +27354,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615014284",
-          "regionalName": "遙かなる時空の中で　KOEI　The　Best（再販）／PS",
+          "regionalName": "遙かなる時空の中で　KOEI　The　Best（再販）",
           "releaseDate": "2000-04-06"
         }
       ],
       "id": 1028,
       "localizedNames": {
-        "ja": "遙かなる時空の中で　KOEI　The　Best（再販）／PS"
+        "ja": "遙かなる時空の中で　KOEI　The　Best（再販）"
       }
     },
     {
@@ -27374,7 +27374,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615018206",
-          "regionalName": "遙かなる時空の中で 盤上遊戯／PS",
+          "regionalName": "遙かなる時空の中で 盤上遊戯",
           "releaseDate": "2003-06-26"
         },
         {
@@ -27401,7 +27401,7 @@
       ],
       "id": 1029,
       "localizedNames": {
-        "ja": "遙かなる時空の中で 盤上遊戯／PS"
+        "ja": "遙かなる時空の中で 盤上遊戯"
       }
     },
     {
@@ -27924,13 +27924,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988607050245",
-          "regionalName": "ハローキティ ホワイトプレゼント／PS",
+          "regionalName": "ハローキティ ホワイトプレゼント",
           "releaseDate": "1998-12-17"
         }
       ],
       "id": 1053,
       "localizedNames": {
-        "ja": "ハローキティ ホワイトプレゼント／PS"
+        "ja": "ハローキティ ホワイトプレゼント"
       }
     },
     {
@@ -28590,7 +28590,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907940212011",
-          "regionalName": "必殺パチンコステーション（再販）／PS",
+          "regionalName": "必殺パチンコステーション（再販）",
           "releaseDate": "1998-11-05"
         }
       ],
@@ -29270,7 +29270,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988658997131",
-          "regionalName": "本格麻雀徹萬SPECIAL（再販）／PS",
+          "regionalName": "本格麻雀徹萬SPECIAL（再販）",
           "releaseDate": "1996-07-19"
         },
         {
@@ -29281,13 +29281,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988658997131",
-          "regionalName": "本格麻雀徹萬SPECIAL（再販）／PS",
+          "regionalName": "本格麻雀徹萬SPECIAL（再販）",
           "releaseDate": "1999-05-04"
         }
       ],
       "id": 1115,
       "localizedNames": {
-        "ja": "本格麻雀徹萬SPECIAL（再販）／PS"
+        "ja": "本格麻雀徹萬SPECIAL（再販）"
       }
     },
     {
@@ -29317,13 +29317,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4516365000068",
-          "regionalName": "本格将棋 将棋王／PS",
+          "regionalName": "本格将棋 将棋王",
           "releaseDate": "1998-09-23"
         }
       ],
       "id": 1117,
       "localizedNames": {
-        "ja": "本格将棋 将棋王／PS"
+        "ja": "本格将棋 将棋王"
       }
     },
     {
@@ -29500,13 +29500,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4942330413319",
-          "regionalName": "星の丘学園物語 学園祭／PS",
+          "regionalName": "星の丘学園物語 学園祭",
           "releaseDate": "1998-10-22"
         }
       ],
       "id": 1126,
       "localizedNames": {
-        "ja": "星の丘学園物語 学園祭／PS"
+        "ja": "星の丘学園物語 学園祭"
       }
     },
     {
@@ -29660,7 +29660,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602068863",
-          "regionalName": "ハンター×ハンター 幻のグリードアイランド KONAMI THE BEST（再販）／PS",
+          "regionalName": "ハンター×ハンター 幻のグリードアイランド KONAMI THE BEST（再販）",
           "releaseDate": "2000-10-26"
         },
         {
@@ -29671,7 +29671,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602083750",
-          "regionalName": "ハンター×ハンター 幻のグリードアイランド KONAMI THE BEST（再販）／PS",
+          "regionalName": "ハンター×ハンター 幻のグリードアイランド KONAMI THE BEST（再販）",
           "releaseDate": "2001-09-27"
         },
         {
@@ -29682,13 +29682,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602096385",
-          "regionalName": "ハンター×ハンター 幻のグリードアイランド KONAMI THE BEST（再販）／PS",
+          "regionalName": "ハンター×ハンター 幻のグリードアイランド KONAMI THE BEST（再販）",
           "releaseDate": "2002-12-12"
         }
       ],
       "id": 1135,
       "localizedNames": {
-        "ja": "ハンター×ハンター 幻のグリードアイランド KONAMI THE BEST（再販）／PS"
+        "ja": "ハンター×ハンター 幻のグリードアイランド KONAMI THE BEST（再販）"
       }
     },
     {
@@ -29910,13 +29910,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602010442",
-          "regionalName": "ハイパーオリンピック イン アトランタ／PS",
+          "regionalName": "ハイパーオリンピック イン アトランタ",
           "releaseDate": "1996-06-28"
         }
       ],
       "id": 1144,
       "localizedNames": {
-        "ja": "ハイパーオリンピック イン アトランタ／PS"
+        "ja": "ハイパーオリンピック イン アトランタ"
       }
     },
     {
@@ -30075,7 +30075,7 @@
           "serial": "SCPS-45036",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "I．Q インテリジェントキューブ（再販）／PS",
+          "regionalName": "I．Q インテリジェントキューブ（再販）",
           "releaseDate": "1997-01-31"
         },
         {
@@ -30086,7 +30086,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872100298",
-          "regionalName": "I．Q インテリジェントキューブ（再販）／PS",
+          "regionalName": "I．Q インテリジェントキューブ（再販）",
           "releaseDate": "1997-01-31"
         },
         {
@@ -30097,13 +30097,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872910682",
-          "regionalName": "I．Q インテリジェントキューブ（再販）／PS",
+          "regionalName": "I．Q インテリジェントキューブ（再販）",
           "releaseDate": "1998-07-09"
         }
       ],
       "id": 1152,
       "localizedNames": {
-        "ja": "I．Q インテリジェントキューブ（再販）／PS"
+        "ja": "I．Q インテリジェントキューブ（再販）"
       }
     },
     {
@@ -30197,13 +30197,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4963919440014",
-          "regionalName": "井出洋介の麻雀家族／PS",
+          "regionalName": "井出洋介の麻雀家族",
           "releaseDate": "1995-11-03"
         }
       ],
       "id": 1157,
       "localizedNames": {
-        "ja": "井出洋介の麻雀家族／PS"
+        "ja": "井出洋介の麻雀家族"
       }
     },
     {
@@ -30533,7 +30533,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4939915000392",
-          "regionalName": "稲川淳二 真夜中のタクシー／PS",
+          "regionalName": "稲川淳二 真夜中のタクシー",
           "releaseDate": "2000-07-13"
         },
         {
@@ -30550,7 +30550,7 @@
       ],
       "id": 1170,
       "localizedNames": {
-        "ja": "稲川淳二 真夜中のタクシー／PS"
+        "ja": "稲川淳二 真夜中のタクシー"
       }
     },
     {
@@ -30972,7 +30972,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615012471",
-          "regionalName": "維新の嵐　幕末志士伝／PS",
+          "regionalName": "維新の嵐　幕末志士伝",
           "releaseDate": "1999-02-04"
         },
         {
@@ -30983,7 +30983,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615013195",
-          "regionalName": "維新の嵐 幕末志士伝 夏キャン版（再販）／PS",
+          "regionalName": "維新の嵐 幕末志士伝 夏キャン版（再販）",
           "releaseDate": "1999-07-20"
         },
         {
@@ -31005,13 +31005,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615014383",
-          "regionalName": "維新の嵐　幕末志士伝　KOEI　The　Best（再販）／PS",
+          "regionalName": "維新の嵐　幕末志士伝　KOEI　The　Best（再販）",
           "releaseDate": "2000-07-06"
         }
       ],
       "id": 1187,
       "localizedNames": {
-        "ja": "維新の嵐　幕末志士伝／PS"
+        "ja": "維新の嵐　幕末志士伝"
       }
     },
     {
@@ -31025,13 +31025,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988601003131",
-          "regionalName": "いただきストリート ゴージャスキング／PS",
+          "regionalName": "いただきストリート ゴージャスキング",
           "releaseDate": "1998-09-23"
         }
       ],
       "id": 1188,
       "localizedNames": {
-        "ja": "いただきストリート ゴージャスキング／PS"
+        "ja": "いただきストリート ゴージャスキング"
       }
     },
     {
@@ -31216,13 +31216,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010093",
-          "regionalName": "JリーグサッカープライムゴールEX／PS",
+          "regionalName": "JリーグサッカープライムゴールEX",
           "releaseDate": "1995-09-29"
         }
       ],
       "id": 1197,
       "localizedNames": {
-        "ja": "JリーグサッカープライムゴールEX／PS"
+        "ja": "JリーグサッカープライムゴールEX"
       }
     },
     {
@@ -31478,7 +31478,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4989006000176",
-          "regionalName": "雀牌遊戯’99 たぬきの皮算用（再販）／PS",
+          "regionalName": "雀牌遊戯’99 たぬきの皮算用（再販）",
           "releaseDate": "1999-11-11"
         }
       ],
@@ -31528,7 +31528,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4992713950023",
-          "regionalName": "ジェレミーマクグラス スーパークロス’98／PS",
+          "regionalName": "ジェレミーマクグラス スーパークロス’98",
           "releaseDate": "1999-09-02"
         },
         {
@@ -31550,7 +31550,7 @@
       ],
       "id": 1212,
       "localizedNames": {
-        "ja": "ジェレミーマクグラス スーパークロス’98／PS"
+        "ja": "ジェレミーマクグラス スーパークロス’98"
       }
     },
     {
@@ -31888,7 +31888,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602078985",
-          "regionalName": "実況ゴルフマスター2000 KONAMI THE BEST（再販）／PS",
+          "regionalName": "実況ゴルフマスター2000 KONAMI THE BEST（再販）",
           "releaseDate": "2001-02-15"
         }
       ],
@@ -31908,13 +31908,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602665086",
-          "regionalName": "実況 J.LEAGUE 1999 パーフェクトストライカー(実況Jリーグ1999 パーフェクトストライカー) コナミデジタルエンタテインメント",
+          "regionalName": "実況 J.LEAGUE 1999 パーフェクトストライカー(実況Jリーグ1999 パーフェクトストライカー)",
           "releaseDate": "1999-12-02"
         }
       ],
       "id": 1227,
       "localizedNames": {
-        "ja": "実況 J.LEAGUE 1999 パーフェクトストライカー(実況Jリーグ1999 パーフェクトストライカー) コナミデジタルエンタテインメント"
+        "ja": "実況 J.LEAGUE 1999 パーフェクトストライカー(実況Jリーグ1999 パーフェクトストライカー)"
       }
     },
     {
@@ -32188,13 +32188,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4541964000355",
-          "regionalName": "実況パワフルプロ野球 プレミアム版／PS",
+          "regionalName": "実況パワフルプロ野球 プレミアム版",
           "releaseDate": "2003-01-23"
         }
       ],
       "id": 1241,
       "localizedNames": {
-        "ja": "実況パワフルプロ野球 プレミアム版／PS"
+        "ja": "実況パワフルプロ野球 プレミアム版"
       }
     },
     {
@@ -32881,7 +32881,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988110020438",
-          "regionalName": "かえるの絵本 なくした記憶を求めて／PS",
+          "regionalName": "かえるの絵本 なくした記憶を求めて",
           "releaseDate": "1999-10-21"
         },
         {
@@ -32898,7 +32898,7 @@
       ],
       "id": 1276,
       "localizedNames": {
-        "ja": "かえるの絵本 なくした記憶を求めて／PS"
+        "ja": "かえるの絵本 なくした記憶を求めて"
       }
     },
     {
@@ -33056,13 +33056,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988601003308",
-          "regionalName": "KAIKANフレーズ 堕天使降臨／PS",
+          "regionalName": "KAIKANフレーズ 堕天使降臨",
           "releaseDate": "2000-02-24"
         }
       ],
       "id": 1283,
       "localizedNames": {
-        "ja": "KAIKANフレーズ 堕天使降臨／PS"
+        "ja": "KAIKANフレーズ 堕天使降臨"
       }
     },
     {
@@ -33284,7 +33284,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425708188",
-          "regionalName": "仮面ライダー／PS",
+          "regionalName": "仮面ライダー",
           "releaseDate": "1998-10-01"
         },
         {
@@ -33301,7 +33301,7 @@
       ],
       "id": 1293,
       "localizedNames": {
-        "ja": "仮面ライダー／PS"
+        "ja": "仮面ライダー"
       }
     },
     {
@@ -34051,7 +34051,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4515810010096",
-          "regionalName": "KENKIいっぱつ！ショベルマスターになろう！！ Psone Books（再販）／PS",
+          "regionalName": "KENKIいっぱつ！ショベルマスターになろう！！ Psone Books（再販）",
           "releaseDate": "2003-03-13"
         }
       ],
@@ -34086,13 +34086,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988110020018",
-          "regionalName": "拳聖 キング・オブ・ボクシング／PS",
+          "regionalName": "拳聖 キング・オブ・ボクシング",
           "releaseDate": "1996-11-15"
         }
       ],
       "id": 1328,
       "localizedNames": {
-        "ja": "拳聖 キング・オブ・ボクシング／PS"
+        "ja": "拳聖 キング・オブ・ボクシング"
       }
     },
     {
@@ -34717,7 +34717,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110554",
-          "regionalName": "キッズステーション くまのプーさん 森のなかまと1．2．3／PS",
+          "regionalName": "キッズステーション くまのプーさん 森のなかまと1．2．3",
           "releaseDate": "2001-11-15"
         },
         {
@@ -34733,7 +34733,7 @@
       ],
       "id": 1352,
       "localizedNames": {
-        "ja": "キッズステーション くまのプーさん 森のなかまと1．2．3／PS"
+        "ja": "キッズステーション くまのプーさん 森のなかまと1．2．3"
       }
     },
     {
@@ -34900,7 +34900,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4983164735307",
-          "regionalName": "キッズステーション ミニモニ。になるのだぴょん。／PS",
+          "regionalName": "キッズステーション ミニモニ。になるのだぴょん。",
           "releaseDate": "2002-09-26"
         },
         {
@@ -34916,7 +34916,7 @@
       ],
       "id": 1359,
       "localizedNames": {
-        "ja": "キッズステーション ミニモニ。になるのだぴょん。／PS"
+        "ja": "キッズステーション ミニモニ。になるのだぴょん。"
       }
     },
     {
@@ -35133,13 +35133,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425769042",
-          "regionalName": "キッズステーション それいけ！アンパンマン／PS",
+          "regionalName": "キッズステーション それいけ！アンパンマン",
           "releaseDate": "2000-09-21"
         }
       ],
       "id": 1367,
       "localizedNames": {
-        "ja": "キッズステーション それいけ！アンパンマン／PS"
+        "ja": "キッズステーション それいけ！アンパンマン"
       }
     },
     {
@@ -35173,7 +35173,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543112003775",
-          "regionalName": "キッズステーション それいけ！アンパンマン2／PS",
+          "regionalName": "キッズステーション それいけ！アンパンマン2",
           "releaseDate": "2001-07-26"
         },
         {
@@ -35190,7 +35190,7 @@
       ],
       "id": 1369,
       "localizedNames": {
-        "ja": "キッズステーション それいけ！アンパンマン2／PS"
+        "ja": "キッズステーション それいけ！アンパンマン2"
       }
     },
     {
@@ -35568,7 +35568,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4938838096024",
-          "regionalName": "金田一少年の事件簿 悲報島新たなる惨劇／PS",
+          "regionalName": "金田一少年の事件簿 悲報島新たなる惨劇",
           "releaseDate": "1996-11-29"
         },
         {
@@ -35585,7 +35585,7 @@
       ],
       "id": 1385,
       "localizedNames": {
-        "ja": "金田一少年の事件簿 悲報島新たなる惨劇／PS"
+        "ja": "金田一少年の事件簿 悲報島新たなる惨劇"
       }
     },
     {
@@ -35998,7 +35998,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602084948",
-          "regionalName": "筋肉番付vol．3 最強のチャレンジャー誕生（再販）／PS",
+          "regionalName": "筋肉番付vol．3 最強のチャレンジャー誕生（再販）",
           "releaseDate": "2001-11-22"
         }
       ],
@@ -36274,7 +36274,7 @@
           "region": "NTSC-J",
           "tgdbId": 11111,
           "upc": "4967652101416",
-          "regionalName": "クレイマン・クレイマン　ネバーフッドの謎／PS",
+          "regionalName": "クレイマン・クレイマン　ネバーフッドの謎",
           "releaseDate": "1998-04-23"
         },
         {
@@ -36285,13 +36285,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4967652101461",
-          "regionalName": "クレイマン・クレイマン（再販）／PS",
+          "regionalName": "クレイマン・クレイマン（再販）",
           "releaseDate": "1998-12-03"
         }
       ],
       "id": 1413,
       "localizedNames": {
-        "ja": "クレイマン・クレイマン　ネバーフッドの謎／PS"
+        "ja": "クレイマン・クレイマン　ネバーフッドの謎"
       }
     },
     {
@@ -36314,7 +36314,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4967652101423",
-          "regionalName": "クレイマン・クレイマン2 スカルモンキーのぎゃくしゅう／PS",
+          "regionalName": "クレイマン・クレイマン2 スカルモンキーのぎゃくしゅう",
           "releaseDate": "1998-08-13"
         },
         {
@@ -36331,7 +36331,7 @@
       ],
       "id": 1414,
       "localizedNames": {
-        "ja": "クレイマン・クレイマン2 スカルモンキーのぎゃくしゅう／PS"
+        "ja": "クレイマン・クレイマン2 スカルモンキーのぎゃくしゅう"
       }
     },
     {
@@ -36697,13 +36697,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872101271",
-          "regionalName": "こねこもいっしょ〜どこでもいっしょ追加ディスク〜／PS",
+          "regionalName": "こねこもいっしょ〜どこでもいっしょ追加ディスク〜",
           "releaseDate": "2000-01-27"
         }
       ],
       "id": 1430,
       "localizedNames": {
-        "ja": "こねこもいっしょ〜どこでもいっしょ追加ディスク〜／PS"
+        "ja": "こねこもいっしょ〜どこでもいっしょ追加ディスク〜"
       }
     },
     {
@@ -36783,13 +36783,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907953200180",
-          "regionalName": "今夜も千両（ドル）箱！！2001／PS",
+          "regionalName": "今夜も千両（ドル）箱！！2001",
           "releaseDate": "2001-12-13"
         }
       ],
       "id": 1434,
       "localizedNames": {
-        "ja": "今夜も千両（ドル）箱！！2001／PS"
+        "ja": "今夜も千両（ドル）箱！！2001"
       }
     },
     {
@@ -37241,7 +37241,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988009003498",
-          "regionalName": "クーロンズ・ゲート（限定版）／PS",
+          "regionalName": "クーロンズ・ゲート（限定版）",
           "releaseDate": "1997-02-28"
         }
       ],
@@ -37460,7 +37460,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4939915000125",
-          "regionalName": "クーリースカンク／PS",
+          "regionalName": "クーリースカンク",
           "releaseDate": "1996-11-01"
         },
         {
@@ -37477,7 +37477,7 @@
       ],
       "id": 1458,
       "localizedNames": {
-        "ja": "クーリースカンク／PS"
+        "ja": "クーリースカンク"
       }
     },
     {
@@ -38118,7 +38118,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4517015940253",
-          "regionalName": "レイクマスターズPRO 日本縦断黒鱒紀行 復刻（再販）／PS",
+          "regionalName": "レイクマスターズPRO 日本縦断黒鱒紀行 復刻（再販）",
           "releaseDate": "2000-08-03"
         }
       ],
@@ -38504,7 +38504,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010543",
-          "regionalName": "リベログランデ／PS",
+          "regionalName": "リベログランデ",
           "releaseDate": "1998-11-26"
         },
         {
@@ -38518,7 +38518,7 @@
       ],
       "id": 1502,
       "localizedNames": {
-        "ja": "リベログランデ／PS"
+        "ja": "リベログランデ"
       }
     },
     {
@@ -39267,13 +39267,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602076332",
-          "regionalName": "ラブひな2 言葉は粉雪のように コナミデジタルエンタテインメント",
+          "regionalName": "ラブひな2 言葉は粉雪のように",
           "releaseDate": "2000-11-30"
         }
       ],
       "id": 1535,
       "localizedNames": {
-        "ja": "ラブひな2 言葉は粉雪のように コナミデジタルエンタテインメント"
+        "ja": "ラブひな2 言葉は粉雪のように"
       }
     },
     {
@@ -39440,13 +39440,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988110020452",
-          "regionalName": "ルフトヴァッフェ　ドイツ空軍を指揮せよ／PS",
+          "regionalName": "ルフトヴァッフェ　ドイツ空軍を指揮せよ",
           "releaseDate": "1999-02-25"
         }
       ],
       "id": 1543,
       "localizedNames": {
-        "ja": "ルフトヴァッフェ　ドイツ空軍を指揮せよ／PS"
+        "ja": "ルフトヴァッフェ　ドイツ空軍を指揮せよ"
       }
     },
     {
@@ -39540,13 +39540,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4997766200101",
-          "regionalName": "ルナ2 エターナルブルー KADOKAWA The Best（再販）／PS",
+          "regionalName": "ルナ2 エターナルブルー KADOKAWA The Best（再販）",
           "releaseDate": "2000-09-07"
         }
       ],
       "id": 1548,
       "localizedNames": {
-        "ja": "ルナ2 エターナルブルー KADOKAWA The Best（再販）／PS"
+        "ja": "ルナ2 エターナルブルー KADOKAWA The Best（再販）"
       }
     },
     {
@@ -39608,7 +39608,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988640100402",
-          "regionalName": "Lunatic　Dawn　Odyssey（ルナティックドーンオデッセイ）（再販）／PS",
+          "regionalName": "Lunatic　Dawn　Odyssey（ルナティックドーンオデッセイ）（再販）",
           "releaseDate": "1999-12-02"
         },
         {
@@ -39619,13 +39619,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988640100587",
-          "regionalName": "Lunatic　Dawn　Odyssey（ルナティックドーンオデッセイ）（再販）／PS",
+          "regionalName": "Lunatic　Dawn　Odyssey（ルナティックドーンオデッセイ）（再販）",
           "releaseDate": "2000-09-07"
         }
       ],
       "id": 1551,
       "localizedNames": {
-        "ja": "Lunatic　Dawn　Odyssey（ルナティックドーンオデッセイ）（再販）／PS"
+        "ja": "Lunatic　Dawn　Odyssey（ルナティックドーンオデッセイ）（再販）"
       }
     },
     {
@@ -39663,13 +39663,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948722009719",
-          "regionalName": "D2マンガ ルパン3世／PS",
+          "regionalName": "D2マンガ ルパン3世",
           "releaseDate": "1998-11-26"
         }
       ],
       "id": 1553,
       "localizedNames": {
-        "ja": "D2マンガ ルパン3世／PS"
+        "ja": "D2マンガ ルパン3世"
       }
     },
     {
@@ -40382,13 +40382,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076000624",
-          "regionalName": "麻雀II SuperLite1500シリーズ／PS",
+          "regionalName": "麻雀II SuperLite1500シリーズ",
           "releaseDate": "1999-07-22"
         }
       ],
       "id": 1588,
       "localizedNames": {
-        "ja": "麻雀II SuperLite1500シリーズ／PS"
+        "ja": "麻雀II SuperLite1500シリーズ"
       }
     },
     {
@@ -41226,7 +41226,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988006592995",
-          "regionalName": "マスモンKIDS／PS",
+          "regionalName": "マスモンKIDS",
           "releaseDate": "1998-06-25"
         },
         {
@@ -41237,13 +41237,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4529651000208",
-          "regionalName": "マスモンKIDS　Major　Wave1500シリーズ（再販）／PS",
+          "regionalName": "マスモンKIDS　Major　Wave1500シリーズ（再販）",
           "releaseDate": "2000-04-27"
         }
       ],
       "id": 1625,
       "localizedNames": {
-        "ja": "マスモンKIDS／PS"
+        "ja": "マスモンKIDS"
       }
     },
     {
@@ -42318,7 +42318,7 @@
           "serial": "SCPS-45317SCPS-45318",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "METAL GEAR SOLID(メタルギア ソリッド) コナミデジタルエンタテインメント",
+          "regionalName": "METAL GEAR SOLID(メタルギア ソリッド)",
           "releaseDate": "1998-09-03"
         },
         {
@@ -42328,7 +42328,7 @@
           "serial": "SCPS-45320SCPS-45321SCPS-45322",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "METAL GEAR SOLID(メタルギア ソリッド) コナミデジタルエンタテインメント",
+          "regionalName": "METAL GEAR SOLID(メタルギア ソリッド)",
           "releaseDate": "1998-09-03"
         },
         {
@@ -42339,7 +42339,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602465594",
-          "regionalName": "METAL GEAR SOLID(メタルギア ソリッド) コナミデジタルエンタテインメント",
+          "regionalName": "METAL GEAR SOLID(メタルギア ソリッド)",
           "releaseDate": "1998-09-03"
         },
         {
@@ -42393,7 +42393,7 @@
       ],
       "id": 1670,
       "localizedNames": {
-        "ja": "METAL GEAR SOLID(メタルギア ソリッド) コナミデジタルエンタテインメント"
+        "ja": "METAL GEAR SOLID(メタルギア ソリッド)"
       }
     },
     {
@@ -42767,13 +42767,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4530290001242",
-          "regionalName": "めざせ！エアラインパイロット／PS",
+          "regionalName": "めざせ！エアラインパイロット",
           "releaseDate": "1999-08-05"
         }
       ],
       "id": 1681,
       "localizedNames": {
-        "ja": "めざせ！エアラインパイロット／PS"
+        "ja": "めざせ！エアラインパイロット"
       }
     },
     {
@@ -43320,13 +43320,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4560100910105",
-          "regionalName": "みんなの飼育教室 クワガタ編／PS",
+          "regionalName": "みんなの飼育教室 クワガタ編",
           "releaseDate": "2001-09-06"
         }
       ],
       "id": 1705,
       "localizedNames": {
-        "ja": "みんなの飼育教室 クワガタ編／PS"
+        "ja": "みんなの飼育教室 クワガタ編"
       }
     },
     {
@@ -43455,13 +43455,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4510989010014",
-          "regionalName": "ミラクルワールド／PS",
+          "regionalName": "ミラクルワールド",
           "releaseDate": "1995-12-08"
         }
       ],
       "id": 1711,
       "localizedNames": {
-        "ja": "ミラクルワールド／PS"
+        "ja": "ミラクルワールド"
       }
     },
     {
@@ -44068,7 +44068,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988607050825",
-          "regionalName": "桃太郎電鉄V（ブイ） Psone Books（再販）／PS",
+          "regionalName": "桃太郎電鉄V（ブイ） Psone Books（再販）",
           "releaseDate": "2004-10-21"
         }
       ],
@@ -44250,7 +44250,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4904398920178",
-          "regionalName": "モノポリー スペシャルプライス（再販）／PS",
+          "regionalName": "モノポリー スペシャルプライス（再販）",
           "releaseDate": "1998-11-12"
         }
       ],
@@ -44334,7 +44334,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4960677400137",
-          "regionalName": "モンスターファーム（再販）／PS",
+          "regionalName": "モンスターファーム（再販）",
           "releaseDate": "1998-11-19"
         }
       ],
@@ -44510,7 +44510,7 @@
           "serial": "SLPS-01031",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "MOON（ムーン）（再販）／PS",
+          "regionalName": "MOON（ムーン）（再販）",
           "releaseDate": "1997-10-16"
         },
         {
@@ -44521,13 +44521,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988606102402",
-          "regionalName": "MOON（ムーン）（再販）／PS",
+          "regionalName": "MOON（ムーン）（再販）",
           "releaseDate": "1998-05-11"
         }
       ],
       "id": 1750,
       "localizedNames": {
-        "ja": "MOON（ムーン）（再販）／PS"
+        "ja": "MOON（ムーン）（再販）"
       }
     },
     {
@@ -44707,13 +44707,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4963919740084",
-          "regionalName": "森田将棋／PS",
+          "regionalName": "森田将棋",
           "releaseDate": "1997-12-04"
         }
       ],
       "id": 1759,
       "localizedNames": {
-        "ja": "森田将棋／PS"
+        "ja": "森田将棋"
       }
     },
     {
@@ -45308,13 +45308,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988110020513",
-          "regionalName": "村越正海の爆釣シーバス・フィッシング 三昧シリーズ／PS",
+          "regionalName": "村越正海の爆釣シーバス・フィッシング 三昧シリーズ",
           "releaseDate": "1999-03-25"
         }
       ],
       "id": 1782,
       "localizedNames": {
-        "ja": "村越正海の爆釣シーバス・フィッシング 三昧シリーズ／PS"
+        "ja": "村越正海の爆釣シーバス・フィッシング 三昧シリーズ"
       }
     },
     {
@@ -45439,13 +45439,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907095000662",
-          "regionalName": "マイガーデン／PS",
+          "regionalName": "マイガーデン",
           "releaseDate": "1999-09-02"
         }
       ],
       "id": 1788,
       "localizedNames": {
-        "ja": "マイガーデン／PS"
+        "ja": "マイガーデン"
       }
     },
     {
@@ -45932,7 +45932,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010703",
-          "regionalName": "ナムコミュージアム VOL．4（再販）／PS",
+          "regionalName": "ナムコミュージアム VOL．4（再販）",
           "releaseDate": "1999-10-28"
         },
         {
@@ -46261,13 +46261,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543112141064",
-          "regionalName": "NARUTO −ナルト− 忍の里の陣取り合戦／PS",
+          "regionalName": "NARUTO −ナルト− 忍の里の陣取り合戦",
           "releaseDate": "2003-06-26"
         }
       ],
       "id": 1816,
       "localizedNames": {
-        "ja": "NARUTO −ナルト− 忍の里の陣取り合戦／PS"
+        "ja": "NARUTO −ナルト− 忍の里の陣取り合戦"
       }
     },
     {
@@ -46383,7 +46383,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988640100242",
-          "regionalName": "NAVIT（ナビット）／PS",
+          "regionalName": "NAVIT（ナビット）",
           "releaseDate": "1998-09-03"
         },
         {
@@ -46400,7 +46400,7 @@
       ],
       "id": 1820,
       "localizedNames": {
-        "ja": "NAVIT（ナビット）／PS"
+        "ja": "NAVIT（ナビット）"
       }
     },
     {
@@ -46626,7 +46626,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4938833004994",
-          "regionalName": "NBA LIVE 99／PS",
+          "regionalName": "NBA LIVE 99",
           "releaseDate": "1999-04-28"
         },
         {
@@ -46680,7 +46680,7 @@
       ],
       "id": 1827,
       "localizedNames": {
-        "ja": "NBA LIVE 99／PS"
+        "ja": "NBA LIVE 99"
       }
     },
     {
@@ -46802,13 +46802,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602060522",
-          "regionalName": "NBAパワーダンカーズ3(POWER DUNKERS 3) コナミデジタルエンタテインメント",
+          "regionalName": "NBAパワーダンカーズ3(POWER DUNKERS 3)",
           "releaseDate": "1998-01-29"
         }
       ],
       "id": 1831,
       "localizedNames": {
-        "ja": "NBAパワーダンカーズ3(POWER DUNKERS 3) コナミデジタルエンタテインメント"
+        "ja": "NBAパワーダンカーズ3(POWER DUNKERS 3)"
       }
     },
     {
@@ -46837,13 +46837,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602691689",
-          "regionalName": "NBAパワーダンカーズ5 コナミデジタルエンタテインメント",
+          "regionalName": "NBAパワーダンカーズ5",
           "releaseDate": "2000-01-27"
         }
       ],
       "id": 1833,
       "localizedNames": {
-        "ja": "NBAパワーダンカーズ5 コナミデジタルエンタテインメント"
+        "ja": "NBAパワーダンカーズ5"
       }
     },
     {
@@ -47371,7 +47371,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602720662",
-          "regionalName": "NHL BLADES OF STEEL 2000／PS",
+          "regionalName": "NHL BLADES OF STEEL 2000",
           "releaseDate": "2000-03-30"
         },
         {
@@ -47393,7 +47393,7 @@
       ],
       "id": 1854,
       "localizedNames": {
-        "ja": "NHL BLADES OF STEEL 2000／PS"
+        "ja": "NHL BLADES OF STEEL 2000"
       }
     },
     {
@@ -47526,13 +47526,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4960641090036",
-          "regionalName": "ニチブツアーケードクラシックス／PS",
+          "regionalName": "ニチブツアーケードクラシックス",
           "releaseDate": "1995-12-29"
         }
       ],
       "id": 1860,
       "localizedNames": {
-        "ja": "ニチブツアーケードクラシックス／PS"
+        "ja": "ニチブツアーケードクラシックス"
       }
     },
     {
@@ -48448,7 +48448,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615014048",
-          "regionalName": "信長の野望 将星録 With パワーアップキット（再販）／PS",
+          "regionalName": "信長の野望 将星録 With パワーアップキット（再販）",
           "releaseDate": "1999-07-20"
         }
       ],
@@ -48905,7 +48905,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4983164734089",
-          "regionalName": "にゃんとワンダフル／PS",
+          "regionalName": "にゃんとワンダフル",
           "releaseDate": "1996-08-30"
         },
         {
@@ -48922,7 +48922,7 @@
       ],
       "id": 1913,
       "localizedNames": {
-        "ja": "にゃんとワンダフル／PS"
+        "ja": "にゃんとワンダフル"
       }
     },
     {
@@ -48936,7 +48936,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907940211281",
-          "regionalName": "おーちゃんのお絵かきロジック／PS",
+          "regionalName": "おーちゃんのお絵かきロジック",
           "releaseDate": "1995-09-08"
         },
         {
@@ -48964,7 +48964,7 @@
       ],
       "id": 1914,
       "localizedNames": {
-        "ja": "おーちゃんのお絵かきロジック／PS"
+        "ja": "おーちゃんのお絵かきロジック"
       }
     },
     {
@@ -49564,13 +49564,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4541993000043",
-          "regionalName": "音楽ツクール3／PS",
+          "regionalName": "音楽ツクール3",
           "releaseDate": "2001-03-08"
         }
       ],
       "id": 1938,
       "localizedNames": {
-        "ja": "音楽ツクール3／PS"
+        "ja": "音楽ツクール3"
       }
     },
     {
@@ -49891,7 +49891,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4904880138333",
-          "regionalName": "お仕事式人生ゲーム めざせ職業王／PS",
+          "regionalName": "お仕事式人生ゲーム めざせ職業王",
           "releaseDate": "2000-12-14"
         },
         {
@@ -49908,7 +49908,7 @@
       ],
       "id": 1950,
       "localizedNames": {
-        "ja": "お仕事式人生ゲーム めざせ職業王／PS"
+        "ja": "お仕事式人生ゲーム めざせ職業王"
       }
     },
     {
@@ -50019,13 +50019,13 @@
           "region": "NTSC-J",
           "tgdbId": 126746,
           "upc": "4933516203251",
-          "regionalName": "王子さまLV1／PS",
+          "regionalName": "王子さまLV1",
           "releaseDate": "2002-03-20"
         }
       ],
       "id": 1955,
       "localizedNames": {
-        "ja": "王子さまLV1／PS"
+        "ja": "王子さまLV1"
       }
     },
     {
@@ -50039,13 +50039,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4933516303272",
-          "regionalName": "王子さまLV1．5 −おうじさまのたまご−／PS",
+          "regionalName": "王子さまLV1．5 −おうじさまのたまご−",
           "releaseDate": "2003-02-20"
         }
       ],
       "id": 1956,
       "localizedNames": {
-        "ja": "王子さまLV1．5 −おうじさまのたまご−／PS"
+        "ja": "王子さまLV1．5 −おうじさまのたまご−"
       }
     },
     {
@@ -50421,13 +50421,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4518262000035",
-          "regionalName": "パカパカパッション2／PS",
+          "regionalName": "パカパカパッション2",
           "releaseDate": "2000-04-27"
         }
       ],
       "id": 1970,
       "localizedNames": {
-        "ja": "パカパカパッション2／PS"
+        "ja": "パカパカパッション2"
       }
     },
     {
@@ -50581,13 +50581,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4524073111013",
-          "regionalName": "パチスロ アルゼ王国／PS",
+          "regionalName": "パチスロ アルゼ王国",
           "releaseDate": "1999-06-03"
         }
       ],
       "id": 1978,
       "localizedNames": {
-        "ja": "パチスロ アルゼ王国／PS"
+        "ja": "パチスロ アルゼ王国"
       }
     },
     {
@@ -50601,7 +50601,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4524073111020",
-          "regionalName": "パチスロ アルゼ王国2／PS",
+          "regionalName": "パチスロ アルゼ王国2",
           "releaseDate": "1999-11-25"
         },
         {
@@ -50618,7 +50618,7 @@
       ],
       "id": 1979,
       "localizedNames": {
-        "ja": "パチスロ アルゼ王国2／PS"
+        "ja": "パチスロ アルゼ王国2"
       }
     },
     {
@@ -50652,7 +50652,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4524073111051",
-          "regionalName": "パチスロ アルゼ王国4／PS",
+          "regionalName": "パチスロ アルゼ王国4",
           "releaseDate": "2000-12-14"
         },
         {
@@ -50680,7 +50680,7 @@
       ],
       "id": 1981,
       "localizedNames": {
-        "ja": "パチスロ アルゼ王国4／PS"
+        "ja": "パチスロ アルゼ王国4"
       }
     },
     {
@@ -51331,13 +51331,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4997232100379",
-          "regionalName": "パチスロ帝王 宝船／PS",
+          "regionalName": "パチスロ帝王 宝船",
           "releaseDate": "2001-11-15"
         }
       ],
       "id": 2009,
       "localizedNames": {
-        "ja": "パチスロ帝王 宝船／PS"
+        "ja": "パチスロ帝王 宝船"
       }
     },
     {
@@ -53355,13 +53355,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948426985012",
-          "regionalName": "ピクシーガーデン／PS",
+          "regionalName": "ピクシーガーデン",
           "releaseDate": "1999-09-30"
         }
       ],
       "id": 2088,
       "localizedNames": {
-        "ja": "ピクシーガーデン／PS"
+        "ja": "ピクシーガーデン"
       }
     },
     {
@@ -53772,13 +53772,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425764641",
-          "regionalName": "ポケットデジモンワールド／PS",
+          "regionalName": "ポケットデジモンワールド",
           "releaseDate": "2000-06-29"
         }
       ],
       "id": 2107,
       "localizedNames": {
-        "ja": "ポケットデジモンワールド／PS"
+        "ja": "ポケットデジモンワールド"
       }
     },
     {
@@ -53812,13 +53812,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425776972",
-          "regionalName": "ポケットデジモンワールド ウィンドバトルディスク／PS",
+          "regionalName": "ポケットデジモンワールド ウィンドバトルディスク",
           "releaseDate": "2000-10-26"
         }
       ],
       "id": 2109,
       "localizedNames": {
-        "ja": "ポケットデジモンワールド ウィンドバトルディスク／PS"
+        "ja": "ポケットデジモンワールド ウィンドバトルディスク"
       }
     },
     {
@@ -54319,13 +54319,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602069327",
-          "regionalName": "ポップンミュージック4 アペンドディスク／PS",
+          "regionalName": "ポップンミュージック4 アペンドディスク",
           "releaseDate": "2000-10-12"
         }
       ],
       "id": 2130,
       "localizedNames": {
-        "ja": "ポップンミュージック4 アペンドディスク／PS"
+        "ja": "ポップンミュージック4 アペンドディスク"
       }
     },
     {
@@ -54359,13 +54359,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602088816",
-          "regionalName": "ポップンミュージック6／PS",
+          "regionalName": "ポップンミュージック6",
           "releaseDate": "2002-06-27"
         }
       ],
       "id": 2132,
       "localizedNames": {
-        "ja": "ポップンミュージック6／PS"
+        "ja": "ポップンミュージック6"
       }
     },
     {
@@ -54379,13 +54379,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602811445",
-          "regionalName": "ポップンミュージック(pop'nmusic) アニメーションメロディ コナミデジタルエンタテインメント",
+          "regionalName": "ポップンミュージック(pop'nmusic) アニメーションメロディ",
           "releaseDate": "2000-07-27"
         }
       ],
       "id": 2133,
       "localizedNames": {
-        "ja": "ポップンミュージック(pop'nmusic) アニメーションメロディ コナミデジタルエンタテインメント"
+        "ja": "ポップンミュージック(pop'nmusic) アニメーションメロディ"
       }
     },
     {
@@ -55094,7 +55094,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988679200135",
-          "regionalName": "プロ麻雀 極 PLUSII／PS",
+          "regionalName": "プロ麻雀 極 PLUSII",
           "releaseDate": "1998-10-12"
         },
         {
@@ -55105,13 +55105,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988679200197",
-          "regionalName": "プロ麻雀 極 PLUSII（再販）／PS",
+          "regionalName": "プロ麻雀 極 PLUSII（再販）",
           "releaseDate": "2000-03-23"
         }
       ],
       "id": 2161,
       "localizedNames": {
-        "ja": "プロ麻雀 極 PLUSII／PS"
+        "ja": "プロ麻雀 極 PLUSII"
       }
     },
     {
@@ -55711,7 +55711,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988161000250",
-          "regionalName": "ぷよぷよ通　決定盤（再販）／PS",
+          "regionalName": "ぷよぷよ通　決定盤（再販）",
           "releaseDate": "2000-03-30"
         }
       ],
@@ -56384,13 +56384,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425703626",
-          "regionalName": "R？MJ（エムジェイ）THE MYSTERY HOSPITAL（再販）／PS",
+          "regionalName": "R？MJ（エムジェイ）THE MYSTERY HOSPITAL（再販）",
           "releaseDate": "1998-10-08"
         }
       ],
       "id": 2217,
       "localizedNames": {
-        "ja": "R？MJ（エムジェイ）THE MYSTERY HOSPITAL（再販）／PS"
+        "ja": "R？MJ（エムジェイ）THE MYSTERY HOSPITAL（再販）"
       }
     },
     {
@@ -56689,7 +56689,7 @@
           "region": "NTSC-J",
           "tgdbId": 105857,
           "upc": "4949794000017",
-          "regionalName": "雷電プロジェクト／PS",
+          "regionalName": "雷電プロジェクト",
           "releaseDate": "1995-01-27"
         },
         {
@@ -56729,7 +56729,7 @@
       ],
       "id": 2227,
       "localizedNames": {
-        "ja": "雷電プロジェクト／PS"
+        "ja": "雷電プロジェクト"
       }
     },
     {
@@ -57099,7 +57099,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988611960134",
-          "regionalName": "レイストーム／PS",
+          "regionalName": "レイストーム",
           "releaseDate": "1997-01-10"
         },
         {
@@ -57110,7 +57110,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988611980019",
-          "regionalName": "レイストーム／PS",
+          "regionalName": "レイストーム",
           "releaseDate": "1998-03-12"
         },
         {
@@ -57132,7 +57132,7 @@
       ],
       "id": 2240,
       "localizedNames": {
-        "ja": "レイストーム／PS"
+        "ja": "レイストーム"
       }
     },
     {
@@ -57328,7 +57328,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300105",
-          "regionalName": "リアルバウト餓狼伝説（再販）／PS",
+          "regionalName": "リアルバウト餓狼伝説（再販）",
           "releaseDate": "1998-07-23"
         }
       ],
@@ -57550,13 +57550,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4967652101447",
-          "regionalName": "リフレインラブ2／PS",
+          "regionalName": "リフレインラブ2",
           "releaseDate": "1999-01-28"
         }
       ],
       "id": 2253,
       "localizedNames": {
-        "ja": "リフレインラブ2／PS"
+        "ja": "リフレインラブ2"
       }
     },
     {
@@ -58196,7 +58196,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988009004594",
-          "regionalName": "立体忍者活劇 天誅 忍凱旋／PS",
+          "regionalName": "立体忍者活劇 天誅 忍凱旋",
           "releaseDate": "1999-02-25"
         },
         {
@@ -58213,7 +58213,7 @@
       ],
       "id": 2278,
       "localizedNames": {
-        "ja": "立体忍者活劇 天誅 忍凱旋／PS"
+        "ja": "立体忍者活劇 天誅 忍凱旋"
       }
     },
     {
@@ -58682,7 +58682,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219954273",
-          "regionalName": "ロックマン4 新たなる野望！！ Psone Books（再販）／PS",
+          "regionalName": "ロックマン4 新たなる野望！！ Psone Books（再販）",
           "releaseDate": "2003-05-29"
         }
       ],
@@ -58713,7 +58713,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219954297",
-          "regionalName": "ロックマン5 ブルースの罠！？ Psone Books（再販）／PS",
+          "regionalName": "ロックマン5 ブルースの罠！？ Psone Books（再販）",
           "releaseDate": "2003-05-29"
         }
       ],
@@ -58899,7 +58899,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219454070",
-          "regionalName": "ロックマンX3（再販）／PS",
+          "regionalName": "ロックマンX3（再販）",
           "releaseDate": "2000-02-24"
         }
       ],
@@ -59013,7 +59013,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219854634",
-          "regionalName": "ロックマンX6 the Best for Family（再販）／PS",
+          "regionalName": "ロックマンX6 the Best for Family（再販）",
           "releaseDate": "2002-11-28"
         }
       ],
@@ -59182,7 +59182,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4536592000020",
-          "regionalName": "R−TYPEΔ（アールタイプデルタ）／PS",
+          "regionalName": "R−TYPEΔ（アールタイプデルタ）",
           "releaseDate": "1998-11-19"
         },
         {
@@ -59193,7 +59193,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4536592000235",
-          "regionalName": "R−TYPEΔ（アールタイプデルタ） R’s BEST（再販）／PS",
+          "regionalName": "R−TYPEΔ（アールタイプデルタ） R’s BEST（再販）",
           "releaseDate": "2001-10-25"
         },
         {
@@ -59215,7 +59215,7 @@
       ],
       "id": 2310,
       "localizedNames": {
-        "ja": "R−TYPEΔ（アールタイプデルタ）／PS"
+        "ja": "R−TYPEΔ（アールタイプデルタ）"
       }
     },
     {
@@ -59792,13 +59792,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4537337000534",
-          "regionalName": "最強銀星麻雀／PS",
+          "regionalName": "最強銀星麻雀",
           "releaseDate": "2002-08-29"
         }
       ],
       "id": 2328,
       "localizedNames": {
-        "ja": "最強銀星麻雀／PS"
+        "ja": "最強銀星麻雀"
       }
     },
     {
@@ -59823,7 +59823,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4515978000427",
-          "regionalName": "最強東大将棋 MYCOM BEST（再販）／PS",
+          "regionalName": "最強東大将棋 MYCOM BEST（再販）",
           "releaseDate": "2000-01-13"
         }
       ],
@@ -59874,7 +59874,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4539820600061",
-          "regionalName": "最強の囲碁／PS",
+          "regionalName": "最強の囲碁",
           "releaseDate": "1998-10-01"
         },
         {
@@ -59890,7 +59890,7 @@
       ],
       "id": 2331,
       "localizedNames": {
-        "ja": "最強の囲碁／PS"
+        "ja": "最強の囲碁"
       }
     },
     {
@@ -59904,13 +59904,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4539820600078",
-          "regionalName": "最強の将棋／PS",
+          "regionalName": "最強の将棋",
           "releaseDate": "1999-06-03"
         }
       ],
       "id": 2332,
       "localizedNames": {
-        "ja": "最強の将棋／PS"
+        "ja": "最強の将棋"
       }
     },
     {
@@ -59924,7 +59924,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4939915000163",
-          "regionalName": "最終電車／PS",
+          "regionalName": "最終電車",
           "releaseDate": "1998-02-26"
         },
         {
@@ -59951,7 +59951,7 @@
       ],
       "id": 2333,
       "localizedNames": {
-        "ja": "最終電車／PS"
+        "ja": "最終電車"
       }
     },
     {
@@ -60118,13 +60118,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4939915000521",
-          "regionalName": "サラリーマン接待麻雀／PS",
+          "regionalName": "サラリーマン接待麻雀",
           "releaseDate": "2001-05-10"
         }
       ],
       "id": 2341,
       "localizedNames": {
-        "ja": "サラリーマン接待麻雀／PS"
+        "ja": "サラリーマン接待麻雀"
       }
     },
     {
@@ -60208,7 +60208,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300433",
-          "regionalName": "サムライスピリッツ 天草降臨スペシャル Psone Books（再販）／PS",
+          "regionalName": "サムライスピリッツ 天草降臨スペシャル Psone Books（再販）",
           "releaseDate": "2003-04-24"
         }
       ],
@@ -60270,7 +60270,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300433",
-          "regionalName": "サムライスピリッツ 天草降臨スペシャル Psone Books（再販）／PS",
+          "regionalName": "サムライスピリッツ 天草降臨スペシャル Psone Books（再販）",
           "releaseDate": "2003-04-24"
         }
       ],
@@ -60374,7 +60374,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615009105",
-          "regionalName": "三國志孔明伝／PS",
+          "regionalName": "三國志孔明伝",
           "releaseDate": "1997-02-14"
         },
         {
@@ -60385,7 +60385,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615016226",
-          "regionalName": "三國志孔明伝／PS",
+          "regionalName": "三國志孔明伝",
           "releaseDate": "2001-08-02"
         },
         {
@@ -60396,13 +60396,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615013089",
-          "regionalName": "三國志孔明伝／PS",
+          "regionalName": "三國志孔明伝",
           "releaseDate": "1999-03-04"
         }
       ],
       "id": 2349,
       "localizedNames": {
-        "ja": "三國志孔明伝／PS"
+        "ja": "三國志孔明伝"
       }
     },
     {
@@ -61110,7 +61110,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4933516003141",
-          "regionalName": "Screen（スクリーン）／PS",
+          "regionalName": "Screen（スクリーン）",
           "releaseDate": "2000-05-25"
         },
         {
@@ -61127,7 +61127,7 @@
       ],
       "id": 2374,
       "localizedNames": {
-        "ja": "Screen（スクリーン）／PS"
+        "ja": "Screen（スクリーン）"
       }
     },
     {
@@ -61499,7 +61499,7 @@
           "serial": "SCPS-45416SCPS-45417",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "聖剣伝説 LEGEND OF MANA（レジェンド オブ マナ）／PS",
+          "regionalName": "聖剣伝説 LEGEND OF MANA（レジェンド オブ マナ）",
           "releaseDate": "1999-07-15"
         },
         {
@@ -61510,13 +61510,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961012997022",
-          "regionalName": "聖剣伝説 LEGEND OF MANA（レジェンド オブ マナ）／PS",
+          "regionalName": "聖剣伝説 LEGEND OF MANA（レジェンド オブ マナ）",
           "releaseDate": "1999-07-15"
         }
       ],
       "id": 2392,
       "localizedNames": {
-        "ja": "聖剣伝説 LEGEND OF MANA（レジェンド オブ マナ）／PS"
+        "ja": "聖剣伝説 LEGEND OF MANA（レジェンド オブ マナ）"
       }
     },
     {
@@ -63432,13 +63432,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4539457000135",
-          "regionalName": "四川風激辛麻雀　サイクロンズベスト（再販）／PS",
+          "regionalName": "四川風激辛麻雀　サイクロンズベスト（再販）",
           "releaseDate": "2001-07-19"
         }
       ],
       "id": 2473,
       "localizedNames": {
-        "ja": "四川風激辛麻雀　サイクロンズベスト（再販）／PS"
+        "ja": "四川風激辛麻雀　サイクロンズベスト（再販）"
       }
     },
     {
@@ -63736,13 +63736,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988013036703",
-          "regionalName": "週刊Gallop ブラッドマスター／PS",
+          "regionalName": "週刊Gallop ブラッドマスター",
           "releaseDate": "1999-11-25"
         }
       ],
       "id": 2486,
       "localizedNames": {
-        "ja": "週刊Gallop ブラッドマスター／PS"
+        "ja": "週刊Gallop ブラッドマスター"
       }
     },
     {
@@ -63845,7 +63845,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988126510190",
-          "regionalName": "サイドワインダー2／PS",
+          "regionalName": "サイドワインダー2",
           "releaseDate": "1997-12-18"
         },
         {
@@ -63862,7 +63862,7 @@
       ],
       "id": 2491,
       "localizedNames": {
-        "ja": "サイドワインダー2／PS"
+        "ja": "サイドワインダー2"
       }
     },
     {
@@ -64152,7 +64152,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988640100105",
-          "regionalName": "シムシティ2000（再販）／PS",
+          "regionalName": "シムシティ2000（再販）",
           "releaseDate": "1996-12-20"
         },
         {
@@ -64163,7 +64163,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988640100280",
-          "regionalName": "シムシティ2000（再販）／PS",
+          "regionalName": "シムシティ2000（再販）",
           "releaseDate": "1998-10-08"
         },
         {
@@ -64185,7 +64185,7 @@
       ],
       "id": 2500,
       "localizedNames": {
-        "ja": "シムシティ2000（再販）／PS"
+        "ja": "シムシティ2000（再販）"
       }
     },
     {
@@ -64239,13 +64239,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990388",
-          "regionalName": "THE実用シリーズVOL．3 姓名判断／PS",
+          "regionalName": "THE実用シリーズVOL．3 姓名判断",
           "releaseDate": "2000-07-27"
         }
       ],
       "id": 2503,
       "localizedNames": {
-        "ja": "THE実用シリーズVOL．3 姓名判断／PS"
+        "ja": "THE実用シリーズVOL．3 姓名判断"
       }
     },
     {
@@ -64259,13 +64259,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990395",
-          "regionalName": "THE実用シリーズVOL．4 料理 定番料理レシピ集／PS",
+          "regionalName": "THE実用シリーズVOL．4 料理 定番料理レシピ集",
           "releaseDate": "2000-07-27"
         }
       ],
       "id": 2504,
       "localizedNames": {
-        "ja": "THE実用シリーズVOL．4 料理 定番料理レシピ集／PS"
+        "ja": "THE実用シリーズVOL．4 料理 定番料理レシピ集"
       }
     },
     {
@@ -64527,13 +64527,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823991453",
-          "regionalName": "THE実用シリーズVOL．18 漢字クイズ 漢字検定にチャレンジ／PS",
+          "regionalName": "THE実用シリーズVOL．18 漢字クイズ 漢字検定にチャレンジ",
           "releaseDate": "2002-05-23"
         }
       ],
       "id": 2518,
       "localizedNames": {
-        "ja": "THE実用シリーズVOL．18 漢字クイズ 漢字検定にチャレンジ／PS"
+        "ja": "THE実用シリーズVOL．18 漢字クイズ 漢字検定にチャレンジ"
       }
     },
     {
@@ -64669,7 +64669,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990050",
-          "regionalName": "THE 将棋 SIMPLE 1500シリーズVOL．2／PS",
+          "regionalName": "THE 将棋 SIMPLE 1500シリーズVOL．2",
           "releaseDate": "1999-11-01"
         }
       ],
@@ -64751,7 +64751,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4949478880119",
-          "regionalName": "THE 囲碁 SIMPLE 1500シリーズVOL．5／PS",
+          "regionalName": "THE 囲碁 SIMPLE 1500シリーズVOL．5",
           "releaseDate": "1998-11-19"
         },
         {
@@ -64768,7 +64768,7 @@
       ],
       "id": 2527,
       "localizedNames": {
-        "ja": "THE 囲碁 SIMPLE 1500シリーズVOL．5／PS"
+        "ja": "THE 囲碁 SIMPLE 1500シリーズVOL．5"
       }
     },
     {
@@ -64782,7 +64782,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4949478880126",
-          "regionalName": "THE 花札 SIMPLE 1500シリーズVOL．6／PS",
+          "regionalName": "THE 花札 SIMPLE 1500シリーズVOL．6",
           "releaseDate": "1998-11-19"
         },
         {
@@ -64798,7 +64798,7 @@
       ],
       "id": 2528,
       "localizedNames": {
-        "ja": "THE 花札 SIMPLE 1500シリーズVOL．6／PS"
+        "ja": "THE 花札 SIMPLE 1500シリーズVOL．6"
       }
     },
     {
@@ -64915,7 +64915,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990135",
-          "regionalName": "THE ビリヤード SIMPLE 1500シリーズVOL．10／PS",
+          "regionalName": "THE ビリヤード SIMPLE 1500シリーズVOL．10",
           "releaseDate": "1999-11-01"
         }
       ],
@@ -65039,7 +65039,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990173",
-          "regionalName": "THE ブロックくずし SIMPLE 1500シリーズVOL．14／PS",
+          "regionalName": "THE ブロックくずし SIMPLE 1500シリーズVOL．14",
           "releaseDate": "1999-11-19"
         }
       ],
@@ -65247,13 +65247,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990272",
-          "regionalName": "THE ゲートボール SIMPLE 1500シリーズVOL．23／PS",
+          "regionalName": "THE ゲートボール SIMPLE 1500シリーズVOL．23",
           "releaseDate": "1999-12-09"
         }
       ],
       "id": 2545,
       "localizedNames": {
-        "ja": "THE ゲートボール SIMPLE 1500シリーズVOL．23／PS"
+        "ja": "THE ゲートボール SIMPLE 1500シリーズVOL．23"
       }
     },
     {
@@ -65287,13 +65287,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823990296",
-          "regionalName": "THE 競馬 SIMPLE 1500シリーズVOL．25／PS",
+          "regionalName": "THE 競馬 SIMPLE 1500シリーズVOL．25",
           "releaseDate": "2000-03-30"
         }
       ],
       "id": 2547,
       "localizedNames": {
-        "ja": "THE 競馬 SIMPLE 1500シリーズVOL．25／PS"
+        "ja": "THE 競馬 SIMPLE 1500シリーズVOL．25"
       }
     },
     {
@@ -66552,13 +66552,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823991330",
-          "regionalName": "THE パワーショベル パワーショベルに乗ろう SIMPLE 1500シリーズVOL．89／PS",
+          "regionalName": "THE パワーショベル パワーショベルに乗ろう SIMPLE 1500シリーズVOL．89",
           "releaseDate": "2002-03-28"
         }
       ],
       "id": 2611,
       "localizedNames": {
-        "ja": "THE パワーショベル パワーショベルに乗ろう SIMPLE 1500シリーズVOL．89／PS"
+        "ja": "THE パワーショベル パワーショベルに乗ろう SIMPLE 1500シリーズVOL．89"
       }
     },
     {
@@ -66889,13 +66889,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543112033956",
-          "regionalName": "仮面ライダー THEバイクレース SIMPLEキャラクターズ 2000シリーズVOL．3／PS",
+          "regionalName": "仮面ライダー THEバイクレース SIMPLEキャラクターズ 2000シリーズVOL．3",
           "releaseDate": "2001-10-25"
         }
       ],
       "id": 2629,
       "localizedNames": {
-        "ja": "仮面ライダー THEバイクレース SIMPLEキャラクターズ 2000シリーズVOL．3／PS"
+        "ja": "仮面ライダー THEバイクレース SIMPLEキャラクターズ 2000シリーズVOL．3"
       }
     },
     {
@@ -67089,13 +67089,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543112107473",
-          "regionalName": "新機動戦記ガンダムW　THE　バトル　SIMPLEキャラクターズ　2000シリーズVOL．13／PS",
+          "regionalName": "新機動戦記ガンダムW　THE　バトル　SIMPLEキャラクターズ　2000シリーズVOL．13",
           "releaseDate": "2002-10-10"
         }
       ],
       "id": 2639,
       "localizedNames": {
-        "ja": "新機動戦記ガンダムW　THE　バトル　SIMPLEキャラクターズ　2000シリーズVOL．13／PS"
+        "ja": "新機動戦記ガンダムW　THE　バトル　SIMPLEキャラクターズ　2000シリーズVOL．13"
       }
     },
     {
@@ -67189,13 +67189,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4965857040134",
-          "regionalName": "シムタウン／PS",
+          "regionalName": "シムタウン",
           "releaseDate": "1997-05-16"
         }
       ],
       "id": 2644,
       "localizedNames": {
-        "ja": "シムタウン／PS"
+        "ja": "シムタウン"
       }
     },
     {
@@ -67260,13 +67260,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4980124010122",
-          "regionalName": "シミュレーションズー／PS",
+          "regionalName": "シミュレーションズー",
           "releaseDate": "1996-11-29"
         }
       ],
       "id": 2647,
       "localizedNames": {
-        "ja": "シミュレーションズー／PS"
+        "ja": "シミュレーションズー"
       }
     },
     {
@@ -67331,13 +67331,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4942330703038",
-          "regionalName": "シスター・プリンセス ピュア・ストーリーズ／PS",
+          "regionalName": "シスター・プリンセス ピュア・ストーリーズ",
           "releaseDate": "2001-12-13"
         }
       ],
       "id": 2650,
       "localizedNames": {
-        "ja": "シスター・プリンセス ピュア・ストーリーズ／PS"
+        "ja": "シスター・プリンセス ピュア・ストーリーズ"
       }
     },
     {
@@ -67668,13 +67668,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988624900301",
-          "regionalName": "スロットプロ2 −爆裂大相撲・紅＆紫−／PS",
+          "regionalName": "スロットプロ2 −爆裂大相撲・紅＆紫−",
           "releaseDate": "2001-03-29"
         }
       ],
       "id": 2665,
       "localizedNames": {
-        "ja": "スロットプロ2 −爆裂大相撲・紅＆紫−／PS"
+        "ja": "スロットプロ2 −爆裂大相撲・紅＆紫−"
       }
     },
     {
@@ -68213,13 +68213,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4997938520020",
-          "regionalName": "SOLD　OUT（ソールドアウト）／PS",
+          "regionalName": "SOLD　OUT（ソールドアウト）",
           "releaseDate": "1997-06-20"
         }
       ],
       "id": 2691,
       "localizedNames": {
-        "ja": "SOLD　OUT（ソールドアウト）／PS"
+        "ja": "SOLD　OUT（ソールドアウト）"
       }
     },
     {
@@ -68620,13 +68620,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4539820600092",
-          "regionalName": "倉庫番 難問指南／PS",
+          "regionalName": "倉庫番 難問指南",
           "releaseDate": "1999-04-01"
         }
       ],
       "id": 2708,
       "localizedNames": {
-        "ja": "倉庫番 難問指南／PS"
+        "ja": "倉庫番 難問指南"
       }
     },
     {
@@ -69027,13 +69027,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872100588",
-          "regionalName": "蒼天の白き神の座 GREAT PEAK（グレートピーク）／PS",
+          "regionalName": "蒼天の白き神の座 GREAT PEAK（グレートピーク）",
           "releaseDate": "1998-07-16"
         }
       ],
       "id": 2723,
       "localizedNames": {
-        "ja": "蒼天の白き神の座 GREAT PEAK（グレートピーク）／PS"
+        "ja": "蒼天の白き神の座 GREAT PEAK（グレートピーク）"
       }
     },
     {
@@ -69222,13 +69222,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425774817",
-          "regionalName": "宇宙戦艦ヤマト 英雄の軌跡／PS",
+          "regionalName": "宇宙戦艦ヤマト 英雄の軌跡",
           "releaseDate": "2000-09-28"
         }
       ],
       "id": 2731,
       "localizedNames": {
-        "ja": "宇宙戦艦ヤマト 英雄の軌跡／PS"
+        "ja": "宇宙戦艦ヤマト 英雄の軌跡"
       }
     },
     {
@@ -70126,13 +70126,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948536190511",
-          "regionalName": "聖ルミナス女学院／PS",
+          "regionalName": "聖ルミナス女学院",
           "releaseDate": "2000-05-25"
         }
       ],
       "id": 2761,
       "localizedNames": {
-        "ja": "聖ルミナス女学院／PS"
+        "ja": "聖ルミナス女学院"
       }
     },
     {
@@ -71286,13 +71286,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219454056",
-          "regionalName": "ストライダー飛竜1＆2／PS",
+          "regionalName": "ストライダー飛竜1＆2",
           "releaseDate": "2000-02-24"
         }
       ],
       "id": 2800,
       "localizedNames": {
-        "ja": "ストライダー飛竜1＆2／PS"
+        "ja": "ストライダー飛竜1＆2"
       }
     },
     {
@@ -71686,13 +71686,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4983164734751",
-          "regionalName": "サモンナイト2／PS",
+          "regionalName": "サモンナイト2",
           "releaseDate": "2001-02-08"
         }
       ],
       "id": 2815,
       "localizedNames": {
-        "ja": "サモンナイト2／PS"
+        "ja": "サモンナイト2"
       }
     },
     {
@@ -71706,13 +71706,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4983164735499",
-          "regionalName": "サモンナイト2 Psone Books（再販）／PS",
+          "regionalName": "サモンナイト2 Psone Books（再販）",
           "releaseDate": "2003-06-11"
         }
       ],
       "id": 2816,
       "localizedNames": {
-        "ja": "サモンナイト2 Psone Books（再販）／PS"
+        "ja": "サモンナイト2 Psone Books（再販）"
       }
     },
     {
@@ -71884,7 +71884,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4953507961977",
-          "regionalName": "スーパーカジノスペシャル／PS",
+          "regionalName": "スーパーカジノスペシャル",
           "releaseDate": "1996-09-13"
         },
         {
@@ -71901,7 +71901,7 @@
       ],
       "id": 2823,
       "localizedNames": {
-        "ja": "スーパーカジノスペシャル／PS"
+        "ja": "スーパーカジノスペシャル"
       }
     },
     {
@@ -72383,13 +72383,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4983164734423",
-          "regionalName": "スーパーロボット大戦 コンプリートボックス／PS",
+          "regionalName": "スーパーロボット大戦 コンプリートボックス",
           "releaseDate": "1999-06-10"
         }
       ],
       "id": 2843,
       "localizedNames": {
-        "ja": "スーパーロボット大戦 コンプリートボックス／PS"
+        "ja": "スーパーロボット大戦 コンプリートボックス"
       }
     },
     {
@@ -72612,13 +72612,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076000747",
-          "regionalName": "カードII SuperLite1500シリーズ／PS",
+          "regionalName": "カードII SuperLite1500シリーズ",
           "releaseDate": "1999-09-22"
         }
       ],
       "id": 2853,
       "localizedNames": {
-        "ja": "カードII SuperLite1500シリーズ／PS"
+        "ja": "カードII SuperLite1500シリーズ"
       }
     },
     {
@@ -72652,13 +72652,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076001355",
-          "regionalName": "クロスワード2 SuperLite1500シリーズ／PS",
+          "regionalName": "クロスワード2 SuperLite1500シリーズ",
           "releaseDate": "2000-11-30"
         }
       ],
       "id": 2855,
       "localizedNames": {
-        "ja": "クロスワード2 SuperLite1500シリーズ／PS"
+        "ja": "クロスワード2 SuperLite1500シリーズ"
       }
     },
     {
@@ -72787,13 +72787,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076000570",
-          "regionalName": "おえかきパズル SuperLite1500シリーズ／PS",
+          "regionalName": "おえかきパズル SuperLite1500シリーズ",
           "releaseDate": "1999-05-27"
         }
       ],
       "id": 2862,
       "localizedNames": {
-        "ja": "おえかきパズル SuperLite1500シリーズ／PS"
+        "ja": "おえかきパズル SuperLite1500シリーズ"
       }
     },
     {
@@ -72983,13 +72983,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076000556",
-          "regionalName": "数独 SuperLite1500シリーズ／PS",
+          "regionalName": "数独 SuperLite1500シリーズ",
           "releaseDate": "1999-05-27"
         }
       ],
       "id": 2872,
       "localizedNames": {
-        "ja": "数独 SuperLite1500シリーズ／PS"
+        "ja": "数独 SuperLite1500シリーズ"
       }
     },
     {
@@ -73003,13 +73003,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076000976",
-          "regionalName": "数独2 SuperLite1500シリーズ／PS",
+          "regionalName": "数独2 SuperLite1500シリーズ",
           "releaseDate": "2000-01-27"
         }
       ],
       "id": 2873,
       "localizedNames": {
-        "ja": "数独2 SuperLite1500シリーズ／PS"
+        "ja": "数独2 SuperLite1500シリーズ"
       }
     },
     {
@@ -73214,13 +73214,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076000976",
-          "regionalName": "数独2 SuperLite1500シリーズ／PS",
+          "regionalName": "数独2 SuperLite1500シリーズ",
           "releaseDate": "2000-01-27"
         }
       ],
       "id": 2884,
       "localizedNames": {
-        "ja": "数独2 SuperLite1500シリーズ／PS"
+        "ja": "数独2 SuperLite1500シリーズ"
       }
     },
     {
@@ -73411,7 +73411,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602434231",
-          "regionalName": "進め！対戦ぱずるだま（再販）／PS",
+          "regionalName": "進め！対戦ぱずるだま（再販）",
           "releaseDate": "1998-03-19"
         }
       ],
@@ -73553,7 +73553,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4991694000321",
-          "regionalName": "サイフォン フィルター／PS",
+          "regionalName": "サイフォン フィルター",
           "releaseDate": "1999-08-12"
         },
         {
@@ -73617,7 +73617,7 @@
       ],
       "id": 2898,
       "localizedNames": {
-        "ja": "サイフォン フィルター／PS"
+        "ja": "サイフォン フィルター"
       }
     },
     {
@@ -73671,7 +73671,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988640100143",
-          "regionalName": "タクティクスオウガ／PS"
+          "regionalName": "タクティクスオウガ"
         },
         {
           "name": "TACTICS OGRE - LET US CLING TOGETHER [ARTDINK BEST CHOICE]",
@@ -73681,7 +73681,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988640100433",
-          "regionalName": "タクティクスオウガ／PS",
+          "regionalName": "タクティクスオウガ",
           "releaseDate": "1999-12-02"
         },
         {
@@ -73695,7 +73695,7 @@
       ],
       "id": 2901,
       "localizedNames": {
-        "ja": "タクティクスオウガ／PS"
+        "ja": "タクティクスオウガ"
       }
     },
     {
@@ -73903,13 +73903,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4995151000473",
-          "regionalName": "対局囲碁真髄・碁仙人 弐號／PS",
+          "regionalName": "対局囲碁真髄・碁仙人 弐號",
           "releaseDate": "2000-03-23"
         }
       ],
       "id": 2910,
       "localizedNames": {
-        "ja": "対局囲碁真髄・碁仙人 弐號／PS"
+        "ja": "対局囲碁真髄・碁仙人 弐號"
       }
     },
     {
@@ -74031,7 +74031,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988640100174",
-          "regionalName": "太陽のしっぽ（再販）／PS",
+          "regionalName": "太陽のしっぽ（再販）",
           "releaseDate": "1997-06-27"
         },
         {
@@ -74456,7 +74456,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4989006000329",
-          "regionalName": "探偵神宮寺三郎　Early　Collectin　普及版（再販）／PS",
+          "regionalName": "探偵神宮寺三郎　Early　Collectin　普及版（再販）",
           "releaseDate": "2001-02-01"
         }
       ],
@@ -74500,7 +74500,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961082700263",
-          "regionalName": "探偵神宮寺三郎 灯火が消えぬ間に／PS",
+          "regionalName": "探偵神宮寺三郎 灯火が消えぬ間に",
           "releaseDate": "1999-11-25"
         },
         {
@@ -74511,13 +74511,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4989006000251",
-          "regionalName": "探偵神宮寺三郎　灯火が消えぬ間に　普及版（再販）／PS",
+          "regionalName": "探偵神宮寺三郎　灯火が消えぬ間に　普及版（再販）",
           "releaseDate": "2000-10-19"
         }
       ],
       "id": 2931,
       "localizedNames": {
-        "ja": "探偵神宮寺三郎 灯火が消えぬ間に／PS"
+        "ja": "探偵神宮寺三郎 灯火が消えぬ間に"
       }
     },
     {
@@ -74562,7 +74562,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425770680",
-          "regionalName": "たれごろ　たれぱんだのいる日常／PS",
+          "regionalName": "たれごろ　たれぱんだのいる日常",
           "releaseDate": "2000-08-31"
         },
         {
@@ -74573,13 +74573,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425770680",
-          "regionalName": "たれごろ　たれぱんだのいる日常／PS",
+          "regionalName": "たれごろ　たれぱんだのいる日常",
           "releaseDate": "2000-08-31"
         }
       ],
       "id": 2933,
       "localizedNames": {
-        "ja": "たれごろ　たれぱんだのいる日常／PS"
+        "ja": "たれごろ　たれぱんだのいる日常"
       }
     },
     {
@@ -74756,7 +74756,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615009150",
-          "regionalName": "提督の決断III／PS",
+          "regionalName": "提督の決断III",
           "releaseDate": "1997-03-28"
         },
         {
@@ -74767,7 +74767,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615018022",
-          "regionalName": "提督の決断III／PS",
+          "regionalName": "提督の決断III",
           "releaseDate": "2002-11-07"
         },
         {
@@ -74778,7 +74778,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615013072",
-          "regionalName": "提督の決断III／PS",
+          "regionalName": "提督の決断III",
           "releaseDate": "1999-04-01"
         },
         {
@@ -74789,13 +74789,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615010651",
-          "regionalName": "提督の決断III／PS",
+          "regionalName": "提督の決断III",
           "releaseDate": "1998-02-05"
         }
       ],
       "id": 2940,
       "localizedNames": {
-        "ja": "提督の決断III／PS"
+        "ja": "提督の決断III"
       }
     },
     {
@@ -75048,13 +75048,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948536190085",
-          "regionalName": "天地無用！登校無用／PS",
+          "regionalName": "天地無用！登校無用",
           "releaseDate": "1996-09-13"
         }
       ],
       "id": 2948,
       "localizedNames": {
-        "ja": "天地無用！登校無用／PS"
+        "ja": "天地無用！登校無用"
       }
     },
     {
@@ -75068,7 +75068,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219154505",
-          "regionalName": "天地を喰らうII　赤壁の戦い／PS",
+          "regionalName": "天地を喰らうII　赤壁の戦い",
           "releaseDate": "1996-03-22"
         },
         {
@@ -75084,7 +75084,7 @@
       ],
       "id": 2949,
       "localizedNames": {
-        "ja": "天地を喰らうII　赤壁の戦い／PS"
+        "ja": "天地を喰らうII　赤壁の戦い"
       }
     },
     {
@@ -75098,13 +75098,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4965857040110",
-          "regionalName": "天下制覇／PS",
+          "regionalName": "天下制覇",
           "releaseDate": "1997-02-21"
         }
       ],
       "id": 2950,
       "localizedNames": {
-        "ja": "天下制覇／PS"
+        "ja": "天下制覇"
       }
     },
     {
@@ -75244,7 +75244,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602086324",
-          "regionalName": "テニスの王子様／PS",
+          "regionalName": "テニスの王子様",
           "releaseDate": "2002-02-28"
         },
         {
@@ -75272,7 +75272,7 @@
       ],
       "id": 2956,
       "localizedNames": {
-        "ja": "テニスの王子様／PS"
+        "ja": "テニスの王子様"
       }
     },
     {
@@ -75326,13 +75326,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543112107374",
-          "regionalName": "天使な小生意気／PS",
+          "regionalName": "天使な小生意気",
           "releaseDate": "2002-09-26"
         }
       ],
       "id": 2959,
       "localizedNames": {
-        "ja": "天使な小生意気／PS"
+        "ja": "天使な小生意気"
       }
     },
     {
@@ -75483,7 +75483,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907859108177",
-          "regionalName": "テトリスプラス（再販）／PS",
+          "regionalName": "テトリスプラス（再販）",
           "releaseDate": "1998-11-26"
         },
         {
@@ -75873,7 +75873,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4959143900141",
-          "regionalName": "ザ・コンビニ あの町を独占せよ／PS",
+          "regionalName": "ザ・コンビニ あの町を独占せよ",
           "releaseDate": "1997-03-28"
         },
         {
@@ -75901,7 +75901,7 @@
       ],
       "id": 2983,
       "localizedNames": {
-        "ja": "ザ・コンビニ あの町を独占せよ／PS"
+        "ja": "ザ・コンビニ あの町を独占せよ"
       }
     },
     {
@@ -76834,13 +76834,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4947709706160",
-          "regionalName": "The　Legend　of　HeroesIII　白き魔女もう一つの英雄たちの物語（レジェンドオブヒーロー）／PS",
+          "regionalName": "The　Legend　of　HeroesIII　白き魔女もう一つの英雄たちの物語（レジェンドオブヒーロー）",
           "releaseDate": "1998-03-19"
         }
       ],
       "id": 3014,
       "localizedNames": {
-        "ja": "The　Legend　of　HeroesIII　白き魔女もう一つの英雄たちの物語（レジェンドオブヒーロー）／PS"
+        "ja": "The　Legend　of　HeroesIII　白き魔女もう一つの英雄たちの物語（レジェンドオブヒーロー）"
       }
     },
     {
@@ -76910,13 +76910,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4542082000029",
-          "regionalName": "ザ・マエストロムジーク／PS",
+          "regionalName": "ザ・マエストロムジーク",
           "releaseDate": "2000-07-27"
         }
       ],
       "id": 3017,
       "localizedNames": {
-        "ja": "ザ・マエストロムジーク／PS"
+        "ja": "ザ・マエストロムジーク"
       }
     },
     {
@@ -77282,13 +77282,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907940212509",
-          "regionalName": "龍龍 Value 1500／PS",
+          "regionalName": "龍龍 Value 1500",
           "releaseDate": "2000-05-02"
         }
       ],
       "id": 3033,
       "localizedNames": {
-        "ja": "龍龍 Value 1500／PS"
+        "ja": "龍龍 Value 1500"
       }
     },
     {
@@ -77322,7 +77322,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4939915000118",
-          "regionalName": "ザ・心理ゲーム／PS",
+          "regionalName": "ザ・心理ゲーム",
           "releaseDate": "1996-04-26"
         },
         {
@@ -77339,7 +77339,7 @@
       ],
       "id": 3035,
       "localizedNames": {
-        "ja": "ザ・心理ゲーム／PS"
+        "ja": "ザ・心理ゲーム"
       }
     },
     {
@@ -77395,7 +77395,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4939915000255",
-          "regionalName": "ザ・心理ゲーム3（再販）／PS",
+          "regionalName": "ザ・心理ゲーム3（再販）",
           "releaseDate": "1999-09-02"
         }
       ],
@@ -77750,13 +77750,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4939915000484",
-          "regionalName": "ザ・占い6 水星さんのとっても九星占星術／PS",
+          "regionalName": "ザ・占い6 水星さんのとっても九星占星術",
           "releaseDate": "2000-11-30"
         }
       ],
       "id": 3054,
       "localizedNames": {
-        "ja": "ザ・占い6 水星さんのとっても九星占星術／PS"
+        "ja": "ザ・占い6 水星さんのとっても九星占星術"
       }
     },
     {
@@ -77821,13 +77821,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4943877000758",
-          "regionalName": "THE　YELLOW　MONKEY　trancemissionVJremix／PS",
+          "regionalName": "THE　YELLOW　MONKEY　trancemissionVJremix",
           "releaseDate": "2000-04-14"
         }
       ],
       "id": 3057,
       "localizedNames": {
-        "ja": "THE　YELLOW　MONKEY　trancemissionVJremix／PS"
+        "ja": "THE　YELLOW　MONKEY　trancemissionVJremix"
       }
     },
     {
@@ -78036,13 +78036,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4511313400013",
-          "regionalName": "サラブレッド達の栄冠／PS",
+          "regionalName": "サラブレッド達の栄冠",
           "releaseDate": "1996-05-04"
         }
       ],
       "id": 3065,
       "localizedNames": {
-        "ja": "サラブレッド達の栄冠／PS"
+        "ja": "サラブレッド達の栄冠"
       }
     },
     {
@@ -78400,7 +78400,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010581",
-          "regionalName": "タイムクライシス（再販）／PS",
+          "regionalName": "タイムクライシス（再販）",
           "releaseDate": "1998-09-03"
         },
         {
@@ -79566,7 +79566,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988110020285",
-          "regionalName": "トゥームレイダース（再販）／PS",
+          "regionalName": "トゥームレイダース（再販）",
           "releaseDate": "1998-03-19"
         },
         {
@@ -80058,7 +80058,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872600088",
-          "regionalName": "トータル NBA’96／PS",
+          "regionalName": "トータル NBA’96",
           "releaseDate": "1996-07-05"
         },
         {
@@ -80072,7 +80072,7 @@
       ],
       "id": 3146,
       "localizedNames": {
-        "ja": "トータル NBA’96／PS"
+        "ja": "トータル NBA’96"
       }
     },
     {
@@ -80298,7 +80298,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076001096",
-          "regionalName": "タワードリーム2 SuperLite1500シリーズ（再販）／PS",
+          "regionalName": "タワードリーム2 SuperLite1500シリーズ（再販）",
           "releaseDate": "2000-03-02"
         }
       ],
@@ -80836,7 +80836,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948426986019",
-          "regionalName": "釣道 渓流・湖編／PS",
+          "regionalName": "釣道 渓流・湖編",
           "releaseDate": "1999-01-28"
         },
         {
@@ -80853,7 +80853,7 @@
       ],
       "id": 3181,
       "localizedNames": {
-        "ja": "釣道 渓流・湖編／PS"
+        "ja": "釣道 渓流・湖編"
       }
     },
     {
@@ -80878,7 +80878,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948426991013",
-          "regionalName": "釣道　海釣り編（再販）／PS",
+          "regionalName": "釣道　海釣り編（再販）",
           "releaseDate": "1999-03-25"
         }
       ],
@@ -81405,7 +81405,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988606102563",
-          "regionalName": "UFO−A DAY IN THE LIFE／PS",
+          "regionalName": "UFO−A DAY IN THE LIFE",
           "releaseDate": "1999-06-24"
         },
         {
@@ -81415,13 +81415,13 @@
           "serial": "SLPS-02973",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "UFO−A DAY IN THE LIFE／PS",
+          "regionalName": "UFO−A DAY IN THE LIFE",
           "releaseDate": "2000-10-05"
         }
       ],
       "id": 3205,
       "localizedNames": {
-        "ja": "UFO−A DAY IN THE LIFE／PS"
+        "ja": "UFO−A DAY IN THE LIFE"
       }
     },
     {
@@ -82033,13 +82033,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988601003315",
-          "regionalName": "うたうたウー／PS",
+          "regionalName": "うたうたウー",
           "releaseDate": "2000-02-24"
         }
       ],
       "id": 3229,
       "localizedNames": {
-        "ja": "うたうたウー／PS"
+        "ja": "うたうたウー"
       }
     },
     {
@@ -83218,13 +83218,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4960641090234",
-          "regionalName": "バーチャル競艇2000／PS",
+          "regionalName": "バーチャル競艇2000",
           "releaseDate": "2000-05-02"
         }
       ],
       "id": 3268,
       "localizedNames": {
-        "ja": "バーチャル競艇2000／PS"
+        "ja": "バーチャル競艇2000"
       }
     },
     {
@@ -83861,13 +83861,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4943015030074",
-          "regionalName": "ウエルカムハウス2／PS",
+          "regionalName": "ウエルカムハウス2",
           "releaseDate": "1996-12-20"
         }
       ],
       "id": 3298,
       "localizedNames": {
-        "ja": "ウエルカムハウス2／PS"
+        "ja": "ウエルカムハウス2"
       }
     },
     {
@@ -83986,7 +83986,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872100281",
-          "regionalName": "ワイルドアームズ（再販）／PS",
+          "regionalName": "ワイルドアームズ（再販）",
           "releaseDate": "1996-12-20"
         },
         {
@@ -83996,7 +83996,7 @@
           "serial": "SCPS-45027",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "ワイルドアームズ（再販）／PS",
+          "regionalName": "ワイルドアームズ（再販）",
           "releaseDate": "1996-12-20"
         },
         {
@@ -84007,7 +84007,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872910385",
-          "regionalName": "ワイルドアームズ（再販）／PS",
+          "regionalName": "ワイルドアームズ（再販）",
           "releaseDate": "1997-11-20"
         },
         {
@@ -84072,7 +84072,7 @@
       ],
       "id": 3303,
       "localizedNames": {
-        "ja": "ワイルドアームズ（再販）／PS"
+        "ja": "ワイルドアームズ（再販）"
       }
     },
     {
@@ -84569,7 +84569,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872600101",
-          "regionalName": "WIPEOUT XL（ワイプアウトエックスエル）／PS",
+          "regionalName": "WIPEOUT XL（ワイプアウトエックスエル）",
           "releaseDate": "1996-11-08"
         },
         {
@@ -84583,7 +84583,7 @@
       ],
       "id": 3321,
       "localizedNames": {
-        "ja": "WIPEOUT XL（ワイプアウトエックスエル）／PS"
+        "ja": "WIPEOUT XL（ワイプアウトエックスエル）"
       }
     },
     {
@@ -85063,7 +85063,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4967652101379",
-          "regionalName": "ワールド・ネバーランド オルルド王国物語／PS",
+          "regionalName": "ワールド・ネバーランド オルルド王国物語",
           "releaseDate": "1997-10-23"
         },
         {
@@ -85074,13 +85074,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4967652101379",
-          "regionalName": "ワールド・ネバーランド オルルド王国物語／PS",
+          "regionalName": "ワールド・ネバーランド オルルド王国物語",
           "releaseDate": "1997-10-23"
         }
       ],
       "id": 3338,
       "localizedNames": {
-        "ja": "ワールド・ネバーランド オルルド王国物語／PS"
+        "ja": "ワールド・ネバーランド オルルド王国物語"
       }
     },
     {
@@ -85181,13 +85181,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602811612",
-          "regionalName": "ワールドサッカー 実況ウイニングイレブン オリンピック2000 〜U−23メダルへの挑戦〜／PS",
+          "regionalName": "ワールドサッカー 実況ウイニングイレブン オリンピック2000 〜U−23メダルへの挑戦〜",
           "releaseDate": "2000-08-31"
         }
       ],
       "id": 3343,
       "localizedNames": {
-        "ja": "ワールドサッカー 実況ウイニングイレブン オリンピック2000 〜U−23メダルへの挑戦〜／PS"
+        "ja": "ワールドサッカー 実況ウイニングイレブン オリンピック2000 〜U−23メダルへの挑戦〜"
       }
     },
     {
@@ -85201,13 +85201,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602536973",
-          "regionalName": "ワールドサッカー実況ウイニングイレブン3 〜ファイナルVer.〜 コナミデジタルエンタテインメント",
+          "regionalName": "ワールドサッカー実況ウイニングイレブン3 〜ファイナルVer.〜",
           "releaseDate": "1998-12-11"
         }
       ],
       "id": 3344,
       "localizedNames": {
-        "ja": "ワールドサッカー実況ウイニングイレブン3 〜ファイナルVer.〜 コナミデジタルエンタテインメント"
+        "ja": "ワールドサッカー実況ウイニングイレブン3 〜ファイナルVer.〜"
       }
     },
     {
@@ -85221,13 +85221,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602426564",
-          "regionalName": "ワールドサッカー 実況ウイニングイレブン3 ワールドカップFrance98／PS",
+          "regionalName": "ワールドサッカー 実況ウイニングイレブン3 ワールドカップFrance98",
           "releaseDate": "1998-05-28"
         }
       ],
       "id": 3345,
       "localizedNames": {
-        "ja": "ワールドサッカー 実況ウイニングイレブン3 ワールドカップFrance98／PS"
+        "ja": "ワールドサッカー 実況ウイニングイレブン3 ワールドカップFrance98"
       }
     },
     {
@@ -85241,13 +85241,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602605518",
-          "regionalName": "ワールドサッカー 実況ウイニングイレブン4／PS",
+          "regionalName": "ワールドサッカー 実況ウイニングイレブン4",
           "releaseDate": "1999-09-02"
         }
       ],
       "id": 3346,
       "localizedNames": {
-        "ja": "ワールドサッカー 実況ウイニングイレブン4／PS"
+        "ja": "ワールドサッカー 実況ウイニングイレブン4"
       }
     },
     {
@@ -85876,7 +85876,7 @@
           "serial": "SCPS-45268",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "XI［sai］（再販）／PS",
+          "regionalName": "XI［sai］（再販）",
           "releaseDate": "1998-06-18"
         },
         {
@@ -85887,7 +85887,7 @@
           "region": "NTSC-J",
           "tgdbId": 100920,
           "upc": "4948872100519",
-          "regionalName": "XI［sai］（再販）／PS",
+          "regionalName": "XI［sai］（再販）",
           "releaseDate": "1998-06-18"
         },
         {
@@ -85898,7 +85898,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872911665",
-          "regionalName": "XI［sai］（再販）／PS",
+          "regionalName": "XI［sai］（再販）",
           "releaseDate": "1999-10-14"
         },
         {
@@ -85909,7 +85909,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872913034",
-          "regionalName": "XI［sai］ Psone Books（再販）／PS",
+          "regionalName": "XI［sai］ Psone Books（再販）",
           "releaseDate": "2001-12-10"
         },
         {
@@ -85919,7 +85919,7 @@
           "serial": "SCPS-45465",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "XI［sai］（再販）／PS",
+          "regionalName": "XI［sai］（再販）",
           "releaseDate": "1999-12-22"
         },
         {
@@ -85930,7 +85930,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872101233",
-          "regionalName": "XI［sai］（再販）／PS",
+          "regionalName": "XI［sai］（再販）",
           "releaseDate": "1999-12-22"
         },
         {
@@ -85947,7 +85947,7 @@
       ],
       "id": 3370,
       "localizedNames": {
-        "ja": "XI［sai］（再販）／PS"
+        "ja": "XI［sai］（再販）"
       }
     },
     {
@@ -86258,13 +86258,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4543955000061",
-          "regionalName": "山佐デジワールド・テトラマスター／PS",
+          "regionalName": "山佐デジワールド・テトラマスター",
           "releaseDate": "2001-05-24"
         }
       ],
       "id": 3385,
       "localizedNames": {
-        "ja": "山佐デジワールド・テトラマスター／PS"
+        "ja": "山佐デジワールド・テトラマスター"
       }
     },
     {
@@ -86568,13 +86568,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4537744101213",
-          "regionalName": "幼稚園外伝 華麗なるカジノクラブDOUBLE DRAW／PS",
+          "regionalName": "幼稚園外伝 華麗なるカジノクラブDOUBLE DRAW",
           "releaseDate": "2000-12-21"
         }
       ],
       "id": 3400,
       "localizedNames": {
-        "ja": "幼稚園外伝 華麗なるカジノクラブDOUBLE DRAW／PS"
+        "ja": "幼稚園外伝 華麗なるカジノクラブDOUBLE DRAW"
       }
     },
     {
@@ -86751,13 +86751,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4942330410318",
-          "regionalName": "悠久幻想曲　2nd　Album／PS",
+          "regionalName": "悠久幻想曲　2nd　Album",
           "releaseDate": "1998-03-26"
         }
       ],
       "id": 3406,
       "localizedNames": {
-        "ja": "悠久幻想曲　2nd　Album／PS"
+        "ja": "悠久幻想曲　2nd　Album"
       }
     },
     {
@@ -86972,13 +86972,13 @@
           "region": "NTSC-J",
           "tgdbId": 127792,
           "upc": "4904880136995",
-          "regionalName": "勇者王ガオガイガーBLOCKADED NUMBER／PS",
+          "regionalName": "勇者王ガオガイガーBLOCKADED NUMBER",
           "releaseDate": "1999-04-08"
         }
       ],
       "id": 3416,
       "localizedNames": {
-        "ja": "勇者王ガオガイガーBLOCKADED NUMBER／PS"
+        "ja": "勇者王ガオガイガーBLOCKADED NUMBER"
       }
     },
     {
@@ -90587,7 +90587,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4542084000140",
-          "regionalName": "悪魔城年代記 悪魔城ドラキュラ（キャッスルバニアクロニクル）／PS",
+          "regionalName": "悪魔城年代記 悪魔城ドラキュラ（キャッスルバニアクロニクル）",
           "releaseDate": "2001-05-24"
         },
         {
@@ -90609,7 +90609,7 @@
       ],
       "id": 3587,
       "localizedNames": {
-        "ja": "悪魔城年代記 悪魔城ドラキュラ（キャッスルバニアクロニクル）／PS"
+        "ja": "悪魔城年代記 悪魔城ドラキュラ（キャッスルバニアクロニクル）"
       }
     },
     {
