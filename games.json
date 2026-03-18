@@ -13084,20 +13084,20 @@
       "name": "CYBERWAR",
       "gameInstances": [
         {
-          "name": "CYBERWAR  -  [ 3 DISCS ]",
+          "name": "CYBERWAR",
           "platform": "ps1",
           "Language": "[J][E]",
-          "serial": "SLPS-00055SLPS-00056SLPS-00057",
+          "serial": "SLPS-00055",
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4953507950575",
-          "regionalName": "サイバーウォー（説明書なし）",
+          "regionalName": "サイバーウォー",
           "releaseDate": "1995-07-21"
         }
       ],
       "id": 492,
       "localizedNames": {
-        "ja": "サイバーウォー（説明書なし）"
+        "ja": "サイバーウォー"
       }
     },
     {
@@ -52995,7 +52995,7 @@
           "region": "NTSC-J",
           "tgdbId": 112285,
           "upc": "4948872100090",
-          "regionalName": "PHILOSOMA",
+          "regionalName": "フィロソマ",
           "releaseDate": "1995-07-28"
         },
         {
@@ -53017,7 +53017,7 @@
       ],
       "id": 2073,
       "localizedNames": {
-        "ja": "PHILOSOMA"
+        "ja": "フィロソマ"
       }
     },
     {
