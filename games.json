@@ -31968,13 +31968,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602008548",
-          "regionalName": "実況パワフルプロ野球'95 開幕版 コナミデジタルエンタテインメント",
+          "regionalName": "実況パワフルプロ野球'95 開幕版",
           "releaseDate": "1995-07-14"
         }
       ],
       "id": 1230,
       "localizedNames": {
-        "ja": "実況パワフルプロ野球'95 開幕版 コナミデジタルエンタテインメント"
+        "ja": "実況パワフルプロ野球'95 開幕版"
       }
     },
     {
@@ -35824,7 +35824,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4949776361020",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "キングスフィールドII",
           "releaseDate": "1995-07-21"
         },
         {
@@ -35835,7 +35835,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4949776361037",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "キングスフィールドII [PLAYSTATION THE BEST]",
           "releaseDate": "1996-08-09"
         },
         {
@@ -35846,6 +35846,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4949776361099",
+          "regionalName": "キングスフィールドII [PSONE BOOKS]",
           "releaseDate": "2001-11-29"
         },
         {
@@ -35859,7 +35860,7 @@
       ],
       "id": 1395,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "キングスフィールドII"
       }
     },
     {
