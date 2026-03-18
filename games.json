@@ -81917,10 +81917,14 @@
           "serial": "SLPS-00046",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "releaseDate": "1995-06-16"
+          "releaseDate": "1995-06-16",
+          "regionalName": "ユニバーサルバーチャパチスロユニバーサル パチスロ必勝法"
         }
       ],
-      "id": 3225
+      "id": 3225,
+      "localizedNames": {
+        "ja": "ユニバーサルバーチャパチスロユニバーサル パチスロ必勝法"
+      }
     },
     {
       "name": "UNO",
