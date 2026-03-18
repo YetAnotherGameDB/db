@@ -359,7 +359,7 @@
       "name": "3X3 EYES - KYUUSEI KOUSHU",
       "gameInstances": [
         {
-          "name": "3X3 EYES - KYUUSEI KOUSHU  -  [ 2 DISCS ]",
+          "name": "3X3 EYES - KYUUSEI KOUSHU",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-00071SLPS-00072",
@@ -367,7 +367,7 @@
           "tgdbId": 0,
           "regionalName": "サザンアイズ ～吸精公主～",
           "upc": "4948536190009",
-          "releaseDate": "1995-07-28"
+          "releaseDate": "1995-08-11"
         }
       ],
       "id": 14,
@@ -2860,13 +2860,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988640100068",
-          "regionalName": "アクアノートの休日 アートディンク",
+          "regionalName": "アクアノートの休日",
           "releaseDate": "1995-06-30"
         }
       ],
       "id": 103,
       "localizedNames": {
-        "ja": "アクアノートの休日 アートディンク"
+        "ja": "アクアノートの休日"
       }
     },
     {
@@ -25963,13 +25963,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4956358120517",
-          "regionalName": "GROUND STROKE(グランド・ストローク) ADVANCED TENNIS GAME(アドバンスド テニス ゲーム) エス・ピー・エス",
+          "regionalName": "グランド・ストローク ADVANCED TENNIS GAME",
           "releaseDate": "1995-08-11"
         }
       ],
       "id": 974,
       "localizedNames": {
-        "ja": "GROUND STROKE(グランド・ストローク) ADVANCED TENNIS GAME(アドバンスド テニス ゲーム) エス・ピー・エス"
+        "ja": "グランド・ストローク ADVANCED TENNIS GAME"
       }
     },
     {
@@ -69297,7 +69297,8 @@
           "serial": "SLPS-00012",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "releaseDate": "1995-01-27"
+          "releaseDate": "1995-01-27",
+          "regionalName": "スペースグリフォンVF-9"
         },
         {
           "name": "SPACE GRIFFON VF-9",
@@ -69308,7 +69309,10 @@
           "tgdbId": 0
         }
       ],
-      "id": 2735
+      "id": 2735,
+      "localizedNames": {
+        "ja": "スペースグリフォンVF-9"
+      }
     },
     {
       "name": "SPACE INVADERS",
