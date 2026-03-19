@@ -71327,13 +71327,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4953507951176",
-          "regionalName": "ストライカー(STRIKER) ワールドカップ プレミアムステージ ココナッツジャパン",
+          "regionalName": "ストライカー ワールドカップ プレミアムステージ",
           "releaseDate": "1995-11-22"
         }
       ],
       "id": 2802,
       "localizedNames": {
-        "ja": "ストライカー(STRIKER) ワールドカップ プレミアムステージ ココナッツジャパン"
+        "ja": "ストライカー ワールドカップ プレミアムステージ"
       }
     },
     {
@@ -78132,14 +78132,18 @@
       "name": "THUNDER STORM LX-3 & ROADBLASTER",
       "gameInstances": [
         {
-          "name": "THUNDER STORM LX-3 & ROADBLASTER  -  [ 2 DISCS ]\n\t\t Includes: \n\t\tThunder Storm LX-3 Disc + Roadblaster Disc",
+          "name": "THUNDER STORM LX-3 & ROADBLASTER",
           "platform": "ps1",
           "Language": "[E][J]",
-          "serial": "SLPS-00094SLPS-00095",
+          "serial": "SLPS-00094",
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4640299101025",
-          "releaseDate": "1995-10-20"
+          "regionalName": "サンダーストーム&ロードブラスター",
+          "releaseDate": "1995-10-20",
+          "localizedNames": {
+            "ja": "サンダーストーム&ロードブラスター"
+          }
         }
       ],
       "id": 3069
