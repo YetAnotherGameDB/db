@@ -78735,6 +78735,7 @@
           "serial": "SLPS-00065",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "regionalName": "ときめきメモリアル forever with you",
           "releaseDate": "1995-10-13"
         },
         {
@@ -78744,7 +78745,8 @@
           "serial": "SLPS-00064",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "releaseDate": "1995-10-13"
+          "releaseDate": "1995-10-13",
+          "regionalName": "ときめきメモリアル forever with you (LIMITED EDITION)"
         },
         {
           "name": "TOKIMEKI MEMORIAL - FOREVER WITH YOU [PLAYSTATION THE BEST]",
@@ -78753,6 +78755,7 @@
           "serial": "SCPS-45144",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "regionalName": "ときめきメモリアル forever with you [PLAYSTATION THE BEST]",
           "releaseDate": "1997-12-25"
         },
         {
@@ -78762,20 +78765,25 @@
           "serial": "SLPM-86053",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "regionalName": "ときめきメモリアル forever with you [PLAYSTATION THE BEST]",
           "releaseDate": "1997-12-25"
         },
         {
-          "name": "TOKIMEKI MEMORIAL - FOREVER WITH YOU (PSONE BOOKS)",
+          "name": "TOKIMEKI MEMORIAL - FOREVER WITH YOU [PSONE BOOKS]",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPM-87300",
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602087116",
+          "regionalName": "ときめきメモリアル forever with you [PSONE BOOKS]",
           "releaseDate": "2003-09-18"
         }
       ],
-      "id": 3091
+      "id": 3091,
+      "localizedNames": {
+        "ja": "ときめきメモリアル forever with you"
+      }
     },
     {
       "name": "TOKIMEKI MEMORIAL - PRIVATE COLLECTION",
