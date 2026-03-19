@@ -68411,7 +68411,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4967652101140",
-          "regionalName": "卒業?U ネオ・ジェネレーション",
+          "regionalName": "卒業2 ネオ・ジェネレーション",
           "releaseDate": "1995-10-27"
         },
         {
@@ -68422,12 +68422,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4967652101546",
+          "regionalName": "卒業2 ネオ・ジェネレーション [RIVERHILL SOFT BEST]",
           "releaseDate": "1999-07-01"
         }
       ],
       "id": 2699,
       "localizedNames": {
-        "ja": "卒業?U ネオ・ジェネレーション"
+        "ja": "卒業2 ネオ・ジェネレーション"
       }
     },
     {
