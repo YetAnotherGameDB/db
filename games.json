@@ -6126,53 +6126,53 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219154468",
-          "regionalName": "Matchmaker Agency HAC-P-BGERA",
+          "regionalName": "バイオハザード",
           "releaseDate": "1996-03-22"
         }
       ],
       "id": 228,
       "localizedNames": {
-        "ja": "Matchmaker Agency HAC-P-BGERA"
+        "ja": "バイオハザード"
       }
     },
     {
       "name": "BIOHAZARD - DIRECTOR'S CUT",
       "gameInstances": [
         {
-          "name": "BIOHAZARD - DIRECTOR'S CUT  -  [ 2 DISCS ]\n\n Includes: \n\t\tBiohazard - Director's Cut + Biohazard 2 Demo",
+          "name": "BIOHAZARD - DIRECTOR'S CUT",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-00998SLPS-00999",
+          "serial": "SLPS-00998",
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219155977",
-          "regionalName": "OU HAC-P-BNBFA",
+          "regionalName": "バイオハザード ディレクターズカット",
           "releaseDate": "1997-09-25"
         }
       ],
       "id": 229,
       "localizedNames": {
-        "ja": "OU HAC-P-BNBFA"
+        "ja": "バイオハザード ディレクターズカット"
       }
     },
     {
       "name": "BIOHAZARD - DIRECTOR'S CUT - DUAL SHOCK",
       "gameInstances": [
         {
-          "name": "BIOHAZARD - DIRECTOR'S CUT - DUAL SHOCK  -  [ 2 DISCS ]\n\n Includes: \n\t\tBiohazard - Director's Cut Dual Shock + Biohazard Complete Disc",
+          "name": "BIOHAZARD - DIRECTOR'S CUT",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-01512SLPS-01513",
+          "serial": "SLPS-01512",
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219255950",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "バイオハザード ディレクターズカット デュアルショックバージョン",
           "releaseDate": "1998-08-06"
         }
       ],
       "id": 230,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "バイオハザード ディレクターズカット デュアルショックバージョン"
       }
     },
     {
