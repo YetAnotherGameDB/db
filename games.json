@@ -28015,7 +28015,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872100120",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ハーミィホッパーヘッド スクラップパニック",
           "releaseDate": "1995-09-29"
         },
         {
@@ -28026,12 +28026,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872910163",
+          "regionalName": "ハーミィホッパーヘッド スクラップパニック [PLAYSTATION THE BEST]",
           "releaseDate": "1996-12-06"
         }
       ],
       "id": 1057,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ハーミィホッパーヘッド"
       }
     },
     {
@@ -60475,7 +60476,7 @@
           "serial": "SCPS-45003",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "三國志4(コーエー定番シリーズ)",
+          "regionalName": "三國志4)",
           "releaseDate": "1995-09-29"
         },
         {
@@ -60486,7 +60487,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615006883",
-          "regionalName": "三國志4(コーエー定番シリーズ)",
+          "regionalName": "三國志4",
           "releaseDate": "1995-09-29"
         },
         {
@@ -60497,7 +60498,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615018015",
-          "regionalName": "三國志4(コーエー定番シリーズ)",
+          "regionalName": "三國志4 [KOEI THE BEST]",
           "releaseDate": "2002-11-07"
         },
         {
@@ -60508,7 +60509,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988615010965",
-          "regionalName": "三國志4(コーエー定番シリーズ)",
+          "regionalName": "三國志4 [KOEI THE BEST]",
           "releaseDate": "1998-03-12"
         },
         {
@@ -60525,7 +60526,7 @@
       ],
       "id": 2352,
       "localizedNames": {
-        "ja": "三國志4(コーエー定番シリーズ)"
+        "ja": "三國志4"
       }
     },
     {
