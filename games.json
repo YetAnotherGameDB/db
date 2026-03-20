@@ -3491,18 +3491,18 @@
       "name": "ARMORED CORE - MASTER OF ARENA",
       "gameInstances": [
         {
-          "name": "ARMORED CORE - MASTER OF ARENA  -  [ 2 DISCS ]",
+          "name": "ARMORED CORE - MASTER OF ARENA",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-01855SLPS-01856",
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4949776362096",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "アーマードコア マスターオブアリーナ",
           "releaseDate": "1999-02-04"
         },
         {
-          "name": "ARMORED CORE - MASTER OF ARENA  -  [ 2 DISCS ]",
+          "name": "ARMORED CORE - MASTER OF ARENA",
           "platform": "ps1",
           "Language": "[E]",
           "serial": "SLUS-01030SLUS-01081",
@@ -3512,7 +3512,7 @@
       ],
       "id": 127,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "アーマードコア マスターオブアリーナ"
       }
     },
     {
@@ -3526,7 +3526,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4949776362119",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "アーマードコア マスターオブアリーナ PlayStation the Best",
           "releaseDate": "1999-12-02"
         },
         {
@@ -3543,7 +3543,7 @@
       ],
       "id": 128,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "アーマードコア マスターオブアリーナ"
       }
     },
     {
@@ -4576,6 +4576,7 @@
           "serial": "SCPS-45382",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "regionalName": "幕末浪漫 月華の剣士",
           "releaseDate": "1999-02-25"
         },
         {
@@ -4597,7 +4598,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300280",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "幕末浪漫第二幕 月華の剣士 〜月に咲く華、散りぬる風〜 [SNK BEST COLLECTION]",
           "releaseDate": "2000-02-24"
         }
       ],
@@ -4755,23 +4756,23 @@
       }
     },
     {
-      "name": "BAKUSOU DEKOTORA DENSETSU 2 (ART TRUCK BATTLE 2) - (2 DISCS Includes:V-Rally 2 & Driver Demo)",
+      "name": "BAKUSOU DEKOTORA DENSETSU 2 (ART TRUCK BATTLE 2)",
       "gameInstances": [
         {
-          "name": "BAKUSOU DEKOTORA DENSETSU 2 (ART TRUCK BATTLE 2) - (2 DISCS Includes:V-Rally 2 & Driver Demo)",
+          "name": "BAKUSOU DEKOTORA DENSETSU 2 (ART TRUCK BATTLE 2)",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-02465",
           "region": "NTSC-J",
           "tgdbId": 63447,
           "upc": "4940261501822",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "爆走デコトラ伝説2 〜男人生アートトラック魂〜",
           "releaseDate": "1999-12-16"
         }
       ],
       "id": 176,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "爆走デコトラ伝説2 〜男人生アートトラック魂〜"
       }
     },
     {
@@ -4952,13 +4953,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4965857040295",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "バルディッシュ クロメフォードの住人",
           "releaseDate": "1999-07-22"
         }
       ],
       "id": 183,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "バルディッシュ クロメフォードの住人"
       }
     },
     {
@@ -6211,13 +6212,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219255943",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "バイオハザード2 デュアルショックバージョン",
           "releaseDate": "1998-06-08"
         }
       ],
       "id": 232,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "バイオハザード2"
       }
     },
     {
@@ -6261,7 +6262,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219451024",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "バイオハザード ガンサバイバー",
           "releaseDate": "2000-01-27"
         },
         {
@@ -6272,13 +6273,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219551151",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "バイオハザード ガンサバイバー カプコレ",
           "releaseDate": "2001-03-22"
         }
       ],
       "id": 234,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "バイオハザード ガンサバイバー"
       }
     },
     {
@@ -6292,13 +6293,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219555180",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "バイオハザード5周年記念 ナイトメア・リターンズ アルミ缶限定版",
           "releaseDate": "2001-03-22"
         }
       ],
       "id": 235,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "バイオハザード5周年記念 ナイトメア・リターンズ"
       }
     },
     {
@@ -7927,7 +7928,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219155953",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ブレスオブファイアIII",
           "releaseDate": "1997-11-09"
         },
         {
@@ -7975,7 +7976,7 @@
       ],
       "id": 296,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ブレスオブファイアIII"
       }
     },
     {
@@ -7989,7 +7990,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219455206",
-          "regionalName": "ダークオークション ELJM-30811"
+          "regionalName": "ブレスオブファイアIV うつろわざるもの"
         },
         {
           "name": "BREATH OF FIRE IV [PLAYSTATION THE BEST]",
@@ -7999,7 +8000,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219755870",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ブレスオブファイアIV うつろわざるもの PlayStation the Best",
           "releaseDate": "2002-12-09"
         },
         {
@@ -8021,7 +8022,7 @@
       ],
       "id": 297,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ブレスオブファイアIV うつろわざるもの"
       }
     },
     {
@@ -8688,7 +8689,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219257961",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "カプコンジェネレーション 第1集 撃墜王の時代",
           "releaseDate": "1998-08-27"
         },
         {
@@ -8699,13 +8700,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219557146",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "カプコンジェネレーション 第1集 撃墜王の時代 カプコレ",
           "releaseDate": "2001-02-22"
         }
       ],
       "id": 323,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "カプコンジェネレーション 第1集 撃墜王の時代"
       }
     },
     {
@@ -8719,7 +8720,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219257992",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "カプコンジェネレーション 第2集 魔界と騎士",
           "releaseDate": "1998-09-29"
         },
         {
@@ -8730,13 +8731,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219557214",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "カプコンジェネレーション 第2集 魔界と騎士 カプコレ",
           "releaseDate": "2001-03-15"
         }
       ],
       "id": 324,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "カプコンジェネレーション 第2集 魔界と騎士"
       }
     },
     {
@@ -8750,7 +8751,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219357135",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "カプコンジェネレーション 第3集 ここに歴史はじまる",
           "releaseDate": "1998-10-15"
         },
         {
@@ -8761,13 +8762,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219557283",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "カプコンジェネレーション 第3集 ここに歴史はじまる カプコレ",
           "releaseDate": "2001-04-19"
         }
       ],
       "id": 325,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "カプコンジェネレーション 第3集 ここに歴史はじまる"
       }
     },
     {
@@ -8781,7 +8782,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219357180",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "カプコンジェネレーション 第4集 孤高の英雄",
           "releaseDate": "1998-11-12"
         },
         {
@@ -8798,7 +8799,7 @@
       ],
       "id": 326,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "カプコンジェネレーション 第4集 孤高の英雄"
       }
     },
     {
@@ -8812,7 +8813,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219357357",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "カプコンジェネレーション 第5集",
           "releaseDate": "1998-03-12"
         },
         {
@@ -8829,7 +8830,7 @@
       ],
       "id": 327,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "カプコンジェネレーション 第5集"
       }
     },
     {
@@ -8935,7 +8936,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219754194",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "カプコン バーサス エス・エヌ・ケイ ミレニアムファイト2000 プロ",
           "releaseDate": "2002-04-18"
         },
         {
@@ -8949,7 +8950,7 @@
       ],
       "id": 333,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "カプコン バーサス エス・エヌ・ケイ ミレニアムファイト2000 プロ"
       }
     },
     {
@@ -10988,13 +10989,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872100779",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "サーカディア",
           "releaseDate": "1999-01-14"
         }
       ],
       "id": 413,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "サーカディア"
       }
     },
     {
@@ -11437,7 +11438,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4959143900271",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "クロックタワー2 PlayStation the Best",
           "releaseDate": "1998-03-19"
         },
         {
@@ -11474,7 +11475,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4959143900233",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "クロックタワー ゴーストヘッド",
           "releaseDate": "1998-03-12"
         },
         {
@@ -11490,7 +11491,7 @@
       ],
       "id": 433,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "クロックタワー ゴーストヘッド"
       }
     },
     {
@@ -11585,7 +11586,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4940261501969",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "コリン・マクレー・ザ・ラリー02",
           "releaseDate": "2000-09-07"
         },
         {
@@ -11612,7 +11613,7 @@
       ],
       "id": 437,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "コリン・マクレー・ザ・ラリー02"
       }
     },
     {
@@ -12097,13 +12098,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076002840",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "コットン100% SuperLite 1500シリーズ",
           "releaseDate": "2003-03-27"
         }
       ],
       "id": 454,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "コットン100%"
       }
     },
     {
@@ -12266,7 +12267,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872100472",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "クラッシュ・バンディクー2 コルテックスの逆襲！",
           "releaseDate": "1997-12-18"
         },
         {
@@ -12292,7 +12293,7 @@
       ],
       "id": 459,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "クラッシュ・バンディクー2 コルテックスの逆襲！"
       }
     },
     {
@@ -12525,13 +12526,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872100373",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "クライムクラッカーズ2",
           "releaseDate": "1997-11-27"
         }
       ],
       "id": 467,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "クライムクラッカーズ2"
       }
     },
     {
@@ -13601,13 +13602,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4542084000126",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ダンスダンスレボリューション 4thMIX",
           "releaseDate": "2001-03-15"
         }
       ],
       "id": 508,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ダンスダンスレボリューション 4thMIX"
       }
     },
     {
@@ -14494,7 +14495,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988611980088",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "電車でGO!2",
           "releaseDate": "1999-03-18"
         },
         {
@@ -14505,7 +14506,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988611990049",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "電車でGO!2 プレミアムパック",
           "releaseDate": "1999-03-18"
         },
         {
@@ -14516,13 +14517,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988611200094",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "電車でGO!2 PlayStation the Best",
           "releaseDate": "2000-07-28"
         }
       ],
       "id": 546,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "電車でGO!2"
       }
     },
     {
@@ -14551,7 +14552,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988611990209",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "電車でGO!プロフェッショナル仕様",
           "releaseDate": "1999-12-09"
         },
         {
@@ -14562,13 +14563,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988611200261",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "電車でGO!プロフェッショナル仕様 PlayStation the Best",
           "releaseDate": "2000-12-07"
         }
       ],
       "id": 548,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "電車でGO!プロフェッショナル仕様"
       }
     },
     {
@@ -15085,13 +15086,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076001447",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "デザエモンKIDS！ SuperLite 1500シリーズ",
           "releaseDate": "2000-08-24"
         }
       ],
       "id": 565,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "デザエモンKIDS！"
       }
     },
     {
@@ -15630,7 +15631,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219355681",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ディノクライシス",
           "releaseDate": "1999-07-01"
         },
         {
@@ -15687,7 +15688,7 @@
       ],
       "id": 587,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ディノクライシス"
       }
     },
     {
@@ -15958,13 +15959,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219353472",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ディズニーのマジカルテトリス チャレンジ featuring ミッキー",
           "releaseDate": "1999-03-18"
         }
       ],
       "id": 596,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ディズニーのマジカルテトリス チャレンジ featuring ミッキー"
       }
     },
     {
@@ -17296,7 +17297,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425579375",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ドラゴンボールZ 偉大なるドラゴンボール伝説 PlayStation the Best",
           "releaseDate": "1997-06-27"
         }
       ],
@@ -17515,13 +17516,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988601003520",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ドラゴンクエストIV 導かれし者たち",
           "releaseDate": "2001-11-22"
         }
       ],
       "id": 651,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ドラゴンクエストIV 導かれし者たち"
       }
     },
     {
@@ -17811,7 +17812,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4940261501860",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ドライバー",
           "releaseDate": "2000-03-09"
         },
         {
@@ -17828,7 +17829,7 @@
       ],
       "id": 661,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ドライバー"
       }
     },
     {
@@ -18537,7 +18538,7 @@
           "region": "NTSC-J",
           "tgdbId": 94108,
           "upc": "4949776363017",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "エコーナイト",
           "releaseDate": "1998-08-13"
         },
         {
@@ -18573,7 +18574,7 @@
       ],
       "id": 691,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "エコーナイト"
       }
     },
     {
@@ -18908,7 +18909,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110684",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "エイテア アトラスベストコレクション",
           "releaseDate": "2002-06-13"
         },
         {
@@ -18925,7 +18926,7 @@
       ],
       "id": 704,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "エイテア"
       }
     },
     {
@@ -19773,7 +19774,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4965857040196",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "エクソダスギルティー",
           "releaseDate": "1998-11-26"
         },
         {
@@ -19790,7 +19791,7 @@
       ],
       "id": 744,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "エクソダスギルティー"
       }
     },
     {
@@ -19875,7 +19876,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076000891",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "F-1グランプリ'96 チーム運営シミュレーション SuperLite 1500シリーズ",
           "releaseDate": "1999-12-22"
         }
       ],
@@ -20134,13 +20135,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4521923010052",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ファンタスティックフォーチュン",
           "releaseDate": "2001-05-24"
         }
       ],
       "id": 761,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ファンタスティックフォーチュン"
       }
     },
     {
@@ -21474,13 +21475,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4959143900097",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ファイヤープロレスリング アイアンスラム'96",
           "releaseDate": "1996-03-15"
         }
       ],
       "id": 811,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ファイヤープロレスリング アイアンスラム'96"
       }
     },
     {
@@ -21758,13 +21759,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076001492",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "フィッシングクラブ 浜の釣り拳 SuperLite 1500シリーズ",
           "releaseDate": "2000-08-24"
         }
       ],
       "id": 822,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "フィッシングクラブ 浜の釣り拳"
       }
     },
     {
@@ -21849,13 +21850,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4965857030142",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "FIST",
           "releaseDate": "1996-12-11"
         }
       ],
       "id": 826,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "FIST"
       }
     },
     {
@@ -23014,13 +23015,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219357708",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ガイアマスター 神々のボードゲーム",
           "releaseDate": "2000-03-13"
         }
       ],
       "id": 865,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ガイアマスター 神々のボードゲーム"
       }
     },
     {
@@ -23968,7 +23969,7 @@
           "region": "NTSC-J",
           "tgdbId": 127557,
           "upc": "4964808300211",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "餓狼伝説 ワイルドアンビション",
           "releaseDate": "1999-06-24"
         },
         {
@@ -23993,7 +23994,7 @@
       ],
       "id": 899,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "餓狼伝説 ワイルドアンビション"
       }
     },
     {
@@ -24323,7 +24324,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4542084000010",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "幻想水滸外伝 Vol.1 ハルモニアの剣士",
           "releaseDate": "2000-09-21"
         },
         {
@@ -24351,7 +24352,7 @@
       ],
       "id": 914,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "幻想水滸外伝 Vol.1 ハルモニアの剣士"
       }
     },
     {
@@ -24717,7 +24718,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872100434",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "攻殻機動隊 GHOST IN THE SHELL",
           "releaseDate": "1997-07-17"
         },
         {
@@ -24755,7 +24756,7 @@
       ],
       "id": 926,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "攻殻機動隊 GHOST IN THE SHELL"
       }
     },
     {
@@ -25007,13 +25008,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4965857040219",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "G.O.D. -目覚めよと呼ぶ声が聴こえ-",
           "releaseDate": "1998-02-26"
         }
       ],
       "id": 938,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "G.O.D. -目覚めよと呼ぶ声が聴こえ-"
       }
     },
     {
@@ -25670,7 +25671,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988649973304",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "グランディア",
           "releaseDate": "1999-06-24"
         },
         {
@@ -25700,7 +25701,7 @@
       ],
       "id": 962,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "グランディア"
       }
     },
     {
@@ -25714,13 +25715,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988649073431",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "グランディア PlayStation the Best",
           "releaseDate": "2000-07-27"
         }
       ],
       "id": 963,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "グランディア"
       }
     },
     {
@@ -26011,13 +26012,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995100302",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "グロウランサー",
           "releaseDate": "1999-11-25"
         }
       ],
       "id": 975,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "グロウランサー"
       }
     },
     {
@@ -26111,7 +26112,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4959093201091",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ガブル",
           "releaseDate": "1998-09-17"
         },
         {
@@ -26133,7 +26134,7 @@
       ],
       "id": 980,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ガブル"
       }
     },
     {
@@ -26147,7 +26148,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4510772971034",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ギルティギア",
           "releaseDate": "1998-05-14"
         },
         {
@@ -26158,7 +26159,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4510772991032",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ギルティギア",
           "releaseDate": "1999-09-22"
         },
         {
@@ -26180,7 +26181,7 @@
       ],
       "id": 981,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ギルティギア"
       }
     },
     {
@@ -26334,13 +26335,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110028",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ガンバード",
           "releaseDate": "1995-12-15"
         }
       ],
       "id": 987,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ガンバード"
       }
     },
     {
@@ -27608,13 +27609,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110103",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ヘブンズゲート 勇者",
           "releaseDate": "1996-12-13"
         }
       ],
       "id": 1036,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ヘブンズゲート 勇者"
       }
     },
     {
@@ -30414,13 +30415,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4965857050027",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "イメージファイト＆X-マルチプライ タクティカル ファイター フライトマニアック セット",
           "releaseDate": "1996-11-29"
         }
       ],
       "id": 1165,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "イメージファイト＆X-マルチプライ タクティカル ファイター フライトマニアック セット"
       }
     },
     {
@@ -31675,7 +31676,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988611201060",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ジェットでGO！ レッツゴーバイエアライナー PlayStation the Best",
           "releaseDate": "2000-02-03"
         }
       ],
@@ -32649,7 +32650,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219354721",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ジョジョの奇妙な冒険",
           "releaseDate": "1999-10-14"
         },
         {
@@ -32660,13 +32661,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219454766",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ジョジョの奇妙な冒険 カプコレ",
           "releaseDate": "2001-01-25"
         }
       ],
       "id": 1262,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ジョジョの奇妙な冒険"
       }
     },
     {
@@ -32805,13 +32806,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872100212",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ジャンピングフラッシュ！2 アロハ男爵ファンキー大作戦の巻",
           "releaseDate": "1996-06-26"
         }
       ],
       "id": 1270,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ジャンピングフラッシュ！2 アロハ男爵ファンキー大作戦の巻"
       }
     },
     {
@@ -33293,7 +33294,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4932345996082",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "かまいたちの夜 特別編",
           "releaseDate": "1998-12-03"
         },
         {
@@ -33310,7 +33311,7 @@
       ],
       "id": 1292,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "かまいたちの夜 特別編"
       }
     },
     {
@@ -36757,7 +36758,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076001843",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "此花 TRUE REPORT",
           "releaseDate": "2001-04-26"
         },
         {
@@ -36768,13 +36769,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076002444",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "此花 TRUE REPORT SuperLite 1500シリーズ",
           "releaseDate": "2002-05-30"
         }
       ],
       "id": 1431,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "此花 TRUE REPORT"
       }
     },
     {
@@ -37023,7 +37024,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300259",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "クーデルカ",
           "releaseDate": "1999-12-16"
         },
         {
@@ -37086,7 +37087,7 @@
       ],
       "id": 1442,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "クーデルカ"
       }
     },
     {
@@ -38278,13 +38279,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4965857040127",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ラスベガスドリーム2",
           "releaseDate": "1997-02-28"
         }
       ],
       "id": 1490,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ラスベガスドリーム2"
       }
     },
     {
@@ -38661,7 +38662,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872100397",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "リンダキューブアゲイン",
           "releaseDate": "1997-09-25"
         },
         {
@@ -38677,7 +38678,7 @@
       ],
       "id": 1507,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "リンダキューブアゲイン"
       }
     },
     {
@@ -38833,7 +38834,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988649573245",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ロードランナー ザ・レジェンド・リターンズ",
           "releaseDate": "1996-02-16"
         },
         {
@@ -38849,7 +38850,7 @@
       ],
       "id": 1515,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ロードランナー ザ・レジェンド・リターンズ"
       }
     },
     {
@@ -38863,13 +38864,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076001140",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ロードランナー2 SuperLite 1500シリーズ",
           "releaseDate": "2000-03-30"
         }
       ],
       "id": 1516,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ロードランナー2"
       }
     },
     {
@@ -38999,13 +39000,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4959143900080",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ロジックパズル レインボータウン",
           "releaseDate": "1996-03-08"
         }
       ],
       "id": 1522,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ロジックパズル レインボータウン"
       }
     },
     {
@@ -39174,13 +39175,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872101240",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ラブ＆デストロイ",
           "releaseDate": "2000-01-27"
         }
       ],
       "id": 1530,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ラブ＆デストロイ"
       }
     },
     {
@@ -39808,13 +39809,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988658007175",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "幻月夜",
           "releaseDate": "2000-04-06"
         }
       ],
       "id": 1559,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "幻月夜"
       }
     },
     {
@@ -40346,13 +40347,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602676471",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "麻雀 ハイパーバリュー2800",
           "releaseDate": "2000-01-13"
         }
       ],
       "id": 1584,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "麻雀"
       }
     },
     {
@@ -41185,13 +41186,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219354868",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "マーヴル VS. カプコン クラッシュ オブ スーパーヒーローズ EX EDITION",
           "releaseDate": "1999-11-11"
         }
       ],
       "id": 1622,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "マーヴル VS. カプコン クラッシュ オブ スーパーヒーローズ EX EDITION"
       }
     },
     {
@@ -41317,7 +41318,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076002383",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "マット・ホフマンズ プロBMX",
           "releaseDate": "2002-09-05"
         },
         {
@@ -41355,7 +41356,7 @@
       ],
       "id": 1627,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "マット・ホフマンズ プロBMX"
       }
     },
     {
@@ -41921,13 +41922,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110356",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "メカポケラー",
           "releaseDate": "2000-04-20"
         }
       ],
       "id": 1648,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "メカポケラー"
       }
     },
     {
@@ -42606,7 +42607,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300235",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "メタルスラッグ スーパービークル-001 SNKベストコレクション",
           "releaseDate": "1999-09-09"
         },
         {
@@ -42658,7 +42659,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300372",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "メタルスラッグX SNKベストコレクション",
           "releaseDate": "2002-07-25"
         },
         {
@@ -43241,13 +43242,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076002079",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "みんなのチェス SuperLiteゴールドシリーズ",
           "releaseDate": "2001-11-29"
         }
       ],
       "id": 1700,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "みんなのチェス"
       }
     },
     {
@@ -43294,7 +43295,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872100939",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "みんなのGOLF2",
           "releaseDate": "1999-07-29"
         },
         {
@@ -43310,7 +43311,7 @@
       ],
       "id": 1702,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "みんなのGOLF2"
       }
     },
     {
@@ -43829,13 +43830,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425580500",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "機動戦士ガンダム パーフェクトワンイヤーウォー",
           "releaseDate": "1997-07-31"
         }
       ],
       "id": 1725,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "機動戦士ガンダム パーフェクトワンイヤーウォー"
       }
     },
     {
@@ -44590,7 +44591,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4959143900202",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ムーンライトシンドローム",
           "releaseDate": "1997-10-09"
         },
         {
@@ -44607,7 +44608,7 @@
       ],
       "id": 1751,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ムーンライトシンドローム"
       }
     },
     {
@@ -45439,13 +45440,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4535506300126",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "無敵王トライゼノン",
           "releaseDate": "2001-03-15"
         }
       ],
       "id": 1786,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "無敵王トライゼノン"
       }
     },
     {
@@ -47289,7 +47290,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425575292",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ネクストキング 恋の千年王国 限定版",
           "releaseDate": "1997-06-27"
         },
         {
@@ -47300,13 +47301,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425575285",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ネクストキング 恋の千年王国",
           "releaseDate": "1997-06-27"
         }
       ],
       "id": 1850,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ネクストキング 恋の千年王国"
       }
     },
     {
@@ -51877,13 +51878,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4541993001545",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "パンツァーフロント Bis.",
           "releaseDate": "2001-02-08"
         }
       ],
       "id": 2029,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "パンツァーフロント Bis."
       }
     },
     {
@@ -51933,7 +51934,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076001614",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "鮑翎明監修 風水入門",
           "releaseDate": "2001-01-25"
         },
         {
@@ -51950,7 +51951,7 @@
       ],
       "id": 2031,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "鮑翎明監修 風水入門"
       }
     },
     {
@@ -52813,7 +52814,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110370",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ペルソナ2 罰 ETERNAL PUNISHMENT",
           "releaseDate": "2000-06-29"
         },
         {
@@ -52827,7 +52828,7 @@
       ],
       "id": 2066,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ペルソナ2 罰 ETERNAL PUNISHMENT"
       }
     },
     {
@@ -52841,7 +52842,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110561",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ペルソナ2 罰 ETERNAL PUNISHMENT アトラスベストコレクション",
           "releaseDate": "2001-11-22"
         },
         {
@@ -52852,13 +52853,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110387",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ペルソナ2 罰 ETERNAL PUNISHMENT デラックスパック",
           "releaseDate": "2000-06-29"
         }
       ],
       "id": 2067,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ペルソナ2 罰 ETERNAL PUNISHMENT"
       }
     },
     {
@@ -52881,7 +52882,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110271",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ペルソナ2 罪 INNOCENT SIN",
           "releaseDate": "1999-06-24"
         },
         {
@@ -52898,7 +52899,7 @@
       ],
       "id": 2068,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ペルソナ2 罪 INNOCENT SIN"
       }
     },
     {
@@ -53912,7 +53913,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219254748",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "スーパーパズルファイターIIX",
           "releaseDate": "1998-06-11"
         },
         {
@@ -53945,7 +53946,7 @@
       ],
       "id": 2112,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "スーパーパズルファイターIIX"
       }
     },
     {
@@ -54339,13 +54340,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602731866",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ポップンミュージック3",
           "releaseDate": "2000-02-10"
         }
       ],
       "id": 2129,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ポップンミュージック3"
       }
     },
     {
@@ -56644,7 +56645,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4949794000048",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "雷電DX",
           "releaseDate": "1997-04-11"
         },
         {
@@ -56661,7 +56662,7 @@
       ],
       "id": 2225,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "雷電DX"
       }
     },
     {
@@ -57357,7 +57358,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300020",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "リアルバウト餓狼伝説",
           "releaseDate": "1997-01-10"
         },
         {
@@ -57374,7 +57375,7 @@
       ],
       "id": 2246,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "リアルバウト餓狼伝説"
       }
     },
     {
@@ -57397,7 +57398,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300129",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "リアルバウト餓狼伝説スペシャル ドミネイテッドマインド",
           "releaseDate": "1998-06-25"
         },
         {
@@ -57424,7 +57425,7 @@
       ],
       "id": 2247,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "リアルバウト餓狼伝説スペシャル ドミネイテッドマインド"
       }
     },
     {
@@ -57478,7 +57479,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110189",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "レブス",
           "releaseDate": "1998-03-26"
         },
         {
@@ -57495,7 +57496,7 @@
       ],
       "id": 2250,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "レブス"
       }
     },
     {
@@ -57696,7 +57697,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4965857040318",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "恋愛講座 Real Age",
           "releaseDate": "1999-06-24"
         },
         {
@@ -57713,7 +57714,7 @@
       ],
       "id": 2258,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "恋愛講座 Real Age"
       }
     },
     {
@@ -58207,13 +58208,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4544626001028",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "立体忍者活劇 天誅2",
           "releaseDate": "2000-11-30"
         }
       ],
       "id": 2277,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "立体忍者活劇 天誅2"
       }
     },
     {
@@ -58598,7 +58599,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219354714",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ロックマン コンプリートワークス",
           "releaseDate": "1999-08-05"
         },
         {
@@ -58625,7 +58626,7 @@
       ],
       "id": 2290,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ロックマン コンプリートワークス"
       }
     },
     {
@@ -58639,7 +58640,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219354738",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ロックマン2 Dr.ワイリーの謎 コンプリートワークス",
           "releaseDate": "1999-09-02"
         },
         {
@@ -58666,7 +58667,7 @@
       ],
       "id": 2291,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ロックマン2 Dr.ワイリーの謎 コンプリートワークス"
       }
     },
     {
@@ -58680,7 +58681,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219354745",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ロックマン3 Dr.ワイリーの最期!? コンプリートワークス",
           "releaseDate": "1999-09-14"
         },
         {
@@ -58691,13 +58692,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219954266",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ロックマン3 Dr.ワイリーの最期!? コンプリートワークス PS one Books",
           "releaseDate": "2003-05-29"
         }
       ],
       "id": 2292,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ロックマン3 Dr.ワイリーの最期!? コンプリートワークス"
       }
     },
     {
@@ -58711,7 +58712,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219354790",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ロックマン4 新たなる野望!! コンプリートワークス",
           "releaseDate": "1999-10-28"
         },
         {
@@ -58728,7 +58729,7 @@
       ],
       "id": 2293,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ロックマン4 新たなる野望!! コンプリートワークス"
       }
     },
     {
@@ -58742,7 +58743,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219354806",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ロックマン5 ブルースの罠!? コンプリートワークス",
           "releaseDate": "1999-11-25"
         },
         {
@@ -58759,7 +58760,7 @@
       ],
       "id": 2294,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ロックマン5 ブルースの罠!? コンプリートワークス"
       }
     },
     {
@@ -58773,7 +58774,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219354875",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ロックマン6 史上最大の戦い!! コンプリートワークス",
           "releaseDate": "1999-10-28"
         },
         {
@@ -58784,13 +58785,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219954303",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ロックマン6 史上最大の戦い!! コンプリートワークス PS one Books",
           "releaseDate": "2003-05-29"
         }
       ],
       "id": 2295,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ロックマン6 史上最大の戦い!! コンプリートワークス"
       }
     },
     {
@@ -58815,7 +58816,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219254076",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ロックマン8 メタルヒーローズ PlayStation the Best",
           "releaseDate": "1997-11-27"
         }
       ],
@@ -58846,7 +58847,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219356152",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ロックマン バトル＆チェイス PlayStation the Best",
           "releaseDate": "1998-10-22"
         }
       ],
@@ -58866,7 +58867,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219255080",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ロックマンDASH 鋼の冒険心",
           "releaseDate": "1997-12-18"
         },
         {
@@ -58877,13 +58878,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219354622",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ロックマンDASH 鋼の冒険心 PlayStation the Best",
           "releaseDate": "1999-12-04"
         }
       ],
       "id": 2298,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ロックマンDASH 鋼の冒険心"
       }
     },
     {
@@ -58908,7 +58909,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219554299",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ロックマンDASH2 大いなる遺産 PlayStation the Best",
           "releaseDate": "2001-04-05"
         }
       ],
@@ -58970,7 +58971,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219354318",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ロックマンX4 PlayStation the Best",
           "releaseDate": "1998-11-26"
         },
         {
@@ -59011,7 +59012,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219454599",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ロックマンX5",
           "releaseDate": "2000-11-20"
         },
         {
@@ -59028,7 +59029,7 @@
       ],
       "id": 2302,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ロックマンX5"
       }
     },
     {
@@ -59042,7 +59043,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219654111",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ロックマンX6",
           "releaseDate": "2001-11-29"
         },
         {
@@ -59059,7 +59060,7 @@
       ],
       "id": 2303,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ロックマンX6"
       }
     },
     {
@@ -60237,7 +60238,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300099",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "サムライスピリッツ 天草降臨スペシャル",
           "releaseDate": "1997-12-25"
         },
         {
@@ -60254,7 +60255,7 @@
       ],
       "id": 2344,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "サムライスピリッツ 天草降臨スペシャル"
       }
     },
     {
@@ -60886,7 +60887,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076001157",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ザンファイン SuperLite 1500シリーズ",
           "releaseDate": "2000-03-30"
         },
         {
@@ -60900,7 +60901,7 @@
       ],
       "id": 2363,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ザンファイン"
       }
     },
     {
@@ -61161,7 +61162,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076001676",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "スクリーン SuperLite 1500シリーズ",
           "releaseDate": "2001-02-22"
         }
       ],
@@ -61570,7 +61571,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961012027101",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "聖剣伝説 LEGEND OF MANA PS one Books",
           "releaseDate": "2002-02-21"
         },
         {
@@ -61581,7 +61582,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961012007240",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "聖剣伝説 LEGEND OF MANA スクウェアソフトミレニアムコレクション",
           "releaseDate": "2000-09-28"
         },
         {
@@ -61592,13 +61593,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988601004718",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "聖剣伝説 LEGEND OF MANA アルティメットヒッツ",
           "releaseDate": "2006-07-20"
         }
       ],
       "id": 2393,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "聖剣伝説 LEGEND OF MANA"
       }
     },
     {
@@ -62090,7 +62091,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872100342",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "戦闘国家改 IMPROVED",
           "releaseDate": "1997-04-11"
         },
         {
@@ -62106,7 +62107,7 @@
       ],
       "id": 2417,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "戦闘国家改 IMPROVED"
       }
     },
     {
@@ -62254,7 +62255,7 @@
           "region": "NTSC-J",
           "tgdbId": 126589,
           "upc": "4949776361075",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "シャドウタワー",
           "releaseDate": "1998-06-25"
         },
         {
@@ -62268,7 +62269,7 @@
       ],
       "id": 2424,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "シャドウタワー"
       }
     },
     {
@@ -62808,13 +62809,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110455",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "真・女神転生",
           "releaseDate": "2001-05-31"
         }
       ],
       "id": 2447,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "真・女神転生"
       }
     },
     {
@@ -62848,13 +62849,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110592",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "真・女神転生 デビルチルドレン 黒の書・赤の書",
           "releaseDate": "2002-03-28"
         }
       ],
       "id": 2449,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "真・女神転生 デビルチルドレン 黒の書・赤の書"
       }
     },
     {
@@ -62868,13 +62869,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110646",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "真・女神転生if...",
           "releaseDate": "2002-12-26"
         }
       ],
       "id": 2450,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "真・女神転生if..."
       }
     },
     {
@@ -62888,13 +62889,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995111704",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "真・女神転生if... 花子坂高校50周年記念パック",
           "releaseDate": "2002-12-26"
         }
       ],
       "id": 2451,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "真・女神転生if... 花子坂高校50周年記念パック"
       }
     },
     {
@@ -63310,7 +63311,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300150",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "新説サムライスピリッツ 武士道烈伝 PlayStation the Best",
           "releaseDate": "1998-07-23"
         }
       ],
@@ -63415,13 +63416,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219254892",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "私立ジャスティス学園 LEGION OF HEROES",
           "releaseDate": "1998-07-30"
         }
       ],
       "id": 2471,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "私立ジャスティス学園 LEGION OF HEROES"
       }
     },
     {
@@ -63435,7 +63436,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219354639",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "私立ジャスティス学園 熱血青春日記2",
           "releaseDate": "1999-06-24"
         },
         {
@@ -63446,13 +63447,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219554169",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "私立ジャスティス学園 熱血青春日記2 カプコレ",
           "releaseDate": "2001-02-22"
         }
       ],
       "id": 2472,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "私立ジャスティス学園 熱血青春日記2"
       }
     },
     {
@@ -66516,13 +66517,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823991200",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "SIMPLE1500シリーズ Vol.85 THE 戦国武将",
           "releaseDate": "2002-01-31"
         }
       ],
       "id": 2607,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "SIMPLE1500シリーズ Vol.85 THE 戦国武将"
       }
     },
     {
@@ -66803,13 +66804,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4527823991538",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "SIMPLE1500シリーズ Vol.100 THE 宇宙飛行士",
           "releaseDate": "2002-08-29"
         }
       ],
       "id": 2622,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "SIMPLE1500シリーズ Vol.100 THE 宇宙飛行士"
       }
     },
     {
@@ -67284,7 +67285,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4541993010776",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "シミュレーションRPGツクール エンターブレインコレクション",
           "releaseDate": "2001-11-29"
         }
       ],
@@ -68229,7 +68230,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110202",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ソルディバイド",
           "releaseDate": "1998-07-02"
         },
         {
@@ -68243,7 +68244,7 @@
       ],
       "id": 2690,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ソルディバイド"
       }
     },
     {
@@ -68440,7 +68441,7 @@
       ],
       "id": 2698,
       "localizedNames": {
-          "ja": "卒業 クロスワールド"
+        "ja": "卒業 クロスワールド"
       }
     },
     {
@@ -69001,7 +69002,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4932345986076",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "サウンドノベル エボリューション1 弟切草 蘇生編",
           "releaseDate": "1999-03-25"
         },
         {
@@ -69018,7 +69019,7 @@
       ],
       "id": 2720,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "サウンドノベル エボリューション1 弟切草 蘇生編"
       }
     },
     {
@@ -69406,13 +69407,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988611980101",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "スペースインベーダー2000",
           "releaseDate": "1998-12-03"
         }
       ],
       "id": 2737,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "スペースインベーダー2000"
       }
     },
     {
@@ -70054,13 +70055,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4949776362102",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "スプリガン ルナ=ヴァース",
           "releaseDate": "1999-06-16"
         }
       ],
       "id": 2757,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "スプリガン ルナ=ヴァース"
       }
     },
     {
@@ -70364,7 +70365,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988601003124",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "スターオーシャン セカンドストーリー",
           "releaseDate": "1998-07-20"
         },
         {
@@ -70402,7 +70403,7 @@
       ],
       "id": 2769,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "スターオーシャン セカンドストーリー"
       }
     },
     {
@@ -70416,13 +70417,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988601004206",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "スターオーシャン セカンドストーリー PS one Books",
           "releaseDate": "2005-03-03"
         }
       ],
       "id": 2770,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "スターオーシャン セカンドストーリー"
       }
     },
     {
@@ -71089,7 +71090,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219354066",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ストリートファイターEX プラスα PlayStation the Best",
           "releaseDate": "1998-09-23"
         },
         {
@@ -71125,7 +71126,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219354950",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ストリートファイターEX2プラス",
           "releaseDate": "1999-12-22"
         },
         {
@@ -71147,7 +71148,7 @@
       ],
       "id": 2792,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ストリートファイターEX2プラス"
       }
     },
     {
@@ -71212,7 +71213,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219354363",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ストリートファイターZERO3",
           "releaseDate": "1998-12-23"
         },
         {
@@ -71223,13 +71224,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219554954",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ストリートファイターZERO3 カプコレ",
           "releaseDate": "2001-08-30"
         }
       ],
       "id": 2795,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ストリートファイターZERO3"
       }
     },
     {
@@ -71391,7 +71392,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110042",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ストライカーズ1945",
           "releaseDate": "1996-07-19"
         },
         {
@@ -71405,7 +71406,7 @@
       ],
       "id": 2803,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ストライカーズ1945"
       }
     },
     {
@@ -71802,13 +71803,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219255042",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "スーパーアドベンチャーロックマン",
           "releaseDate": "1998-06-25"
         }
       ],
       "id": 2818,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "スーパーアドベンチャーロックマン"
       }
     },
     {
@@ -72948,13 +72949,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076000723",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "リバーシII SuperLite 1500シリーズ",
           "releaseDate": "1999-08-26"
         }
       ],
       "id": 2868,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "リバーシII"
       }
     },
     {
@@ -73375,13 +73376,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076002017",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "みんなの将棋 初級編 SuperLiteゴールドシリーズ",
           "releaseDate": "2002-03-07"
         }
       ],
       "id": 2890,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "みんなの将棋 初級編"
       }
     },
     {
@@ -74127,13 +74128,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988649673280",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "タクラマカン 敦煌傳竒",
           "releaseDate": "1996-11-22"
         }
       ],
       "id": 2916,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "タクラマカン 敦煌傳竒"
       }
     },
     {
@@ -75658,13 +75659,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4965857040103",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "タクティカル ファイター",
           "releaseDate": "1996-11-29"
         }
       ],
       "id": 2971,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "タクティカル ファイター"
       }
     },
     {
@@ -76205,7 +76206,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076003168",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "THE ファミレス SuperLite 1500シリーズ",
           "releaseDate": "2003-05-22"
         }
       ],
@@ -76306,13 +76307,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4959143900059",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ザ・ファイヤーメン2 ピート＆ダニー",
           "releaseDate": "1995-12-22"
         }
       ],
       "id": 2997,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ザ・ファイヤーメン2 ピート＆ダニー"
       }
     },
     {
@@ -76357,7 +76358,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076001089",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "THE ゲームメーカー SuperLite 1500シリーズ",
           "releaseDate": "2000-03-02"
         }
       ],
@@ -76477,7 +76478,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300006",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ザ・キング・オブ・ファイターズ'95",
           "releaseDate": "1996-06-28"
         },
         {
@@ -76510,7 +76511,7 @@
       ],
       "id": 3005,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ザ・キング・オブ・ファイターズ'95"
       }
     },
     {
@@ -76524,7 +76525,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300075",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ザ・キング・オブ・ファイターズ'96",
           "releaseDate": "1997-07-04"
         },
         {
@@ -76535,13 +76536,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300167",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ザ・キング・オブ・ファイターズ'96 PlayStation the Best",
           "releaseDate": "1998-07-23"
         }
       ],
       "id": 3006,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ザ・キング・オブ・ファイターズ'96"
       }
     },
     {
@@ -76564,7 +76565,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300136",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ザ・キング・オブ・ファイターズ'97",
           "releaseDate": "1998-05-28"
         },
         {
@@ -76575,7 +76576,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300228",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ザ・キング・オブ・ファイターズ'97 PlayStation the Best",
           "releaseDate": "1999-06-24"
         },
         {
@@ -76592,7 +76593,7 @@
       ],
       "id": 3007,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ザ・キング・オブ・ファイターズ'97"
       }
     },
     {
@@ -76606,7 +76607,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300204",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ザ・キング・オブ・ファイターズ'98 ドリームマッチネバーエンズ",
           "releaseDate": "1999-03-25"
         },
         {
@@ -76617,7 +76618,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300297",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ザ・キング・オブ・ファイターズ'98 ドリームマッチネバーエンズ SNKベストコレクション",
           "releaseDate": "2000-03-09"
         },
         {
@@ -76634,7 +76635,7 @@
       ],
       "id": 3008,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ザ・キング・オブ・ファイターズ'98 ドリームマッチネバーエンズ"
       }
     },
     {
@@ -76657,7 +76658,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300310",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ザ・キング・オブ・ファイターズ'99",
           "releaseDate": "2000-02-23"
         },
         {
@@ -76668,7 +76669,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300358",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ザ・キング・オブ・ファイターズ'99 SNKベストコレクション",
           "releaseDate": "2001-03-29"
         },
         {
@@ -76679,7 +76680,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300365",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ザ・キング・オブ・ファイターズ'99 SNKベストコレクション",
           "releaseDate": "2002-07-25"
         },
         {
@@ -76693,7 +76694,7 @@
       ],
       "id": 3009,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ザ・キング・オブ・ファイターズ'99"
       }
     },
     {
@@ -76707,7 +76708,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300112",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ザ・キング・オブ・ファイターズ京",
           "releaseDate": "1998-08-27"
         },
         {
@@ -76723,7 +76724,7 @@
       ],
       "id": 3010,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ザ・キング・オブ・ファイターズ京"
       }
     },
     {
@@ -77654,13 +77655,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076001423",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "THE テトリス SuperLite 1500シリーズ",
           "releaseDate": "2000-07-19"
         }
       ],
       "id": 3047,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "THE テトリス"
       }
     },
     {
@@ -77845,7 +77846,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902425588957",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "天空のエスカフローネ",
           "releaseDate": "1999-09-25"
         },
         {
@@ -77862,7 +77863,7 @@
       ],
       "id": 3056,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "天空のエスカフローネ"
       }
     },
     {
@@ -78111,7 +78112,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110240",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "サウザンドアームズ",
           "releaseDate": "1998-12-17"
         },
         {
@@ -78125,7 +78126,7 @@
       ],
       "id": 3066,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "サウザンドアームズ"
       }
     },
     {
@@ -78428,7 +78429,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010338",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "タイムクライシス ガンコン同梱版",
           "releaseDate": "1997-06-27"
         },
         {
@@ -78439,7 +78440,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010338",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "タイムクライシス ガンコン同梱版",
           "releaseDate": "1997-08-07"
         },
         {
@@ -78481,7 +78482,7 @@
       ],
       "id": 3078,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "タイムクライシス"
       }
     },
     {
@@ -79542,7 +79543,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076002307",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "トム＆ジェリー イン ハウストラップ",
           "releaseDate": "2002-09-19"
         },
         {
@@ -79564,7 +79565,7 @@
       ],
       "id": 3127,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "トム＆ジェリー イン ハウストラップ"
       }
     },
     {
@@ -79743,7 +79744,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219555227",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "トゥームレイダー5 クロニクル",
           "releaseDate": "2001-05-31"
         },
         {
@@ -79754,7 +79755,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219754866",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "トゥームレイダー5 クロニクル カプコレ",
           "releaseDate": "2002-09-12"
         },
         {
@@ -79776,7 +79777,7 @@
       ],
       "id": 3132,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "トゥームレイダー5 クロニクル"
       }
     },
     {
@@ -79866,7 +79867,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076001010",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "トニー・ホーク プロスケーター",
           "releaseDate": "2000-03-30"
         },
         {
@@ -79891,7 +79892,7 @@
       ],
       "id": 3137,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "トニー・ホーク プロスケーター"
       }
     },
     {
@@ -79905,7 +79906,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076001683",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "トニー・ホーク プロスケーター2",
           "releaseDate": "2001-03-08"
         },
         {
@@ -79943,7 +79944,7 @@
       ],
       "id": 3138,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "トニー・ホーク プロスケーター2"
       }
     },
     {
@@ -80192,7 +80193,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110141",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "峠MAX 最速ドリフトマスター PlayStation the Best",
           "releaseDate": "1997-11-20"
         }
       ],
@@ -80253,13 +80254,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110325",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "峠MAXG",
           "releaseDate": "2000-01-13"
         }
       ],
       "id": 3150,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "峠MAXG"
       }
     },
     {
@@ -80485,13 +80486,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219356459",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "トリッキースライダーズ",
           "releaseDate": "1999-02-04"
         }
       ],
       "id": 3162,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "トリッキースライダーズ"
       }
     },
     {
@@ -80620,13 +80621,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219354677",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "トロンにコブン",
           "releaseDate": "1999-07-22"
         }
       ],
       "id": 3168,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "トロンにコブン"
       }
     },
     {
@@ -80640,13 +80641,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219454407",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "トロンにコブン PlayStation the Best",
           "releaseDate": "2000-07-27"
         }
       ],
       "id": 3169,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "トロンにコブン"
       }
     },
     {
@@ -81065,7 +81066,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4940261501938",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "トワイライトシンドローム 再会",
           "releaseDate": "2000-07-27"
         },
         {
@@ -81092,7 +81093,7 @@
       ],
       "id": 3188,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "トワイライトシンドローム 再会"
       }
     },
     {
@@ -82020,7 +82021,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076000952",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "UNO SuperLite 1500シリーズ",
           "releaseDate": "1999-12-22"
         }
       ],
@@ -82158,7 +82159,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4940261501839",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "V-ラリー2 チャンピオンシップ エディション",
           "releaseDate": "2000-01-27"
         },
         {
@@ -82182,7 +82183,7 @@
       ],
       "id": 3231,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "V-ラリー2 チャンピオンシップ エディション"
       }
     },
     {
@@ -82279,7 +82280,7 @@
           "region": "NTSC-J",
           "tgdbId": 126507,
           "upc": "4961012997107",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ベイグラントストーリー",
           "releaseDate": "2000-02-10"
         },
         {
@@ -82339,7 +82340,7 @@
       ],
       "id": 3235,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ベイグラントストーリー"
       }
     },
     {
@@ -82442,13 +82443,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219154253",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ヴァンパイア ザ・ナイトウォリアーズ",
           "releaseDate": "1996-03-29"
         }
       ],
       "id": 3239,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ヴァンパイア ザ・ナイトウォリアーズ"
       }
     },
     {
@@ -82521,7 +82522,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219354172",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ヴァンパイアセイヴァー EX EDITION",
           "releaseDate": "1998-11-05"
         },
         {
@@ -82532,13 +82533,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219554336",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ヴァンパイアセイヴァー EX EDITION カプコレ",
           "releaseDate": "2001-05-31"
         }
       ],
       "id": 3241,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ヴァンパイアセイヴァー EX EDITION"
       }
     },
     {
@@ -84741,7 +84742,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076001966",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ウィザードリィ ニューエイジオブリルガミン SuperLiteゴールドシリーズ",
           "releaseDate": "2001-10-30"
         }
       ],
@@ -84841,7 +84842,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4510772950039",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ウィザーズハーモニー",
           "releaseDate": "1995-12-29"
         },
         {
@@ -84868,7 +84869,7 @@
       ],
       "id": 3328,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "ウィザーズハーモニー"
       }
     },
     {
@@ -85537,7 +85538,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4940261501990",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "WTC〜ワールド・ツーリングカー・チャンピオンシップ〜",
           "releaseDate": "2000-09-11"
         },
         {
@@ -85564,7 +85565,7 @@
       ],
       "id": 3357,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "WTC〜ワールド・ツーリングカー・チャンピオンシップ〜"
       }
     },
     {
@@ -85589,7 +85590,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076002062",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "ウータン シャオリンスタイル SuperLite 1500シリーズ",
           "releaseDate": "2001-11-21"
         },
         {
@@ -85761,7 +85762,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076001690",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "X-MEN ミュータントアカデミー",
           "releaseDate": "2001-04-12"
         },
         {
@@ -85778,7 +85779,7 @@
       ],
       "id": 3364,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "X-MEN ミュータントアカデミー"
       }
     },
     {
@@ -87063,13 +87064,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4940261501808",
-          "regionalName": "ダークオークション ELJM-30811",
+          "regionalName": "夕闇通り探検隊",
           "releaseDate": "1999-10-07"
         }
       ],
       "id": 3417,
       "localizedNames": {
-        "ja": "ダークオークション ELJM-30811"
+        "ja": "夕闇通り探検隊"
       }
     },
     {
