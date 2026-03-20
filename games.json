@@ -31135,14 +31135,25 @@
       "name": "J.B. HAROLD - BLUE CHICAGO BLUES",
       "gameInstances": [
         {
-          "name": "J.B. HAROLD - BLUE CHICAGO BLUES [RIVERHILL BEST VOL.2]  -  [ 2 DISCS ]",
+          "name": "J.B. HAROLD - BLUE CHICAGO BLUES",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-02148",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "496752101157",
+          "regionalName": "ブルー・シカゴ・ブルース",
+          "releaseDate": "1995-11-22"
+        },
+        {
+          "name": "J.B. HAROLD - BLUE CHICAGO BLUES [RIVERHILL BEST VOL.2]",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-02148SLPS-02149",
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4967652101515",
-          "regionalName": "ブルー・シカゴ・ブルース",
+          "regionalName": "ブルー・シカゴ・ブルース [RIVERHILL BEST VOL.2]",
           "releaseDate": "1999-07-01"
         }
       ],
@@ -57998,7 +58009,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010123",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "リッジレーサー　レボリューション",
           "releaseDate": "1995-12-03"
         },
         {
@@ -58009,7 +58020,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010390",
-          "regionalName": "リッジレーサー　レボリューション",
+          "regionalName": "リッジレーサー　レボリューション [PLAYSTATION THE BEST]",
           "releaseDate": "1997-06-27"
         },
         {
@@ -58031,7 +58042,7 @@
       ],
       "id": 2271,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "リッジレーサー　レボリューション"
       }
     },
     {
