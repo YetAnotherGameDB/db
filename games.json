@@ -6061,7 +6061,9 @@
           "Language": "[J]",
           "serial": "SCPS-10014",
           "region": "NTSC-J",
+          "upc": "4948872100144",
           "tgdbId": 0,
+          "regioonalName": "ビヨンド ザ ビヨンド",
           "releaseDate": "1995-11-03"
         },
         {
@@ -6073,7 +6075,10 @@
           "tgdbId": 0
         }
       ],
-      "id": 225
+      "id": 225,
+      "localizedNames": {
+        "ja": "ビヨンド ザ ビヨンド"
+      }
     },
     {
       "name": "BIG CHALLENGE GOLF - TOKYO YOMIURI COUNTRY CLUB HEN",
@@ -61920,10 +61925,14 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4938833002297",
+          "regionalName": "戦略将棋",
           "releaseDate": "1995-11-17"
         }
       ],
-      "id": 2411
+      "id": 2411,
+      "localizedNames": {
+        "ja": "戦略将棋"
+      }
     },
     {
       "name": "SENTIMENTAL GRAFFITI",
@@ -77206,10 +77215,14 @@
           "serial": "SLPS-00087",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "regionalName": "パーフェクトゴルフ",
           "releaseDate": "1995-12-01"
         }
       ],
-      "id": 3030
+      "id": 3030,
+      "localizedNames": {
+        "ja": "パーフェクトゴルフ"
+      }
     },
     {
       "name": "THE PRO MAHJONG - MENKYO KAIDEN",
