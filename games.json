@@ -11168,7 +11168,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988002324538",
-          "regionalName": "クラシックロード ビクターエンタテインメント",
+          "regionalName": "クラシックロード",
           "releaseDate": "1995-12-15"
         },
         {
@@ -11179,13 +11179,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988110020025",
-          "regionalName": "PlayStation the Best クラシックロード / ビクターエンタテインメント",
+          "regionalName": "クラシックロード [PLAYSTATION THE BEST]",
           "releaseDate": "1996-11-29"
         }
       ],
       "id": 420,
       "localizedNames": {
-        "ja": "クラシックロード ビクターエンタテインメント"
+        "ja": "クラシックロード"
       }
     },
     {
