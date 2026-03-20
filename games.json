@@ -77597,6 +77597,8 @@
           "Language": "[J]",
           "serial": "SLPS-00140",
           "region": "NTSC-J",
+          "upc": "4902333200033",
+          "regionalName": "スノーマン",
           "tgdbId": 0,
           "releaseDate": "1995-12-08"
         },
@@ -77608,10 +77610,14 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4902333200026",
+          "regionalName": "スノーマン",
           "releaseDate": "1995-12-08"
         }
       ],
-      "id": 3045
+      "id": 3045,
+      "localizedNames": {
+        "ja": "スノーマン"
+      }
     },
     {
       "name": "THE STAR BOWLING - DX",
