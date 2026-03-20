@@ -9096,7 +9096,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988640100082",
-          "regionalName": "カルネージハート(Carnage Heart) アートディンク",
+          "regionalName": "カルネージハート",
           "releaseDate": "1995-12-08"
         },
         {
@@ -9107,7 +9107,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988640100464",
-          "regionalName": "カルネージハート(Carnage Heart) アートディンク",
+          "regionalName": "カルネージハート [ARTDINK BEST CHOICE]",
           "releaseDate": "2000-01-06"
         },
         {
@@ -9118,8 +9118,16 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4944076003120",
-          "regionalName": "カルネージハート(Carnage Heart) アートディンク",
+          "regionalName": "カルネージハート [SUPERLITE 1500 SERIES]",
           "releaseDate": "2003-04-27"
+        },
+        {
+          "name": "CARNAGE HEART",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SCUS-94604",
+          "region": "NTSC-U",
+          "tgdbId": 0
         },
         {
           "name": "CARNAGE HEART",
@@ -9132,7 +9140,7 @@
       ],
       "id": 339,
       "localizedNames": {
-        "ja": "カルネージハート(Carnage Heart) アートディンク"
+        "ja": "カルネージハート"
       }
     },
     {
@@ -90485,20 +90493,6 @@
         }
       ],
       "id": 3581
-    },
-    {
-      "name": "CARNAGE HEART",
-      "gameInstances": [
-        {
-          "name": "CARNAGE HEART  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SCUS-94604SCUS-94964",
-          "region": "NTSC-U",
-          "tgdbId": 0
-        }
-      ],
-      "id": 3582
     },
     {
       "name": "CART WORLD SERIES",
