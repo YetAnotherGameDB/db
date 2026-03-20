@@ -6737,13 +6737,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988604360040",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ブレイズ&ブレイド バスターズ",
           "releaseDate": "1998-09-23"
         }
       ],
       "id": 251,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ブレイズ&ブレイド バスターズ"
       }
     },
     {
@@ -17676,7 +17676,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907859108153",
-          "regionalName": "DRAGON SEEDS/ドラゴンシーズ 最終進化形態",
+          "regionalName": "ドラゴンシーズ 最終進化形態",
           "releaseDate": "1998-08-06"
         },
         {
@@ -17690,14 +17690,14 @@
       ],
       "id": 658,
       "localizedNames": {
-        "ja": "DRAGON SEEDS/ドラゴンシーズ 最終進化形態"
+        "ja": "ドラゴンシーズ 最終進化形態"
       }
     },
     {
       "name": "DRAGON VALOR",
       "gameInstances": [
         {
-          "name": "DRAGON VALOR  -  [ 2 DISCS ]",
+          "name": "DRAGON VALOR",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SCPS-45459SCPS-45460",
@@ -17706,18 +17706,18 @@
           "releaseDate": "1999-12-02"
         },
         {
-          "name": "DRAGON VALOR  -  [ 2 DISCS ]",
+          "name": "DRAGON VALOR",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-02190SLPS-02191",
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010635",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ドラゴンヴァラー",
           "releaseDate": "1999-12-02"
         },
         {
-          "name": "DRAGON VALOR  -  [ 2 DISCS ]",
+          "name": "DRAGON VALOR",
           "platform": "ps1",
           "Language": "[E]",
           "serial": "SLUS-01092SLUS-01164",
@@ -17725,7 +17725,7 @@
           "tgdbId": 0
         },
         {
-          "name": "DRAGON VALOR  -  [ 2 DISCS ]",
+          "name": "DRAGON VALOR",
           "platform": "ps1",
           "Language": "[E]",
           "serial": "SCES-01705SCES-11705",
@@ -17767,7 +17767,7 @@
       ],
       "id": 659,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ドラゴンヴァラー"
       }
     },
     {
@@ -18147,13 +18147,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995900100",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "DX人生ゲームV PS one Books",
           "releaseDate": "2006-02-16"
         }
       ],
       "id": 674,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "DX人生ゲームV"
       }
     },
     {
@@ -23215,7 +23215,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010130",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ギャラクシアン3",
           "releaseDate": "1996-04-26"
         },
         {
@@ -23229,7 +23229,7 @@
       ],
       "id": 873,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ギャラクシアン3"
       }
     },
     {
@@ -26255,13 +26255,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010925",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ガンバリィーナ",
           "releaseDate": "2000-11-21"
         }
       ],
       "id": 984,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ガンバリィーナ"
       }
     },
     {
@@ -26304,7 +26304,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010512",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ガンバァール",
           "releaseDate": "1998-08-06"
         },
         {
@@ -26315,13 +26315,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010833",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ガンバァール PlayStation the Best",
           "releaseDate": "2000-03-30"
         }
       ],
       "id": 986,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ガンバァール"
       }
     },
     {
@@ -26355,7 +26355,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010314",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ガンバレット",
           "releaseDate": "1997-08-07"
         },
         {
@@ -26372,7 +26372,7 @@
       ],
       "id": 988,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ガンバレット"
       }
     },
     {
@@ -26386,13 +26386,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010352",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ガンバレット+ガンコン",
           "releaseDate": "1997-08-07"
         }
       ],
       "id": 989,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ガンバレット+ガンコン"
       }
     },
     {
@@ -33749,7 +33749,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010376",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "風のクロノア door to phantomile",
           "releaseDate": "1997-12-11"
         },
         {
@@ -33760,13 +33760,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010758",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "風のクロノア door to phantomile PlayStation the Best",
           "releaseDate": "1999-11-18"
         }
       ],
       "id": 1310,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "風のクロノア"
       }
     },
     {
@@ -34219,13 +34219,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010789",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "カムライ-神来-",
           "releaseDate": "2000-10-05"
         }
       ],
       "id": 1331,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "カムライ-神来-"
       }
     },
     {
@@ -36922,13 +36922,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010611",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "子育てクイズ もっとマイエンジェル",
           "releaseDate": "1999-03-25"
         }
       ],
       "id": 1438,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "子育てクイズ もっとマイエンジェル"
       }
     },
     {
@@ -42868,7 +42868,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010420",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "マイクロマシーンズ",
           "releaseDate": "1998-01-01"
         },
         {
@@ -42890,7 +42890,7 @@
       ],
       "id": 1684,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "マイクロマシーンズ"
       }
     },
     {
@@ -45178,7 +45178,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010802",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ミスタードリラー",
           "releaseDate": "2000-06-29"
         },
         {
@@ -45200,7 +45200,7 @@
       ],
       "id": 1774,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ミスタードリラー"
       }
     },
     {
@@ -45214,13 +45214,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010963",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ミスタードリラーグレート",
           "releaseDate": "2001-11-22"
         }
       ],
       "id": 1775,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ミスタードリラーグレート"
       }
     },
     {
@@ -45708,13 +45708,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010413",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ナムコアンソロジー1",
           "releaseDate": "1998-06-04"
         }
       ],
       "id": 1797,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ナムコアンソロジー1"
       }
     },
     {
@@ -45728,13 +45728,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010444",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ナムコアンソロジー2",
           "releaseDate": "1998-09-23"
         }
       ],
       "id": 1798,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ナムコアンソロジー2"
       }
     },
     {
@@ -45768,7 +45768,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010383",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ナムコミュージアムアンコール",
           "releaseDate": "1997-10-30"
         },
         {
@@ -45779,7 +45779,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010406",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ナムコミュージアムアンコール 限定版",
           "releaseDate": "1997-10-30"
         },
         {
@@ -45790,13 +45790,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010727",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ナムコミュージアムアンコール PlayStation the Best",
           "releaseDate": "1999-10-28"
         }
       ],
       "id": 1800,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ナムコミュージアムアンコール"
       }
     },
     {
@@ -45857,7 +45857,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010116",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ナムコミュージアム Vol.2",
           "releaseDate": "1996-02-09"
         },
         {
@@ -45868,7 +45868,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010154",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ナムコミュージアム Vol.2 限定版",
           "releaseDate": "1996-02-09"
         },
         {
@@ -45879,7 +45879,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010680",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ナムコミュージアム Vol.2 PlayStation the Best",
           "releaseDate": "1999-10-28"
         },
         {
@@ -45901,7 +45901,7 @@
       ],
       "id": 1802,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ナムコミュージアム Vol.2"
       }
     },
     {
@@ -45915,7 +45915,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010178",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ナムコミュージアム VOL.3",
           "releaseDate": "1996-06-21"
         },
         {
@@ -45926,7 +45926,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010697",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ナムコミュージアム VOL.3 PlayStation the Best",
           "releaseDate": "1999-10-28"
         },
         {
@@ -45948,7 +45948,7 @@
       ],
       "id": 1803,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ナムコミュージアム VOL.3"
       }
     },
     {
@@ -45962,7 +45962,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010239",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ナムコミュージアム Vol.4",
           "releaseDate": "1996-11-08"
         },
         {
@@ -45995,7 +45995,7 @@
       ],
       "id": 1804,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ナムコミュージアム Vol.4"
       }
     },
     {
@@ -46009,7 +46009,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010253",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ナムコミュージアム VOL.5",
           "releaseDate": "1997-02-28"
         },
         {
@@ -46020,7 +46020,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010710",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ナムコミュージアム VOL.5 PlayStation the Best",
           "releaseDate": "1999-10-28"
         },
         {
@@ -46042,7 +46042,7 @@
       ],
       "id": 1805,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ナムコミュージアム VOL.5"
       }
     },
     {
@@ -49217,13 +49217,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010819",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "オーバキューン",
           "releaseDate": "2000-04-20"
         }
       ],
       "id": 1922,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "オーバキューン"
       }
     },
     {
@@ -51625,7 +51625,7 @@
           "region": "NTSC-J",
           "tgdbId": 125036,
           "upc": "4907892010734",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "パックマンワールド 20thアニバーサリー",
           "releaseDate": "1999-11-02"
         },
         {
@@ -51671,7 +51671,7 @@
       ],
       "id": 2020,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "パックマンワールド 20thアニバーサリー"
       }
     },
     {
@@ -56463,13 +56463,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010550",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "R4 -RIDGE RACER TYPE 4-",
           "releaseDate": "1998-12-03"
         }
       ],
       "id": 2218,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "R4 -RIDGE RACER TYPE 4-"
       }
     },
     {
@@ -56600,7 +56600,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010246",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "レイジレーサー",
           "releaseDate": "1996-12-03"
         },
         {
@@ -56622,7 +56622,7 @@
       ],
       "id": 2224,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "レイジレーサー"
       }
     },
     {
@@ -63300,7 +63300,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4964808300044",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "真説サムライスピリッツ 武士道烈伝",
           "releaseDate": "1997-06-27"
         },
         {
@@ -63317,7 +63317,7 @@
       ],
       "id": 2466,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "真説サムライスピリッツ 武士道烈伝"
       }
     },
     {
@@ -68867,7 +68867,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010284",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ソウルエッジ",
           "releaseDate": "1996-12-20"
         },
         {
@@ -68878,7 +68878,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010291",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ソウルエッジ 限定版",
           "releaseDate": "1996-12-20"
         },
         {
@@ -68906,7 +68906,7 @@
       ],
       "id": 2716,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ソウルエッジ"
       }
     },
     {
@@ -70317,7 +70317,7 @@
           "region": "NTSC-J",
           "tgdbId": 127217,
           "upc": "4907892010529",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "スターイクシオン",
           "releaseDate": "1999-09-09"
         },
         {
@@ -70331,7 +70331,7 @@
       ],
       "id": 2767,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "スターイクシオン"
       }
     },
     {
@@ -74159,7 +74159,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010598",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "テイルズ オブ デスティニー PlayStation the Best",
           "releaseDate": "1999-11-26"
         },
         {
@@ -74228,7 +74228,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892011038",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "テイルズ オブ エターニア PlayStation the Best",
           "releaseDate": "2002-11-07"
         }
       ],
@@ -74248,7 +74248,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010970",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "テイルズ オブ ファンダム Vol.1 クレス・ルーティー・ファラバージョン",
           "releaseDate": "2002-01-31"
         },
         {
@@ -74265,7 +74265,7 @@
       ],
       "id": 2920,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "テイルズ オブ ファンダム Vol.1"
       }
     },
     {
@@ -74288,7 +74288,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010574",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "テイルズ オブ ファンタジア",
           "releaseDate": "1998-12-23"
         },
         {
@@ -74299,13 +74299,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010895",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "テイルズ オブ ファンタジア PlayStation the Best",
           "releaseDate": "2000-09-28"
         }
       ],
       "id": 2921,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "テイルズ オブ ファンタジア"
       }
     },
     {
@@ -74902,7 +74902,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010161",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "鉄拳2",
           "releaseDate": "1996-03-29"
         },
         {
@@ -74913,7 +74913,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010505",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "鉄拳2 PlayStation the Best",
           "releaseDate": "1998-03-12"
         },
         {
@@ -74935,7 +74935,7 @@
       ],
       "id": 2942,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "鉄拳2"
       }
     },
     {
@@ -74967,7 +74967,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010475",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "鉄拳3",
           "releaseDate": "1998-03-26"
         },
         {
@@ -74978,7 +74978,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010857",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "鉄拳3 PlayStation the Best",
           "releaseDate": "2000-08-24"
         },
         {
@@ -75000,7 +75000,7 @@
       ],
       "id": 2943,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "鉄拳3"
       }
     },
     {
@@ -78505,7 +78505,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010932",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "タイムクライシス プロジェクトタイタン",
           "releaseDate": "2001-04-26"
         },
         {
@@ -78527,7 +78527,7 @@
       ],
       "id": 3079,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "タイムクライシス プロジェクトタイタン"
       }
     },
     {
@@ -83440,13 +83440,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010826",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ボルフォス",
           "releaseDate": "2001-02-22"
         }
       ],
       "id": 3276,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ボルフォス"
       }
     },
     {
@@ -85348,13 +85348,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010086",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ワールドスタジアムEX",
           "releaseDate": "1996-07-26"
         }
       ],
       "id": 3348,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ワールドスタジアムEX"
       }
     },
     {
@@ -85368,13 +85368,13 @@
           "region": "NTSC-J",
           "tgdbId": 127254,
           "upc": "4907892010468",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ワールドスタジアム2",
           "releaseDate": "1998-04-29"
         }
       ],
       "id": 3349,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ワールドスタジアム2"
       }
     },
     {
@@ -85388,13 +85388,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010628",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ワールドスタジアム3",
           "releaseDate": "1999-04-08"
         }
       ],
       "id": 3350,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ワールドスタジアム3"
       }
     },
     {
@@ -85408,13 +85408,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010796",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ワールドスタジアム4",
           "releaseDate": "2000-03-23"
         }
       ],
       "id": 3351,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ワールドスタジアム4"
       }
     },
     {
@@ -85428,13 +85428,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010956",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ワールドスタジアム5",
           "releaseDate": "2001-05-10"
         }
       ],
       "id": 3352,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ワールドスタジアム5"
       }
     },
     {
@@ -85913,7 +85913,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010307",
-          "regionalName": "ダ・カーポ4 D.C.4",
+          "regionalName": "ゼビウス3D/G+",
           "releaseDate": "1997-03-28"
         },
         {
@@ -85935,7 +85935,7 @@
       ],
       "id": 3369,
       "localizedNames": {
-        "ja": "ダ・カーポ4 D.C.4"
+        "ja": "ゼビウス3D/G+"
       }
     },
     {
