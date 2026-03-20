@@ -13117,20 +13117,31 @@
       "name": "D NO SHOKUTAKU",
       "gameInstances": [
         {
-          "name": "D NO SHOKUTAKU [COMPLETE GRAPHICS] [PLAYSTATION THE BEST]  -  [ 3 DISCS ]",
+          "name": "D NO SHOKUTAKU [COMPLETE GRAPHICS]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-91072",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4992713021136",
+          "regionalName": "Dの食卓 コンプリートグラフィックス",
+          "releaseDate": "1995-12-01"
+        },
+        {
+          "name": "D NO SHOKUTAKU [COMPLETE GRAPHICS] [PLAYSTATION THE BEST]",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-91072SLPS-91073SLPS-91074",
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4992713950016",
-          "regionalName": "Dの食卓 コンプリートグラフィックス（再販）",
+          "regionalName": "Dの食卓 コンプリートグラフィックス [PLAYSTATION THE BEST]",
           "releaseDate": "1998-09-07"
         }
       ],
       "id": 493,
       "localizedNames": {
-        "ja": "Dの食卓 コンプリートグラフィックス（再販）"
+        "ja": "Dの食卓 コンプリートグラフィックス"
       }
     },
     {
