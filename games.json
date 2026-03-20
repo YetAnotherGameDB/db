@@ -24818,10 +24818,14 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4960641090029",
+          "regionalName": "祇園花",
           "releaseDate": "1995-12-15"
         }
       ],
-      "id": 929
+      "id": 929,
+      "localizedNames": {
+        "ja": "祇園花"
+      }
     },
     {
       "name": "GION HANA 2 - KANAZAWA BUNKO-HEN",
