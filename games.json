@@ -75604,10 +75604,14 @@
           "serial": "SLPS-00164",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "releaseDate": "1995-12-15"
+          "releaseDate": "1995-12-15",
+          "regionalName": "鉄道王96いくぜ億万長者"
         }
       ],
-      "id": 2968
+      "id": 2968,
+      "localizedNames": {
+        "ja": "鉄道王96いくぜ億万長者"
+      }
     },
     {
       "name": "TETSUDOU OH 2 - SEKAI SEIFUKU NO YABOU",
