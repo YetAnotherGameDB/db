@@ -57993,7 +57993,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4907892010208",
-          "regionalName": "研磨済 追跡可 送料無料",
+          "regionalName": "リッジレーサー [PLAYSTATION THE BEST]",
           "releaseDate": "1996-07-12"
         },
         {
@@ -59469,6 +59469,7 @@
           "serial": "SCPS-45064",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "regionalName": "ランニング・ハイ",
           "releaseDate": "1997-04-25"
         },
         {
@@ -59479,13 +59480,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4956375111017",
-          "regionalName": "研磨済 追跡可 送料無料",
+          "regionalName": "ランニング・ハイ",
           "releaseDate": "1997-04-25"
         }
       ],
       "id": 2317,
       "localizedNames": {
-        "ja": "研磨済 追跡可 送料無料"
+        "ja": "ランニング・ハイ"
       }
     },
     {
