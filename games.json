@@ -92819,6 +92819,46 @@
           "serial": "SLUS-00893",
           "region": "NTSC-U",
           "tgdbId": 0
+        },
+        {
+          "name": "DISNEY / PIXAR - TOY STORY 2 - BUZZ L'ECLAIR A LA RESCOUSSE!",
+          "platform": "ps1",
+          "Language": "[F]",
+          "serial": "SLES-02405",
+          "region": "PAL",
+          "tgdbId": 0
+        },
+        {
+          "name": "DISNEY / PIXAR - TOY STORY 2 - ¡BUZZ LIGHTYEAR AL RESCATE!",
+          "platform": "ps1",
+          "Language": "[S]",
+          "serial": "SLES-02408",
+          "region": "PAL",
+          "tgdbId": 0
+        },
+		    {
+          "name": "DISNEY / PIXAR - TOY STORY 2 - BUZZ LIGHTYEAR EILT ZUR HILFE!",
+          "platform": "ps1",
+          "Language": "[G]",
+          "serial": "SLES-02406",
+          "region": "PAL",
+          "tgdbId": 0
+        },
+		    {
+          "name": "DISNEY / PIXAR - TOY STORY 2 - BUZZ LIGHTYEAR TO THE RESCUE!",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-02067",
+          "region": "PAL",
+          "tgdbId": 0
+        },
+		    {
+          "name": "DISNEY / PIXAR - TOY STORY 2 - WOODY E BUZZ ALLA RISCOSSA!",
+          "platform": "ps1",
+          "Language": "[I]",
+          "serial": "SLES-02407",
+          "region": "PAL",
+          "tgdbId": 0
         }
       ],
       "id": 3681
@@ -114791,76 +114831,6 @@
         }
       ],
       "id": 4846
-    },
-    {
-      "name": "DISNEY / PIXAR - TOY STORY 2 - BUZZ L'ECLAIR A LA RESCOUSSE!",
-      "gameInstances": [
-        {
-          "name": "DISNEY / PIXAR - TOY STORY 2 - BUZZ L'ECLAIR A LA RESCOUSSE!",
-          "platform": "ps1",
-          "Language": "[F]",
-          "serial": "SLES-02405",
-          "region": "PAL",
-          "tgdbId": 0
-        }
-      ],
-      "id": 4847
-    },
-    {
-      "name": "DISNEY / PIXAR - TOY STORY 2 - ¡BUZZ LIGHTYEAR AL RESCATE!",
-      "gameInstances": [
-        {
-          "name": "DISNEY / PIXAR - TOY STORY 2 - ¡BUZZ LIGHTYEAR AL RESCATE!",
-          "platform": "ps1",
-          "Language": "[S]",
-          "serial": "SLES-02408",
-          "region": "PAL",
-          "tgdbId": 0
-        }
-      ],
-      "id": 4848
-    },
-    {
-      "name": "DISNEY / PIXAR - TOY STORY 2 - BUZZ LIGHTYEAR EILT ZUR HILFE!",
-      "gameInstances": [
-        {
-          "name": "DISNEY / PIXAR - TOY STORY 2 - BUZZ LIGHTYEAR EILT ZUR HILFE!",
-          "platform": "ps1",
-          "Language": "[G]",
-          "serial": "SLES-02406",
-          "region": "PAL",
-          "tgdbId": 0
-        }
-      ],
-      "id": 4849
-    },
-    {
-      "name": "DISNEY / PIXAR - TOY STORY 2 - BUZZ LIGHTYEAR TO THE RESCUE!",
-      "gameInstances": [
-        {
-          "name": "DISNEY / PIXAR - TOY STORY 2 - BUZZ LIGHTYEAR TO THE RESCUE!",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-02067",
-          "region": "PAL",
-          "tgdbId": 0
-        }
-      ],
-      "id": 4850
-    },
-    {
-      "name": "DISNEY / PIXAR - TOY STORY 2 - WOODY E BUZZ ALLA RISCOSSA!",
-      "gameInstances": [
-        {
-          "name": "DISNEY / PIXAR - TOY STORY 2 - WOODY E BUZZ ALLA RISCOSSA!",
-          "platform": "ps1",
-          "Language": "[I]",
-          "serial": "SLES-02407",
-          "region": "PAL",
-          "tgdbId": 0
-        }
-      ],
-      "id": 4851
     },
     {
       "name": "DIVER'S DREAM",
