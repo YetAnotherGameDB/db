@@ -71154,26 +71154,6 @@
       }
     },
     {
-      "name": "STREET FIGHTER ZERO",
-      "gameInstances": [
-        {
-          "name": "STREET FIGHTER ZERO",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-00176",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4976219154451",
-          "regionalName": "Matchmaker Agency HAC-P-BGERA",
-          "releaseDate": "1995-12-22"
-        }
-      ],
-      "id": 2793,
-      "localizedNames": {
-        "ja": "Matchmaker Agency HAC-P-BGERA"
-      }
-    },
-    {
       "name": "STREET FIGHTER ZERO 2",
       "gameInstances": [
         {
@@ -105908,9 +105888,23 @@
           "serial": "SLES-00199",
           "region": "PAL",
           "tgdbId": 0
+        },
+        {
+          "name": "STREET FIGHTER ZERO",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-00176",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4976219154451",
+          "regionalName": "ストリートファイターZERO",
+          "releaseDate": "1995-12-22"
         }
       ],
-      "id": 4330
+      "id": 4330,
+      "localizedNames": {
+        "ja": "ストリートファイターZERO"
+      }
     },
     {
       "name": "STREET FIGHTER ALPHA 2",
