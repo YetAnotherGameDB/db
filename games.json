@@ -6122,167 +6122,6 @@
       }
     },
     {
-      "name": "BIOHAZARD",
-      "gameInstances": [
-        {
-          "name": "BIOHAZARD",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-00222",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4976219154468",
-          "regionalName": "バイオハザード",
-          "releaseDate": "1996-03-22"
-        }
-      ],
-      "id": 228,
-      "localizedNames": {
-        "ja": "バイオハザード"
-      }
-    },
-    {
-      "name": "BIOHAZARD - DIRECTOR'S CUT",
-      "gameInstances": [
-        {
-          "name": "BIOHAZARD - DIRECTOR'S CUT",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-00998",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4976219155977",
-          "regionalName": "バイオハザード ディレクターズカット",
-          "releaseDate": "1997-09-25"
-        }
-      ],
-      "id": 229,
-      "localizedNames": {
-        "ja": "バイオハザード ディレクターズカット"
-      }
-    },
-    {
-      "name": "BIOHAZARD - DIRECTOR'S CUT - DUAL SHOCK",
-      "gameInstances": [
-        {
-          "name": "BIOHAZARD - DIRECTOR'S CUT",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-01512",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4976219255950",
-          "regionalName": "バイオハザード ディレクターズカット デュアルショックバージョン",
-          "releaseDate": "1998-08-06"
-        }
-      ],
-      "id": 230,
-      "localizedNames": {
-        "ja": "バイオハザード ディレクターズカット デュアルショックバージョン"
-      }
-    },
-    {
-      "name": "BIOHAZARD 2",
-      "gameInstances": [
-        {
-          "name": "BIOHAZARD 2  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-01222SLPS-01223",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4976219255455",
-          "regionalName": "バイオ・ハザード2",
-          "releaseDate": "1998-01-10"
-        }
-      ],
-      "id": 231,
-      "localizedNames": {
-        "ja": "バイオ・ハザード2"
-      }
-    },
-    {
-      "name": "BIOHAZARD 2 - DUAL SHOCK",
-      "gameInstances": [
-        {
-          "name": "BIOHAZARD 2 - DUAL SHOCK  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-01510SLPS-01511",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4976219255943",
-          "regionalName": "バイオハザード2 デュアルショックバージョン",
-          "releaseDate": "1998-06-08"
-        }
-      ],
-      "id": 232,
-      "localizedNames": {
-        "ja": "バイオハザード2"
-      }
-    },
-    {
-      "name": "BIOHAZARD 3 - LAST ESCAPE",
-      "gameInstances": [
-        {
-          "name": "BIOHAZARD 3 - LAST ESCAPE",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-02300",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4976219355759",
-          "regionalName": "SunnySide ELJM-30569",
-          "releaseDate": "1999-09-22"
-        },
-        {
-          "name": "BIOHAZARD 3 - LAST ESCAPE [CAPKORE]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-87224",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4976219855914",
-          "releaseDate": "2003-01-23"
-        }
-      ],
-      "id": 233,
-      "localizedNames": {
-        "ja": "SunnySide ELJM-30569"
-      }
-    },
-    {
-      "name": "BIOHAZARD - GUN SURVIVOR",
-      "gameInstances": [
-        {
-          "name": "BIOHAZARD - GUN SURVIVOR",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-02553",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4976219451024",
-          "regionalName": "バイオハザード ガンサバイバー",
-          "releaseDate": "2000-01-27"
-        },
-        {
-          "name": "BIOHAZARD - GUN SURVIVOR [CAPKORE]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-86749",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4976219551151",
-          "regionalName": "バイオハザード ガンサバイバー カプコレ",
-          "releaseDate": "2001-03-22"
-        }
-      ],
-      "id": 234,
-      "localizedNames": {
-        "ja": "バイオハザード ガンサバイバー"
-      }
-    },
-    {
       "name": "BIOHAZARD 5TH ANNIVERSARY - NIGHTMARE RETURNS",
       "gameInstances": [
         {
@@ -103686,9 +103525,45 @@
           "serial": "SLUS-00747",
           "region": "NTSC-U",
           "tgdbId": 0
+        },
+        {
+          "name": "BIOHAZARD - DIRECTOR'S CUT",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-00998",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4976219155977",
+          "regionalName": "バイオハザード ディレクターズカット",
+          "releaseDate": "1997-09-25"
+        },
+		    {
+          "name": "BIOHAZARD - DIRECTOR'S CUT Dualshock Edition",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-01512",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4976219255950",
+          "regionalName": "バイオハザード ディレクターズカット デュアルショックバージョン",
+          "releaseDate": "1998-08-06"
+        },
+		    {
+          "name": "BIOHAZARD",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-00222",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4976219154468",
+          "regionalName": "バイオハザード",
+          "releaseDate": "1996-03-22"
         }
       ],
-      "id": 4227
+      "id": 4227,
+      "localizedNames": {
+        "ja": "バイオハザード"
+      }
     },
     {
       "name": "RESIDENT EVIL 2",
@@ -103742,15 +103617,40 @@
           "tgdbId": 0
         },
         {
-          "name": "RESIDENT EVIL 2 (DUAL SHOCK VERSION)  -  [ 2 DISCS ]",
+          "name": "RESIDENT EVIL 2 (DUAL SHOCK VERSION)",
           "platform": "ps1",
           "Language": "[E]",
-          "serial": "SLUS-00748SLUS-00756",
+          "serial": "SLUS-00748",
           "region": "NTSC-U",
           "tgdbId": 0
+        },
+        {
+          "name": "BIOHAZARD 2",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-01222SLPS-01223",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4976219255455",
+          "regionalName": "バイオ・ハザード2",
+          "releaseDate": "1998-01-10"
+        },
+		    {
+          "name": "BIOHAZARD 2 - DUAL SHOCK",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-01510",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4976219255943",
+          "regionalName": "バイオハザード2 デュアルショックバージョン",
+          "releaseDate": "1998-06-08"
         }
       ],
-      "id": 4230
+      "id": 4230,
+      "localizedNames": {
+        "ja": "バイオハザード2"
+      }
     },
     {
       "name": "RESIDENT EVIL 3 - NEMESIS",
@@ -103810,9 +103710,34 @@
           "serial": "SLES-02698",
           "region": "PAL",
           "tgdbId": 0
+        },
+        {
+          "name": "BIOHAZARD 3 - LAST ESCAPE",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-02300",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4976219355759",
+          "regionalName": "バイオハザード3 ラストエスケープ",
+          "releaseDate": "1999-09-22"
+        },
+        {
+          "name": "BIOHAZARD 3 - LAST ESCAPE [CAPKORE]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-87224",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4976219855914",
+          "regionalName": "バイオハザード3 ラストエスケープ [CAPKORE]",
+          "releaseDate": "2003-01-23"
         }
       ],
-      "id": 4232
+      "id": 4232,
+      "localizedNames": {
+        "ja": "バイオハザード3 ラストエスケープ"
+      }
     },
     {
       "name": "RESIDENT EVIL - SURVIVOR",
@@ -103840,9 +103765,35 @@
           "serial": "SLES-02744",
           "region": "PAL",
           "tgdbId": 0
+        },
+        {
+          "name": "BIOHAZARD - GUN SURVIVOR",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-02553",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4976219451024",
+          "regionalName": "バイオハザード ガンサバイバー",
+          "releaseDate": "2000-01-27"
+        },
+        {
+          "name": "BIOHAZARD - GUN SURVIVOR [CAPKORE]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-86749",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4976219551151",
+          "regionalName": "バイオハザード ガンサバイバー カプコレ",
+          "releaseDate": "2001-03-22"
         }
+
       ],
-      "id": 4233
+      "id": 4233,
+      "localizedNames": {
+        "ja": "バイオハザード ガンサバイバー"
+      }
     },
     {
       "name": "RETURN FIRE",
