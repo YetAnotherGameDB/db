@@ -103670,27 +103670,15 @@
           "serial": "SLES-00228",
           "region": "PAL",
           "tgdbId": 0
-        }
-      ],
-      "id": 4227
-    },
-    {
-      "name": "RESIDENT EVIL - DIRECTOR'S CUT  - (2 DISCS ]\n Includes: \r\n\t\tResident Evil - Director's Cut + Bonus Disc (Resident Evil 2 Demo)",
-      "gameInstances": [
+        },
         {
-          "name": "RESIDENT EVIL - DIRECTOR'S CUT  -  [ 2 DISCS ]\n Includes: \r\n\t\tResident Evil - Director's Cut + Bonus Disc (Resident Evil 2 Demo)",
+          "name": "RESIDENT EVIL - DIRECTOR'S CUT",
           "platform": "ps1",
           "Language": "[E]",
-          "serial": "SLUS-00551SLUS-90009",
+          "serial": "SLUS-00551",
           "region": "NTSC-U",
           "tgdbId": 0
-        }
-      ],
-      "id": 4228
-    },
-    {
-      "name": "RESIDENT EVIL - DIRECTOR'S CUT (DUAL SHOCK VERSION)",
-      "gameInstances": [
+        },
         {
           "name": "RESIDENT EVIL - DIRECTOR'S CUT (DUAL SHOCK VERSION)",
           "platform": "ps1",
@@ -103700,65 +103688,59 @@
           "tgdbId": 0
         }
       ],
-      "id": 4229
+      "id": 4227
     },
     {
       "name": "RESIDENT EVIL 2",
       "gameInstances": [
         {
-          "name": "RESIDENT EVIL 2  -  [ 2 DISCS ]",
+          "name": "RESIDENT EVIL 2",
           "platform": "ps1",
           "Language": "[E]",
-          "serial": "SLUS-00421SLUS-00592",
+          "serial": "SLUS-00421",
           "region": "NTSC-U",
           "tgdbId": 0
         },
         {
-          "name": "RESIDENT EVIL 2  -  [ 2 DISCS ]\n         Includes: \n\t\tLeon Disc + Claire Disc",
+          "name": "RESIDENT EVIL 2",
           "platform": "ps1",
           "Language": "[E]",
-          "serial": "SLES-00972SLES-10972",
+          "serial": "SLES-00972",
           "region": "PAL",
           "tgdbId": 0
         },
         {
-          "name": "RESIDENT EVIL 2  -  [ 2 DISCS ]\n         Includes: \n\t\tLeon Disc + Claire Disc",
+          "name": "RESIDENT EVIL 2",
           "platform": "ps1",
           "Language": "[F]",
-          "serial": "SLES-00973SLES-10973",
+          "serial": "SLES-00973",
           "region": "PAL",
           "tgdbId": 0
         },
         {
-          "name": "RESIDENT EVIL 2  -  [ 2 DISCS ]\n         Includes: \n\t\tLeon Disc + Claire Disc",
+          "name": "RESIDENT EVIL 2",
           "platform": "ps1",
           "Language": "[G]",
-          "serial": "SLES-00974SLES-10974",
+          "serial": "SLES-00974",
           "region": "PAL",
           "tgdbId": 0
         },
         {
-          "name": "RESIDENT EVIL 2  -  [ 2 DISCS ]\n         Includes: \n\t\tLeon Disc + Claire Disc",
+          "name": "RESIDENT EVIL 2",
           "platform": "ps1",
           "Language": "[I]",
-          "serial": "SLES-00975SLES-10975",
+          "serial": "SLES-00975",
           "region": "PAL",
           "tgdbId": 0
         },
         {
-          "name": "RESIDENT EVIL 2  -  [ 2 DISCS ]\n         Includes: \n\t\tLeon Disc + Claire Disc",
+          "name": "RESIDENT EVIL 2",
           "platform": "ps1",
           "Language": "[S]",
-          "serial": "SLES-00976SLES-10976",
+          "serial": "SLES-00976",
           "region": "PAL",
           "tgdbId": 0
-        }
-      ],
-      "id": 4230
-    },
-    {
-      "name": "RESIDENT EVIL 2 (DUAL SHOCK VERSION)  - (2 DISCS)",
-      "gameInstances": [
+        },
         {
           "name": "RESIDENT EVIL 2 (DUAL SHOCK VERSION)  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -103768,7 +103750,7 @@
           "tgdbId": 0
         }
       ],
-      "id": 4231
+      "id": 4230
     },
     {
       "name": "RESIDENT EVIL 3 - NEMESIS",
