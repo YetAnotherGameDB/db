@@ -103519,6 +103519,30 @@
           "tgdbId": 0
         },
         {
+          "name": "RESIDENT EVIL - DIRECTOR'S CUT",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-00969",
+          "region": "PAL",
+          "tgdbId": 0
+        },
+        {
+          "name": "RESIDENT EVIL - DIRECTOR'S CUT",
+          "platform": "ps1",
+          "Language": "[F]",
+          "serial": "SLES-00970",
+          "region": "PAL",
+          "tgdbId": 0
+        },
+        {
+          "name": "RESIDENT EVIL - DIRECTOR'S CUT",
+          "platform": "ps1",
+          "Language": "[G]",
+          "serial": "SLES-00971",
+          "region": "PAL",
+          "tgdbId": 0
+        },
+        {
           "name": "RESIDENT EVIL - DIRECTOR'S CUT (DUAL SHOCK VERSION)",
           "platform": "ps1",
           "Language": "[E]",
@@ -120293,36 +120317,6 @@
         }
       ],
       "id": 5181
-    },
-    {
-      "name": "RESIDENT EVIL - DIRECTOR'S CUT",
-      "gameInstances": [
-        {
-          "name": "RESIDENT EVIL - DIRECTOR'S CUT",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-00969",
-          "region": "PAL",
-          "tgdbId": 0
-        },
-        {
-          "name": "RESIDENT EVIL - DIRECTOR'S CUT",
-          "platform": "ps1",
-          "Language": "[F]",
-          "serial": "SLES-00970",
-          "region": "PAL",
-          "tgdbId": 0
-        },
-        {
-          "name": "RESIDENT EVIL - DIRECTOR'S CUT",
-          "platform": "ps1",
-          "Language": "[G]",
-          "serial": "SLES-00971",
-          "region": "PAL",
-          "tgdbId": 0
-        }
-      ],
-      "id": 5182
     },
     {
       "name": "RETRO FORCE",
