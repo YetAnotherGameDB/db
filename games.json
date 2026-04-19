@@ -14496,10 +14496,14 @@
           "serial": "SLPS-00180",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "releaseDate": "1995-12-29"
+          "releaseDate": "1995-12-29",
+          "regionalName": "でろーんでろでろ"
         }
       ],
-      "id": 553
+      "id": 553,
+      "localizedNames": {
+        "ja": "でろーんでろでろ"
+      }
     },
     {
       "name": "DESCENT",
