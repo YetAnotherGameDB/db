@@ -24285,6 +24285,22 @@
           "upc": "4988602091113",
           "regionalName": "幻想水滸伝",
           "releaseDate": "2002-07-11"
+        },
+        {
+          "name": "SUIKODEN",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLUS-00292",
+          "region": "NTSC-U",
+          "tgdbId": 0
+        },
+        {
+          "name": "SUIKODEN",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-00527",
+          "region": "PAL",
+          "tgdbId": 0
         }
       ],
       "id": 916,
@@ -24337,6 +24353,54 @@
           "upc": "4988602091106",
           "regionalName": "幻想水滸伝II（再販）",
           "releaseDate": "2002-07-11"
+        },
+        {
+          "name": "SUIKODEN II",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLUS-00958",
+          "region": "NTSC-U",
+          "tgdbId": 0
+        },
+        {
+          "name": "SUIKODEN II",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-02442",
+          "region": "PAL",
+          "tgdbId": 0
+        },
+        {
+          "name": "SUIKODEN II",
+          "platform": "ps1",
+          "Language": "[F]",
+          "serial": "SLES-02443",
+          "region": "PAL",
+          "tgdbId": 0
+        },
+        {
+          "name": "SUIKODEN II",
+          "platform": "ps1",
+          "Language": "[G]",
+          "serial": "SLES-02444",
+          "region": "PAL",
+          "tgdbId": 0
+        },
+        {
+          "name": "SUIKODEN II",
+          "platform": "ps1",
+          "Language": "[S]",
+          "serial": "SLES-02445",
+          "region": "PAL",
+          "tgdbId": 0
+        },
+        {
+          "name": "SUIKODEN II",
+          "platform": "ps1",
+          "Language": "[I]",
+          "serial": "SLES-02446",
+          "region": "PAL",
+          "tgdbId": 0
         }
       ],
       "id": 917,
@@ -106171,82 +106235,7 @@
       ],
       "id": 4342
     },
-    {
-      "name": "SUIKODEN",
-      "gameInstances": [
-        {
-          "name": "SUIKODEN",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLUS-00292",
-          "region": "NTSC-U",
-          "tgdbId": 0
-        },
-        {
-          "name": "SUIKODEN",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-00527",
-          "region": "PAL",
-          "tgdbId": 0
-        }
-      ],
-      "id": 4343
-    },
-    {
-      "name": "SUIKODEN II",
-      "gameInstances": [
-        {
-          "name": "SUIKODEN II",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLUS-00958",
-          "region": "NTSC-U",
-          "tgdbId": 0
-        },
-        {
-          "name": "SUIKODEN II",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-02442",
-          "region": "PAL",
-          "tgdbId": 0
-        },
-        {
-          "name": "SUIKODEN II",
-          "platform": "ps1",
-          "Language": "[F]",
-          "serial": "SLES-02443",
-          "region": "PAL",
-          "tgdbId": 0
-        },
-        {
-          "name": "SUIKODEN II",
-          "platform": "ps1",
-          "Language": "[G]",
-          "serial": "SLES-02444",
-          "region": "PAL",
-          "tgdbId": 0
-        },
-        {
-          "name": "SUIKODEN II",
-          "platform": "ps1",
-          "Language": "[S]",
-          "serial": "SLES-02445",
-          "region": "PAL",
-          "tgdbId": 0
-        },
-        {
-          "name": "SUIKODEN II",
-          "platform": "ps1",
-          "Language": "[I]",
-          "serial": "SLES-02446",
-          "region": "PAL",
-          "tgdbId": 0
-        }
-      ],
-      "id": 4344
-    },
+
     {
       "name": "SUPER BUBBLE POP",
       "gameInstances": [
