@@ -58868,7 +58868,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219154888",
-          "regionalName": "Matchmaker Agency HAC-P-BGERA",
+          "regionalName": "ロックマンX4",
           "releaseDate": "1997-01-08"
         },
         {
@@ -58906,7 +58906,7 @@
       ],
       "id": 2301,
       "localizedNames": {
-        "ja": "Matchmaker Agency HAC-P-BGERA"
+        "ja": "ロックマンX4"
       }
     },
     {
@@ -70935,36 +70935,36 @@
       "name": "STREET FIGHTER COLLECTION",
       "gameInstances": [
         {
-          "name": "STREET FIGHTER COLLECTION  -  [ 2 DISCS ]",
+          "name": "STREET FIGHTER COLLECTION",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-00800SLPS-00801",
+          "serial": "SLPS-00800",
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219154963",
-          "regionalName": "Matchmaker Agency HAC-P-BGERA",
+          "regionalName": "ストリートファイターコレクション",
           "releaseDate": "1997-10-23"
         },
         {
-          "name": "STREET FIGHTER COLLECTION  -  [ 2 DISCS ]\n Includes: \r\n\t\tStreet Fighter Collection + Street Fighter Alpha 2 Gold",
+          "name": "STREET FIGHTER COLLECTION + Street Fighter Alpha 2 Gold",
           "platform": "ps1",
           "Language": "[E]",
-          "serial": "SLUS-00423SLUS-00584",
+          "serial": "SLUS-00423",
           "region": "NTSC-U",
           "tgdbId": 0
         },
         {
-          "name": "STREET FIGHTER COLLECTION  -  [ 2 DISCS ]\n Includes: \n\t\tStreet Fighter Collection + Street Fighter Alpha 2 Dash",
+          "name": "STREET FIGHTER COLLECTION + Street Fighter Alpha 2 Dash",
           "platform": "ps1",
           "Language": "[E]",
-          "serial": "SLES-00998SLES-10998",
+          "serial": "SLES-00998",
           "region": "PAL",
           "tgdbId": 0
         }
       ],
       "id": 2790,
       "localizedNames": {
-        "ja": "Matchmaker Agency HAC-P-BGERA"
+        "ja": "ストリートファイターコレクション"
       }
     },
     {
@@ -72018,7 +72018,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4976219154604",
-          "regionalName": "Matchmaker Agency HAC-P-BGERA",
+          "regionalName": "スーパーパンコレクション",
           "releaseDate": "1997-03-14"
         },
         {
@@ -72032,7 +72032,7 @@
       ],
       "id": 2832,
       "localizedNames": {
-        "ja": "Matchmaker Agency HAC-P-BGERA"
+        "ja": "スーパーパンコレクション"
       }
     },
     {
