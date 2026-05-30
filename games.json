@@ -63763,6 +63763,14 @@
       "name": "SIDEWINDER",
       "gameInstances": [
         {
+          "name": "BOGEY DEAD 6",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SCUS-94307",
+          "region": "NTSC-U",
+          "tgdbId": 0
+        },
+        {
           "name": "SIDEWINDER",
           "platform": "ps1",
           "Language": "[J]",
@@ -63772,6 +63780,17 @@
           "upc": "4988126510053",
           "regionalName": "サイドワインダー",
           "releaseDate": "1996-01-26"
+        },
+        {
+          "name": "SIDEWINDER USA [PLAYSTATION THE BEST]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-91010",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4988126510138",
+          "regionalName": "サイドワインダー(SIDEWINDER) U.S.A.",
+          "releaseDate": "1996-11-22"
         }
       ],
       "id": 2490,
@@ -63816,27 +63835,7 @@
       ],
       "id": 2491,
       "localizedNames": {
-        "ja": "サイドワインダー2"
-      }
-    },
-    {
-      "name": "SIDEWINDER USA",
-      "gameInstances": [
-        {
-          "name": "SIDEWINDER USA [PLAYSTATION THE BEST]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-91010",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4988126510138",
-          "regionalName": "サイドワインダー(SIDEWINDER) U.S.A.",
-          "releaseDate": "1996-11-22"
-        }
-      ],
-      "id": 2492,
-      "localizedNames": {
-        "ja": "サイドワインダー(SIDEWINDER) U.S.A."
+        "ja": "サイドワインダー2" 
       }
     },
     {
@@ -89680,6 +89679,7 @@
       "gameInstances": [
         {
           "name": "BOB THE BUILDER - CAN WE FIX IT?",
+          
           "platform": "ps1",
           "Language": "[E]",
           "serial": "SLUS-01407",
@@ -89697,20 +89697,7 @@
       ],
       "id": 3541
     },
-    {
-      "name": "BOGEY DEAD 6",
-      "gameInstances": [
-        {
-          "name": "BOGEY DEAD 6",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SCUS-94307",
-          "region": "NTSC-U",
-          "tgdbId": 0
-        }
-      ],
-      "id": 3542
-    },
+
     {
       "name": "BOMBERMAN PARTY EDITION",
       "gameInstances": [
