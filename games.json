@@ -95077,12 +95077,12 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872730402",
-          "regionalName": "プラグマタ ELJM-30823"
+          "regionalName": "HEAVY RAIN"
         }
       ],
       "id": 3784,
       "localizedNames": {
-        "ja": "プラグマタ ELJM-30823"
+        "ja": "HEAVY RAIN"
       }
     },
     {
@@ -124298,6 +124298,46 @@
       "id": 5421,
       "localizedNames": {
         "ja": "タイガーウッズ PGA TOUR 09"
+      }
+    },
+    {
+      "name": "Tiger Woods PGA Tour 09",
+      "gameInstances": [
+        {
+          "name": "Tiger Woods PGA Tour 09",
+          "platform": "ps3",
+          "Language": "[J]",
+          "serial": "BLJM-60149",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4938833008671",
+          "regionalName": "タイガーウッズ PGA TOUR 09",
+          "releaseDate": "2008-09-25"
+        }
+      ],
+      "id": 5421,
+      "localizedNames": {
+        "ja": "タイガーウッズ PGA TOUR 09"
+      }
+    },
+        {
+      "name": "Ratatouille",
+      "gameInstances": [
+        {
+          "name": "Tiger Woods PGA Tour 09",
+          "platform": "ps3",
+          "Language": "[J]",
+          "serial": "BLJM-xxx",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "45822",
+          "regionalName": "レミーのおいしいレストラン",
+          "releaseDate": "2007-11-22"
+        }
+      ],
+      "id": 5421,
+      "localizedNames": {
+        "ja": "レミーのおいしいレストラン"
       }
     }
 
