@@ -8,6 +8,7 @@ if (-not (Test-Path $file)) {
 $json = Get-Content $file -Raw | ConvertFrom-Json
 
 $ids = @()
+$instanceIds = [System.Collections.Generic.HashSet[string]]::new()
 $errors = 0
 
 foreach ($game in $json.games) {
@@ -21,6 +22,21 @@ foreach ($game in $json.games) {
     }
     else {
         $ids += $game.id
+    }
+
+    foreach ($instance in $game.gameInstances) {
+        if (-not $instance.PSObject.Properties.Name.Contains("id")) {
+            Write-Error "Instance '$($instance.serial)' in game '$($game.name)' has no 'id'"
+            $errors++
+        }
+        elseif ($instance.id -notmatch "^$($game.id)-\d+$") {
+            Write-Error "Instance id '$($instance.id)' in game '$($game.name)' does not match game id $($game.id)"
+            $errors++
+        }
+        elseif (-not $instanceIds.Add($instance.id)) {
+            Write-Error "Duplicate instance id found: $($instance.id) in game '$($game.name)'"
+            $errors++
+        }
     }
 }
 
