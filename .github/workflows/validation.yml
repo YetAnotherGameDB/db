@@ -15,7 +15,7 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
 
     - name: Validate JSON using Docker
       uses: addnab/docker-run-action@v3
@@ -32,7 +32,60 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Run validation script
         run: pwsh .github/scripts/validate-games.ps1
+
+  publish:
+    name: Publish to GitHub Pages
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    needs: [validate, integrity]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    concurrency:
+      group: github-pages
+      cancel-in-progress: false
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Build site
+        run: |
+          mkdir -p _site
+          cp games.json _site/games.json
+          gzip -9 -c games.json > _site/games.json.gz
+          python3 .github/scripts/build-sqlite.py games.json _site/games.db
+
+          size() { numfmt --to=iec --suffix=B "$(stat -c%s "$1")"; }
+          cat > _site/index.html <<EOF
+          <!doctype html>
+          <html lang="en">
+          <head><meta charset="utf-8"><title>Game Meta Database</title></head>
+          <body>
+            <h1>Game Meta Database</h1>
+            <p>Built from commit <code>${GITHUB_SHA}</code> on $(date -u +'%Y-%m-%d %H:%M UTC').</p>
+            <ul>
+              <li><a href="games.json">games.json</a> ($(size _site/games.json)) &mdash; raw database</li>
+              <li><a href="games.json.gz">games.json.gz</a> ($(size _site/games.json.gz)) &mdash; gzip-compressed</li>
+              <li><a href="games.db">games.db</a> ($(size _site/games.db)) &mdash; SQLite</li>
+            </ul>
+          </body>
+          </html>
+          EOF
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
