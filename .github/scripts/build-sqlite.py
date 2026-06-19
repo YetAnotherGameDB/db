@@ -27,12 +27,13 @@ INSTANCE_KEY_MAP = {
     "pricecharting": "pricecharting_id",
     "pricechartingid": "pricecharting_id",
     "upc": "upc",
+    "redumpid": "redump_id",
 }
 
 INSTANCE_COLS = [
     "id", "game_id", "name", "regional_name", "platform", "language",
     "serial", "region", "release_date", "tgdb_id", "gameye_id",
-    "pricecharting_id", "upc",
+    "pricecharting_id", "upc", "redump_id",
 ]
 
 SCHEMA = """
@@ -61,7 +62,8 @@ CREATE TABLE game_instances (
     tgdb_id          INTEGER,
     gameye_id        INTEGER,
     pricecharting_id TEXT,
-    upc              TEXT
+    upc              TEXT,
+    redump_id        INTEGER
 );
 CREATE INDEX idx_instances_game_id ON game_instances(game_id);
 CREATE INDEX idx_instances_serial  ON game_instances(serial);
