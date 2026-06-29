@@ -34,12 +34,24 @@ The main database. Top-level structure:
 ```json
 {
   "enums": {
-    "platforms": ["ps1", "saturn", "snes"],
-    "regions": ["NTSC-J", "NTSC-U", "PAL"]
+    "platforms": ["ps1", "saturn", "snes", "ps3", "wii"],
+    "regions": {
+      "ps1": ["NTSC-J", "NTSC-U", "PAL"],
+      "ps3": ["Japan", "North America", "Europe", "Asia", "Korea"]
+    }
   },
   "games": [ ... ]
 }
 ```
+
+`enums.regions` is **keyed by platform** because region means different things
+per platform: region-locked systems (ps1/saturn/snes/wii) use the console
+lockout buckets `NTSC-J`/`NTSC-U`/`PAL`, while region-free PS3 uses market
+regions `Japan`/`North America`/`Europe`/`Asia`/`Korea` (Europe includes
+Australia). For PS3 the region is derived from the serial's 3rd letter
+(`J`→Japan, `U`→North America, `E`→Europe, `A`→Asia, `K`→Korea) via
+`.github/scripts/normalize-ps3-regions.py`. The validation script enforces that
+each instance's `region` is one of the values allowed for its `platform`.
 
 Each game entry:
 ```json
