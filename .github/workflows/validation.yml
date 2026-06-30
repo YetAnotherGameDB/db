@@ -63,23 +63,7 @@ jobs:
           cp games.json _site/games.json
           gzip -9 -c games.json > _site/games.json.gz
           python3 .github/scripts/build-sqlite.py games.json _site/games.db
-
-          size() { numfmt --to=iec --suffix=B "$(stat -c%s "$1")"; }
-          cat > _site/index.html <<EOF
-          <!doctype html>
-          <html lang="en">
-          <head><meta charset="utf-8"><title>Game Meta Database</title></head>
-          <body>
-            <h1>Game Meta Database</h1>
-            <p>Built from commit <code>${GITHUB_SHA}</code> on $(date -u +'%Y-%m-%d %H:%M UTC').</p>
-            <ul>
-              <li><a href="games.json">games.json</a> ($(size _site/games.json)) &mdash; raw database</li>
-              <li><a href="games.json.gz">games.json.gz</a> ($(size _site/games.json.gz)) &mdash; gzip-compressed</li>
-              <li><a href="games.db">games.db</a> ($(size _site/games.db)) &mdash; SQLite</li>
-            </ul>
-          </body>
-          </html>
-          EOF
+          cp site/index.html _site/index.html
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v5
