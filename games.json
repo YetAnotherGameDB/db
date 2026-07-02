@@ -165502,7 +165502,8 @@
           "tgdbId": 0,
           "redumpId": 101809,
           "id": "6285-1",
-          "upc": "4562230925172"
+          "upc": "4562230925172",
+          "releaseDate": "2009-08-06"
         }
       ],
       "id": 6285
@@ -166825,7 +166826,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 61219,
-          "id": "6337-2"
+          "id": "6337-2",
+          "releaseDate": "2009-07-23"
         },
         {
           "name": "KATAMARI DAMACY TRIBUTE",
@@ -167499,6 +167501,7 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 51964,
+          "releaseDate": "2009-07-30",
           "id": "6353-3"
         },
         {
@@ -186472,6 +186475,18 @@
           "redumpId": 31893,
           "id": "6971-7",
           "upc": "4005209112789"
+        },
+        {
+          "name": "RED FACTION: GUERRILLA",
+          "platform": "ps3",
+          "regionalName": "レッドファクション：ゲリラ",
+          "serial": "BLJS-10086",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 100361,
+          "releaseDate": "2009-08-06",
+          "id": "6971-8",
+          "upc": "4940261509736"
         }
       ],
       "id": 6971
