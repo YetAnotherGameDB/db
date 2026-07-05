@@ -194788,6 +194788,17 @@
           "tgdbId": 0,
           "redumpId": 39511,
           "id": "7248-3"
+        },
+        {
+          "name": "SNIPER ELITE V2 [UBI the BEST]",
+          "platform": "ps3",
+          "regionalName": "スナイパー　エリートＶ２ [UBI the BEST]",
+          "serial": "BLJM-61154",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 99511,
+          "id": "7248-4",
+          "upc": "4949244003230"
         }
       ],
       "id": 7248
