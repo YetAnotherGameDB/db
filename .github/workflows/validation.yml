@@ -55,6 +55,7 @@ jobs:
       - name: Build site
         run: |
           mkdir -p _site
+          touch _site/.nojekyll
           cp games.json _site/games.json
           gzip -9 -c games.json > _site/games.json.gz
           python3 .github/scripts/build-sqlite.py games.json _site/games.db
