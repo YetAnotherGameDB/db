@@ -3,3 +3,5 @@ __pycache__/
 .cache/
 .claude/settings.local.json
 site/games.json
+thumbnails/
+dist/

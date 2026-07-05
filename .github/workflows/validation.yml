@@ -2,8 +2,8 @@ name: Validate JSON
 
 on:
   push:
-    branches:
-      - '*'
+    branches-ignore:
+      - gh-pages
   pull_request:
     branches:
       - '*'
@@ -43,12 +43,7 @@ jobs:
     needs: [validate, integrity]
     runs-on: ubuntu-latest
     permissions:
-      contents: read
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      contents: write
     concurrency:
       group: github-pages
       cancel-in-progress: false
@@ -65,11 +60,30 @@ jobs:
           python3 .github/scripts/build-sqlite.py games.json _site/games.db
           cp site/index.html _site/index.html
 
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v5
-        with:
-          path: _site
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v5
+      - name: Publish to gh-pages branch
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          set -e
+          REPO_URL="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          publish() {
+            rm -rf pages _site/.git
+            LEASE=""
+            if git clone -q --depth 1 --branch gh-pages "$REPO_URL" pages 2>/dev/null; then
+              EXPECTED=$(git -C pages rev-parse HEAD)
+              LEASE="--force-with-lease=refs/heads/gh-pages:$EXPECTED"
+              # thumbnails/ on gh-pages is maintained externally - keep it
+              rm -rf _site/thumbnails
+              [ -d pages/thumbnails ] && cp -r pages/thumbnails _site/thumbnails
+              rm -rf pages
+            fi
+            git -C _site init -q -b publish
+            git -C _site add -A
+            git -C _site -c user.name=github-actions \
+                         -c user.email=github-actions@github.com \
+                         commit -q -m "publish site"
+            git -C _site push $LEASE "$REPO_URL" HEAD:refs/heads/gh-pages
+          }
+          # single orphan commit each deploy keeps the branch at site size;
+          # the lease + one retry handles a concurrent gh-pages writer
+          publish || { echo "push raced, retrying"; publish; }
