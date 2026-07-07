@@ -355,7 +355,8 @@
           "tgdbId": 0,
           "regionalName": "３Ｄ格闘ツクール",
           "releaseDate": "1998-07-30",
-          "id": "11-1"
+          "id": "11-1",
+          "upc": "4988606101887"
         }
       ],
       "id": 11,
@@ -375,7 +376,8 @@
           "tgdbId": 0,
           "regionalName": "３Ｄミッション・シューティング ファイナリスト",
           "releaseDate": "1996-10-04",
-          "id": "12-1"
+          "id": "12-1",
+          "upc": "4902333200064"
         }
       ],
       "id": 12,
@@ -395,7 +397,8 @@
           "tgdbId": 0,
           "regionalName": "３Ｄシューティングツクール",
           "releaseDate": "1996-12-20",
-          "id": "13-1"
+          "id": "13-1",
+          "upc": "4988606101108"
         }
       ],
       "id": 13,
@@ -1183,7 +1186,8 @@
           "tgdbId": 0,
           "regionalName": "アドリブ王子・・・と不愉快な仲間達!?",
           "releaseDate": "2002-12-19",
-          "id": "38-1"
+          "id": "38-1",
+          "upc": "4988624900387"
         }
       ],
       "id": 38,
@@ -2018,7 +2022,8 @@
           "tgdbId": 0,
           "regionalName": "B線上のアリス",
           "releaseDate": "1997-09-18",
-          "id": "70-1"
+          "id": "70-1",
+          "upc": "4938838097076"
         }
       ],
       "id": 70,
@@ -2192,7 +2197,8 @@
           "tgdbId": 0,
           "regionalName": "アルナムの牙 獣族十二神徒伝説",
           "releaseDate": "1996-02-02",
-          "id": "76-1"
+          "id": "76-1",
+          "upc": "4994615595050"
         }
       ],
       "id": 76,
@@ -2782,7 +2788,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-02-04",
-          "id": "91-1"
+          "id": "91-1",
+          "upc": "4988615012914"
         },
         {
           "name": "ANGELIQUE TENKUU NO REQUIEM [PREMIUM BOX]",
@@ -2792,7 +2799,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-02-04",
-          "id": "91-2"
+          "id": "91-2",
+          "upc": "4988615012907"
         },
         {
           "name": "ANGELIQUE TENKUU NO REQUIEM [KOEI SUMMER CAMPAIGN]",
@@ -2812,7 +2820,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-07-06",
-          "id": "91-4"
+          "id": "91-4",
+          "upc": "4988615014376"
         }
       ],
       "id": 91
@@ -2950,7 +2959,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-09-28",
-          "id": "98-1"
+          "id": "98-1",
+          "upc": "4934569501837"
         }
       ],
       "id": 98
@@ -2966,7 +2976,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2003-11-13",
-          "id": "99-1"
+          "id": "99-1",
+          "upc": "4536478000533"
         }
       ],
       "id": 99
@@ -3421,7 +3432,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-11-28",
-          "id": "115-1"
+          "id": "115-1",
+          "upc": "4529651000352"
         }
       ],
       "id": 115
@@ -4211,7 +4223,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-08-27",
-          "id": "141-1"
+          "id": "141-1",
+          "upc": "4988601003049"
         }
       ],
       "id": 141
@@ -4302,7 +4315,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-11-27",
-          "id": "145-1"
+          "id": "145-1",
+          "upc": "4948536190351"
         },
         {
           "name": "ASUNCIA - STRATEGIC FANTASY ROLE PLAYING GAME [XING MARUYASU SERIES 9]",
@@ -4312,7 +4326,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-07-12",
-          "id": "145-2"
+          "id": "145-2",
+          "upc": "4948536190603"
         }
       ],
       "id": 145
@@ -4415,7 +4430,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-03-11",
-          "id": "149-1"
+          "id": "149-1",
+          "upc": "4964808300181"
         }
       ],
       "id": 149
@@ -4557,7 +4573,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-03-04",
-          "id": "154-1"
+          "id": "154-1",
+          "upc": "4902425726205"
         },
         {
           "name": "AURA BATTLER DUNBINE [BANDAI THE BEST]",
@@ -4567,7 +4584,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-12-07",
-          "id": "154-2"
+          "id": "154-2",
+          "upc": "4543112033192"
         }
       ],
       "id": 154
@@ -4881,7 +4899,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-05-18",
-          "id": "167-1"
+          "id": "167-1",
+          "upc": "4539820600108"
         },
         {
           "name": "BACKGAMMON 2000 [REPRINT]",
@@ -5015,7 +5034,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-07-25",
-          "id": "172-1"
+          "id": "172-1",
+          "upc": "4960677400328"
         }
       ],
       "id": 172
@@ -5031,7 +5051,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-09-14",
-          "id": "173-1"
+          "id": "173-1",
+          "upc": "4527264000011"
         }
       ],
       "id": 173
@@ -5090,7 +5111,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-11-11",
-          "id": "175-3"
+          "id": "175-3",
+          "upc": "4959143900530"
         }
       ],
       "id": 175,
@@ -5130,7 +5152,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-07-12",
-          "id": "177-1"
+          "id": "177-1",
+          "upc": "4940261502218"
         }
       ],
       "id": 177
@@ -5826,7 +5849,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-01-15",
-          "id": "199-1"
+          "id": "199-1",
+          "upc": "4995194000447"
         },
         {
           "name": "BATTLE ATHLETESS - DAIUNDOUKAI ALTERNATIVE [MAJOR WAVE SERIES]",
@@ -5836,7 +5860,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-05-25",
-          "id": "199-2"
+          "id": "199-2",
+          "upc": "4529651000260"
         }
       ],
       "id": 199
@@ -5852,7 +5877,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-01-14",
-          "id": "200-1"
+          "id": "200-1",
+          "upc": "4995194000515"
         },
         {
           "name": "BATTLE ATHLETESS - DAIUNDOUKAI GTO [MAJOR WAVE SERIES]",
@@ -5920,7 +5946,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-01-21",
-          "id": "203-1"
+          "id": "203-1",
+          "upc": "4907859108184"
         }
       ],
       "id": 203
@@ -5936,7 +5963,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-01-08",
-          "id": "204-1"
+          "id": "204-1",
+          "upc": "4535838000015"
         },
         {
           "name": "BATTLE MASTER [MAJOR WAVE SERIES]",
@@ -5946,7 +5974,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-04-27",
-          "id": "204-2"
+          "id": "204-2",
+          "upc": "4529651000239"
         }
       ],
       "id": 204
@@ -6004,7 +6033,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-09-28",
-          "id": "207-1"
+          "id": "207-1",
+          "upc": "4948872101387"
         }
       ],
       "id": 207
@@ -6587,7 +6617,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-09-17",
-          "id": "236-1"
+          "id": "236-1",
+          "upc": "4988602486544"
         },
         {
           "name": "BISHI BASHI SPECIAL [KONAMI THE BEST]",
@@ -6676,7 +6707,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-06-29",
-          "id": "238-1"
+          "id": "238-1",
+          "upc": "4988602739411"
         },
         {
           "name": "BISHI BASHI SPECIAL 3 - STEP CHAMP [PSONE BOOKS]",
@@ -7191,7 +7223,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-02-23",
-          "id": "257-1"
+          "id": "257-1",
+          "upc": "4988679200012"
         },
         {
           "name": "BLOCKIDS [DELUXE PACK WITH NAMCO VOLUME CONTROL]",
@@ -7201,7 +7234,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-02-23",
-          "id": "257-2"
+          "id": "257-2",
+          "upc": "4988679200043"
         },
         {
           "name": "BLOCKIDS",
@@ -7256,7 +7290,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-12-27",
-          "id": "259-1"
+          "id": "259-1",
+          "upc": "4984995110066"
         }
       ],
       "id": 259
@@ -7452,7 +7487,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-12-27",
-          "id": "264-1"
+          "id": "264-1",
+          "upc": "4959143900219"
         },
         {
           "name": "BLUE BREAKER - EGAO NO YAKUSHOKU [MAJOR WAVE SERIES]",
@@ -7462,7 +7498,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-10-26",
-          "id": "264-2"
+          "id": "264-2",
+          "upc": "4529651000420"
         }
       ],
       "id": 264
@@ -7541,7 +7578,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-06-22",
-          "id": "268-1"
+          "id": "268-1",
+          "upc": "4948872100885"
         },
         {
           "name": "BOKU NO NATSUYASUMI - SUMMER HOLIDAY 20TH CENTURY [PLAYSTATION THE BEST]",
@@ -7551,7 +7589,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-06-14",
-          "id": "268-2"
+          "id": "268-2",
+          "upc": "4948872912327"
         }
       ],
       "id": 268
@@ -7675,7 +7714,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-10-12",
-          "id": "273-1"
+          "id": "273-1",
+          "upc": "4988607050214"
         },
         {
           "name": "BOMBERMAN [HUDSON THE BEST]",
@@ -7685,7 +7725,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-07-05",
-          "id": "273-2"
+          "id": "273-2",
+          "upc": "4988607050399"
         },
         {
           "name": "BOMBERMAN",
@@ -7828,7 +7869,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-04-16",
-          "id": "276-2"
+          "id": "276-2",
+          "upc": "4988607050153"
         }
       ],
       "id": 276
@@ -7854,7 +7896,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-01-29",
-          "id": "277-2"
+          "id": "277-2",
+          "upc": "4988607050078"
         },
         {
           "name": "BOMBERMAN WORLD [PLAYSTATION THE BEST]",
@@ -7864,7 +7907,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-08-12",
-          "id": "277-3"
+          "id": "277-3",
+          "upc": "4988607050306"
         },
         {
           "name": "BOMBERMAN WORLD",
@@ -7919,7 +7963,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-10-25",
-          "id": "279-1"
+          "id": "279-1",
+          "upc": "4988602029925"
         }
       ],
       "id": 279
@@ -7956,7 +8001,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-05-24",
-          "id": "281-1"
+          "id": "281-1",
+          "upc": "4976219557139"
         }
       ],
       "id": 281
@@ -8070,7 +8116,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-03-28",
-          "id": "285-1"
+          "id": "285-1",
+          "upc": "4938838096048"
         }
       ],
       "id": 285
@@ -8107,7 +8154,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-10-18",
-          "id": "287-1"
+          "id": "287-1",
+          "upc": "4953507960970"
         },
         {
           "name": "BRAIN DEAD 13  -  [ 2 DISCS ]",
@@ -8433,7 +8481,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-04-25",
-          "id": "298-1"
+          "id": "298-1",
+          "upc": "4948799020013"
         }
       ],
       "id": 298
@@ -10068,7 +10117,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-01-27",
-          "id": "359-2"
+          "id": "359-2",
+          "upc": "4988611990193"
         },
         {
           "name": "CHAOS BREAK",
@@ -10477,7 +10527,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-09-28",
-          "id": "372-1"
+          "id": "372-1",
+          "upc": "4944076001515"
         }
       ],
       "id": 372
@@ -10628,7 +10679,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-12-23",
-          "id": "378-2"
+          "id": "378-2",
+          "upc": "4961012977161"
         },
         {
           "name": "CHOCOBO NO FUSHIGI NA DUNGEON [PSONE BOOKS]",
@@ -10670,7 +10722,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-12-23",
-          "id": "380-2"
+          "id": "380-2",
+          "upc": "4961012987047"
         }
       ],
       "id": 380,
@@ -11654,7 +11707,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-07-27",
-          "id": "416-1"
+          "id": "416-1",
+          "upc": "4994964116210"
         }
       ],
       "id": 416
@@ -11670,7 +11724,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-04-26",
-          "id": "417-1"
+          "id": "417-1",
+          "upc": "4988126510084"
         }
       ],
       "id": 417
@@ -11756,7 +11811,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-01-17",
-          "id": "419-1"
+          "id": "419-1",
+          "upc": "4988126510121"
         }
       ],
       "id": 419
@@ -13380,7 +13436,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2003-03-20",
-          "id": "474-1"
+          "id": "474-1",
+          "upc": "4988602098143"
         },
         {
           "name": "CROKET! KINDAN NO KINKA BOX [PSONE BOOKS]",
@@ -13390,7 +13447,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2004-07-08",
-          "id": "474-2"
+          "id": "474-2",
+          "upc": "4988602113037"
         }
       ],
       "id": 474
@@ -13732,7 +13790,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-08-09",
-          "id": "488-1"
+          "id": "488-1",
+          "upc": "4902333200057"
         }
       ],
       "id": 488
@@ -14526,7 +14585,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-08-27",
-          "id": "514-2"
+          "id": "514-2",
+          "upc": "4988602418743"
         }
       ],
       "id": 514
@@ -14847,7 +14907,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-03-12",
-          "id": "528-2"
+          "id": "528-2",
+          "upc": "4960677400090"
         },
         {
           "name": "DEAD OR ALIVE",
@@ -14944,7 +15005,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-09-10",
-          "id": "532-1"
+          "id": "532-1",
+          "upc": "4513244900143"
         }
       ],
       "id": 532
@@ -15003,7 +15065,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-03-20",
-          "id": "534-2"
+          "id": "534-2",
+          "upc": "4904880134236"
         }
       ],
       "id": 534
@@ -15314,7 +15377,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-08-05",
-          "id": "545-3"
+          "id": "545-3",
+          "upc": "4988611990087"
         }
       ],
       "id": 545
@@ -15375,7 +15439,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-01-27",
-          "id": "547-1"
+          "id": "547-1",
+          "upc": "4988611990278"
         }
       ],
       "id": 547
@@ -15424,7 +15489,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-12-18",
-          "id": "549-1"
+          "id": "549-1",
+          "upc": "4988611970133"
         }
       ],
       "id": 549
@@ -15504,7 +15570,8 @@
           "tgdbId": 0,
           "releaseDate": "1995-12-29",
           "regionalName": "でろーんでろでろ",
-          "id": "553-1"
+          "id": "553-1",
+          "upc": "4960677400014"
         }
       ],
       "id": 553,
@@ -16649,7 +16716,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-09-13",
-          "id": "589-1"
+          "id": "589-1",
+          "upc": "4976219455497"
         },
         {
           "name": "DINO CRISIS 2 [PLAYSTATION THE BEST]",
@@ -17229,7 +17297,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-04-27",
-          "id": "603-1"
+          "id": "603-1",
+          "upc": "4948872101295"
         }
       ],
       "id": 603
@@ -17266,7 +17335,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-11-05",
-          "id": "605-1"
+          "id": "605-1",
+          "upc": "4988126510237"
         },
         {
           "name": "DOKAPON! IKARI NO TETSUKEN [PLAYSTATION THE BEST]",
@@ -17276,7 +17346,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-12-02",
-          "id": "605-2"
+          "id": "605-2",
+          "upc": "4988126510305"
         }
       ],
       "id": 605
@@ -17326,7 +17397,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-09-10",
-          "id": "608-1"
+          "id": "608-1",
+          "upc": "4988003218553"
         },
         {
           "name": "DOKI DOKI POYATCHIO!! [REPRINT]",
@@ -17500,7 +17572,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-07-26",
-          "id": "615-1"
+          "id": "615-1",
+          "upc": "4932873820217"
         }
       ],
       "id": 615
@@ -20560,7 +20633,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-06-21",
-          "id": "725-1"
+          "id": "725-1",
+          "upc": "4948025000178"
         }
       ],
       "id": 725
@@ -20576,7 +20650,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-06-21",
-          "id": "726-1"
+          "id": "726-1",
+          "upc": "4948025000277"
         }
       ],
       "id": 726
@@ -20624,7 +20699,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-06-21",
-          "id": "729-1"
+          "id": "729-1",
+          "upc": "4948025000574"
         }
       ],
       "id": 729
@@ -21503,7 +21579,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-11-27",
-          "id": "767-1"
+          "id": "767-1",
+          "upc": "4935066600047"
         }
       ],
       "id": 767
@@ -21519,7 +21596,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2003-04-10",
-          "id": "768-1"
+          "id": "768-1",
+          "upc": "4944076002963"
         }
       ],
       "id": 768
@@ -21887,7 +21965,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-12-17",
-          "id": "782-1"
+          "id": "782-1",
+          "upc": "4988013043794"
         }
       ],
       "id": 782
@@ -22310,7 +22389,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-01-31",
-          "id": "798-1"
+          "id": "798-1",
+          "upc": "4961012967056"
         },
         {
           "name": "FINAL FANTASY VII  -  [ 3 DISCS ]",
@@ -22381,7 +22461,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-02-10",
-          "id": "799-1"
+          "id": "799-1",
+          "upc": "4961012977093"
         }
       ],
       "id": 799
@@ -22397,7 +22478,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-12-20",
-          "id": "800-1"
+          "id": "800-1",
+          "upc": "4961012017003"
         },
         {
           "name": "FINAL FANTASY VII INTERNATIONAL [ULTIMATE HITS]  -  [ 4 DISCS ] Includes: \n\t\tFinal Fantasy VII International [Ultimate Hits] + Bonus Disc",
@@ -22407,7 +22489,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2006-07-20",
-          "id": "800-2"
+          "id": "800-2",
+          "upc": "4988601004671"
         }
       ],
       "id": 800
@@ -22433,7 +22516,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-02-11",
-          "id": "801-2"
+          "id": "801-2",
+          "upc": "4961012987054"
         },
         {
           "name": "FINAL FANTASY VIII  -  [ 4 DISCS ]",
@@ -22497,7 +22581,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2006-07-20",
-          "id": "801-9"
+          "id": "801-9",
+          "upc": "4988601004787"
         }
       ],
       "id": 801
@@ -22739,7 +22824,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-07-30",
-          "id": "809-1"
+          "id": "809-1",
+          "upc": "4948872100557"
         }
       ],
       "id": 809
@@ -22903,7 +22989,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-12-06",
-          "id": "815-1"
+          "id": "815-1",
+          "upc": "4988711100119"
         }
       ],
       "id": 815
@@ -23416,7 +23503,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-05-02",
-          "id": "834-1"
+          "id": "834-1",
+          "upc": "4960641090074"
         }
       ],
       "id": 834
@@ -23729,7 +23817,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2003-05-01",
-          "id": "843-1"
+          "id": "843-1",
+          "upc": "4543112141040"
         }
       ],
       "id": 843
@@ -23745,7 +23834,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-08-02",
-          "id": "844-1"
+          "id": "844-1",
+          "upc": "4543112033222"
         },
         {
           "name": "FROM TV ANIMATION - ONE PIECE - TOBIDASE KAIZOKUDAN! [BANDAI THE BEST]",
@@ -23755,7 +23845,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2003-06-26",
-          "id": "844-2"
+          "id": "844-2",
+          "upc": "4543112141125"
         },
         {
           "name": "FROM TV ANIMATION - ONE PIECE - TOBIDASE KAIZOKUDAN! [POCKETSTATION PACKAGE]",
@@ -23765,7 +23856,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-08-02",
-          "id": "844-3"
+          "id": "844-3",
+          "upc": "4543112033239"
         }
       ],
       "id": 844
@@ -25605,7 +25697,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-02-21",
-          "id": "905-1"
+          "id": "905-1",
+          "upc": "4939439400074"
         }
       ],
       "id": 905
@@ -25621,7 +25714,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-04-23",
-          "id": "906-1"
+          "id": "906-1",
+          "upc": "4984995110196"
         }
       ],
       "id": 906
@@ -28879,7 +28973,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-11-29",
-          "id": "1018-1"
+          "id": "1018-1",
+          "upc": "4530290002409"
         }
       ],
       "id": 1018
@@ -29260,7 +29355,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-04-18",
-          "id": "1031-1"
+          "id": "1031-1",
+          "upc": "4960641090104"
         }
       ],
       "id": 1031
@@ -29471,7 +29567,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-04-20",
-          "id": "1038-1"
+          "id": "1038-1",
+          "upc": "4939915000361"
         }
       ],
       "id": 1038
@@ -29487,7 +29584,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-01-03",
-          "id": "1039-1"
+          "id": "1039-1",
+          "upc": "4939915000514"
         }
       ],
       "id": 1039
@@ -29503,7 +29601,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-09-20",
-          "id": "1040-1"
+          "id": "1040-1",
+          "upc": "4963919540066"
         }
       ],
       "id": 1040
@@ -30365,7 +30464,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-03-04",
-          "id": "1075-1"
+          "id": "1075-1",
+          "upc": "4907940212431"
         }
       ],
       "id": 1075
@@ -30514,7 +30614,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-03-30",
-          "id": "1082-1"
+          "id": "1082-1",
+          "upc": "4907940212417"
         }
       ],
       "id": 1082
@@ -30728,7 +30829,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-10-19",
-          "id": "1092-1"
+          "id": "1092-1",
+          "upc": "4907940212660"
         }
       ],
       "id": 1092
@@ -30924,7 +31026,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-02-10",
-          "id": "1103-1"
+          "id": "1103-1",
+          "upc": "4907940212387"
         }
       ],
       "id": 1103
@@ -30940,7 +31043,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-01-01",
-          "id": "1104-1"
+          "id": "1104-1",
+          "upc": "4907940212882"
         }
       ],
       "id": 1104
@@ -31363,7 +31467,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1995-12-29",
-          "id": "1123-1"
+          "id": "1123-1",
+          "upc": "4948872100168"
         },
         {
           "name": "HORNED OWL [LIMITED EDITION WITH LIGHT GUN]",
@@ -31373,7 +31478,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1995-12-29",
-          "id": "1123-2"
+          "id": "1123-2",
+          "upc": "4948872100175"
         }
       ],
       "id": 1123
@@ -31546,7 +31652,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-09-10",
-          "id": "1131-1"
+          "id": "1131-1",
+          "upc": "4988615010972"
         }
       ],
       "id": 1131
@@ -31594,7 +31701,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-11-02",
-          "id": "1134-1"
+          "id": "1134-1",
+          "upc": "4988615014222"
         }
       ],
       "id": 1134
@@ -33831,7 +33939,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-09-13",
-          "id": "1220-1"
+          "id": "1220-1",
+          "upc": "4995506000035"
         },
         {
           "name": "JIGSAW LAND - JAPAN GRAFFITI [MAJOR WAVE SERIES]",
@@ -34364,7 +34473,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-07-16",
-          "id": "1244-1"
+          "id": "1244-1",
+          "upc": "4988009004198"
         }
       ],
       "id": 1244
@@ -35140,7 +35250,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-07-23",
-          "id": "1280-1"
+          "id": "1280-1",
+          "upc": "4960677400106"
         },
         {
           "name": "KAGERO - KOKUMEIKAN SHINSHOU [PLAYSTATION THE BEST]",
@@ -35150,7 +35261,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-09-29",
-          "id": "1280-2"
+          "id": "1280-2",
+          "upc": "4960677400175"
         },
         {
           "name": "KAGERO - KOKUMEIKAN SHINSHOU [PSONE BOOKS]",
@@ -35260,7 +35372,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-12-21",
-          "id": "1285-1"
+          "id": "1285-1",
+          "upc": "4997232100256"
         }
       ],
       "id": 1285
@@ -36243,7 +36356,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-08-03",
-          "id": "1325-1"
+          "id": "1325-1",
+          "upc": "4515810010065"
         }
       ],
       "id": 1325
@@ -36292,7 +36406,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-09-26",
-          "id": "1327-1"
+          "id": "1327-1",
+          "upc": "4529651000925"
         }
       ],
       "id": 1327
@@ -36602,7 +36717,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-11-29",
-          "id": "1339-1"
+          "id": "1339-1",
+          "upc": "4543112033994"
         },
         {
           "name": "KIDS STATION - BISHOUJO SENSHI SAILOR MOON [KIDS STATION CONTROLLER SET]",
@@ -36612,7 +36728,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-11-29",
-          "id": "1339-2"
+          "id": "1339-2",
+          "upc": "4543112034007"
         }
       ],
       "id": 1339
@@ -37726,7 +37843,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-06-16",
-          "id": "1379-1"
+          "id": "1379-1",
+          "upc": "4990951007028"
         },
         {
           "name": "KILLER BASS [MAGICAL 1500]",
@@ -37736,7 +37854,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-02-01",
-          "id": "1379-2"
+          "id": "1379-2",
+          "upc": "4990951017010"
         }
       ],
       "id": 1379
@@ -39160,7 +39279,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-01-13",
-          "id": "1433-1"
+          "id": "1433-1",
+          "upc": "4907953200098"
         }
       ],
       "id": 1433
@@ -39527,7 +39647,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-11-29",
-          "id": "1445-1"
+          "id": "1445-1",
+          "upc": "4948536190153"
         },
         {
           "name": "KOURYUU SANGOKU ENGI [MARURAN SERIES 2]",
@@ -40938,7 +41059,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-11-20",
-          "id": "1499-1"
+          "id": "1499-1",
+          "upc": "4988602045833"
         }
       ],
       "id": 1499
@@ -41296,7 +41418,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-02-04",
-          "id": "1514-1"
+          "id": "1514-1",
+          "upc": "4902425607009"
         }
       ],
       "id": 1514
@@ -41451,7 +41574,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-08-03",
-          "id": "1520-1"
+          "id": "1520-1",
+          "upc": "4995506000141"
         }
       ],
       "id": 1520
@@ -41509,7 +41633,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-12-18",
-          "id": "1523-1"
+          "id": "1523-1",
+          "upc": "4904810461937"
         },
         {
           "name": "LOMAX",
@@ -41659,7 +41784,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-03-12",
-          "id": "1529-1"
+          "id": "1529-1",
+          "upc": "4965857040301"
         }
       ],
       "id": 1529
@@ -42126,7 +42252,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-07-12",
-          "id": "1549-1"
+          "id": "1549-1",
+          "upc": "4904880138173"
         },
         {
           "name": "LUNAR WING - TOKI O KOETA SEISEN [SUPERLITE 1500 SERIES]",
@@ -42152,7 +42279,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-12-17",
-          "id": "1550-1"
+          "id": "1550-1",
+          "upc": "4988640100297"
         },
         {
           "name": "LUNATIC DAWN III [ARTDINK BEST CHOICE]",
@@ -42162,7 +42290,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-01-06",
-          "id": "1550-2"
+          "id": "1550-2",
+          "upc": "4988640100488"
         }
       ],
       "id": 1550
@@ -42211,7 +42340,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-10-30",
-          "id": "1552-1"
+          "id": "1552-1",
+          "upc": "4932688000118"
         },
         {
           "name": "LUP SALAD - LUPUPU CUBE [NATSU-COLE SERIES VOL.3]",
@@ -42258,7 +42388,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-01-10",
-          "id": "1554-1"
+          "id": "1554-1",
+          "upc": "4988126510046"
         }
       ],
       "id": 1554
@@ -42274,7 +42405,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-05-28",
-          "id": "1555-1"
+          "id": "1555-1",
+          "upc": "4988126510213"
         }
       ],
       "id": 1555
@@ -42290,7 +42422,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-06-22",
-          "id": "1556-1"
+          "id": "1556-1",
+          "upc": "4902425764658"
         }
       ],
       "id": 1556
@@ -42667,7 +42800,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-08-03",
-          "id": "1572-1"
+          "id": "1572-1",
+          "upc": "4948872101356"
         }
       ],
       "id": 1572
@@ -42757,7 +42891,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-10-30",
-          "id": "1576-1"
+          "id": "1576-1",
+          "upc": "4961082300135"
         }
       ],
       "id": 1576
@@ -42773,7 +42908,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-02-25",
-          "id": "1577-1"
+          "id": "1577-1",
+          "upc": "4961082300166"
         },
         {
           "name": "MAGICAL DROP III + WONDERFUL! [REPRINT] [ 2 DISCS ]",
@@ -42783,7 +42919,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-03-01",
-          "id": "1577-2"
+          "id": "1577-2",
+          "upc": "4988611201022"
         }
       ],
       "id": 1577
@@ -42862,7 +42999,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-09-10",
-          "id": "1581-1"
+          "id": "1581-1",
+          "upc": "4988602469301"
         }
       ],
       "id": 1581
@@ -42878,7 +43016,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-03-19",
-          "id": "1582-1"
+          "id": "1582-1",
+          "upc": "4988021095402"
         },
         {
           "name": "MAGICAL ZUNOU POWER! PARTY SELECTION [VAP BEST THANKS 1800]",
@@ -43106,7 +43245,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-07-26",
-          "id": "1592-1"
+          "id": "1592-1",
+          "upc": "4944076001959"
         }
       ],
       "id": 1592
@@ -43122,7 +43262,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-06-14",
-          "id": "1593-1"
+          "id": "1593-1",
+          "upc": "4516365000013"
         }
       ],
       "id": 1593
@@ -43359,7 +43500,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-02-18",
-          "id": "1602-1"
+          "id": "1602-1",
+          "upc": "4935066600085"
         }
       ],
       "id": 1602
@@ -43596,7 +43738,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-04-26",
-          "id": "1613-2"
+          "id": "1613-2",
+          "upc": "4988608118906"
         }
       ],
       "id": 1613
@@ -43661,7 +43804,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2003-04-24",
-          "id": "1616-1"
+          "id": "1616-1",
+          "upc": "4995506000424"
         },
         {
           "name": "MARL JONG! [LIMITED EDITION]",
@@ -43671,7 +43815,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2003-04-24",
-          "id": "1616-2"
+          "id": "1616-2",
+          "upc": "4995506000417"
         }
       ],
       "id": 1616
@@ -44562,7 +44707,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-04-25",
-          "id": "1646-1"
+          "id": "1646-1",
+          "upc": "4543112077455"
         }
       ],
       "id": 1646
@@ -45191,7 +45337,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-09-03",
-          "id": "1671-4"
+          "id": "1671-4",
+          "upc": "4988602495942"
         },
         {
           "name": "METAL GEAR SOLID [PREMIUM PACKAGE SAI HAKKOU KINEN]  -  [ 3 DISCS ]\n Includes: \n\t\tMetal Gear Solid + Bonus Disc",
@@ -45201,7 +45348,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-09-03",
-          "id": "1671-5"
+          "id": "1671-5",
+          "upc": "4988602495942"
         }
       ],
       "id": 1671,
@@ -45906,7 +46054,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-09-19",
-          "id": "1696-1"
+          "id": "1696-1",
+          "upc": "4974365820008"
         },
         {
           "name": "MINI MONI - SHAKER & TAMBOURINE! DAPYON! [TAMBOURINE SET]",
@@ -45916,7 +46065,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-09-19",
-          "id": "1696-2"
+          "id": "1696-2",
+          "upc": "4974365820015"
         }
       ],
       "id": 1696
@@ -46024,7 +46174,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-07-17",
-          "id": "1701-1"
+          "id": "1701-1",
+          "upc": "4948872100427"
         },
         {
           "name": "MINNA NO GOLF [PLAYSTATION THE BEST]",
@@ -46034,7 +46185,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-03-25",
-          "id": "1701-2"
+          "id": "1701-2",
+          "upc": "4948872911269"
         }
       ],
       "id": 1701
@@ -46306,7 +46458,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-02-26",
-          "id": "1712-2"
+          "id": "1712-2",
+          "upc": "4991694000185"
         }
       ],
       "id": 1712,
@@ -46421,7 +46574,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-03-19",
-          "id": "1717-1"
+          "id": "1717-1",
+          "upc": "4988602426656"
         },
         {
           "name": "MITSUMETE KNIGHT [KONAMI THE BEST]",
@@ -46431,7 +46585,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-11-25",
-          "id": "1717-2"
+          "id": "1717-2",
+          "upc": "4988602601763"
         }
       ],
       "id": 1717
@@ -46447,7 +46602,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-11-26",
-          "id": "1718-1"
+          "id": "1718-1",
+          "upc": "4988602486599"
         }
       ],
       "id": 1718
@@ -46505,7 +46661,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-12-23",
-          "id": "1721-1"
+          "id": "1721-1",
+          "upc": "4959143900264"
         }
       ],
       "id": 1721
@@ -46809,7 +46966,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-12-23",
-          "id": "1732-1"
+          "id": "1732-1",
+          "upc": "4988607050221"
         },
         {
           "name": "MOMOTAROU DENSETSU [PLAYSTATION THE BEST]",
@@ -46829,7 +46987,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-07-11",
-          "id": "1732-3"
+          "id": "1732-3",
+          "upc": "4988607050504"
         }
       ],
       "id": 1732
@@ -46947,7 +47106,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-09-13",
-          "id": "1735-1"
+          "id": "1735-1",
+          "upc": "4988607050405"
         }
       ],
       "id": 1735
@@ -47174,7 +47334,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-06-29",
-          "id": "1742-2"
+          "id": "1742-2",
+          "upc": "4995857120604"
         },
         {
           "name": "MONSTER COMPLETE WORLD [SUPERLITE 1500 SERIES]",
@@ -47401,7 +47562,8 @@
           "tgdbId": 0,
           "regionalName": "MOON（ムーン）（再販）",
           "releaseDate": "1997-10-16",
-          "id": "1750-1"
+          "id": "1750-1",
+          "upc": "4988606101467"
         },
         {
           "name": "MOON REMIX - RPG ADVENTURE [PLAYSTATION THE BEST]",
@@ -48507,7 +48669,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-03-28",
-          "id": "1792-2"
+          "id": "1792-2",
+          "upc": "4512557600191"
         },
         {
           "name": "MYST [PLAYSTATION THE BEST] [RERELEASE]",
@@ -48517,7 +48680,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-12-26",
-          "id": "1792-3"
+          "id": "1792-3",
+          "upc": "4521923010014"
         },
         {
           "name": "MYST [VALUE 1500]",
@@ -48527,7 +48691,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-08-03",
-          "id": "1792-4"
+          "id": "1792-4",
+          "upc": "4907940212592"
         },
         {
           "name": "MYST",
@@ -50849,7 +51014,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-12-12",
-          "id": "1869-1"
+          "id": "1869-1",
+          "upc": "4984995110653"
         }
       ],
       "id": 1869
@@ -51305,7 +51471,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-10-25",
-          "id": "1887-2"
+          "id": "1887-2",
+          "upc": "4959143900110"
         }
       ],
       "id": 1887
@@ -51914,7 +52081,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-12-20",
-          "id": "1906-1"
+          "id": "1906-1",
+          "upc": "4514312100106"
         }
       ],
       "id": 1906
@@ -52350,7 +52518,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-11-16",
-          "id": "1921-1"
+          "id": "1921-1",
+          "upc": "4988126510312"
         }
       ],
       "id": 1921
@@ -52460,7 +52629,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-10-06",
-          "id": "1926-1"
+          "id": "1926-1",
+          "upc": "4988658987095"
         }
       ],
       "id": 1926
@@ -52741,7 +52911,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-02-24",
-          "id": "1936-1"
+          "id": "1936-1",
+          "upc": "4961508006177"
         }
       ],
       "id": 1936
@@ -52811,7 +52982,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-03-22",
-          "id": "1939-1"
+          "id": "1939-1",
+          "upc": "4945640000064"
         }
       ],
       "id": 1939
@@ -52890,7 +53062,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-01-15",
-          "id": "1942-1"
+          "id": "1942-1",
+          "upc": "4536478000014"
         },
         {
           "name": "OPTION TUNING CAR BATTLE [PLAYSTATION THE BEST]",
@@ -52900,7 +53073,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-10-08",
-          "id": "1942-2"
+          "id": "1942-2",
+          "upc": "4536478000021"
         }
       ],
       "id": 1942
@@ -53172,7 +53346,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-05-02",
-          "id": "1951-1"
+          "id": "1951-1",
+          "upc": "4571128000013"
         }
       ],
       "id": 1951
@@ -53317,7 +53492,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-09-26",
-          "id": "1957-1"
+          "id": "1957-1",
+          "upc": "4988021095358"
         },
         {
           "name": "OUKYUU NO HIHOU TENSION [VAP BEST THANKS 1800]",
@@ -53652,7 +53828,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-02-17",
-          "id": "1968-1"
+          "id": "1968-1",
+          "upc": "4939915000323"
         },
         {
           "name": "OYAJI NO JIKAN - NECHAN MAHJONG DE SHOUBU YA! [REPRINT]",
@@ -53678,7 +53855,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-02-17",
-          "id": "1969-1"
+          "id": "1969-1",
+          "upc": "4939915000347"
         },
         {
           "name": "OYAJI NO JIKAN - NECHAN TSURI IKU DE! [REPRINT]",
@@ -53736,7 +53914,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-04-04",
-          "id": "1971-2"
+          "id": "1971-2",
+          "upc": "4521923010069"
         }
       ],
       "id": 1971
@@ -53836,7 +54015,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-08-30",
-          "id": "1976-1"
+          "id": "1976-1",
+          "upc": "4997232100355"
         }
       ],
       "id": 1976
@@ -55517,7 +55697,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-11-30",
-          "id": "2037-4"
+          "id": "2037-4",
+          "upc": "4961012007301"
         }
       ],
       "id": 2037
@@ -56500,7 +56681,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-12-18",
-          "id": "2075-1"
+          "id": "2075-1",
+          "upc": "4907940211540"
         },
         {
           "name": "PHOTO GENIC [LIMITED EDITION]",
@@ -56510,7 +56692,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-12-18",
-          "id": "2075-2"
+          "id": "2075-2",
+          "upc": "4907940211885"
         }
       ],
       "id": 2075
@@ -56547,7 +56730,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-06-16",
-          "id": "2077-1"
+          "id": "2077-1",
+          "upc": "4988606101856"
         },
         {
           "name": "PIKINYA! EXCELLENT [ASCII CASUAL COLLECTION]",
@@ -56557,7 +56741,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-10-05",
-          "id": "2077-2"
+          "id": "2077-2",
+          "upc": "4988606103461"
         }
       ],
       "id": 2077
@@ -56573,7 +56758,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-02-18",
-          "id": "2078-1"
+          "id": "2078-1",
+          "upc": "4938838098165"
         }
       ],
       "id": 2078
@@ -56697,7 +56883,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-08-05",
-          "id": "2083-1"
+          "id": "2083-1",
+          "upc": "4904880135875"
         }
       ],
       "id": 2083
@@ -57145,7 +57332,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-04-12",
-          "id": "2100-1"
+          "id": "2100-1",
+          "upc": "4983164738087"
         }
       ],
       "id": 2100
@@ -57161,7 +57349,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-04-11",
-          "id": "2101-1"
+          "id": "2101-1",
+          "upc": "4983164738223"
         }
       ],
       "id": 2101
@@ -57177,7 +57366,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-04-16",
-          "id": "2102-1"
+          "id": "2102-1",
+          "upc": "4983164734294"
         }
       ],
       "id": 2102
@@ -57932,7 +58122,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-11-22",
-          "id": "2134-1"
+          "id": "2134-1",
+          "upc": "4988602077360"
         }
       ],
       "id": 2134
@@ -58011,7 +58202,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-07-12",
-          "id": "2137-1"
+          "id": "2137-1",
+          "upc": "4948872100236"
         },
         {
           "name": "POPOLOCROIS [PLAYSTATION THE BEST]",
@@ -58021,7 +58213,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-06-27",
-          "id": "2137-2"
+          "id": "2137-2",
+          "upc": "4948872910309"
         },
         {
           "name": "POPOLOCROIS [PSONE BOOKS]",
@@ -58031,7 +58224,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-10-12",
-          "id": "2137-3"
+          "id": "2137-3",
+          "upc": "4948872913058"
         }
       ],
       "id": 2137
@@ -58103,7 +58297,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-11-26",
-          "id": "2139-1"
+          "id": "2139-1",
+          "upc": "4948872100502"
         },
         {
           "name": "POPOROGUE [PSONE BOOKS]",
@@ -58442,7 +58637,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-01-21",
-          "id": "2151-1"
+          "id": "2151-1",
+          "upc": "4534515210037"
         },
         {
           "name": "PRINCESS MAKER - GO! GO! PRINCESS [BEST WING]",
@@ -58468,7 +58664,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-08-13",
-          "id": "2152-1"
+          "id": "2152-1",
+          "upc": "4534515210020"
         },
         {
           "name": "PRINCESS MAKER - POCKET DAISAKUSEN [BEST WING]",
@@ -58526,7 +58723,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-02-26",
-          "id": "2154-1"
+          "id": "2154-1",
+          "upc": "4948196970904"
         }
       ],
       "id": 2154
@@ -58605,7 +58803,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-12-25",
-          "id": "2158-1"
+          "id": "2158-1",
+          "upc": "4948536190399"
         }
       ],
       "id": 2158
@@ -58999,7 +59198,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-10-23",
-          "id": "2174-1"
+          "id": "2174-1",
+          "upc": "4997153900218"
         }
       ],
       "id": 2174
@@ -59164,7 +59364,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-06-25",
-          "id": "2181-1"
+          "id": "2181-1",
+          "upc": "4988611980026"
         },
         {
           "name": "PUCHI CARAT [REPRINT]",
@@ -59220,7 +59421,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-09-27",
-          "id": "2183-1"
+          "id": "2183-1",
+          "upc": "4988679200074"
         }
       ],
       "id": 2183
@@ -59375,7 +59577,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-12-21",
-          "id": "2190-1"
+          "id": "2190-1",
+          "upc": "4988161000786"
         }
       ],
       "id": 2190
@@ -59555,7 +59758,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-06-08",
-          "id": "2196-1"
+          "id": "2196-1",
+          "upc": "4988611980033"
         }
       ],
       "id": 2196
@@ -59697,7 +59901,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-03-20",
-          "id": "2201-1"
+          "id": "2201-1",
+          "upc": "4994068800350"
         }
       ],
       "id": 2201
@@ -59863,7 +60068,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-10-17",
-          "id": "2208-1"
+          "id": "2208-1",
+          "upc": "4904880139538"
         },
         {
           "name": "QUIZ DARAKE NO JINSEI GAME DAI-2-KAI! [PSONE BOOKS]",
@@ -60032,7 +60238,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-11-27",
-          "id": "2216-1"
+          "id": "2216-1",
+          "upc": "4902425599830"
         }
       ],
       "id": 2216
@@ -60325,7 +60532,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-12-07",
-          "id": "2226-2"
+          "id": "2226-2",
+          "upc": "4949794000031"
         },
         {
           "name": "RAIDEN PROJECT [PLAYSTATION THE BEST] [REPRINT]",
@@ -60384,7 +60592,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-12-07",
-          "id": "2227-2"
+          "id": "2227-2",
+          "upc": "4949794000031"
         },
         {
           "name": "RAIDEN PROJECT [PLAYSTATION THE BEST] [REPRINT]",
@@ -60452,7 +60661,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-07-17",
-          "id": "2229-1"
+          "id": "2229-1",
+          "upc": "4948872600224"
         },
         {
           "name": "RALLY CROSS",
@@ -60573,7 +60783,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-09-17",
-          "id": "2233-1"
+          "id": "2233-1",
+          "upc": "4988110020353"
         }
       ],
       "id": 2233
@@ -60865,7 +61076,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-07-06",
-          "id": "2241-1"
+          "id": "2241-1",
+          "upc": "4988611200087"
         },
         {
           "name": "RC DE GO!",
@@ -61026,7 +61238,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-10-24",
-          "id": "2245-1"
+          "id": "2245-1",
+          "upc": "4560101360077"
         }
       ],
       "id": 2245
@@ -61446,7 +61659,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-03-14",
-          "id": "2259-1"
+          "id": "2259-1",
+          "upc": "4518563000109"
         }
       ],
       "id": 2259
@@ -61514,7 +61728,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-09-27",
-          "id": "2262-1"
+          "id": "2262-1",
+          "upc": "4934569500717"
         }
       ],
       "id": 2262
@@ -61697,7 +61912,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-10-29",
-          "id": "2269-1"
+          "id": "2269-1",
+          "upc": "4533296000134"
         }
       ],
       "id": 2269
@@ -61889,7 +62105,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-02-05",
-          "id": "2274-1"
+          "id": "2274-1",
+          "upc": "4961508976029"
         }
       ],
       "id": 2274
@@ -63295,7 +63512,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-06-15",
-          "id": "2316-1"
+          "id": "2316-1",
+          "upc": "4537744106157"
         }
       ],
       "id": 2316
@@ -64010,7 +64228,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-05-31",
-          "id": "2339-1"
+          "id": "2339-1",
+          "upc": "4944076001898"
         }
       ],
       "id": 2339
@@ -65000,7 +65219,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-07-06",
-          "id": "2370-3"
+          "id": "2370-3",
+          "upc": "4948872911962"
         },
         {
           "name": "SARU! GET YOU! [PSONE BOOKS]",
@@ -65720,7 +65940,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-11-29",
-          "id": "2400-1"
+          "id": "2400-1",
+          "upc": "4537337000367"
         }
       ],
       "id": 2400
@@ -66225,7 +66446,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-11-30",
-          "id": "2422-1"
+          "id": "2422-1",
+          "upc": "4948872101394"
         },
         {
           "name": "SHACHOU EIYUUDEN - THE EAGLE SHOOTING HEROES",
@@ -67447,7 +67669,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-02-04",
-          "id": "2468-1"
+          "id": "2468-1",
+          "upc": "4995151000060"
         }
       ],
       "id": 2468
@@ -70127,7 +70350,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-12-14",
-          "id": "2575-1"
+          "id": "2575-1",
+          "upc": "4527823990685"
         }
       ],
       "id": 2575
@@ -70143,7 +70367,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-01-25",
-          "id": "2576-1"
+          "id": "2576-1",
+          "upc": "4527823990760"
         }
       ],
       "id": 2576
@@ -70432,7 +70657,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-08-09",
-          "id": "2590-1"
+          "id": "2590-1",
+          "upc": "4527823991071"
         }
       ],
       "id": 2590
@@ -70952,7 +71178,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-04-25",
-          "id": "2615-1"
+          "id": "2615-1",
+          "upc": "4527823991408"
         }
       ],
       "id": 2615
@@ -71128,7 +71355,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-08-29",
-          "id": "2624-1"
+          "id": "2624-1",
+          "upc": "4527823991590"
         }
       ],
       "id": 2624
@@ -71144,7 +71372,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2003-01-30",
-          "id": "2625-1"
+          "id": "2625-1",
+          "upc": "4527823991873"
         }
       ],
       "id": 2625
@@ -72149,7 +72378,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-11-21",
-          "id": "2670-1"
+          "id": "2670-1",
+          "upc": "4988624900370"
         }
       ],
       "id": 2670
@@ -72417,7 +72647,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-09-06",
-          "id": "2683-1"
+          "id": "2683-1",
+          "upc": "4907892010185"
         },
         {
           "name": "SMASH COURT [PLAYSTATION THE BEST]",
@@ -72427,7 +72658,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-03-12",
-          "id": "2683-2"
+          "id": "2683-2",
+          "upc": "4907892010499"
         },
         {
           "name": "SMASH COURT [PSONE BOOKS]",
@@ -72437,7 +72669,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-12-27",
-          "id": "2683-3"
+          "id": "2683-3",
+          "upc": "4907892010994"
         }
       ],
       "id": 2683
@@ -74300,7 +74533,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-05-23",
-          "id": "2752-2"
+          "id": "2752-2",
+          "upc": "4988017203835"
         },
         {
           "name": "SPIDER - THE VIDEO GAME",
@@ -75147,7 +75381,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-12-27",
-          "id": "2775-1"
+          "id": "2775-1",
+          "upc": "4988627010083"
         },
         {
           "name": "STAR WARS - REBEL ASSAULT II - THE HIDDEN EMPIRE  -  [ 2 DISCS ]",
@@ -75535,7 +75770,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1995-12-15",
-          "id": "2788-1"
+          "id": "2788-1",
+          "upc": "4976219154345"
         }
       ],
       "id": 2788
@@ -75991,7 +76227,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-10-22",
-          "id": "2804-2"
+          "id": "2804-2",
+          "upc": "4521088060923"
         },
         {
           "name": "STRIKERS 1945 II [SUPERLITE 1500 SERIES]",
@@ -76001,7 +76238,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-09-28",
-          "id": "2804-3"
+          "id": "2804-3",
+          "upc": "4944076001539"
         },
         {
           "name": "STRIKERS 1945 II",
@@ -77422,7 +77660,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-06-28",
-          "id": "2859-1"
+          "id": "2859-1",
+          "upc": "4944076001928"
         }
       ],
       "id": 2859
@@ -77812,7 +78051,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-09-26",
-          "id": "2878-1"
+          "id": "2878-1",
+          "upc": "4944076002161"
         }
       ],
       "id": 2878
@@ -78480,7 +78720,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-03-29",
-          "id": "2903-1"
+          "id": "2903-1",
+          "upc": "4529651000673"
         }
       ],
       "id": 2903
@@ -78496,7 +78737,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-03-29",
-          "id": "2904-1"
+          "id": "2904-1",
+          "upc": "4529651000680"
         }
       ],
       "id": 2904
@@ -79070,7 +79312,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-07-25",
-          "id": "2922-2"
+          "id": "2922-2",
+          "upc": "4529651000895"
         }
       ],
       "id": 2922
@@ -79149,7 +79392,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-12-03",
-          "id": "2926-1"
+          "id": "2926-1",
+          "upc": "4994934100096"
         },
         {
           "name": "TAMAMAYU MONOGATARI [PLAYSTATION THE BEST]",
@@ -79159,7 +79403,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-09-14",
-          "id": "2926-2"
+          "id": "2926-2",
+          "upc": "4994934100102"
         },
         {
           "name": "TAMAMAYU MONOGATARI [PSONE BOOKS]",
@@ -79276,7 +79521,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-11-29",
-          "id": "2930-1"
+          "id": "2930-1",
+          "upc": "4961082300104"
         },
         {
           "name": "TANTEI JINGUUJI SABURO - MIKAN NO REPORT [POPULAR EDITION]",
@@ -79286,7 +79532,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-12-14",
-          "id": "2930-2"
+          "id": "2930-2",
+          "upc": "4989006000237"
         }
       ],
       "id": 2930
@@ -79467,7 +79714,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-05-24",
-          "id": "2936-1"
+          "id": "2936-1",
+          "upc": "4541993000111"
         }
       ],
       "id": 2936
@@ -79984,7 +80232,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-11-16",
-          "id": "2952-1"
+          "id": "2952-1",
+          "upc": "4935228987887"
         },
         {
           "name": "TENKUU NO RESTAURANT [PSONE BOOKS]",
@@ -80010,7 +80259,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-01-03",
-          "id": "2953-1"
+          "id": "2953-1",
+          "upc": "4935228991266"
         }
       ],
       "id": 2953
@@ -80244,7 +80494,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-04-02",
-          "id": "2962-1"
+          "id": "2962-1",
+          "upc": "4938833004864"
         },
         {
           "name": "TEST DRIVE 4",
@@ -80393,7 +80644,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-08-10",
-          "id": "2966-1"
+          "id": "2966-1",
+          "upc": "4526319000044"
         }
       ],
       "id": 2966
@@ -80409,7 +80661,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-03-29",
-          "id": "2967-1"
+          "id": "2967-1",
+          "upc": "4988627010069"
         },
         {
           "name": "TETRIS X [PLAYSTATION THE BEST]",
@@ -80419,7 +80672,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-06-27",
-          "id": "2967-2"
+          "id": "2967-2",
+          "upc": "4988627010120"
         }
       ],
       "id": 2967
@@ -80436,7 +80690,8 @@
           "tgdbId": 0,
           "releaseDate": "1995-12-15",
           "regionalName": "鉄道王96いくぜ億万長者",
-          "id": "2968-1"
+          "id": "2968-1",
+          "upc": "4984995110035"
         }
       ],
       "id": 2968,
@@ -80539,7 +80794,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-01-27",
-          "id": "2973-1"
+          "id": "2973-1",
+          "upc": "4988615014192"
         }
       ],
       "id": 2973
@@ -80555,7 +80811,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-12-17",
-          "id": "2974-1"
+          "id": "2974-1",
+          "upc": "4995506000097"
         },
         {
           "name": "THE ADVENTURE OF PUPPET PRINCESS [PSONE BOOKS]",
@@ -81101,7 +81358,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-12-17",
-          "id": "2993-1"
+          "id": "2993-1",
+          "upc": "4959143900417"
         }
       ],
       "id": 2993
@@ -81117,7 +81375,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-05-11",
-          "id": "2994-1"
+          "id": "2994-1",
+          "upc": "4997232100157"
         }
       ],
       "id": 2994
@@ -81315,7 +81574,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-03-29",
-          "id": "3002-1"
+          "id": "3002-1",
+          "upc": "4527585100063"
         }
       ],
       "id": 3002
@@ -82048,7 +82308,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-08-31",
-          "id": "3024-3"
+          "id": "3024-3",
+          "upc": "4948536190566"
         }
       ],
       "id": 3024
@@ -82064,7 +82325,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-01-07",
-          "id": "3025-1"
+          "id": "3025-1",
+          "upc": "4988627010168"
         },
         {
           "name": "THE NEXT TETRIS [BPS THE CHOICE]",
@@ -82200,7 +82462,8 @@
           "tgdbId": 0,
           "regionalName": "パーフェクトゴルフ",
           "releaseDate": "1995-12-01",
-          "id": "3030-1"
+          "id": "3030-1",
+          "upc": "4963919440021"
         }
       ],
       "id": 3030,
@@ -82975,7 +83238,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1995-12-29",
-          "id": "3061-1"
+          "id": "3061-1",
+          "upc": "4938833002389"
         },
         {
           "name": "THEME PARK [PLAYSTATION THE BEST]",
@@ -82985,7 +83249,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-11-29",
-          "id": "3061-2"
+          "id": "3061-2",
+          "upc": "4938833003942"
         },
         {
           "name": "THEME PARK",
@@ -83142,7 +83407,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-03-04",
-          "id": "3067-1"
+          "id": "3067-1",
+          "upc": "4948204001033"
         }
       ],
       "id": 3067
@@ -83657,7 +83923,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-08-30",
-          "id": "3084-1"
+          "id": "3084-1",
+          "upc": "4983164734072"
         }
       ],
       "id": 3084
@@ -83844,7 +84111,8 @@
           "tgdbId": 0,
           "regionalName": "ときめきメモリアル forever with you",
           "releaseDate": "1995-10-13",
-          "id": "3091-1"
+          "id": "3091-1",
+          "upc": "4988602006124"
         },
         {
           "name": "TOKIMEKI MEMORIAL - FOREVER WITH YOU (LIMITED EDITION)",
@@ -83855,7 +84123,8 @@
           "tgdbId": 0,
           "releaseDate": "1995-10-13",
           "regionalName": "ときめきメモリアル forever with you (LIMITED EDITION)",
-          "id": "3091-2"
+          "id": "3091-2",
+          "upc": "4988602009507"
         },
         {
           "name": "TOKIMEKI MEMORIAL - FOREVER WITH YOU [PLAYSTATION THE BEST]",
@@ -83877,7 +84146,8 @@
           "tgdbId": 0,
           "regionalName": "ときめきメモリアル forever with you [PLAYSTATION THE BEST]",
           "releaseDate": "1997-12-25",
-          "id": "3091-4"
+          "id": "3091-4",
+          "upc": "4988602062045"
         },
         {
           "name": "TOKIMEKI MEMORIAL - FOREVER WITH YOU [PSONE BOOKS]",
@@ -83908,7 +84178,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-04-26",
-          "id": "3094-1"
+          "id": "3094-1",
+          "upc": "4988602021622"
         }
       ],
       "id": 3094
@@ -83924,7 +84195,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-09-27",
-          "id": "3095-1"
+          "id": "3095-1",
+          "upc": "4988602025842"
         },
         {
           "name": "TOKIMEKI MEMORIAL - TAISEN PUZZLE-DAMA [PSONE BOOKS]",
@@ -84081,7 +84353,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2003-09-19",
-          "id": "3100-2"
+          "id": "3100-2",
+          "upc": "4542084000898"
         },
         {
           "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 1 - DANCING SUMMER VACATION",
@@ -84091,7 +84364,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-09-28",
-          "id": "3100-3"
+          "id": "3100-3",
+          "upc": "4542084810152"
         }
       ],
       "id": 3100
@@ -84107,7 +84381,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-03-29",
-          "id": "3102-1"
+          "id": "3102-1",
+          "upc": "4542084000119"
         },
         {
           "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 2 - LEAPING SCHOOL FESTIVAL [KONAMI THE BEST]",
@@ -84117,7 +84392,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-11-22",
-          "id": "3102-2"
+          "id": "3102-2",
+          "upc": "4542084000386"
         },
         {
           "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 2 - LEAPING SCHOOL FESTIVAL [PSONE BOOKS]",
@@ -84154,7 +84430,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2003-09-18",
-          "id": "3105-2"
+          "id": "3105-2",
+          "upc": "4542084000911"
         },
         {
           "name": "TOKIMEKI MEMORIAL 2 - SUBSTORIES VOL. 3 - MEMORIES RINGING ON",
@@ -84164,7 +84441,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-08-30",
-          "id": "3105-3"
+          "id": "3105-3",
+          "upc": "4542084000287"
         }
       ],
       "id": 3105
@@ -84180,7 +84458,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-07-10",
-          "id": "3106-1"
+          "id": "3106-1",
+          "upc": "4988602048483"
         },
         {
           "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL.1 - NIJIIRO NO SEISHUN [KONAMI THE BEST]",
@@ -84316,7 +84595,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-03-27",
-          "id": "3111-1"
+          "id": "3111-1",
+          "upc": "4988602041941"
         }
       ],
       "id": 3111
@@ -84332,7 +84612,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-07-16",
-          "id": "3112-1"
+          "id": "3112-1",
+          "upc": "4988602410686"
         },
         {
           "name": "TOKIMEKI NO HOUKAGO - NE QUIZ SIYO [KONAMI THE BEST]",
@@ -84342,7 +84623,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-11-25",
-          "id": "3112-2"
+          "id": "3112-2",
+          "upc": "4988602692709"
         },
         {
           "name": "TOKIMEKI NO HOUKAGO - NE QUIZ SIYO [PSONE BOOKS]",
@@ -84502,7 +84784,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-06-16",
-          "id": "3119-1"
+          "id": "3119-1",
+          "upc": "4988126510152"
         }
       ],
       "id": 3119
@@ -84560,7 +84843,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-05-12",
-          "id": "3122-1"
+          "id": "3122-1",
+          "upc": "4904880139774"
         }
       ],
       "id": 3122
@@ -84592,7 +84876,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-05-12",
-          "id": "3124-1"
+          "id": "3124-1",
+          "upc": "4904880139781"
         }
       ],
       "id": 3124
@@ -84608,7 +84893,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-09-27",
-          "id": "3125-1"
+          "id": "3125-1",
+          "upc": "4988611960097"
         }
       ],
       "id": 3125
@@ -85134,7 +85420,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-12-16",
-          "id": "3141-1"
+          "id": "3141-1",
+          "upc": "4988640100136"
         }
       ],
       "id": 3141
@@ -85195,7 +85482,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-04-02",
-          "id": "3143-1"
+          "id": "3143-1",
+          "upc": "4904880135288"
         }
       ],
       "id": 3143
@@ -85499,7 +85787,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-08-23",
-          "id": "3154-1"
+          "id": "3154-1",
+          "upc": "4988002329908"
         }
       ],
       "id": 3154
@@ -85585,7 +85874,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-11-26",
-          "id": "3158-1"
+          "id": "3158-1",
+          "upc": "4988262301522"
         }
       ],
       "id": 3158
@@ -85601,7 +85891,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-08-06",
-          "id": "3159-1"
+          "id": "3159-1",
+          "upc": "4519114104000"
         }
       ],
       "id": 3159
@@ -85638,7 +85929,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-07-31",
-          "id": "3161-1"
+          "id": "3161-1",
+          "upc": "4518798071004"
         }
       ],
       "id": 3161
@@ -85765,7 +86057,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-10-30",
-          "id": "3166-1"
+          "id": "3166-1",
+          "upc": "4512168010037"
         }
       ],
       "id": 3166
@@ -86355,7 +86648,8 @@
           "tgdbId": 33866,
           "releaseDate": "1994-12-22",
           "regionalName": "ツインゴッデス",
-          "id": "3191-1"
+          "id": "3191-1",
+          "upc": "4988005905819"
         }
       ],
       "id": 3191,
@@ -86384,7 +86678,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-04-02",
-          "id": "3192-2"
+          "id": "3192-2",
+          "upc": "4988602423785"
         },
         {
           "name": "TWINBEE RPG [KONAMI THE BEST]",
@@ -86394,7 +86689,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-09-12",
-          "id": "3192-3"
+          "id": "3192-3",
+          "upc": "4988602601756"
         },
         {
           "name": "TWINBEE RPG [PSONE BOOKS]",
@@ -86757,7 +87053,8 @@
           "tgdbId": 0,
           "regionalName": "UFO−A DAY IN THE LIFE",
           "releaseDate": "2000-10-05",
-          "id": "3205-2"
+          "id": "3205-2",
+          "upc": "4988606103454"
         }
       ],
       "id": 3205,
@@ -87295,7 +87592,8 @@
           "tgdbId": 0,
           "releaseDate": "1995-06-16",
           "regionalName": "ユニバーサル・バーチャパチスロ 必勝攻略法",
-          "id": "3225-1"
+          "id": "3225-1",
+          "upc": "4933766921011"
         }
       ],
       "id": 3225,
@@ -87515,7 +87813,8 @@
           "tgdbId": 0,
           "releaseDate": "1995-09-22",
           "regionalName": "Vテニス",
-          "id": "3232-1"
+          "id": "3232-1",
+          "upc": "4961355677414"
         },
         {
           "name": "V-TENNIS",
@@ -88535,7 +88834,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-02-17",
-          "id": "3262-1"
+          "id": "3262-1",
+          "upc": "4933766923015"
         }
       ],
       "id": 3262
@@ -89003,7 +89303,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-12-14",
-          "id": "3283-2"
+          "id": "3283-2",
+          "upc": "4961818000285"
         }
       ],
       "id": 3283,
@@ -89064,7 +89365,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1997-12-18",
-          "id": "3286-1"
+          "id": "3286-1",
+          "upc": "4988262301249"
         }
       ],
       "id": 3286
@@ -90858,7 +91160,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-04-25",
-          "id": "3347-1"
+          "id": "3347-1",
+          "upc": "4542084000492"
         }
       ],
       "id": 3347
@@ -93234,7 +93537,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-09-28",
-          "id": "3435-2"
+          "id": "3435-2",
+          "upc": "4529651000390"
         }
       ],
       "id": 3435
@@ -93250,7 +93554,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-07-26",
-          "id": "3436-1"
+          "id": "3436-1",
+          "upc": "4904810585404"
         }
       ],
       "id": 3436
@@ -93266,7 +93571,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-11-22",
-          "id": "3437-1"
+          "id": "3437-1",
+          "upc": "4904810501497"
         }
       ],
       "id": 3437
@@ -93282,7 +93588,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-02-21",
-          "id": "3438-1"
+          "id": "3438-1",
+          "upc": "4904810625568"
         }
       ],
       "id": 3438
@@ -93298,7 +93605,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-10-10",
-          "id": "3439-1"
+          "id": "3439-1",
+          "upc": "4983164738155"
         }
       ],
       "id": 3439
@@ -93369,7 +93677,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-11-22",
-          "id": "3443-1"
+          "id": "3443-1",
+          "upc": "4902931950132"
         },
         {
           "name": "ZOOP",
@@ -93394,7 +93703,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-03-15",
-          "id": "3444-1"
+          "id": "3444-1",
+          "upc": "4997153900058"
         }
       ],
       "id": 3444
@@ -93410,7 +93720,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-03-12",
-          "id": "3445-1"
+          "id": "3445-1",
+          "upc": "4988006932395"
         },
         {
           "name": "ZUTTO ISSHO - WITH ME EVERYTIME... [MAJOR WAVE SERIES]",
@@ -93436,7 +93747,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-12-20",
-          "id": "3446-1"
+          "id": "3446-1",
+          "upc": "4902425493794"
         }
       ],
       "id": 3446
@@ -134017,7 +134329,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 26202,
-          "id": "5437-3"
+          "id": "5437-3",
+          "upc": "4949776341039"
         },
         {
           "name": "3D DOT GAME HEROES",
@@ -134213,7 +134526,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66511,
-          "id": "5446-1"
+          "id": "5446-1",
+          "upc": "4582224499830"
         },
         {
           "name": "ACCEL WORLD: GIN'YOKU NO KAKUSEI",
@@ -134224,7 +134538,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66511,
-          "id": "5446-2"
+          "id": "5446-2",
+          "upc": "4582224499847"
         }
       ],
       "id": 5446
@@ -134304,7 +134619,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 87995,
-          "id": "5448-5"
+          "id": "5448-5",
+          "upc": "4582224498536"
         },
         {
           "name": "ACE COMBAT: ASSAULT HORIZON",
@@ -134594,7 +134910,8 @@
           "tgdbId": 0,
           "redumpId": 6323,
           "id": "5460-1",
-          "releaseDate": "2008-08-28"
+          "releaseDate": "2008-08-28",
+          "upc": "4948872730211"
         },
         {
           "name": "AFRIKA",
@@ -134606,7 +134923,8 @@
           "tgdbId": 0,
           "redumpId": 6323,
           "id": "5460-2",
-          "releaseDate": "2009-09-03"
+          "releaseDate": "2009-09-03",
+          "upc": "4948872850087"
         },
         {
           "name": "AFRIKA",
@@ -134686,7 +135004,8 @@
           "tgdbId": 0,
           "redumpId": 68629,
           "id": "5464-1",
-          "releaseDate": "2010-11-18"
+          "releaseDate": "2010-11-18",
+          "upc": "4995857101016"
         },
         {
           "name": "AGAREST SENKI 2",
@@ -134697,7 +135016,8 @@
           "tgdbId": 0,
           "redumpId": 68629,
           "id": "5464-2",
-          "releaseDate": "2012-05-24"
+          "releaseDate": "2012-05-24",
+          "upc": "4995857092253"
         }
       ],
       "id": 5464
@@ -134726,7 +135046,8 @@
           "tgdbId": 0,
           "redumpId": 32946,
           "id": "5465-2",
-          "releaseDate": "2010-08-26"
+          "releaseDate": "2010-08-26",
+          "upc": "4995857100880"
         },
         {
           "name": "AGAREST SENKI ZERO",
@@ -134897,7 +135218,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 101309,
-          "id": "5472-1"
+          "id": "5472-1",
+          "upc": "4582325378003"
         }
       ],
       "id": 5472
@@ -135711,7 +136033,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 61210,
-          "id": "5502-3"
+          "id": "5502-3",
+          "upc": "4996802141293"
         },
         {
           "name": "AQUAPAZZA: AQUAPLUS DREAM MATCH",
@@ -136141,7 +136464,8 @@
           "tgdbId": 0,
           "redumpId": 33573,
           "id": "5514-4",
-          "releaseDate": "2008-03-19"
+          "releaseDate": "2008-03-19",
+          "upc": "4949776342036"
         },
         {
           "name": "ARMORED CORE: FOR ANSWER",
@@ -136241,7 +136565,8 @@
           "tgdbId": 0,
           "redumpId": 101183,
           "id": "5516-4",
-          "releaseDate": "2009-03-12"
+          "releaseDate": "2009-03-12",
+          "upc": "4938833009401"
         },
         {
           "name": "ARMY OF TWO",
@@ -136347,7 +136672,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 100760,
-          "id": "5518-4"
+          "id": "5518-4",
+          "upc": "4938833021144"
         },
         {
           "name": "ARMY OF TWO: THE DEVIL'S CARTEL",
@@ -136357,7 +136683,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 100760,
-          "id": "5518-5"
+          "id": "5518-5",
+          "upc": "4938833021762"
         },
         {
           "name": "ARMY OF TWO: THE DEVIL'S CARTEL",
@@ -137060,7 +137387,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 55864,
-          "id": "5529-8"
+          "id": "5529-8",
+          "upc": "4949244003575"
         },
         {
           "name": "ASSASSIN'S CREED IV: BLACK FLAG",
@@ -137198,7 +137526,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 55866,
-          "id": "5532-7"
+          "id": "5532-7",
+          "upc": "4949244002479"
         },
         {
           "name": "ASSASSIN'S CREED: BROTHERHOOD",
@@ -137303,7 +137632,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 103463,
-          "id": "5534-1"
+          "id": "5534-1",
+          "upc": "4949244003391"
         },
         {
           "name": "ASSASSIN'S CREED: CONNOR SAGA",
@@ -137313,7 +137643,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 103463,
-          "id": "5534-2"
+          "id": "5534-2",
+          "upc": "4949244003612"
         }
       ],
       "id": 5534
@@ -137589,7 +137920,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 55865,
-          "id": "5540-4"
+          "id": "5540-4",
+          "upc": "4949244003537"
         },
         {
           "name": "ASSASSIN'S CREED: ROGUE",
@@ -137600,7 +137932,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 55865,
-          "id": "5540-5"
+          "id": "5540-5",
+          "upc": "4949244003926"
         },
         {
           "name": "ASSASSIN'S CREED: ROGUE",
@@ -137939,7 +138272,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 26300,
-          "id": "5551-2"
+          "id": "5551-2",
+          "upc": "4995857091829"
         },
         {
           "name": "ATTOUTEKI YUUGI: MUGEN SOULS",
@@ -137950,7 +138284,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 26300,
-          "id": "5551-3"
+          "id": "5551-3",
+          "upc": "4995857092697"
         }
       ],
       "id": 5551
@@ -138023,7 +138358,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 61098,
-          "id": "5554-2"
+          "id": "5554-2",
+          "upc": "4943015080895"
         },
         {
           "name": "AYESHA NO ATELIER: TASOGARE NO DAICHI NO RENKINJUTSUSHI",
@@ -138213,7 +138549,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 102355,
-          "id": "5561-1"
+          "id": "5561-1",
+          "upc": "4529651001694"
         },
         {
           "name": "BANDFUSE: ROCK LEGENDS",
@@ -138287,7 +138624,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 58749,
-          "id": "5563-3"
+          "id": "5563-3",
+          "upc": "4988135926395"
         },
         {
           "name": "BATMAN: ARKHAM ASYLUM",
@@ -138298,7 +138636,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 58749,
-          "id": "5563-4"
+          "id": "5563-4",
+          "upc": "4548967017991"
         },
         {
           "name": "BATMAN: ARKHAM ASYLUM",
@@ -138403,7 +138742,8 @@
           "tgdbId": 0,
           "redumpId": 58096,
           "id": "5565-3",
-          "releaseDate": "2011-11-23"
+          "releaseDate": "2011-11-23",
+          "upc": "4988135777423"
         },
         {
           "name": "BATMAN: ARKHAM CITY",
@@ -138414,7 +138754,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 58096,
-          "id": "5565-4"
+          "id": "5565-4",
+          "upc": "4988135926708"
         },
         {
           "name": "BATMAN: ARKHAM CITY",
@@ -138425,7 +138766,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 58096,
-          "id": "5565-5"
+          "id": "5565-5",
+          "upc": "4548967017991"
         },
         {
           "name": "BATMAN: ARKHAM CITY",
@@ -138640,7 +138982,8 @@
           "tgdbId": 0,
           "redumpId": 31223,
           "id": "5569-4",
-          "releaseDate": "2008-05-29"
+          "releaseDate": "2008-05-29",
+          "upc": "4510772080057"
         }
       ],
       "id": 5569
@@ -138742,7 +139085,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 74964,
-          "id": "5571-7"
+          "id": "5571-7",
+          "upc": "4938833021007"
         },
         {
           "name": "BATTLEFIELD 3",
@@ -138996,7 +139340,8 @@
           "tgdbId": 0,
           "redumpId": 51956,
           "id": "5574-5",
-          "releaseDate": "2009-06-25"
+          "releaseDate": "2009-06-25",
+          "upc": "4938833009500"
         },
         {
           "name": "BATTLEFIELD: BAD COMPANY",
@@ -139126,7 +139471,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 55090,
-          "id": "5575-6"
+          "id": "5575-6",
+          "upc": "4938833020994"
         },
         {
           "name": "BATTLEFIELD: BAD COMPANY 2",
@@ -139902,7 +140248,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 28536,
-          "id": "5597-1"
+          "id": "5597-1",
+          "upc": "4976219054119"
         },
         {
           "name": "BIOHAZARD 6",
@@ -139962,7 +140309,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 25071,
-          "id": "5599-2"
+          "id": "5599-2",
+          "upc": "4976219052580"
         },
         {
           "name": "BIOHAZARD: CHRONICLES HD SELECTION",
@@ -139973,7 +140321,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 25071,
-          "id": "5599-3"
+          "id": "5599-3",
+          "upc": "4976219043144"
         }
       ],
       "id": 5599
@@ -140068,7 +140417,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 90017,
-          "id": "5603-1"
+          "id": "5603-1",
+          "upc": "4976219054232"
         },
         {
           "name": "BIOHAZARD: REVELATIONS: UNVEILED EDITION",
@@ -140518,7 +140868,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 77322,
-          "id": "5614-1"
+          "id": "5614-1",
+          "upc": "4974365836276"
         }
       ],
       "id": 5614
@@ -140608,7 +140959,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 88255,
-          "id": "5616-3"
+          "id": "5616-3",
+          "upc": "4988615046216"
         }
       ],
       "id": 5616
@@ -140717,7 +141069,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 51764,
-          "id": "5619-4"
+          "id": "5619-4",
+          "upc": "4510772100069"
         },
         {
           "name": "BLAZBLUE: CALAMITY TRIGGER",
@@ -140907,7 +141260,8 @@
           "tgdbId": 0,
           "redumpId": 32737,
           "id": "5626-2",
-          "releaseDate": "2010-07-01"
+          "releaseDate": "2010-07-01",
+          "upc": "4510772100106"
         },
         {
           "name": "BLAZBLUE: CONTINUUM SHIFT",
@@ -140959,7 +141313,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 61013,
-          "id": "5627-2"
+          "id": "5627-2",
+          "upc": "4510772130073"
         },
         {
           "name": "BLAZBLUE: CONTINUUM SHIFT EXTEND",
@@ -141089,7 +141444,8 @@
           "tgdbId": 0,
           "redumpId": 96711,
           "id": "5630-2",
-          "releaseDate": "2011-06-23"
+          "releaseDate": "2011-06-23",
+          "upc": "4948872730778"
         },
         {
           "name": "BLEACH: SOUL IGNITION",
@@ -141100,7 +141456,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 96711,
-          "id": "5630-3"
+          "id": "5630-3",
+          "upc": "4948872850254"
         }
       ],
       "id": 5630
@@ -141430,7 +141787,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 63517,
-          "id": "5640-3"
+          "id": "5640-3",
+          "upc": "4571304473358"
         },
         {
           "name": "BORDERLANDS 2",
@@ -141613,7 +141971,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66206,
-          "id": "5646-3"
+          "id": "5646-3",
+          "upc": "4571304473037"
         },
         {
           "name": "BORDERLANDS: GAME OF THE YEAR EDITION",
@@ -141623,7 +141982,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66206,
-          "id": "5646-4"
+          "id": "5646-4",
+          "upc": "4571304473242"
         },
         {
           "name": "BORDERLANDS: GAME OF THE YEAR EDITION",
@@ -142926,7 +143286,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 36728,
-          "id": "5684-2"
+          "id": "5684-2",
+          "upc": "4562252051002"
         }
       ],
       "id": 5684
@@ -143100,7 +143461,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 55982,
-          "id": "5686-8"
+          "id": "5686-8",
+          "upc": "4580229961017"
         },
         {
           "name": "CALL OF DUTY 4: MODERN WARFARE",
@@ -143111,7 +143473,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 55982,
-          "id": "5686-9"
+          "id": "5686-9",
+          "upc": "4580229961116"
         },
         {
           "name": "CALL OF DUTY 4: MODERN WARFARE",
@@ -143372,7 +143735,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 84410,
-          "id": "5688-10"
+          "id": "5688-10",
+          "upc": "4988601007122"
         },
         {
           "name": "CALL OF DUTY: BLACK OPS",
@@ -143396,7 +143760,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 55092,
-          "id": "5688-12"
+          "id": "5688-12",
+          "upc": "4988601007467"
         },
         {
           "name": "CALL OF DUTY: BLACK OPS",
@@ -143407,7 +143772,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 55092,
-          "id": "5688-13"
+          "id": "5688-13",
+          "upc": "4988601007108"
         },
         {
           "name": "CALL OF DUTY: BLACK OPS",
@@ -143711,7 +144077,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 101699,
-          "id": "5691-4"
+          "id": "5691-4",
+          "upc": "4988601008860"
         },
         {
           "name": "CALL OF DUTY: GHOSTS",
@@ -143735,7 +144102,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 74965,
-          "id": "5691-6"
+          "id": "5691-6",
+          "upc": "4988601008853"
         },
         {
           "name": "CALL OF DUTY: GHOSTS",
@@ -143868,7 +144236,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 55983,
-          "id": "5692-11"
+          "id": "5692-11",
+          "upc": "4988601006675"
         },
         {
           "name": "CALL OF DUTY: MODERN WARFARE 2",
@@ -144050,7 +144419,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 90176,
-          "id": "5693-9"
+          "id": "5693-9",
+          "upc": "4988601007528"
         },
         {
           "name": "CALL OF DUTY: MODERN WARFARE 3",
@@ -144061,7 +144431,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 90176,
-          "id": "5693-10"
+          "id": "5693-10",
+          "upc": "4988601008129"
         },
         {
           "name": "CALL OF DUTY: MODERN WARFARE 3",
@@ -144522,7 +144893,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 55636,
-          "id": "5701-4"
+          "id": "5701-4",
+          "upc": "4988602154313"
         },
         {
           "name": "CASTLEVANIA: LORDS OF SHADOW",
@@ -144723,7 +145095,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 101311,
-          "id": "5708-1"
+          "id": "5708-1",
+          "upc": "4582325379413"
         }
       ],
       "id": 5708
@@ -144955,7 +145328,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 26203,
-          "id": "5718-2"
+          "id": "5718-2",
+          "upc": "4995857092307"
         },
         {
           "name": "CHOU JIGEN GAME NEPTUNE MK2",
@@ -144966,7 +145340,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 26203,
-          "id": "5718-3"
+          "id": "5718-3",
+          "upc": "4995857091515"
         }
       ],
       "id": 5718
@@ -144996,7 +145371,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 98425,
-          "id": "5719-2"
+          "id": "5719-2",
+          "upc": "4582224494774"
         }
       ],
       "id": 5719
@@ -145328,7 +145704,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 100847,
-          "id": "5729-3"
+          "id": "5729-3",
+          "upc": "4562271970155"
         },
         {
           "name": "COLIN MCRAE: DIRT 2",
@@ -145338,7 +145715,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 100847,
-          "id": "5729-4"
+          "id": "5729-4",
+          "upc": "4562271970223"
         }
       ],
       "id": 5729
@@ -145828,7 +146206,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 100759,
-          "id": "5745-2"
+          "id": "5745-2",
+          "upc": "4938833020963"
         },
         {
           "name": "CRYSIS 3",
@@ -145838,7 +146217,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 100759,
-          "id": "5745-3"
+          "id": "5745-3",
+          "upc": "4938833021755"
         },
         {
           "name": "CRYSIS 3",
@@ -146499,7 +146879,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 39159,
-          "id": "5771-1"
+          "id": "5771-1",
+          "upc": "4938833009883"
         },
         {
           "name": "DANTE'S INFERNO: SHINKYOKU JIGOKU-HEN",
@@ -146509,7 +146890,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 39159,
-          "id": "5771-2"
+          "id": "5771-2",
+          "upc": "4938833020345"
         }
       ],
       "id": 5771
@@ -147101,7 +147483,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66515,
-          "id": "5784-1"
+          "id": "5784-1",
+          "upc": "4995857093359"
         },
         {
           "name": "DATE A LIVE: ARUSU INSTALL",
@@ -147112,7 +147495,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66515,
-          "id": "5784-2"
+          "id": "5784-2",
+          "upc": "4995857093366"
         }
       ],
       "id": 5784
@@ -147129,7 +147513,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66516,
-          "id": "5785-1"
+          "id": "5785-1",
+          "upc": "4995857092864"
         },
         {
           "name": "DATE A LIVE: RINNE UTOPIA",
@@ -147140,7 +147525,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66516,
-          "id": "5785-2"
+          "id": "5785-2",
+          "upc": "4995857092871"
         }
       ],
       "id": 5785
@@ -147592,7 +147978,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 67802,
-          "id": "5799-4"
+          "id": "5799-4",
+          "upc": "4976219041706"
         },
         {
           "name": "DEAD RISING 2",
@@ -148371,7 +148758,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 53063,
-          "id": "5815-2"
+          "id": "5815-2",
+          "upc": "4974365836146"
         },
         {
           "name": "DENGEKI BUNKO: FIGHTING CLIMAX",
@@ -148457,7 +148845,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 84181,
-          "id": "5818-3"
+          "id": "5818-3",
+          "upc": "4948872340021"
         },
         {
           "name": "DESTINY",
@@ -148775,7 +149164,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 79791,
-          "id": "5824-3"
+          "id": "5824-3",
+          "upc": "4976219041935"
         },
         {
           "name": "DEVIL MAY CRY: HD COLLECTION",
@@ -148786,7 +149176,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 79791,
-          "id": "5824-4"
+          "id": "5824-4",
+          "upc": "4976219047784"
         },
         {
           "name": "DEVIL MAY CRY: HD COLLECTION",
@@ -148797,7 +149188,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 79791,
-          "id": "5824-5"
+          "id": "5824-5",
+          "upc": "4976219055154"
         },
         {
           "name": "DEVIL MAY CRY: HD COLLECTION",
@@ -149234,7 +149626,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 58426,
-          "id": "5835-2"
+          "id": "5835-2",
+          "upc": "4995506002077"
         },
         {
           "name": "DISGAEA D2",
@@ -149790,7 +150183,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 102708,
-          "id": "5847-1"
+          "id": "5847-1",
+          "upc": "4573173301121"
         }
       ],
       "id": 5847
@@ -151044,7 +151438,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 32998,
-          "id": "5880-1"
+          "id": "5880-1",
+          "upc": "4582224494743"
         },
         {
           "name": "DOT HACK: SEKAI NO MUKOU NI + VERSUS: HYBRID PACK",
@@ -151221,7 +151616,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 100887,
-          "id": "5885-4"
+          "id": "5885-4",
+          "upc": "4938833021953"
         },
         {
           "name": "DRAGON AGE: INQUISITION",
@@ -151495,7 +151891,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 74276,
-          "id": "5892-3"
+          "id": "5892-3",
+          "upc": "4560467042655"
         },
         {
           "name": "DRAGON BALL Z: BATTLE OF Z",
@@ -152870,7 +153267,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 79487,
-          "id": "5933-1"
+          "id": "5933-1",
+          "upc": "4976219050692"
         }
       ],
       "id": 5933
@@ -153367,7 +153765,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 26299,
-          "id": "5952-3"
+          "id": "5952-3",
+          "upc": "4527823996755"
         },
         {
           "name": "EARTH DEFENSE FORCE: INSECT ARMAGEDDON",
@@ -153616,7 +154015,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 61216,
-          "id": "5962-3"
+          "id": "5962-3",
+          "upc": "5060050947958"
         },
         {
           "name": "EL SHADDAI: ASCENSION OF THE METATRON",
@@ -154391,7 +154791,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 61099,
-          "id": "5980-1"
+          "id": "5980-1",
+          "upc": "4943015080963"
         }
       ],
       "id": 5980
@@ -154434,7 +154835,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 35829,
-          "id": "5982-1"
+          "id": "5982-1",
+          "upc": "4582224494880"
         },
         {
           "name": "EUREKA SEVEN AO: JUNGFRAU NO HANABANATACHI: GAME & OVA HYBRID DISC",
@@ -154444,7 +154846,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 35829,
-          "id": "5982-2"
+          "id": "5982-2",
+          "upc": "4582224494897"
         }
       ],
       "id": 5982
@@ -155442,7 +155845,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 81314,
-          "id": "6007-3"
+          "id": "6007-3",
+          "upc": "4995857093007"
         },
         {
           "name": "FAIRY FENCER F",
@@ -155830,7 +156234,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 52913,
-          "id": "6013-9"
+          "id": "6013-9",
+          "upc": "4562226430369"
         },
         {
           "name": "FALLOUT 3: GAME OF THE YEAR EDITION",
@@ -155841,7 +156246,8 @@
           "tgdbId": 0,
           "redumpId": 52913,
           "id": "6013-10",
-          "releaseDate": "2009-12-03"
+          "releaseDate": "2009-12-03",
+          "upc": "4562226430147"
         },
         {
           "name": "FALLOUT 3: GAME OF THE YEAR EDITION",
@@ -156341,7 +156747,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 84412,
-          "id": "6021-7"
+          "id": "6021-7",
+          "upc": "4949244003414"
         },
         {
           "name": "FAR CRY 3",
@@ -156428,7 +156835,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 99449,
-          "id": "6023-4"
+          "id": "6023-4",
+          "upc": "4949244003186"
         },
         {
           "name": "FAR CRY 4",
@@ -156438,7 +156846,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 99449,
-          "id": "6023-5"
+          "id": "6023-5",
+          "upc": "4949244004060"
         },
         {
           "name": "FAR CRY 4",
@@ -157014,7 +157423,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 65860,
-          "id": "6039-2"
+          "id": "6039-2",
+          "upc": "4938833020543"
         }
       ],
       "id": 6039
@@ -157286,7 +157696,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 67804,
-          "id": "6045-2"
+          "id": "6045-2",
+          "upc": "4938833021465"
         }
       ],
       "id": 6045
@@ -157502,7 +157913,8 @@
           "tgdbId": 0,
           "redumpId": 100619,
           "id": "6048-4",
-          "releaseDate": "2016-09-29"
+          "releaseDate": "2016-09-29",
+          "upc": "4938833022387"
         },
         {
           "name": "FIFA 17",
@@ -157939,7 +158351,8 @@
           "tgdbId": 0,
           "redumpId": 100769,
           "id": "6060-4",
-          "releaseDate": "2008-09-18"
+          "releaseDate": "2008-09-18",
+          "upc": "4938833008800"
         },
         {
           "name": "FIGHT NIGHT ROUND 3",
@@ -158517,7 +158930,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 100770,
-          "id": "6070-2"
+          "id": "6070-2",
+          "upc": "4988601007962"
         },
         {
           "name": "FINAL FANTASY XIV ONLINE: A REALM REBORN",
@@ -159098,7 +159512,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 102633,
-          "id": "6088-2"
+          "id": "6088-2",
+          "upc": "4948872730549"
         }
       ],
       "id": 6088
@@ -159214,7 +159629,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 96269,
-          "id": "6093-1"
+          "id": "6093-1",
+          "upc": "4562168541918"
         },
         {
           "name": "GAL GUN",
@@ -159225,7 +159641,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 96269,
-          "id": "6093-2"
+          "id": "6093-2",
+          "upc": "4562168544063"
         }
       ],
       "id": 6093
@@ -159944,7 +160361,8 @@
           "tgdbId": 0,
           "redumpId": 35847,
           "id": "6117-8",
-          "releaseDate": "2010-03-25"
+          "releaseDate": "2010-03-25",
+          "upc": "4948872760003"
         },
         {
           "name": "GOD OF WAR III",
@@ -159956,7 +160374,8 @@
           "tgdbId": 0,
           "redumpId": 35847,
           "id": "6117-9",
-          "releaseDate": "2010-03-25"
+          "releaseDate": "2010-03-25",
+          "upc": "4948872760010"
         },
         {
           "name": "GOD OF WAR III",
@@ -159968,7 +160387,8 @@
           "tgdbId": 0,
           "redumpId": 35847,
           "id": "6117-10",
-          "releaseDate": "2011-04-21"
+          "releaseDate": "2011-04-21",
+          "upc": "4948872870016"
         },
         {
           "name": "GOD OF WAR III",
@@ -160771,7 +161191,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66944,
-          "id": "6133-7"
+          "id": "6133-7",
+          "upc": "4948872760126"
         },
         {
           "name": "GRAN TURISMO 6",
@@ -161079,7 +161500,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 60723,
-          "id": "6138-6"
+          "id": "6138-6",
+          "upc": "4571304473433"
         },
         {
           "name": "GRAND THEFT AUTO V",
@@ -161498,7 +161920,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 76294,
-          "id": "6149-2"
+          "id": "6149-2",
+          "upc": "4510772160032"
         },
         {
           "name": "GUILTY GEAR XRD: REVELATOR",
@@ -161509,7 +161932,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 76294,
-          "id": "6149-3"
+          "id": "6149-3",
+          "upc": "4510772160056"
         },
         {
           "name": "GUILTY GEAR XRD: REVELATOR",
@@ -162057,7 +162481,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 24639,
-          "id": "6168-3"
+          "id": "6168-3",
+          "upc": "4582224493265"
         }
       ],
       "id": 6168
@@ -164073,7 +164498,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 60724,
-          "id": "6233-2"
+          "id": "6233-2",
+          "upc": "4582224497959"
         },
         {
           "name": "THE IDOLM@STER 2",
@@ -164103,7 +164529,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66698,
-          "id": "6234-1"
+          "id": "6234-1",
+          "upc": "4560467047483"
         }
       ],
       "id": 6234
@@ -164120,7 +164547,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66699,
-          "id": "6235-1"
+          "id": "6235-1",
+          "upc": "4560467047490"
         }
       ],
       "id": 6235
@@ -164137,7 +164565,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66700,
-          "id": "6236-1"
+          "id": "6236-1",
+          "upc": "4560467047506"
         }
       ],
       "id": 6236
@@ -164173,7 +164602,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66702,
-          "id": "6238-1"
+          "id": "6238-1",
+          "upc": "4560467047520"
         }
       ],
       "id": 6238
@@ -164190,7 +164620,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66703,
-          "id": "6239-1"
+          "id": "6239-1",
+          "upc": "4560467047537"
         }
       ],
       "id": 6239
@@ -164207,7 +164638,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66704,
-          "id": "6240-1"
+          "id": "6240-1",
+          "upc": "4560467047544"
         }
       ],
       "id": 6240
@@ -164224,7 +164656,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66705,
-          "id": "6241-1"
+          "id": "6241-1",
+          "upc": "4560467047551"
         }
       ],
       "id": 6241
@@ -164241,7 +164674,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66706,
-          "id": "6242-1"
+          "id": "6242-1",
+          "upc": "4560467047568"
         }
       ],
       "id": 6242
@@ -164288,7 +164722,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66708,
-          "id": "6244-2"
+          "id": "6244-2",
+          "upc": "4582224497980"
         }
       ],
       "id": 6244
@@ -164306,7 +164741,8 @@
           "tgdbId": 0,
           "redumpId": 66709,
           "id": "6245-1",
-          "releaseDate": "2011-12-29"
+          "releaseDate": "2011-12-29",
+          "upc": "4582224497997"
         }
       ],
       "id": 6245
@@ -164324,7 +164760,8 @@
           "tgdbId": 0,
           "redumpId": 66710,
           "id": "6246-1",
-          "releaseDate": "2012-01-26"
+          "releaseDate": "2012-01-26",
+          "upc": "4582224498000"
         }
       ],
       "id": 6246
@@ -164361,7 +164798,8 @@
           "tgdbId": 0,
           "redumpId": 66712,
           "id": "6248-1",
-          "releaseDate": "2012-03-29"
+          "releaseDate": "2012-03-29",
+          "upc": "4582224498024"
         }
       ],
       "id": 6248
@@ -164398,7 +164836,8 @@
           "tgdbId": 0,
           "redumpId": 66714,
           "id": "6250-1",
-          "releaseDate": "2012-05-24"
+          "releaseDate": "2012-05-24",
+          "upc": "4582224498147"
         }
       ],
       "id": 6250
@@ -164774,7 +165213,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 84183,
-          "id": "6259-8"
+          "id": "6259-8",
+          "upc": "4948872850230"
         },
         {
           "name": "INFAMOUS 2",
@@ -164884,7 +165324,8 @@
           "tgdbId": 0,
           "redumpId": 98986,
           "id": "6262-2",
-          "releaseDate": "2011-06-30"
+          "releaseDate": "2011-06-30",
+          "upc": "4974365835682"
         },
         {
           "name": "INITIAL D: EXTREME STAGE",
@@ -164896,7 +165337,8 @@
           "tgdbId": 0,
           "redumpId": 98986,
           "id": "6262-3",
-          "releaseDate": "2008-07-03"
+          "releaseDate": "2008-07-03",
+          "upc": "4974365835125"
         }
       ],
       "id": 6262
@@ -165885,7 +166327,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 33792,
-          "id": "6302-1"
+          "id": "6302-1",
+          "upc": "4582224495542"
         },
         {
           "name": "JOJO NO KIMYOU NA BOUKEN: ALL STAR BATTLE",
@@ -166396,7 +166839,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 61218,
-          "id": "6319-2"
+          "id": "6319-2",
+          "upc": "4988615059681"
         }
       ],
       "id": 6319
@@ -166432,7 +166876,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 38052,
-          "id": "6321-1"
+          "id": "6321-1",
+          "upc": "4582325378775"
         }
       ],
       "id": 6321
@@ -166727,7 +167172,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 55094,
-          "id": "6333-3"
+          "id": "6333-3",
+          "upc": "4940261509682"
         },
         {
           "name": "KANE & LYNCH: DEAD MEN",
@@ -166827,7 +167273,8 @@
           "tgdbId": 0,
           "redumpId": 61219,
           "id": "6337-2",
-          "releaseDate": "2009-07-23"
+          "releaseDate": "2009-07-23",
+          "upc": "4582224497041"
         },
         {
           "name": "KATAMARI DAMACY TRIBUTE",
@@ -166838,7 +167285,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 61219,
-          "id": "6337-3"
+          "id": "6337-3",
+          "upc": "4582224497386"
         }
       ],
       "id": 6337
@@ -167012,7 +167460,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 67457,
-          "id": "6345-1"
+          "id": "6345-1",
+          "upc": "4582224494620"
         },
         {
           "name": "KIDOU SENSHI GUNDAM UC",
@@ -167023,7 +167472,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 67457,
-          "id": "6345-2"
+          "id": "6345-2",
+          "upc": "4582224494613"
         }
       ],
       "id": 6345
@@ -167326,7 +167776,8 @@
           "tgdbId": 0,
           "redumpId": 51613,
           "id": "6350-10",
-          "releaseDate": "2010-12-02"
+          "releaseDate": "2010-12-02",
+          "upc": "4948872850162"
         },
         {
           "name": "KILLZONE 2",
@@ -167502,7 +167953,8 @@
           "tgdbId": 0,
           "redumpId": 51964,
           "releaseDate": "2009-07-30",
-          "id": "6353-3"
+          "id": "6353-3",
+          "upc": "4964808301195"
         },
         {
           "name": "THE KING OF FIGHTERS XII",
@@ -167622,7 +168074,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 64739,
-          "id": "6355-5"
+          "id": "6355-5",
+          "upc": "4988601850384"
         },
         {
           "name": "KINGDOM HEARTS: HD 1.5 REMIX",
@@ -167833,7 +168286,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 78557,
-          "id": "6359-1"
+          "id": "6359-1",
+          "upc": "4944445025104"
         }
       ],
       "id": 6359
@@ -170120,7 +170574,8 @@
           "tgdbId": 0,
           "redumpId": 90020,
           "id": "6413-2",
-          "releaseDate": "2012-06-14"
+          "releaseDate": "2012-06-14",
+          "upc": "4582350660012"
         },
         {
           "name": "LOLLIPOP CHAINSAW",
@@ -170608,7 +171063,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66723,
-          "id": "6427-1"
+          "id": "6427-1",
+          "upc": "4580264782035"
         },
         {
           "name": "LOVE AT ONCE: MERMAID'S TEARS",
@@ -170619,7 +171075,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66723,
-          "id": "6427-2"
+          "id": "6427-2",
+          "upc": "4580264782042"
         }
       ],
       "id": 6427
@@ -170690,7 +171147,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 98430,
-          "id": "6431-1"
+          "id": "6431-1",
+          "upc": "4582224494835"
         }
       ],
       "id": 6431
@@ -171540,7 +171998,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 61303,
-          "id": "6458-1"
+          "id": "6458-1",
+          "upc": "4995506001971"
         },
         {
           "name": "MAJO TO HYAKKIHEI",
@@ -171879,7 +172338,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 61211,
-          "id": "6469-1"
+          "id": "6469-1",
+          "upc": "4521923300092"
         },
         {
           "name": "MAMORU-KUN WA NOROWARETE SHIMATTA! MEIKAI KATSUGEKI WIDE-BAN",
@@ -171890,7 +172350,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 61211,
-          "id": "6469-2"
+          "id": "6469-2",
+          "upc": "4521923320038"
         }
       ],
       "id": 6469
@@ -172573,7 +173034,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 100620,
-          "id": "6488-4"
+          "id": "6488-4",
+          "upc": "4938833020949"
         },
         {
           "name": "MEDAL OF HONOR: WARFIGHTER",
@@ -172583,7 +173045,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 100620,
-          "id": "6488-5"
+          "id": "6488-5",
+          "upc": "4938833021519"
         },
         {
           "name": "MEDAL OF HONOR: WARFIGHTER",
@@ -172851,7 +173314,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 26205,
-          "id": "6496-3"
+          "id": "6496-3",
+          "upc": "4943015080864"
         }
       ],
       "id": 6496
@@ -172996,7 +173460,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 26220,
-          "id": "6499-6"
+          "id": "6499-6",
+          "upc": "4988602147339"
         },
         {
           "name": "METAL GEAR SOLID 4: GUNS OF THE PATRIOTS",
@@ -173646,7 +174111,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 33847,
-          "id": "6516-2"
+          "id": "6516-2",
+          "upc": "4988601006651"
         },
         {
           "name": "MINDJACK",
@@ -174600,7 +175066,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 97405,
-          "id": "6548-1"
+          "id": "6548-1",
+          "upc": "4976219051682"
         },
         {
           "name": "MONSTER HUNTER FRONTIER G",
@@ -174611,7 +175078,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 97405,
-          "id": "6548-2"
+          "id": "6548-2",
+          "upc": "4976219054225"
         },
         {
           "name": "MONSTER HUNTER FRONTIER G",
@@ -174622,7 +175090,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 97405,
-          "id": "6548-3"
+          "id": "6548-3",
+          "upc": "4976219055949"
         }
       ],
       "id": 6548
@@ -175712,7 +176181,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 100617,
-          "id": "6586-3"
+          "id": "6586-3",
+          "upc": "4988615074363"
         },
         {
           "name": "MUSOU OROCHI 2 ULTIMATE",
@@ -175765,7 +176235,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 90930,
-          "id": "6587-3"
+          "id": "6587-3",
+          "upc": "4988615040429"
         }
       ],
       "id": 6587
@@ -175836,7 +176307,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66781,
-          "id": "6591-1"
+          "id": "6591-1",
+          "upc": "4582325378218"
         }
       ],
       "id": 6591
@@ -177362,7 +177834,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 40954,
-          "id": "6643-2"
+          "id": "6643-2",
+          "upc": "4571304473471"
         },
         {
           "name": "NBA 2K17",
@@ -177399,7 +177872,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 49669,
-          "id": "6644-2"
+          "id": "6644-2",
+          "upc": "4571304473488"
         },
         {
           "name": "NBA 2K18",
@@ -177689,7 +178163,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 67806,
-          "id": "6653-2"
+          "id": "6653-2",
+          "upc": "4938833009593"
         },
         {
           "name": "NBA LIVE 10",
@@ -177699,7 +178174,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 67806,
-          "id": "6653-3"
+          "id": "6653-3",
+          "upc": "4938833020116"
         },
         {
           "name": "NBA LIVE 10",
@@ -177983,7 +178459,8 @@
           "tgdbId": 0,
           "redumpId": 33300,
           "id": "6666-3",
-          "releaseDate": "2006-12-21"
+          "releaseDate": "2006-12-21",
+          "upc": "4938833007605"
         },
         {
           "name": "NEED FOR SPEED: CARBON",
@@ -177994,7 +178471,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 33300,
-          "id": "6666-4"
+          "id": "6666-4",
+          "upc": "4938833008220"
         },
         {
           "name": "NEED FOR SPEED: CARBON",
@@ -178175,7 +178653,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 90840,
-          "id": "6668-3"
+          "id": "6668-3",
+          "upc": "4938833021106"
         },
         {
           "name": "NEED FOR SPEED: MOST WANTED: A CRITERION GAME",
@@ -178185,7 +178664,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 90840,
-          "id": "6668-4"
+          "id": "6668-4",
+          "upc": "4938833021663"
         },
         {
           "name": "NEED FOR SPEED: MOST WANTED: A CRITERION GAME",
@@ -178427,7 +178907,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 90839,
-          "id": "6671-4"
+          "id": "6671-4",
+          "upc": "4938833020130"
         },
         {
           "name": "NEED FOR SPEED: SHIFT",
@@ -179432,7 +179913,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 99365,
-          "id": "6701-3"
+          "id": "6701-3",
+          "upc": "4988615051111"
         },
         {
           "name": "NINJA GAIDEN 3: RAZOR'S EDGE",
@@ -179494,7 +179976,8 @@
           "tgdbId": 0,
           "redumpId": 29056,
           "id": "6702-4",
-          "releaseDate": "2007-06-14"
+          "releaseDate": "2007-06-14",
+          "upc": "4988615045929"
         },
         {
           "name": "NINJA GAIDEN SIGMA",
@@ -179618,7 +180101,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 76295,
-          "id": "6704-1"
+          "id": "6704-1",
+          "upc": "4535506302403"
         },
         {
           "name": "NITROPLUS BLASTERZ: HEROINES INFINITE DUEL",
@@ -179629,7 +180113,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 76295,
-          "id": "6704-2"
+          "id": "6704-2",
+          "upc": "4535506302427"
         }
       ],
       "id": 6704
@@ -179657,7 +180142,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 38054,
-          "id": "6705-2"
+          "id": "6705-2",
+          "upc": "4535506301512"
         }
       ],
       "id": 6705
@@ -179867,7 +180353,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 68636,
-          "id": "6715-1"
+          "id": "6715-1",
+          "upc": "4988615041143"
         },
         {
           "name": "NOBUNAGA NO YABOU: TENDOU",
@@ -179878,7 +180365,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 68636,
-          "id": "6715-2"
+          "id": "6715-2",
+          "upc": "4988615033230"
         }
       ],
       "id": 6715
@@ -181589,7 +182077,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 83326,
-          "id": "6811-1"
+          "id": "6811-1",
+          "upc": "4527823997103"
         }
       ],
       "id": 6811
@@ -181618,7 +182107,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 42749,
-          "id": "6812-2"
+          "id": "6812-2",
+          "upc": "4976219044868"
         },
         {
           "name": "OOKAMI: ZEKKEIBAN",
@@ -182352,7 +182842,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 61296,
-          "id": "6839-2"
+          "id": "6839-2",
+          "upc": "4984995900971"
         },
         {
           "name": "PERSONA 4: THE ULTIMAX ULTRA SUPLEX HOLD",
@@ -184951,7 +185442,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 99543,
-          "id": "6931-1"
+          "id": "6931-1",
+          "upc": "4562271970452"
         },
         {
           "name": "RACE DRIVER: GRID 2",
@@ -184960,7 +185452,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 99543,
-          "id": "6931-2"
+          "id": "6931-2",
+          "upc": "4562271970506"
         }
       ],
       "id": 6931
@@ -185350,7 +185843,8 @@
           "tgdbId": 0,
           "redumpId": 35769,
           "id": "6946-1",
-          "releaseDate": "2007-11-11"
+          "releaseDate": "2007-11-11",
+          "upc": "4948872730143"
         },
         {
           "name": "RATCHET & CLANK FUTURE",
@@ -185361,7 +185855,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 35769,
-          "id": "6946-2"
+          "id": "6946-2",
+          "upc": "4948872850049"
         },
         {
           "name": "RATCHET & CLANK FUTURE",
@@ -185372,7 +185867,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 35769,
-          "id": "6946-3"
+          "id": "6946-3",
+          "upc": "4948872850124"
         }
       ],
       "id": 6946
@@ -186514,7 +187010,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 79538,
-          "id": "6972-2"
+          "id": "6972-2",
+          "upc": "4535506300966"
         }
       ],
       "id": 6972
@@ -187238,7 +187735,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 55097,
-          "id": "6983-12"
+          "id": "6983-12",
+          "upc": "4948872850100"
         }
       ],
       "id": 6983,
@@ -187424,7 +187922,8 @@
           "tgdbId": 0,
           "redumpId": 81572,
           "id": "6990-5",
-          "releaseDate": "2009-09-03"
+          "releaseDate": "2009-09-03",
+          "upc": "4582224497157"
         },
         {
           "name": "RIDGE RACER 7",
@@ -187993,7 +188492,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 60078,
-          "id": "7013-3"
+          "id": "7013-3",
+          "upc": "4949244002455"
         },
         {
           "name": "ROCKSMITH",
@@ -188043,7 +188543,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 50658,
-          "id": "7014-1"
+          "id": "7014-1",
+          "upc": "4949244003001"
         },
         {
           "name": "ROCKSMITH 2014",
@@ -188054,7 +188555,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 50658,
-          "id": "7014-2"
+          "id": "7014-2",
+          "upc": "4949244003285"
         }
       ],
       "id": 7014
@@ -188189,7 +188691,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 26206,
-          "id": "7018-4"
+          "id": "7018-4",
+          "upc": "4943015080871"
         }
       ],
       "id": 7018
@@ -188887,7 +189390,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 100784,
-          "id": "7043-2"
+          "id": "7043-2",
+          "upc": "4940261509842"
         },
         {
           "name": "SACRED 2: FALLEN ANGEL",
@@ -189015,7 +189519,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 91506,
-          "id": "7046-2"
+          "id": "7046-2",
+          "upc": "4582224494392"
         }
       ],
       "id": 7046
@@ -189311,7 +189816,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66265,
-          "id": "7053-5"
+          "id": "7053-5",
+          "upc": "4940261511838"
         },
         {
           "name": "SAINTS ROW IV",
@@ -189689,7 +190195,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 74337,
-          "id": "7065-2"
+          "id": "7065-2",
+          "upc": "4940261510046"
         }
       ],
       "id": 7065
@@ -190600,7 +191107,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 68637,
-          "id": "7104-1"
+          "id": "7104-1",
+          "upc": "4562106780942"
         },
         {
           "name": "SENGOKU HIME 3: TENKA O KIRISAKU HIKARI TO KAGE",
@@ -190610,7 +191118,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 68637,
-          "id": "7104-2"
+          "id": "7104-2",
+          "upc": "4562106780935"
         },
         {
           "name": "SENGOKU HIME 3: TENKA O KIRISAKU HIKARI TO KAGE",
@@ -190620,7 +191129,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 68637,
-          "id": "7104-3"
+          "id": "7104-3",
+          "upc": "4562106781147"
         }
       ],
       "id": 7104
@@ -190636,7 +191146,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 68638,
-          "id": "7105-1"
+          "id": "7105-1",
+          "upc": "4562106781178"
         },
         {
           "name": "SENGOKU HIME 4: SOUHAHYAKKEI, HANA MAMORU CHIKAI",
@@ -190646,7 +191157,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 68638,
-          "id": "7105-2"
+          "id": "7105-2",
+          "upc": "4562106781161"
         }
       ],
       "id": 7105
@@ -190728,7 +191240,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 84413,
-          "id": "7109-1"
+          "id": "7109-1",
+          "upc": "4988615074585"
         },
         {
           "name": "SENGOKU MUSOU 4",
@@ -190884,7 +191397,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 32703,
-          "id": "7115-2"
+          "id": "7115-2",
+          "upc": "4938833020628"
         },
         {
           "name": "SHADOWS OF THE DAMNED",
@@ -190895,7 +191409,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 32703,
-          "id": "7115-3"
+          "id": "7115-3",
+          "upc": "4938833020987"
         },
         {
           "name": "SHADOWS OF THE DAMNED",
@@ -191091,7 +191606,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 98626,
-          "id": "7120-6"
+          "id": "7120-6",
+          "upc": "4949244001861"
         },
         {
           "name": "SHAUN WHITE SNOWBOARDING",
@@ -191691,7 +192207,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 89269,
-          "id": "7139-2"
+          "id": "7139-2",
+          "upc": "4988615052385"
         }
       ],
       "id": 7139
@@ -191813,7 +192330,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 74455,
-          "id": "7146-1"
+          "id": "7146-1",
+          "upc": "4988615041174"
         },
         {
           "name": "SHIN SANGOKU MUSOU: MULTI RAID 2: HD VERSION",
@@ -191858,7 +192376,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 102071,
-          "id": "7148-1"
+          "id": "7148-1",
+          "upc": "4515978002391"
         },
         {
           "name": "SHIN TOUDAI SHOUGI",
@@ -191868,7 +192387,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 102071,
-          "id": "7148-2"
+          "id": "7148-2",
+          "upc": "4515978002629"
         }
       ],
       "id": 7148
@@ -192157,7 +192677,8 @@
           "tgdbId": 0,
           "redumpId": 101907,
           "id": "7159-3",
-          "releaseDate": "2008-12-25"
+          "releaseDate": "2008-12-25",
+          "upc": "4521923300047"
         },
         {
           "name": "SID MEIER'S CIVILIZATION REVOLUTION",
@@ -193934,7 +194455,8 @@
           "tgdbId": 0,
           "redumpId": 34092,
           "id": "7227-3",
-          "releaseDate": "2008-07-24"
+          "releaseDate": "2008-07-24",
+          "upc": "4948872730204"
         },
         {
           "name": "SIREN: NEW TRANSLATION",
@@ -194055,7 +194577,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 99546,
-          "id": "7229-4"
+          "id": "7229-4",
+          "upc": "4938833020307"
         },
         {
           "name": "SKATE 3",
@@ -194065,7 +194588,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 99546,
-          "id": "7229-5"
+          "id": "7229-5",
+          "upc": "4938833020802"
         },
         {
           "name": "SKATE 3",
@@ -195602,7 +196126,8 @@
           "tgdbId": 0,
           "redumpId": 32140,
           "id": "7269-6",
-          "releaseDate": "2009-08-06"
+          "releaseDate": "2009-08-06",
+          "upc": "4582224497102"
         },
         {
           "name": "SOULCALIBUR IV",
@@ -197183,7 +197708,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 32280,
-          "id": "7308-3"
+          "id": "7308-3",
+          "upc": "4976219037662"
         },
         {
           "name": "STREET FIGHTER X TEKKEN",
@@ -198092,7 +198618,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 32643,
-          "id": "7342-3"
+          "id": "7342-3",
+          "upc": "4571159590156"
         },
         {
           "name": "TALES OF XILLIA",
@@ -198115,7 +198642,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 32643,
-          "id": "7342-5"
+          "id": "7342-5",
+          "upc": "4560467045434"
         },
         {
           "name": "TALES OF XILLIA",
@@ -198285,7 +198813,8 @@
           "tgdbId": 0,
           "redumpId": 32740,
           "id": "7346-2",
-          "releaseDate": "2009-09-17"
+          "releaseDate": "2009-09-17",
+          "upc": "4996802090997"
         }
       ],
       "id": 7346
@@ -198610,7 +199139,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 26353,
-          "id": "7353-5"
+          "id": "7353-5",
+          "upc": "4582224498215"
         },
         {
           "name": "TEKKEN TAG TOURNAMENT 2",
@@ -198621,7 +199151,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 26353,
-          "id": "7353-6"
+          "id": "7353-6",
+          "upc": "4560467041849"
         },
         {
           "name": "TEKKEN TAG TOURNAMENT 2",
@@ -198648,7 +199179,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 102434,
-          "id": "7354-1"
+          "id": "7354-1",
+          "upc": "4515978002322"
         },
         {
           "name": "TENCHOU NO IGO",
@@ -198658,7 +199190,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 102434,
-          "id": "7354-2"
+          "id": "7354-2",
+          "upc": "4515978002612"
         }
       ],
       "id": 7354
@@ -199526,7 +200059,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 35775,
-          "id": "7379-1"
+          "id": "7379-1",
+          "upc": "4582224494811"
         },
         {
           "name": "TOKI TO TOWA: TOKITOWA",
@@ -199587,7 +200121,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 61300,
-          "id": "7380-4"
+          "id": "7380-4",
+          "upc": "4948872850278"
         }
       ],
       "id": 7380
@@ -199684,7 +200219,8 @@
           "tgdbId": 0,
           "redumpId": 100792,
           "id": "7382-6",
-          "releaseDate": "2009-02-26"
+          "releaseDate": "2009-02-26",
+          "upc": "4949244001649"
         },
         {
           "name": "TOM CLANCY'S ENDWAR",
@@ -200163,7 +200699,8 @@
           "tgdbId": 0,
           "redumpId": 98630,
           "id": "7392-5",
-          "releaseDate": "2008-05-29"
+          "releaseDate": "2008-05-29",
+          "upc": "4949244001519"
         },
         {
           "name": "TOM CLANCY'S RAINBOW SIX: VEGAS 2",
@@ -200355,7 +200892,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 33460,
-          "id": "7396-4"
+          "id": "7396-4",
+          "upc": "4949244002738"
         },
         {
           "name": "TOM CLANCY'S SPLINTER CELL: BLACKLIST",
@@ -200971,7 +201509,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66794,
-          "id": "7415-1"
+          "id": "7415-1",
+          "upc": "4995857091942"
         },
         {
           "name": "TOUCH, SHOT! LOVE APPLICATION",
@@ -202369,7 +202908,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66947,
-          "id": "7458-2"
+          "id": "7458-2",
+          "upc": "4976219062978"
         },
         {
           "name": "ULTRA STREET FIGHTER IV",
@@ -202379,7 +202919,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66947,
-          "id": "7458-3"
+          "id": "7458-3",
+          "upc": "4976219053419"
         },
         {
           "name": "ULTRA STREET FIGHTER IV",
@@ -202970,7 +203511,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 55145,
-          "id": "7465-3"
+          "id": "7465-3",
+          "upc": "4948872730518"
         }
       ],
       "id": 7465
@@ -203063,7 +203605,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 101053,
-          "id": "7468-1"
+          "id": "7468-1",
+          "upc": "4582118810130"
         }
       ],
       "id": 7468
@@ -203951,7 +204494,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 69377,
-          "id": "7499-2"
+          "id": "7499-2",
+          "upc": "4994934000037"
         },
         {
           "name": "WANGAN MIDNIGHT",
@@ -204510,7 +205054,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 66798,
-          "id": "7516-1"
+          "id": "7516-1",
+          "upc": "4996802121295"
         }
       ],
       "id": 7516
@@ -204663,7 +205208,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 101874,
-          "id": "7523-2"
+          "id": "7523-2",
+          "upc": "4988602169959"
         }
       ],
       "id": 7523
@@ -205949,7 +206495,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 101817,
-          "id": "7565-3"
+          "id": "7565-3",
+          "upc": "4988602168006"
         }
       ],
       "id": 7565
@@ -207350,7 +207897,8 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 81057,
-          "id": "7611-2"
+          "id": "7611-2",
+          "upc": "4988602162837"
         },
         {
           "name": "ZONE OF THE ENDERS: HD EDITION",
