@@ -101855,7 +101855,7 @@
           "region": "Japan",
           "tgdbId": 0,
           "upc": "4948872730402",
-          "regionalName": "HEAVY RAIN",
+          "regionalName": "HEAVY RAIN 心の軋むとき",
           "id": "3784-1",
           "releaseDate": "2010-02-18"
         },
@@ -101928,7 +101928,7 @@
       ],
       "id": 3784,
       "localizedNames": {
-        "ja": "HEAVY RAIN"
+        "ja": "HEAVY RAIN 心の軋むとき"
       }
     },
     {
@@ -163388,24 +163388,6 @@
         }
       ],
       "id": 6197
-    },
-    {
-      "name": "HEAVY RAIN: KOKORO NO KISHIMU TOKI",
-      "gameInstances": [
-        {
-          "name": "HEAVY RAIN: KOKORO NO KISHIMU TOKI",
-          "platform": "ps3",
-          "regionalName": "ＨＥＡＶＹ　ＲＡＩＮ　心の軋むとき",
-          "serial": "BCJS 30040 ．",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 101604,
-          "releaseDate": "2010-02-18",
-          "id": "6198-1",
-          "upc": "4948872730402"
-        }
-      ],
-      "id": 6198
     },
     {
       "name": "HEAVY RAIN: KOKORO NO KISHIMU TOKI: PLAYSTATION MOVE TAIOU",
