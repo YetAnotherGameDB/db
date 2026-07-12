@@ -135034,6 +135034,17 @@
           "id": "5464-2",
           "releaseDate": "2012-05-24",
           "upc": "4995857092253"
+        },
+        {
+          "name": "AGAREST: GENERATIONS OF WAR 2",
+          "platform": "ps3",
+          "language": "[En]",
+          "serial": "BLES-01643",
+          "region": "Europe",
+          "tgdbId": 0,
+          "redumpId": 65273,
+          "id": "5464-3",
+          "upc": "5036675014375"
         }
       ],
       "id": 5464
@@ -135076,6 +135087,17 @@
           "id": "5465-3",
           "upc": "4995857090648",
           "releaseDate": "2009-06-25"
+        },
+        {
+          "name": "AGAREST: GENERATIONS OF WAR ZERO",
+          "platform": "ps3",
+          "language": "[En]",
+          "serial": "BLES-01305",
+          "region": "Europe",
+          "tgdbId": 0,
+          "redumpId": 63541,
+          "id": "5465-4",
+          "upc": "5036675013743"
         }
       ],
       "id": 5465
@@ -135097,40 +135119,7 @@
       ],
       "id": 5466
     },
-    {
-      "name": "AGAREST: GENERATIONS OF WAR 2",
-      "gameInstances": [
-        {
-          "name": "AGAREST: GENERATIONS OF WAR 2",
-          "platform": "ps3",
-          "language": "[En]",
-          "serial": "BLES-01643",
-          "region": "Europe",
-          "tgdbId": 0,
-          "redumpId": 65273,
-          "id": "5467-1",
-          "upc": "5036675014375"
-        }
-      ],
-      "id": 5467
-    },
-    {
-      "name": "AGAREST: GENERATIONS OF WAR ZERO",
-      "gameInstances": [
-        {
-          "name": "AGAREST: GENERATIONS OF WAR ZERO",
-          "platform": "ps3",
-          "language": "[En]",
-          "serial": "BLES-01305",
-          "region": "Europe",
-          "tgdbId": 0,
-          "redumpId": 63541,
-          "id": "5468-1",
-          "upc": "5036675013743"
-        }
-      ],
-      "id": 5468
-    },
+
     {
       "name": "AIR CONFLICTS: PACIFIC CARRIERS",
       "gameInstances": [
@@ -186617,6 +186606,17 @@
           "redumpId": 32945,
           "id": "6963-4",
           "upc": "4995857090549"
+        },
+        {
+          "name": "AGAREST: GENERATIONS OF WAR",
+          "platform": "ps3",
+          "language": "[En]",
+          "serial": "BLES-00594",
+          "region": "Europe",
+          "tgdbId": 0,
+          "redumpId": 55956,
+          "id": "6963-5",
+          "upc": "5036675012715"
         }
       ],
       "id": 6963,
