@@ -60573,55 +60573,24 @@
       "name": "RAIDEN II",
       "gameInstances": [
         {
-          "name": "RAIDEN PROJECT",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-00013",
-          "region": "NTSC-J",
-          "tgdbId": 105857,
-          "upc": "4949794000017",
-          "regionalName": "雷電プロジェクト",
-          "releaseDate": "1995-01-27",
-          "id": "2227-1"
+          "id": "2227-1",
+          "link": "2226-1"
         },
         {
-          "name": "RAIDEN PROJECT [PLAYSTATION THE BEST]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-91002",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "releaseDate": "1996-12-07",
           "id": "2227-2",
-          "upc": "4949794000031"
+          "link": "2226-2"
         },
         {
-          "name": "RAIDEN PROJECT [PLAYSTATION THE BEST] [REPRINT]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-91144",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "releaseDate": "1999-03-06",
-          "id": "2227-3"
+          "id": "2227-3",
+          "link": "2226-3"
         },
         {
-          "name": "THE RAIDEN PROJECT",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SCUS-94402",
-          "region": "NTSC-U",
-          "tgdbId": 0,
-          "id": "2227-4"
+          "id": "2227-4",
+          "link": "2226-4"
         },
         {
-          "name": "THE RAIDEN PROJECT",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-00051",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "2227-5"
+          "id": "2227-5",
+          "link": "2226-5"
         }
       ],
       "id": 2227,
@@ -66842,27 +66811,6 @@
         }
       ],
       "id": 2436
-    },
-    {
-      "name": "Shichidashiki Unou de Adventure - Katachi 123 4Sai - 6Sai Muke",
-      "gameInstances": [
-        {
-          "name": "Shichidashiki Unou de Adventure - Katachi 123 4Sai - 6Sai Muke",
-          "platform": "ps1",
-          "Language": "",
-          "serial": "SLPM-86532",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4944076001317",
-          "regionalName": "右脳でアソベンチャー6〜かたち123 4歳〜6歳",
-          "releaseDate": "2000-09-21",
-          "id": "2437-1"
-        }
-      ],
-      "id": 2437,
-      "localizedNames": {
-        "ja": "右脳でアソベンチャー6〜かたち123 4歳〜6歳"
-      }
     },
     {
       "name": "SHICHIDASHIKI UNOU DE ASOVENTURE - KOTOBA ABC 0-2SAI MUKE",
@@ -87753,6 +87701,15 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "3230-3"
+        },
+        {
+          "name": "V-RALLY - CHAMPIONSHIP EDITION '97",
+          "platform": "ps1",
+          "Language": "[E][F][G]",
+          "serial": "SLES-00250",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3230-4"
         }
       ],
       "id": 3230,
@@ -132479,21 +132436,6 @@
       "id": 5348
     },
     {
-      "name": "V-RALLY - CHAMPIONSHIP EDITION '97",
-      "gameInstances": [
-        {
-          "name": "V-RALLY - CHAMPIONSHIP EDITION '97",
-          "platform": "ps1",
-          "Language": "[E][F][G]",
-          "serial": "SLES-00250",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5349-1"
-        }
-      ],
-      "id": 5349
-    },
-    {
       "name": "V2000",
       "gameInstances": [
         {
@@ -133761,48 +133703,20 @@
       "name": "GOKUJOU PARODIUS",
       "gameInstances": [
         {
-          "name": "GOKUJOU PARODIUS DA! DELUXE PACK",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-00002",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4988602624281",
-          "regionalName": "極上パロディウスだ! DELUXE PACK",
-          "releaseDate": "1994-12-03",
-          "id": "5420-1"
+          "id": "5420-1",
+          "link": "944-1"
         },
         {
-          "name": "GOKUJOU PARODIUS DA! DELUXE PACK [PLAYSTATION THE BEST]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-86031",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4988602049169",
-          "releaseDate": "1997-03-20",
-          "id": "5420-2"
+          "id": "5420-2",
+          "link": "944-2"
         },
         {
-          "name": "GOKUJOU PARODIUS DA! DELUXE PACK [PSONE BOOKS]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-87329",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4988602087123",
-          "regionalName": "極上パロディウスだ ! DELUXE PACK",
-          "releaseDate": "2003-11-20",
-          "id": "5420-3"
+          "id": "5420-3",
+          "link": "944-3"
         },
         {
-          "name": "PARODIUS",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-00036",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5420-4"
+          "id": "5420-4",
+          "link": "944-4"
         }
       ],
       "id": 5420,
@@ -135102,24 +135016,6 @@
       ],
       "id": 5465
     },
-    {
-      "name": "AGAREST: GENERATIONS OF WAR",
-      "gameInstances": [
-        {
-          "name": "AGAREST: GENERATIONS OF WAR",
-          "platform": "ps3",
-          "language": "[En]",
-          "serial": "BLES-00594",
-          "region": "Europe",
-          "tgdbId": 0,
-          "redumpId": 55956,
-          "id": "5466-1",
-          "upc": "5036675012715"
-        }
-      ],
-      "id": 5466
-    },
-
     {
       "name": "AIR CONFLICTS: PACIFIC CARRIERS",
       "gameInstances": [
@@ -144641,8 +144537,7 @@
           "redumpId": 102230,
           "releaseDate": "2009-07-23",
           "id": "5695-3",
-          "upc": "4949244001809",
-          "re": "2009-07-23"
+          "upc": "4949244001809"
         },
         {
           "name": "CALL OF JUAREZ: BOUND IN BLOOD",
