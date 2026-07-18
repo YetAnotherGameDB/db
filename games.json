@@ -184074,6 +184074,19 @@
           "id": "6881-1",
           "upc": "4974365835057",
           "releaseDate": "2007-03-08"
+        },
+        {
+          "name": "POWER SMASH 3 [Sega The Best]",
+          "platform": "ps3",
+          "regionalName": "パワースマッシュ３ [Sega The Best]",
+          "language": "[En,Fr,De,It,Ja,Es]",
+          "serial": "BLJM-60102",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 38470,
+          "id": "6881-2",
+          "upc": "4974365835293",
+          "releaseDate": ""
         }
       ],
       "id": 6881
