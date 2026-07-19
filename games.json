@@ -568,51 +568,6 @@
       "id": 19
     },
     {
-      "name": "A IV EVOLUTION GLOBAL",
-      "gameInstances": [
-        {
-          "name": "A IV EVOLUTION GLOBAL",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-00125",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "regionalName": "Ａ列車で行こう４ ＥＶＯＬＵＴＩＯＮ ＧＬＯＢＡＬ",
-          "upc": "4988640100075",
-          "releaseDate": "1995-11-22",
-          "id": "20-1"
-        },
-        {
-          "name": "A IV EVOLUTION GLOBAL [PLAYSTATION THE BEST]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-91019",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "regionalName": "Ａ列車で行こう４ ＥＶＯＬＵＴＩＯＮ ＧＬＯＢＡＬ [PLAYSTATION THE BEST]",
-          "upc": "4988640100150",
-          "releaseDate": "1997-03-28",
-          "id": "20-2"
-        },
-        {
-          "name": "A IV EVOLUTION GLOBAL [SUPERLITE 1500 SERIES]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-87231",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "regionalName": "Ａ列車で行こう４ ＥＶＯＬＵＴＩＯＮ ＧＬＯＢＡＬ [SUPERLITE 1500 SERIES]",
-          "upc": "4944076002949",
-          "releaseDate": "2003-04-24",
-          "id": "20-3"
-        }
-      ],
-      "id": 20,
-      "localizedNames": {
-        "ja": "Ａ列車で行こう４ ＥＶＯＬＵＴＩＯＮ ＧＬＯＢＡＬ"
-      }
-    },
-    {
       "name": "A5 - A RESSHA DE IKOU 5",
       "gameInstances": [
         {
@@ -891,38 +846,6 @@
       "name": "ACE COMBAT 3 - ELECTROSPHERE",
       "gameInstances": [
         {
-          "name": "ACE COMBAT 3 - ELECTROSPHERE  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SCPS-45397SCPS-45398",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "regionalName": "エースコンバット3 エレクトロスフィア",
-          "releaseDate": "1999-05-27",
-          "id": "29-1"
-        },
-        {
-          "name": "ACE COMBAT 3 - ELECTROSPHERE  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-02020SLPS-02021",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "regionalName": "エースコンバット3 エレクトロスフィア",
-          "upc": "4907892010642",
-          "releaseDate": "1999-05-27",
-          "id": "29-2"
-        }
-      ],
-      "id": 29,
-      "localizedNames": {
-        "ja": "エースコンバット3 エレクトロスフィア"
-      }
-    },
-    {
-      "name": "ACE COMBAT 3 - ELECTROSPHERE",
-      "gameInstances": [
-        {
           "name": "ACE COMBAT 3 - ELECTROSPHERE [PLAYSTATION THE BEST]  -  [ 2 DISCS ]",
           "platform": "ps1",
           "Language": "[J]",
@@ -951,6 +874,29 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "30-3"
+        },
+        {
+          "name": "ACE COMBAT 3 - ELECTROSPHERE  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SCPS-45397SCPS-45398",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "regionalName": "エースコンバット3 エレクトロスフィア",
+          "releaseDate": "1999-05-27",
+          "id": "30-4"
+        },
+        {
+          "name": "ACE COMBAT 3 - ELECTROSPHERE  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-02020SLPS-02021",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "regionalName": "エースコンバット3 エレクトロスフィア",
+          "upc": "4907892010642",
+          "releaseDate": "1999-05-27",
+          "id": "30-5"
         }
       ],
       "id": 30,
@@ -3297,16 +3243,7 @@
           "regionalName": "アーク ザ ラッド3",
           "releaseDate": "1999-10-28",
           "id": "109-2"
-        }
-      ],
-      "id": 109,
-      "localizedNames": {
-        "ja": "アーク ザ ラッド3"
-      }
-    },
-    {
-      "name": "ARC THE LAD III",
-      "gameInstances": [
+        },
         {
           "name": "ARC THE LAD III [PLAYSTATION THE BEST]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -3317,7 +3254,7 @@
           "upc": "4948872912280",
           "regionalName": "the Bestアークザラッド?V",
           "releaseDate": "2001-05-17",
-          "id": "110-1"
+          "id": "109-3"
         },
         {
           "name": "ARC THE LAD III [PSONE BOOKS]  -  [ 2 DISCS ]",
@@ -3329,12 +3266,12 @@
           "upc": "4948872913164",
           "regionalName": "the Bestアークザラッド?V",
           "releaseDate": "2001-12-06",
-          "id": "110-2"
+          "id": "109-4"
         }
       ],
-      "id": 110,
+      "id": 109,
       "localizedNames": {
-        "ja": "the Bestアークザラッド?V"
+        "ja": "アーク ザ ラッド3"
       }
     },
     {
@@ -3779,16 +3716,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "127-2"
-        }
-      ],
-      "id": 127,
-      "localizedNames": {
-        "ja": "アーマードコア マスターオブアリーナ"
-      }
-    },
-    {
-      "name": "ARMORED CORE - MASTER OF ARENA",
-      "gameInstances": [
+        },
         {
           "name": "ARMORED CORE - MASTER OF ARENA [PLAYSTATION THE BEST]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -3799,7 +3727,7 @@
           "upc": "4949776362119",
           "regionalName": "アーマードコア マスターオブアリーナ PlayStation the Best",
           "releaseDate": "1999-12-02",
-          "id": "128-1"
+          "id": "127-3"
         },
         {
           "name": "ARMORED CORE - MASTER OF ARENA [PSONE BOOKS]  -  [ 2 DISCS ]",
@@ -3811,10 +3739,10 @@
           "upc": "4949776362140",
           "regionalName": "アーマード・コア マスターオブアリーナ",
           "releaseDate": "2002-01-01",
-          "id": "128-2"
+          "id": "127-4"
         }
       ],
-      "id": 128,
+      "id": 127,
       "localizedNames": {
         "ja": "アーマードコア マスターオブアリーナ"
       }
@@ -5134,16 +5062,7 @@
           "regionalName": "爆走デコトラ伝説2 〜男人生アートトラック魂〜",
           "releaseDate": "1999-12-16",
           "id": "176-1"
-        }
-      ],
-      "id": 176,
-      "localizedNames": {
-        "ja": "爆走デコトラ伝説2 〜男人生アートトラック魂〜"
-      }
-    },
-    {
-      "name": "BAKUSOU DEKOTORA DENSETSU 2(ART TRUCK BATTLE 2) (PLAYSTATION THE BEST)",
-      "gameInstances": [
+        },
         {
           "name": "BAKUSOU DEKOTORA DENSETSU 2(ART TRUCK BATTLE 2) [PLAYSTATION THE BEST]",
           "platform": "ps1",
@@ -5152,11 +5071,14 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-07-12",
-          "id": "177-1",
+          "id": "176-2",
           "upc": "4940261502218"
         }
       ],
-      "id": 177
+      "id": 176,
+      "localizedNames": {
+        "ja": "爆走デコトラ伝説2 〜男人生アートトラック魂〜"
+      }
     },
     {
       "name": "BAKUSOU KYOUDAI LET'S & GO!! ETERNAL WINGS",
@@ -6132,27 +6054,6 @@
       "name": "BEATMANIA",
       "gameInstances": [
         {
-          "name": "BEATMANIA  -  [ 2 DISCS ]\n Includes: \n\t\tArcade 2nd Mix + Append Yebisu Mix",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-86126SLPM-86127",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4988602502640",
-          "regionalName": "ビートマニア",
-          "releaseDate": "1998-10-01",
-          "id": "211-1"
-        }
-      ],
-      "id": 211,
-      "localizedNames": {
-        "ja": "ビートマニア"
-      }
-    },
-    {
-      "name": "BEATMANIA",
-      "gameInstances": [
-        {
           "name": "BEATMANIA [KONAMI THE BEST]  -  [ 2 DISCS ]\n Includes: \n\t\tArcade 2nd Mix + Append Yebisu Mix",
           "platform": "ps1",
           "Language": "[J]",
@@ -6172,6 +6073,18 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "212-2"
+        },
+        {
+          "name": "BEATMANIA  -  [ 2 DISCS ]\n Includes: \n\t\tArcade 2nd Mix + Append Yebisu Mix",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-86126SLPM-86127",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4988602502640",
+          "regionalName": "ビートマニア",
+          "releaseDate": "1998-10-01",
+          "id": "212-3"
         }
       ],
       "id": 212,
@@ -6808,13 +6721,7 @@
           "upc": "4513244901027",
           "releaseDate": "2004-05-13",
           "id": "241-1"
-        }
-      ],
-      "id": 241
-    },
-    {
-      "name": "BLACK MATRIX 00",
-      "gameInstances": [
+        },
         {
           "name": "BLACK MATRIX 00 [LIMITED EDITION]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -6825,13 +6732,10 @@
           "upc": "4513244900808",
           "regionalName": "BLACK・MATRIX OO(ダブルオー)",
           "releaseDate": "2004-05-13",
-          "id": "242-1"
+          "id": "241-2"
         }
       ],
-      "id": 242,
-      "localizedNames": {
-        "ja": "BLACK・MATRIX OO(ダブルオー)"
-      }
+      "id": 241
     },
     {
       "name": "BLACK MATRIX CROSS",
@@ -6847,16 +6751,7 @@
           "regionalName": "ブラックマトリクス クロス",
           "releaseDate": "2000-12-14",
           "id": "243-1"
-        }
-      ],
-      "id": 243,
-      "localizedNames": {
-        "ja": "ブラックマトリクス クロス"
-      }
-    },
-    {
-      "name": "BLACK MATRIX CROSS",
-      "gameInstances": [
+        },
         {
           "name": "BLACK MATRIX CROSS [RERELEASE]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -6867,12 +6762,12 @@
           "upc": "4513244900587",
           "regionalName": "BLACK/MATRIX+ (ベスト版)",
           "releaseDate": "2002-03-07",
-          "id": "244-1"
+          "id": "243-2"
         }
       ],
-      "id": 244,
+      "id": 243,
       "localizedNames": {
-        "ja": "BLACK/MATRIX+ (ベスト版)"
+        "ja": "ブラックマトリクス クロス"
       }
     },
     {
@@ -9430,36 +9325,6 @@
       "id": 332
     },
     {
-      "name": "CAPCOM VS SNK MILLENNIUM FIGHT 2000 PRO",
-      "gameInstances": [
-        {
-          "name": "CAPCOM VS SNK MILLENNIUM FIGHT 2000 PRO",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-87053",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4976219754194",
-          "regionalName": "カプコン バーサス エス・エヌ・ケイ ミレニアムファイト2000 プロ",
-          "releaseDate": "2002-04-18",
-          "id": "333-1"
-        },
-        {
-          "name": "CAPCOM VS SNK MILLENNIUM FIGHT 2000 PRO",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-03889",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "333-2"
-        }
-      ],
-      "id": 333,
-      "localizedNames": {
-        "ja": "カプコン バーサス エス・エヌ・ケイ ミレニアムファイト2000 プロ"
-      }
-    },
-    {
       "name": "CAPTAIN COMMANDO",
       "gameInstances": [
         {
@@ -10413,27 +10278,6 @@
       "name": "CHIBI-CHARA GAME GINGA EIYUU DENSETSU",
       "gameInstances": [
         {
-          "name": "CHIBI-CHARA GAME GINGA EIYUU DENSETSU  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-02027SLPS-02028",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4515646840300",
-          "regionalName": "ちびキャラゲーム 銀河英雄伝説",
-          "releaseDate": "1997-05-27",
-          "id": "368-1"
-        }
-      ],
-      "id": 368,
-      "localizedNames": {
-        "ja": "ちびキャラゲーム 銀河英雄伝説"
-      }
-    },
-    {
-      "name": "CHIBI-CHARA GAME GINGA EIYUU DENSETSU",
-      "gameInstances": [
-        {
           "name": "CHIBI-CHARA GAME GINGA EIYUU DENSETSU [REINHART VERSION] [LIMITED EDITION]  -  [ 2 DISCS ]",
           "platform": "ps1",
           "Language": "[J]",
@@ -10456,6 +10300,18 @@
           "regionalName": "ちびキャラゲーム銀河英雄伝説　限定版",
           "releaseDate": "1997-05-27",
           "id": "369-2"
+        },
+        {
+          "name": "CHIBI-CHARA GAME GINGA EIYUU DENSETSU  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-02027SLPS-02028",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4515646840300",
+          "regionalName": "ちびキャラゲーム 銀河英雄伝説",
+          "releaseDate": "1997-05-27",
+          "id": "369-3"
         }
       ],
       "id": 369,
@@ -11246,77 +11102,6 @@
       }
     },
     {
-      "name": "CHRONO CROSS",
-      "gameInstances": [
-        {
-          "name": "CHRONO CROSS  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SCPS-45447SCPS-45448",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "releaseDate": "1999-11-18",
-          "id": "397-1"
-        },
-        {
-          "name": "CHRONO CROSS  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-02364SLPS-02365",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "releaseDate": "1999-11-18",
-          "id": "397-2"
-        }
-      ],
-      "id": 397
-    },
-    {
-      "name": "CHRONO CROSS",
-      "gameInstances": [
-        {
-          "name": "CHRONO CROSS [PSONE BOOKS]  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-91464SLPS-91465",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4961012027095",
-          "regionalName": "クロノ・クロス Psone Books（再販）",
-          "releaseDate": "2002-02-21",
-          "id": "398-1"
-        },
-        {
-          "name": "CHRONO CROSS [SQUARE MILLENNIUM COLLECTION]  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-02777SLPS-02778",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4961012007295",
-          "regionalName": "クロノ・クロス Psone Books（再販）",
-          "releaseDate": "2000-10-26",
-          "id": "398-2"
-        },
-        {
-          "name": "CHRONO CROSS [ULTIMATE HITS]  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-87395SLPM-87396",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4988601004695",
-          "regionalName": "クロノ・クロス Psone Books（再販）",
-          "releaseDate": "2006-07-20",
-          "id": "398-3"
-        }
-      ],
-      "id": 398,
-      "localizedNames": {
-        "ja": "クロノ・クロス Psone Books（再販）"
-      }
-    },
-    {
       "name": "CHRONO TRIGGER",
       "gameInstances": [
         {
@@ -11407,16 +11192,7 @@
           "regionalName": "シネマ英会話 愛の果てに",
           "releaseDate": "1999-07-22",
           "id": "401-1"
-        }
-      ],
-      "id": 401,
-      "localizedNames": {
-        "ja": "シネマ英会話 愛の果てに"
-      }
-    },
-    {
-      "name": "CINEMA EIKAIWA - AI NO HATE NI",
-      "gameInstances": [
+        },
         {
           "name": "CINEMA EIKAIWA - AI NO HATE NI [REPRINT  -  [ 4 DISCS ]",
           "platform": "ps1",
@@ -11426,10 +11202,13 @@
           "tgdbId": 0,
           "upc": "4944076001416",
           "releaseDate": "2000-07-13",
-          "id": "402-1"
+          "id": "401-2"
         }
       ],
-      "id": 402
+      "id": 401,
+      "localizedNames": {
+        "ja": "シネマ英会話 愛の果てに"
+      }
     },
     {
       "name": "CINEMA EIKAIWA - ARASHIGAOKA",
@@ -11444,13 +11223,7 @@
           "upc": "4944076000495",
           "releaseDate": "1999-03-18",
           "id": "403-1"
-        }
-      ],
-      "id": 403
-    },
-    {
-      "name": "CINEMA EIKAIWA - ARASHIGAOKA",
-      "gameInstances": [
+        },
         {
           "name": "CINEMA EIKAIWA - ARASHIGAOKA [REPRINT]  -  [ 3 DISCS ]",
           "platform": "ps1",
@@ -11461,13 +11234,10 @@
           "upc": "4944076001386",
           "regionalName": "シネマ英会話 嵐が丘 廉価版",
           "releaseDate": "2000-07-13",
-          "id": "404-1"
+          "id": "403-2"
         }
       ],
-      "id": 404,
-      "localizedNames": {
-        "ja": "シネマ英会話 嵐が丘 廉価版"
-      }
+      "id": 403
     },
     {
       "name": "CINEMA EIKAIWA - INTERCEPTOR",
@@ -11483,16 +11253,7 @@
           "regionalName": "シネマ英会話インターセプター",
           "releaseDate": "1999-02-18",
           "id": "405-1"
-        }
-      ],
-      "id": 405,
-      "localizedNames": {
-        "ja": "シネマ英会話インターセプター"
-      }
-    },
-    {
-      "name": "CINEMA EIKAIWA - INTERCEPTOR",
-      "gameInstances": [
+        },
         {
           "name": "CINEMA EIKAIWA - INTERCEPTOR [REPRINT]  -  [ 3 DISCS ]",
           "platform": "ps1",
@@ -11502,10 +11263,13 @@
           "tgdbId": 0,
           "upc": "4944076001379",
           "releaseDate": "2000-07-13",
-          "id": "406-1"
+          "id": "405-2"
         }
       ],
-      "id": 406
+      "id": 405,
+      "localizedNames": {
+        "ja": "シネマ英会話インターセプター"
+      }
     },
     {
       "name": "CINEMA EIKAIWA - TENGOKUNI IKENAI PAPA",
@@ -11521,16 +11285,7 @@
           "regionalName": "シネマ英会話 天国に行けないパパ",
           "releaseDate": "1999-01-14",
           "id": "407-1"
-        }
-      ],
-      "id": 407,
-      "localizedNames": {
-        "ja": "シネマ英会話 天国に行けないパパ"
-      }
-    },
-    {
-      "name": "CINEMA EIKAIWA - TENGOKUNI IKENAI PAPA",
-      "gameInstances": [
+        },
         {
           "name": "CINEMA EIKAIWA - TENGOKUNI IKENAI PAPA [REPRINT]  -  [ 3 DISCS ]",
           "platform": "ps1",
@@ -11541,12 +11296,12 @@
           "upc": "4944076001362",
           "regionalName": "PSソフト",
           "releaseDate": "2000-07-13",
-          "id": "408-1"
+          "id": "407-2"
         }
       ],
-      "id": 408,
+      "id": 407,
       "localizedNames": {
-        "ja": "PSソフト"
+        "ja": "シネマ英会話 天国に行けないパパ"
       }
     },
     {
@@ -11562,13 +11317,7 @@
           "upc": "4944076000518",
           "releaseDate": "1999-04-22",
           "id": "409-1"
-        }
-      ],
-      "id": 409
-    },
-    {
-      "name": "CINEMA EIKAIWA - THIS BOYS LIFE",
-      "gameInstances": [
+        },
         {
           "name": "CINEMA EIKAIWA - THIS BOYS LIFE [REPRINT]  -  [ 4 DISCS ]",
           "platform": "ps1",
@@ -11578,10 +11327,10 @@
           "tgdbId": 0,
           "upc": "4944076001393",
           "releaseDate": "2000-07-13",
-          "id": "410-1"
+          "id": "409-2"
         }
       ],
-      "id": 410
+      "id": 409
     },
     {
       "name": "CINEMA EIKAIWA - ZOMBIE",
@@ -11597,16 +11346,7 @@
           "regionalName": "CINEMA英会話シリーズゾンビ",
           "releaseDate": "1999-05-27",
           "id": "411-1"
-        }
-      ],
-      "id": 411,
-      "localizedNames": {
-        "ja": "CINEMA英会話シリーズゾンビ"
-      }
-    },
-    {
-      "name": "CINEMA EIKAIWA - ZOMBIE",
-      "gameInstances": [
+        },
         {
           "name": "CINEMA EIKAIWA - ZOMBIE [REPRINT]  -  [ 4 DISCS ]",
           "platform": "ps1",
@@ -11616,10 +11356,13 @@
           "tgdbId": 0,
           "upc": "4944076001409",
           "releaseDate": "2000-07-13",
-          "id": "412-1"
+          "id": "411-2"
         }
       ],
-      "id": 412
+      "id": 411,
+      "localizedNames": {
+        "ja": "CINEMA英会話シリーズゾンビ"
+      }
     },
     {
       "name": "CIRCADIA",
@@ -12662,16 +12405,7 @@
           "regionalName": "クールボーダーズ2",
           "releaseDate": "1997-08-28",
           "id": "448-2"
-        }
-      ],
-      "id": 448,
-      "localizedNames": {
-        "ja": "クールボーダーズ2"
-      }
-    },
-    {
-      "name": "COOL BOARDERS 2 KILLING SESSION",
-      "gameInstances": [
+        },
         {
           "name": "COOL BOARDERS 2 KILLING SESSION [PLAYSTATION THE BEST]",
           "platform": "ps1",
@@ -12682,12 +12416,12 @@
           "upc": "4948204000050",
           "regionalName": "クールボーダーズ2 ベスト",
           "releaseDate": "1999-02-04",
-          "id": "449-1"
+          "id": "448-3"
         }
       ],
-      "id": 449,
+      "id": 448,
       "localizedNames": {
-        "ja": "クールボーダーズ2 ベスト"
+        "ja": "クールボーダーズ2"
       }
     },
     {
@@ -15067,13 +14801,7 @@
           "releaseDate": "1997-03-20",
           "id": "534-2",
           "upc": "4904880134236"
-        }
-      ],
-      "id": 534
-    },
-    {
-      "name": "DEEP SEA ADVENTURE",
-      "gameInstances": [
+        },
         {
           "name": "DEEP SEA ADVENTURE [THE BEST TAKARAMONO]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -15082,10 +14810,10 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-08-05",
-          "id": "535-1"
+          "id": "534-3"
         }
       ],
-      "id": 535
+      "id": 534
     },
     {
       "name": "DEFCON 5",
@@ -16017,16 +15745,7 @@
           "regionalName": "デザエモンKids!",
           "releaseDate": "1998-10-22",
           "id": "564-1"
-        }
-      ],
-      "id": 564,
-      "localizedNames": {
-        "ja": "デザエモンKids!"
-      }
-    },
-    {
-      "name": "DEZAEMON KIDS!",
-      "gameInstances": [
+        },
         {
           "name": "DEZAEMON KIDS! [SUPERLITE 1500 SERIES]",
           "platform": "ps1",
@@ -16037,12 +15756,12 @@
           "upc": "4944076001447",
           "regionalName": "デザエモンKIDS！ SuperLite 1500シリーズ",
           "releaseDate": "2000-08-24",
-          "id": "565-1"
+          "id": "564-2"
         }
       ],
-      "id": 565,
+      "id": 564,
       "localizedNames": {
-        "ja": "デザエモンKIDS！"
+        "ja": "デザエモンKids!"
       }
     },
     {
@@ -16604,84 +16323,6 @@
       "id": 586,
       "localizedNames": {
         "ja": "デジタルグライダー エアマン"
-      }
-    },
-    {
-      "name": "DINO CRISIS",
-      "gameInstances": [
-        {
-          "name": "DINO CRISIS",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-02180",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4976219355681",
-          "regionalName": "ディノクライシス",
-          "releaseDate": "1999-07-01",
-          "id": "587-1"
-        },
-        {
-          "name": "DINO CRISIS [PLAYSTATION THE BEST]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-86903",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4976219554985",
-          "regionalName": "廉価版DINO CRISIS",
-          "releaseDate": "2003-02-27",
-          "id": "587-2"
-        },
-        {
-          "name": "DINO CRISIS",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-02207",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "587-3"
-        },
-        {
-          "name": "DINO CRISIS",
-          "platform": "ps1",
-          "Language": "[F]",
-          "serial": "SLES-02208",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "587-4"
-        },
-        {
-          "name": "DINO CRISIS",
-          "platform": "ps1",
-          "Language": "[G]",
-          "serial": "SLES-02209",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "587-5"
-        },
-        {
-          "name": "DINO CRISIS",
-          "platform": "ps1",
-          "Language": "[I]",
-          "serial": "SLES-02210",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "587-6"
-        },
-        {
-          "name": "DINO CRISIS",
-          "platform": "ps1",
-          "Language": "[S]",
-          "serial": "SLES-02211",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "587-7"
-        }
-      ],
-      "id": 587,
-      "localizedNames": {
-        "ja": "ディノクライシス"
       }
     },
     {
@@ -18649,16 +18290,7 @@
           "regionalName": "ドラゴンクエストIV 導かれし者たち",
           "releaseDate": "2001-11-22",
           "id": "651-1"
-        }
-      ],
-      "id": 651,
-      "localizedNames": {
-        "ja": "ドラゴンクエストIV 導かれし者たち"
-      }
-    },
-    {
-      "name": "DRAGON QUEST IV - MICHIBIKARESHI MONOTACHI (PSONE BOOKS)",
-      "gameInstances": [
+        },
         {
           "name": "DRAGON QUEST IV - MICHIBIKARESHI MONOTACHI (PSONE BOOKS)",
           "platform": "ps1",
@@ -18669,17 +18301,8 @@
           "upc": "4988601004190",
           "regionalName": "ドラゴンクエストIV 導かれし者たち Ps One Books",
           "releaseDate": "2005-03-03",
-          "id": "652-1"
-        }
-      ],
-      "id": 652,
-      "localizedNames": {
-        "ja": "ドラゴンクエストIV 導かれし者たち Ps One Books"
-      }
-    },
-    {
-      "name": "DRAGON QUEST IV - MICHIBIKARESHI MONOTACHI (ULTIMATE HITS)",
-      "gameInstances": [
+          "id": "651-2"
+        },
         {
           "name": "DRAGON QUEST IV - MICHIBIKARESHI MONOTACHI (ULTIMATE HITS)",
           "platform": "ps1",
@@ -18690,12 +18313,12 @@
           "upc": "4988601004770",
           "regionalName": "ドラゴンクエストIV 導かれし者たち アルティメットヒッツ",
           "releaseDate": "2006-07-20",
-          "id": "653-1"
+          "id": "651-3"
         }
       ],
-      "id": 653,
+      "id": 651,
       "localizedNames": {
-        "ja": "ドラゴンクエストIV 導かれし者たち アルティメットヒッツ"
+        "ja": "ドラゴンクエストIV 導かれし者たち"
       }
     },
     {
@@ -18744,16 +18367,7 @@
           "upc": "4948872455046",
           "releaseDate": "2000-08-26",
           "id": "655-2"
-        }
-      ],
-      "id": 655,
-      "localizedNames": {
-        "ja": "ドラゴンクエストVII エデンの戦士たち"
-      }
-    },
-    {
-      "name": "DRAGON QUEST VII - EDEN NO SENSHI-TACHI",
-      "gameInstances": [
+        },
         {
           "name": "DRAGON QUEST VII - EDEN NO SENSHI-TACHI [PSONE BOOKS]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -18764,7 +18378,7 @@
           "upc": "4988601004145",
           "regionalName": "ドラゴンクエストVII エデンの戦士たち PS one Books",
           "releaseDate": "2005-02-03",
-          "id": "656-1"
+          "id": "655-3"
         },
         {
           "name": "DRAGON QUEST VII - EDEN NO SENSHI-TACHI [ULTIMATE HITS]",
@@ -18776,12 +18390,12 @@
           "upc": "4988601004763",
           "regionalName": "ドラゴンクエストVII エデンの戦士たち [ULTIMATE HITS]",
           "releaseDate": "2006-07-20",
-          "id": "656-2"
+          "id": "655-4"
         }
       ],
-      "id": 656,
+      "id": 655,
       "localizedNames": {
-        "ja": "ドラゴンクエストVII エデンの戦士たち PS one Books"
+        "ja": "ドラゴンクエストVII エデンの戦士たち"
       }
     },
     {
@@ -19205,16 +18819,7 @@
           "regionalName": "DX人生ゲーム3",
           "releaseDate": "1999-12-02",
           "id": "669-1"
-        }
-      ],
-      "id": 669,
-      "localizedNames": {
-        "ja": "DX人生ゲーム3"
-      }
-    },
-    {
-      "name": "DX JINSEI GAME III (THE BEST TAKARAMONO)",
-      "gameInstances": [
+        },
         {
           "name": "DX JINSEI GAME III (THE BEST TAKARAMONO)",
           "platform": "ps1",
@@ -19225,12 +18830,12 @@
           "upc": "4904880139262",
           "regionalName": "DX人生ゲーム III THE BEST タカラモノ",
           "releaseDate": "2002-07-11",
-          "id": "670-1"
+          "id": "669-2"
         }
       ],
-      "id": 670,
+      "id": 669,
       "localizedNames": {
-        "ja": "DX人生ゲーム III THE BEST タカラモノ"
+        "ja": "DX人生ゲーム3"
       }
     },
     {
@@ -19280,16 +18885,7 @@
           "regionalName": "DX人生ゲームV",
           "releaseDate": "2002-12-05",
           "id": "672-1"
-        }
-      ],
-      "id": 672,
-      "localizedNames": {
-        "ja": "DX人生ゲームV"
-      }
-    },
-    {
-      "name": "DX JINSEI GAME V (THE BEST TAKARAMONO)",
-      "gameInstances": [
+        },
         {
           "name": "DX JINSEI GAME V (THE BEST TAKARAMONO)",
           "platform": "ps1",
@@ -19300,17 +18896,8 @@
           "upc": "4984995110837",
           "regionalName": "DX人生ゲームV　THE　BEST　タカラモノ（再販）",
           "releaseDate": "2004-09-22",
-          "id": "673-1"
-        }
-      ],
-      "id": 673,
-      "localizedNames": {
-        "ja": "DX人生ゲームV　THE　BEST　タカラモノ（再販）"
-      }
-    },
-    {
-      "name": "DX JINSEI GAME V (PSONE BOOKS)",
-      "gameInstances": [
+          "id": "672-2"
+        },
         {
           "name": "DX JINSEI GAME V (PSONE BOOKS)",
           "platform": "ps1",
@@ -19321,10 +18908,10 @@
           "upc": "4984995900100",
           "regionalName": "DX人生ゲームV PS one Books",
           "releaseDate": "2006-02-16",
-          "id": "674-1"
+          "id": "672-3"
         }
       ],
-      "id": 674,
+      "id": 672,
       "localizedNames": {
         "ja": "DX人生ゲームV"
       }
@@ -19409,16 +18996,7 @@
           "regionalName": "DX億万長者ゲーム",
           "releaseDate": "1996-12-26",
           "id": "677-1"
-        }
-      ],
-      "id": 677,
-      "localizedNames": {
-        "ja": "DX億万長者ゲーム"
-      }
-    },
-    {
-      "name": "DX OKUMAN CHOUJA GAME - THE MONEY BATTLE (PLAYSTATION THE BEST)",
-      "gameInstances": [
+        },
         {
           "name": "DX OKUMAN CHOUJA GAME - THE MONEY BATTLE (PLAYSTATION THE BEST)",
           "platform": "ps1",
@@ -19429,12 +19007,12 @@
           "upc": "4904880135813",
           "regionalName": "DX億万長者ゲーム　THE　BEST",
           "releaseDate": "1997-11-27",
-          "id": "678-1"
+          "id": "677-2"
         }
       ],
-      "id": 678,
+      "id": 677,
       "localizedNames": {
-        "ja": "DX億万長者ゲーム　THE　BEST"
+        "ja": "DX億万長者ゲーム"
       }
     },
     {
@@ -20099,27 +19677,6 @@
       "name": "EITHÉA",
       "gameInstances": [
         {
-          "name": "EITHÉA  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-03141SLPS-03142",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4984995110431",
-          "regionalName": "アイシア",
-          "releaseDate": "2001-02-22",
-          "id": "703-1"
-        }
-      ],
-      "id": 703,
-      "localizedNames": {
-        "ja": "アイシア"
-      }
-    },
-    {
-      "name": "EITHÉA",
-      "gameInstances": [
-        {
           "name": "EITHÉA [ATLUS BEST COLLECTION]  -  [ 2 DISCS ]",
           "platform": "ps1",
           "Language": "[J]",
@@ -20142,6 +19699,18 @@
           "regionalName": "アイシア(デラックスパック版)(限定版)",
           "releaseDate": "2001-02-22",
           "id": "704-2"
+        },
+        {
+          "name": "EITHÉA  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-03141SLPS-03142",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4984995110431",
+          "regionalName": "アイシア",
+          "releaseDate": "2001-02-22",
+          "id": "704-3"
         }
       ],
       "id": 704,
@@ -20772,27 +20341,6 @@
       "name": "EVE - THE FATAL ATTRACTION",
       "gameInstances": [
         {
-          "name": "EVE - THE FATAL ATTRACTION  -  [ 3 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-86826SLPM-86827SLPM-86828",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4525642000059",
-          "regionalName": "EVE　The　Fatal　attraction　（EVEシリーズ）",
-          "releaseDate": "2001-09-27",
-          "id": "733-1"
-        }
-      ],
-      "id": 733,
-      "localizedNames": {
-        "ja": "EVE　The　Fatal　attraction　（EVEシリーズ）"
-      }
-    },
-    {
-      "name": "EVE - THE FATAL ATTRACTION",
-      "gameInstances": [
-        {
           "name": "EVE - THE FATAL ATTRACTION [LIMITED EDITION]  -  [ 3 DISCS ]",
           "platform": "ps1",
           "Language": "[J]",
@@ -20815,6 +20363,18 @@
           "regionalName": "EVE　The　Fatal　attraction　ゲームビレッジ・ザ・ベスト　（EVEシリーズ）",
           "releaseDate": "2003-01-23",
           "id": "734-2"
+        },
+        {
+          "name": "EVE - THE FATAL ATTRACTION  -  [ 3 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-86826SLPM-86827SLPM-86828",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4525642000059",
+          "regionalName": "EVE　The　Fatal　attraction　（EVEシリーズ）",
+          "releaseDate": "2001-09-27",
+          "id": "734-3"
         }
       ],
       "id": 734,
@@ -20836,16 +20396,7 @@
           "regionalName": "EVE THE LOST ONE",
           "releaseDate": "1998-12-23",
           "id": "735-1"
-        }
-      ],
-      "id": 735,
-      "localizedNames": {
-        "ja": "EVE THE LOST ONE"
-      }
-    },
-    {
-      "name": "EVE - THE LOST ONE",
-      "gameInstances": [
+        },
         {
           "name": "EVE - THE LOST ONE [GAMEBRIDGE THE BEST]  -  [ 3 DISCS ]",
           "platform": "ps1",
@@ -20856,33 +20407,12 @@
           "upc": "4525642000165",
           "regionalName": "EVE The Lost One ゲームビレッジ・ザ・ベスト EVEシリーズ / ネットビレッジ",
           "releaseDate": "2003-03-27",
-          "id": "736-1"
+          "id": "735-2"
         }
       ],
-      "id": 736,
+      "id": 735,
       "localizedNames": {
-        "ja": "EVE The Lost One ゲームビレッジ・ザ・ベスト EVEシリーズ / ネットビレッジ"
-      }
-    },
-    {
-      "name": "EVE ZERO",
-      "gameInstances": [
-        {
-          "name": "EVE ZERO  -  [ 3 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-86478SLPM-86479SLPM-86480",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4525642000011",
-          "regionalName": "EVE　ZERO　（EVEシリーズ）",
-          "releaseDate": "2000-03-30",
-          "id": "737-1"
-        }
-      ],
-      "id": 737,
-      "localizedNames": {
-        "ja": "EVE　ZERO　（EVEシリーズ）"
+        "ja": "EVE THE LOST ONE"
       }
     },
     {
@@ -20911,6 +20441,18 @@
           "regionalName": "EVE ZERO ゲームビレッジ・ザ・ベスト",
           "releaseDate": "2001-12-06",
           "id": "738-2"
+        },
+        {
+          "name": "EVE ZERO  -  [ 3 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-86478SLPM-86479SLPM-86480",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4525642000011",
+          "regionalName": "EVE　ZERO　（EVEシリーズ）",
+          "releaseDate": "2000-03-30",
+          "id": "738-3"
         }
       ],
       "id": 738,
@@ -21543,13 +21085,7 @@
           "tgdbId": 0,
           "releaseDate": "1999-08-24",
           "id": "765-1"
-        }
-      ],
-      "id": 765
-    },
-    {
-      "name": "FARLAND SAGA - TOKI NO MICHISHIRUBE (SUPERLITE 1500 SERIES)",
-      "gameInstances": [
+        },
         {
           "name": "FARLAND SAGA - TOKI NO MICHISHIRUBE (SUPERLITE 1500 SERIES)",
           "platform": "ps1",
@@ -21560,13 +21096,10 @@
           "upc": "4944076002970",
           "regionalName": "ファーランドサーガ 時の道標 SuperLite1500シ",
           "releaseDate": "2003-04-10",
-          "id": "766-1"
+          "id": "765-2"
         }
       ],
-      "id": 766,
-      "localizedNames": {
-        "ja": "ファーランドサーガ 時の道標 SuperLite1500シ"
-      }
+      "id": 765
     },
     {
       "name": "FARLAND STORY - YOTTSU NO FUUIN",
@@ -21581,13 +21114,7 @@
           "releaseDate": "1997-11-27",
           "id": "767-1",
           "upc": "4935066600047"
-        }
-      ],
-      "id": 767
-    },
-    {
-      "name": "FARLAND STORY - YOTTSU NO FUUIN (SUPERLITE 1500 SERIES)",
-      "gameInstances": [
+        },
         {
           "name": "FARLAND STORY - YOTTSU NO FUUIN (SUPERLITE 1500 SERIES)",
           "platform": "ps1",
@@ -21596,11 +21123,11 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2003-04-10",
-          "id": "768-1",
+          "id": "767-2",
           "upc": "4944076002963"
         }
       ],
-      "id": 768
+      "id": 767
     },
     {
       "name": "FAVORITE DEAR",
@@ -21847,39 +21374,6 @@
       "id": 777,
       "localizedNames": {
         "ja": "FIFA 2001 ヨーロッパリーグサッカー エレクトロニック・アーツ・スクウェア"
-      }
-    },
-    {
-      "name": "FIFA ROAD TO WORLD CUP '98",
-      "gameInstances": [
-        {
-          "name": "FIFA ROAD TO WORLD CUP '98",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-01383",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4938833004758",
-          "regionalName": "FIFAロードトゥワールドカップ98",
-          "releaseDate": "1998-05-14",
-          "id": "778-1"
-        },
-        {
-          "name": "FIFA ROAD TO WORLD CUP '98 [PLAYSTATION THE BEST]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-91150",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4938833005090",
-          "regionalName": "FIFA ロード トゥ ワールドカップ98X ベスト",
-          "releaseDate": "1999-08-12",
-          "id": "778-2"
-        }
-      ],
-      "id": 778,
-      "localizedNames": {
-        "ja": "FIFAロードトゥワールドカップ98"
       }
     },
     {
@@ -22347,38 +21841,6 @@
       }
     },
     {
-      "name": "FINAL FANTASY VI",
-      "gameInstances": [
-        {
-          "name": "FINAL FANTASY VI",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SCPS-45387",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "regionalName": "ファイナルファンタジーVI （コンビニ専売）",
-          "releaseDate": "1999-03-11",
-          "id": "797-1"
-        },
-        {
-          "name": "FINAL FANTASY VI",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-86198",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4961012987085",
-          "regionalName": "ファイナルファンタジーVI （コンビニ専売）",
-          "releaseDate": "1999-03-11",
-          "id": "797-2"
-        }
-      ],
-      "id": 797,
-      "localizedNames": {
-        "ja": "ファイナルファンタジーVI （コンビニ専売）"
-      }
-    },
-    {
       "name": "FINAL FANTASY VII",
       "gameInstances": [
         {
@@ -22454,23 +21916,6 @@
       "name": "FINAL FANTASY VII INTERNATIONAL",
       "gameInstances": [
         {
-          "name": "FINAL FANTASY VII INTERNATIONAL  -  [ 4 DISCS ]\n\n Includes: \n\t\tFinal Fantasy VII International + Bonus Disc",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-01057SLPS-01058SLPS-01059SLPS-01060",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "releaseDate": "1997-02-10",
-          "id": "799-1",
-          "upc": "4961012977093"
-        }
-      ],
-      "id": 799
-    },
-    {
-      "name": "FINAL FANTASY VII INTERNATIONAL",
-      "gameInstances": [
-        {
           "name": "FINAL FANTASY VII INTERNATIONAL [PSONE BOOKS]  -  [ 4 DISCS ] Includes: \n\t\tFinal Fantasy VII International [Psone Books] + Bonus Disc",
           "platform": "ps1",
           "Language": "[J]",
@@ -22491,6 +21936,17 @@
           "releaseDate": "2006-07-20",
           "id": "800-2",
           "upc": "4988601004671"
+        },
+        {
+          "name": "FINAL FANTASY VII INTERNATIONAL  -  [ 4 DISCS ]\n\n Includes: \n\t\tFinal Fantasy VII International + Bonus Disc",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-01057SLPS-01058SLPS-01059SLPS-01060",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "releaseDate": "1997-02-10",
+          "id": "800-3",
+          "upc": "4961012977093"
         }
       ],
       "id": 800
@@ -22689,38 +22145,6 @@
       "name": "FINAL FANTASY TACTICS",
       "gameInstances": [
         {
-          "name": "FINAL FANTASY TACTICS  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SCPS-45087SCPS-45088",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "regionalName": "ファイナルファンタジータクティクス",
-          "releaseDate": "1997-06-20",
-          "id": "805-1"
-        },
-        {
-          "name": "FINAL FANTASY TACTICS  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-00770SLPS-00771",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4961012977031",
-          "regionalName": "ファイナルファンタジータクティクス",
-          "releaseDate": "1997-06-20",
-          "id": "805-2"
-        }
-      ],
-      "id": 805,
-      "localizedNames": {
-        "ja": "ファイナルファンタジータクティクス"
-      }
-    },
-    {
-      "name": "FINAL FANTASY TACTICS",
-      "gameInstances": [
-        {
           "name": "FINAL FANTASY TACTICS [PSONE BOOKS]",
           "platform": "ps1",
           "Language": "[J]",
@@ -22764,6 +22188,29 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "806-4"
+        },
+        {
+          "name": "FINAL FANTASY TACTICS  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SCPS-45087SCPS-45088",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "regionalName": "ファイナルファンタジータクティクス",
+          "releaseDate": "1997-06-20",
+          "id": "806-5"
+        },
+        {
+          "name": "FINAL FANTASY TACTICS  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-00770SLPS-00771",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4961012977031",
+          "regionalName": "ファイナルファンタジータクティクス",
+          "releaseDate": "1997-06-20",
+          "id": "806-6"
         }
       ],
       "id": 806,
@@ -27325,16 +26772,7 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "959-4"
-        }
-      ],
-      "id": 959,
-      "localizedNames": {
-        "ja": "GRAN　TURISMO　2"
-      }
-    },
-    {
-      "name": "GRAN TURISMO 2 - THE REAL DRIVING SIMULATOR",
-      "gameInstances": [
+        },
         {
           "name": "GRAN TURISMO 2 - THE REAL DRIVING SIMULATOR [PSONE BOOKS]  -  [ 2 DISCS ]  Includes: \n\t\tArcade Disc + Simulation Disc",
           "platform": "ps1",
@@ -27343,7 +26781,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-12-05",
-          "id": "960-1"
+          "id": "959-5"
         },
         {
           "name": "GRAN TURISMO 2 - THE REAL DRIVING SIMULATOR [PSONE BOOKS]  -  [ 2 DISCS ]  Includes: \n\t\tArcade Disc + Simulation Disc",
@@ -27355,12 +26793,12 @@
           "upc": "4948872913263",
           "regionalName": "グランツーリスモ2",
           "releaseDate": "2002-12-05",
-          "id": "960-2"
+          "id": "959-6"
         }
       ],
-      "id": 960,
+      "id": 959,
       "localizedNames": {
-        "ja": "グランツーリスモ2"
+        "ja": "GRAN　TURISMO　2"
       }
     },
     {
@@ -27420,75 +26858,6 @@
       "id": 961,
       "localizedNames": {
         "ja": "G.T.A グランドセフトオート"
-      }
-    },
-    {
-      "name": "GRANDIA",
-      "gameInstances": [
-        {
-          "name": "GRANDIA  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-02124SLPS-02125",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4988649973304",
-          "regionalName": "グランディア",
-          "releaseDate": "1999-06-24",
-          "id": "962-1"
-        },
-        {
-          "name": "GRANDIA  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-02397SLES-12397",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "962-2"
-        },
-        {
-          "name": "GRANDIA  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[F]",
-          "serial": "SLES-02398SLES-12398",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "962-3"
-        },
-        {
-          "name": "GRANDIA  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[G]",
-          "serial": "SLES-02399SLES-12399",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "962-4"
-        }
-      ],
-      "id": 962,
-      "localizedNames": {
-        "ja": "グランディア"
-      }
-    },
-    {
-      "name": "GRANDIA",
-      "gameInstances": [
-        {
-          "name": "GRANDIA [PLAYSTATION THE BEST]  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-91205SLPS-91206",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4988649073431",
-          "regionalName": "グランディア PlayStation the Best",
-          "releaseDate": "2000-07-27",
-          "id": "963-1"
-        }
-      ],
-      "id": 963,
-      "localizedNames": {
-        "ja": "グランディア"
       }
     },
     {
@@ -27799,16 +27168,7 @@
           "regionalName": "グロウランサー",
           "releaseDate": "1999-11-25",
           "id": "975-1"
-        }
-      ],
-      "id": 975,
-      "localizedNames": {
-        "ja": "グロウランサー"
-      }
-    },
-    {
-      "name": "GROWLANSER",
-      "gameInstances": [
+        },
         {
           "name": "GROWLANSER [ATLUS BEST COLLECTION]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -27819,12 +27179,12 @@
           "upc": "4984995110462",
           "regionalName": "グローランサー アトラス・ベストコレクション",
           "releaseDate": "2001-07-26",
-          "id": "976-1"
+          "id": "975-2"
         }
       ],
-      "id": 976,
+      "id": 975,
       "localizedNames": {
-        "ja": "グローランサー アトラス・ベストコレクション"
+        "ja": "グロウランサー"
       }
     },
     {
@@ -29569,13 +28929,7 @@
           "releaseDate": "2000-04-20",
           "id": "1038-1",
           "upc": "4939915000361"
-        }
-      ],
-      "id": 1038
-    },
-    {
-      "name": "HEISA BYOUIN (REPRINT)",
-      "gameInstances": [
+        },
         {
           "name": "HEISA BYOUIN (REPRINT)",
           "platform": "ps1",
@@ -29584,11 +28938,11 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-01-03",
-          "id": "1039-1",
+          "id": "1038-2",
           "upc": "4939915000514"
         }
       ],
-      "id": 1039
+      "id": 1038
     },
     {
       "name": "Heiwa Pachinko Daisuki",
@@ -31654,13 +31008,7 @@
           "releaseDate": "1998-09-10",
           "id": "1131-1",
           "upc": "4988615010972"
-        }
-      ],
-      "id": 1131
-    },
-    {
-      "name": "HOUSHINENGI (COLLECTOR'S EDITION) (KOEI SUMMER CAMPAIGN)",
-      "gameInstances": [
+        },
         {
           "name": "HOUSHINENGI (COLLECTOR'S EDITION) (KOEI SUMMER CAMPAIGN)",
           "platform": "ps1",
@@ -31669,14 +31017,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-07-20",
-          "id": "1132-1"
-        }
-      ],
-      "id": 1132
-    },
-    {
-      "name": "HOUSHINENGI (KOEI TEIBAN SERIES)",
-      "gameInstances": [
+          "id": "1131-2"
+        },
         {
           "name": "HOUSHINENGI (KOEI TEIBAN SERIES)",
           "platform": "ps1",
@@ -31685,14 +31027,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-06-13",
-          "id": "1133-1"
-        }
-      ],
-      "id": 1133
-    },
-    {
-      "name": "HOUSHINENGI (PLAYSTATION THE BEST)",
-      "gameInstances": [
+          "id": "1131-3"
+        },
         {
           "name": "HOUSHINENGI (PLAYSTATION THE BEST)",
           "platform": "ps1",
@@ -31701,11 +31037,11 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-11-02",
-          "id": "1134-1",
+          "id": "1131-4",
           "upc": "4988615014222"
         }
       ],
-      "id": 1134
+      "id": 1131
     },
     {
       "name": "HUNTER X HUNTER - MABOROSHI NO GREED ISLAND",
@@ -32008,16 +31344,7 @@
           "regionalName": "ハイパーオリンピック イン ナガノ",
           "releaseDate": "1997-12-18",
           "id": "1145-1"
-        }
-      ],
-      "id": 1145,
-      "localizedNames": {
-        "ja": "ハイパーオリンピック イン ナガノ"
-      }
-    },
-    {
-      "name": "HYPER OLYMPICS IN NAGANO (PLAYSTATION THE BEST)",
-      "gameInstances": [
+        },
         {
           "name": "HYPER OLYMPICS IN NAGANO (PLAYSTATION THE BEST)",
           "platform": "ps1",
@@ -32028,10 +31355,10 @@
           "upc": "4988602494549",
           "regionalName": "ハイパーオリンピック イン ナガノ",
           "releaseDate": "1998-10-29",
-          "id": "1146-1"
+          "id": "1145-2"
         }
       ],
-      "id": 1146,
+      "id": 1145,
       "localizedNames": {
         "ja": "ハイパーオリンピック イン ナガノ"
       }
@@ -32376,16 +31703,7 @@
           "regionalName": "アイドル雀士スーチーパイ2 Limited",
           "releaseDate": "1996-09-20",
           "id": "1160-1"
-        }
-      ],
-      "id": 1160,
-      "localizedNames": {
-        "ja": "アイドル雀士スーチーパイ2 Limited"
-      }
-    },
-    {
-      "name": "IDOL JANSHI SUCHIE-PAI II LIMITED",
-      "gameInstances": [
+        },
         {
           "name": "IDOL JANSHI SUCHIE-PAI II LIMITED [JALECO THE BEST]  -  [ 3 DISCS ]",
           "platform": "ps1",
@@ -32395,10 +31713,13 @@
           "tgdbId": 0,
           "upc": "4907859112273",
           "releaseDate": "2002-12-05",
-          "id": "1161-1"
+          "id": "1160-2"
         }
       ],
-      "id": 1161
+      "id": 1160,
+      "localizedNames": {
+        "ja": "アイドル雀士スーチーパイ2 Limited"
+      }
     },
     {
       "name": "IDOL PROMOTION - YUMIE SUZUKI",
@@ -32764,16 +32085,7 @@
           "regionalName": "ブザービーター(後編) プレイステーションコミック第5弾",
           "releaseDate": "1999-05-27",
           "id": "1174-1"
-        }
-      ],
-      "id": 1174,
-      "localizedNames": {
-        "ja": "ブザービーター(後編) プレイステーションコミック第5弾"
-      }
-    },
-    {
-      "name": "INOUE TAKEHIKO - BUZZER BEATER (ZENPEN) (PLAYSTATION COMIC VOL.5)",
-      "gameInstances": [
+        },
         {
           "name": "INOUE TAKEHIKO - BUZZER BEATER (ZENPEN) [PLAYSTATION COMIC VOL.5]",
           "platform": "ps1",
@@ -32784,12 +32096,12 @@
           "upc": "4948872190060",
           "regionalName": "プレイステーションコミック第5弾 「ブザービーター(前編)」 ソニー・コンピュータエンタテインメント",
           "releaseDate": "1999-05-27",
-          "id": "1175-1"
+          "id": "1174-2"
         }
       ],
-      "id": 1175,
+      "id": 1174,
       "localizedNames": {
-        "ja": "プレイステーションコミック第5弾 「ブザービーター(前編)」 ソニー・コンピュータエンタテインメント"
+        "ja": "ブザービーター(後編) プレイステーションコミック第5弾"
       }
     },
     {
@@ -34948,16 +34260,7 @@
           "regionalName": "Jaggernaut〜戦慄の扉〜(ジャガーノート〜戦慄の扉〜) 東京書籍",
           "releaseDate": "1998-11-19",
           "id": "1266-1"
-        }
-      ],
-      "id": 1266,
-      "localizedNames": {
-        "ja": "Jaggernaut〜戦慄の扉〜(ジャガーノート〜戦慄の扉〜) 東京書籍"
-      }
-    },
-    {
-      "name": "JUGGERNAUT - SENRITSU NO TOBIRA",
-      "gameInstances": [
+        },
         {
           "name": "JUGGERNAUT - SENRITSU NO TOBIRA [BEST PRICE]  -  [ 3 DISCS ]",
           "platform": "ps1",
@@ -34967,10 +34270,13 @@
           "tgdbId": 0,
           "upc": "4961355677667",
           "releaseDate": "2000-08-03",
-          "id": "1267-1"
+          "id": "1266-2"
         }
       ],
-      "id": 1267
+      "id": 1266,
+      "localizedNames": {
+        "ja": "Jaggernaut〜戦慄の扉〜(ジャガーノート〜戦慄の扉〜) 東京書籍"
+      }
     },
     {
       "name": "JUMPING FLASH! - ALOHA DANSHAKU FUNKY DAISAKUSEN NO KAN",
@@ -35005,13 +34311,7 @@
           "tgdbId": 0,
           "releaseDate": "1996-06-26",
           "id": "1269-1"
-        }
-      ],
-      "id": 1269
-    },
-    {
-      "name": "JUMPING FLASH! 2 - ALOHA VOLUME OF BARON LARGE WEAKENING",
-      "gameInstances": [
+        },
         {
           "name": "JUMPING FLASH! 2 - ALOHA VOLUME OF BARON LARGE WEAKENING  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -35022,13 +34322,10 @@
           "upc": "4948872100212",
           "regionalName": "ジャンピングフラッシュ！2 アロハ男爵ファンキー大作戦の巻",
           "releaseDate": "1996-06-26",
-          "id": "1270-1"
+          "id": "1269-2"
         }
       ],
-      "id": 1270,
-      "localizedNames": {
-        "ja": "ジャンピングフラッシュ！2 アロハ男爵ファンキー大作戦の巻"
-      }
+      "id": 1269
     },
     {
       "name": "JUNCLASSIC C.C. & ROPE CLUB",
@@ -36358,6 +35655,17 @@
           "releaseDate": "2000-08-03",
           "id": "1325-1",
           "upc": "4515810010065"
+        },
+        {
+          "name": "KENKI IPPATSU! CRANE MASTER NINAROU! (MAJOR WAVE SERIES)",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-87150",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "releaseDate": "2002-09-26",
+          "id": "1325-2",
+          "upc": "4529651000925"
         }
       ],
       "id": 1325
@@ -36394,23 +35702,6 @@
       "localizedNames": {
         "ja": "プレイステーション KENKIいっぱつ! ショベルマスターになろう!"
       }
-    },
-    {
-      "name": "KENKI IPPATSU! CRANE MASTER NINAROU! (MAJOR WAVE SERIES)",
-      "gameInstances": [
-        {
-          "name": "KENKI IPPATSU! CRANE MASTER NINAROU! (MAJOR WAVE SERIES)",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-87150",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "releaseDate": "2002-09-26",
-          "id": "1327-1",
-          "upc": "4529651000925"
-        }
-      ],
-      "id": 1327
     },
     {
       "name": "KENSEI - THE KING OF BOXING",
@@ -36811,13 +36102,7 @@
           "upc": "4543112017338",
           "releaseDate": "2001-07-26",
           "id": "1342-1"
-        }
-      ],
-      "id": 1342
-    },
-    {
-      "name": "KIDS STATION - DIGIMON PARK",
-      "gameInstances": [
+        },
         {
           "name": "KIDS STATION - DIGIMON PARK",
           "platform": "ps1",
@@ -36828,13 +36113,10 @@
           "upc": "4543112017321",
           "regionalName": "キッズステーション デジモンパーク",
           "releaseDate": "2001-07-26",
-          "id": "1343-1"
+          "id": "1342-2"
         }
       ],
-      "id": 1343,
-      "localizedNames": {
-        "ja": "キッズステーション デジモンパーク"
-      }
+      "id": 1342
     },
     {
       "name": "KIDS STATION - DORAEMON - HIMITSU NO YOJIGEN POCKET",
@@ -37544,16 +36826,7 @@
           "regionalName": "キッズステーション それいけ！アンパンマン",
           "releaseDate": "2000-09-21",
           "id": "1367-1"
-        }
-      ],
-      "id": 1367,
-      "localizedNames": {
-        "ja": "キッズステーション それいけ！アンパンマン"
-      }
-    },
-    {
-      "name": "KIDS STATION - SOREIKE! ANPANMAN (CONTROLLER SET)",
-      "gameInstances": [
+        },
         {
           "name": "KIDS STATION - SOREIKE! ANPANMAN (CONTROLLER SET)",
           "platform": "ps1",
@@ -37564,12 +36837,12 @@
           "upc": "4902425769066",
           "regionalName": "それいけ!アンパンマンキッズステーションコントローラセット(ソフト単品)",
           "releaseDate": "2000-09-21",
-          "id": "1368-1"
+          "id": "1367-2"
         }
       ],
-      "id": 1368,
+      "id": 1367,
       "localizedNames": {
-        "ja": "それいけ!アンパンマンキッズステーションコントローラセット(ソフト単品)"
+        "ja": "キッズステーション それいけ！アンパンマン"
       }
     },
     {
@@ -38380,16 +37653,7 @@
           "regionalName": "筋肉番付vol1 俺が最強の男だ video game / コナミ",
           "releaseDate": "1999-12-16",
           "id": "1397-1"
-        }
-      ],
-      "id": 1397,
-      "localizedNames": {
-        "ja": "筋肉番付vol1 俺が最強の男だ video game / コナミ"
-      }
-    },
-    {
-      "name": "KINNIKU BANZUKE VOL.1 - ORE GA SAIKYOU NO OTOKO DA (KONAMI THE BEST)",
-      "gameInstances": [
+        },
         {
           "name": "KINNIKU BANZUKE VOL.1 - ORE GA SAIKYOU NO OTOKO DA (KONAMI THE BEST)",
           "platform": "ps1",
@@ -38400,10 +37664,10 @@
           "upc": "4988602641905",
           "regionalName": "筋肉番付vol1 俺が最強の男だ video game / コナミ",
           "releaseDate": "2001-02-15",
-          "id": "1398-1"
+          "id": "1397-2"
         }
       ],
-      "id": 1398,
+      "id": 1397,
       "localizedNames": {
         "ja": "筋肉番付vol1 俺が最強の男だ video game / コナミ"
       }
@@ -38695,16 +37959,7 @@
           "regionalName": "絆という名のペンダント withTOYBOX ストーリズ",
           "releaseDate": "2000-04-06",
           "id": "1410-1"
-        }
-      ],
-      "id": 1410,
-      "localizedNames": {
-        "ja": "絆という名のペンダント withTOYBOX ストーリズ"
-      }
-    },
-    {
-      "name": "KIZUNA TOIU NA NO PENDANT WITH TOYBOX STORIES",
-      "gameInstances": [
+        },
         {
           "name": "KIZUNA TOIU NA NO PENDANT WITH TOYBOX STORIES [BEST VERSION]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -38715,12 +37970,12 @@
           "upc": "4513244900983",
           "regionalName": "絆という名のペンダント with TOYBOXストーリーズ",
           "releaseDate": "2004-02-05",
-          "id": "1411-1"
+          "id": "1410-2"
         }
       ],
-      "id": 1411,
+      "id": 1410,
       "localizedNames": {
-        "ja": "絆という名のペンダント with TOYBOXストーリーズ"
+        "ja": "絆という名のペンダント withTOYBOX ストーリズ"
       }
     },
     {
@@ -38818,37 +38073,6 @@
       "id": 1414,
       "localizedNames": {
         "ja": "クレイマン・クレイマン2 スカルモンキーのぎゃくしゅう"
-      }
-    },
-    {
-      "name": "KLONOA BEACH VOLLEYBALL",
-      "gameInstances": [
-        {
-          "name": "KLONOA BEACH VOLLEYBALL",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SCPS-45516",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "releaseDate": "2002-04-24",
-          "id": "1415-1"
-        },
-        {
-          "name": "KLONOA BEACH VOLLEYBALL",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-03433",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4907892011021",
-          "regionalName": "クロノアビーチバレー最強チーム決定戦!",
-          "releaseDate": "2002-04-24",
-          "id": "1415-2"
-        }
-      ],
-      "id": 1415,
-      "localizedNames": {
-        "ja": "クロノアビーチバレー最強チーム決定戦!"
       }
     },
     {
@@ -39760,13 +38984,7 @@
           "upc": "4988009003597",
           "releaseDate": "1997-02-28",
           "id": "1449-2"
-        }
-      ],
-      "id": 1449
-    },
-    {
-      "name": "KOWLOON'S GATE",
-      "gameInstances": [
+        },
         {
           "name": "KOWLOON'S GATE [ARTDINK BEST CHOICE]  -  [ 4 DISCS ]",
           "platform": "ps1",
@@ -39777,7 +38995,7 @@
           "upc": "4988640100594",
           "regionalName": "ARTDINK BEST CHOICE クーロンズ・ゲート-九龍風水傅-",
           "releaseDate": "2000-10-05",
-          "id": "1450-1"
+          "id": "1449-3"
         },
         {
           "name": "KOWLOON'S GATE [LIMITED EDITION]  -  [ 4 DISCS ]",
@@ -39789,13 +39007,10 @@
           "upc": "4988009003498",
           "regionalName": "クーロンズ・ゲート（限定版）",
           "releaseDate": "1997-02-28",
-          "id": "1450-2"
+          "id": "1449-4"
         }
       ],
-      "id": 1450,
-      "localizedNames": {
-        "ja": "ARTDINK BEST CHOICE クーロンズ・ゲート-九龍風水傅-"
-      }
+      "id": 1449
     },
     {
       "name": "KOYASAI - A SHERD OF YOUTHFUL MEMORIES",
@@ -41329,16 +40544,7 @@
           "regionalName": "リトルラバーズ シーソーゲーム エヌ・ティー・ティー出版",
           "releaseDate": "1999-09-02",
           "id": "1510-1"
-        }
-      ],
-      "id": 1510,
-      "localizedNames": {
-        "ja": "リトルラバーズ シーソーゲーム エヌ・ティー・ティー出版"
-      }
-    },
-    {
-      "name": "LITTLE LOVERS - SHE SO GAME",
-      "gameInstances": [
+        },
         {
           "name": "LITTLE LOVERS - SHE SO GAME [MAJOR WAVE SERIES]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -41348,10 +40554,13 @@
           "tgdbId": 0,
           "upc": "4930203410114",
           "releaseDate": "2001-03-08",
-          "id": "1511-1"
+          "id": "1510-2"
         }
       ],
-      "id": 1511
+      "id": 1510,
+      "localizedNames": {
+        "ja": "リトルラバーズ シーソーゲーム エヌ・ティー・ティー出版"
+      }
     },
     {
       "name": "LITTLE PRINCESS - MARU OUKOKU NO NINGYOU HIME 2",
@@ -42171,16 +41380,7 @@
           "regionalName": "ルナシルバースターストーリー",
           "releaseDate": "1998-05-28",
           "id": "1545-1"
-        }
-      ],
-      "id": 1545,
-      "localizedNames": {
-        "ja": "ルナシルバースターストーリー"
-      }
-    },
-    {
-      "name": "LUNAR - SILVER STAR STORY",
-      "gameInstances": [
+        },
         {
           "name": "LUNAR - SILVER STAR STORY [PLAYSTATION THE BEST]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -42191,12 +41391,12 @@
           "upc": "4997766200040",
           "regionalName": "ルナシルバースターストーリー [Playstation the Best]",
           "releaseDate": "1999-08-24",
-          "id": "1546-1"
+          "id": "1545-2"
         }
       ],
-      "id": 1546,
+      "id": 1545,
       "localizedNames": {
-        "ja": "ルナシルバースターストーリー [Playstation the Best]"
+        "ja": "ルナシルバースターストーリー"
       }
     },
     {
@@ -42213,16 +41413,7 @@
           "regionalName": "ルナ2エターナルブルー",
           "releaseDate": "1999-05-27",
           "id": "1547-1"
-        }
-      ],
-      "id": 1547,
-      "localizedNames": {
-        "ja": "ルナ2エターナルブルー"
-      }
-    },
-    {
-      "name": "LUNAR 2 - ETERNAL BLUE",
-      "gameInstances": [
+        },
         {
           "name": "LUNAR 2 - ETERNAL BLUE [KADOKAWA BEST]  -  [ 3 DISCS ]",
           "platform": "ps1",
@@ -42233,12 +41424,12 @@
           "upc": "4997766200101",
           "regionalName": "ルナ2 エターナルブルー KADOKAWA The Best（再販）",
           "releaseDate": "2000-09-07",
-          "id": "1548-1"
+          "id": "1547-2"
         }
       ],
-      "id": 1548,
+      "id": 1547,
       "localizedNames": {
-        "ja": "ルナ2 エターナルブルー KADOKAWA The Best（再販）"
+        "ja": "ルナ2エターナルブルー"
       }
     },
     {
@@ -42390,13 +41581,7 @@
           "releaseDate": "1997-01-10",
           "id": "1554-1",
           "upc": "4988126510046"
-        }
-      ],
-      "id": 1554
-    },
-    {
-      "name": "LUPIN THE 3RD - CHATEAU DE CAGLIOSTRO",
-      "gameInstances": [
+        },
         {
           "name": "LUPIN THE 3RD - CHATEAU DE CAGLIOSTRO [PLAYSTATION THE BEST]  -  [ 3 DISCS ]",
           "platform": "ps1",
@@ -42405,11 +41590,11 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-05-28",
-          "id": "1555-1",
+          "id": "1554-2",
           "upc": "4988126510213"
         }
       ],
-      "id": 1555
+      "id": 1554
     },
     {
       "name": "LUPIN THE 3RD - PUNCH THE MONKEY! - GAME EDITION",
@@ -42484,16 +41669,7 @@
           "regionalName": "幻月夜",
           "releaseDate": "2000-04-06",
           "id": "1559-1"
-        }
-      ],
-      "id": 1559,
-      "localizedNames": {
-        "ja": "幻月夜"
-      }
-    },
-    {
-      "name": "MABOROSHI TSUKIYO",
-      "gameInstances": [
+        },
         {
           "name": "MABOROSHI TSUKIYO [REPRINT]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -42504,12 +41680,12 @@
           "upc": "4988658017235",
           "regionalName": "まぼろし月夜〜月夜野綺譚〜(廉価版)",
           "releaseDate": "2001-02-22",
-          "id": "1560-1"
+          "id": "1559-2"
         }
       ],
-      "id": 1560,
+      "id": 1559,
       "localizedNames": {
-        "ja": "まぼろし月夜〜月夜野綺譚〜(廉価版)"
+        "ja": "幻月夜"
       }
     },
     {
@@ -42765,16 +41941,7 @@
           "regionalName": "プレイステーション まじかるでーと ドキドキ告白大作戦",
           "releaseDate": "1997-11-20",
           "id": "1570-2"
-        }
-      ],
-      "id": 1570,
-      "localizedNames": {
-        "ja": "プレイステーション まじかるでーと ドキドキ告白大作戦"
-      }
-    },
-    {
-      "name": "MAGICAL DATE - DOKI DOKI KOKUHAKU DAISAKUSEN[TAITO 2000 SERIES]",
-      "gameInstances": [
+        },
         {
           "name": "MAGICAL DATE - DOKI DOKI KOKUHAKU DAISAKUSEN[TAITO 2000 SERIES]",
           "platform": "ps1",
@@ -42784,10 +41951,13 @@
           "tgdbId": 0,
           "upc": "4988611200117",
           "releaseDate": "2000-08-10",
-          "id": "1571-1"
+          "id": "1570-3"
         }
       ],
-      "id": 1571
+      "id": 1570,
+      "localizedNames": {
+        "ja": "プレイステーション まじかるでーと ドキドキ告白大作戦"
+      }
     },
     {
       "name": "MAGICAL DICE KIDS",
@@ -43626,16 +42796,7 @@
           "regionalName": "マリア 君たちが生まれた理由",
           "releaseDate": "1997-12-11",
           "id": "1608-1"
-        }
-      ],
-      "id": 1608,
-      "localizedNames": {
-        "ja": "マリア 君たちが生まれた理由"
-      }
-    },
-    {
-      "name": "MARIA",
-      "gameInstances": [
+        },
         {
           "name": "MARIA [PLAYSTATION THE BEST]  -  [ 3 DISCS ]",
           "platform": "ps1",
@@ -43646,12 +42807,12 @@
           "upc": "4533296000158",
           "regionalName": "マリア 君たちが生まれた理由 ベスト版",
           "releaseDate": "1998-10-22",
-          "id": "1609-1"
+          "id": "1608-2"
         }
       ],
-      "id": 1609,
+      "id": 1608,
       "localizedNames": {
-        "ja": "マリア 君たちが生まれた理由 ベスト版"
+        "ja": "マリア 君たちが生まれた理由"
       }
     },
     {
@@ -43668,16 +42829,7 @@
           "regionalName": "マリア 2 ?受胎告知の謎?",
           "releaseDate": "1998-08-05",
           "id": "1610-1"
-        }
-      ],
-      "id": 1610,
-      "localizedNames": {
-        "ja": "マリア 2 ?受胎告知の謎?"
-      }
-    },
-    {
-      "name": "MARIA 2",
-      "gameInstances": [
+        },
         {
           "name": "MARIA 2 [CYCLONE REPRINT]  -  [ 3 DISCS ]",
           "platform": "ps1",
@@ -43688,12 +42840,12 @@
           "upc": "4539457000128",
           "regionalName": "マリア2 —受胎告知の謎— p706p5g",
           "releaseDate": "2001-07-19",
-          "id": "1611-1"
+          "id": "1610-2"
         }
       ],
-      "id": 1611,
+      "id": 1610,
       "localizedNames": {
-        "ja": "マリア2 —受胎告知の謎— p706p5g"
+        "ja": "マリア 2 ?受胎告知の謎?"
       }
     },
     {
@@ -43856,16 +43008,7 @@
           "regionalName": "マーシャルビート2",
           "releaseDate": "2000-09-12",
           "id": "1618-1"
-        }
-      ],
-      "id": 1618,
-      "localizedNames": {
-        "ja": "マーシャルビート2"
-      }
-    },
-    {
-      "name": "MARTIAL BEAT 2",
-      "gameInstances": [
+        },
         {
           "name": "MARTIAL BEAT 2 [WITH CONTROLLER SET]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -43876,12 +43019,12 @@
           "upc": "4519236451754",
           "regionalName": "マーシャルビート2コントローラ同梱",
           "releaseDate": "2000-09-12",
-          "id": "1619-1"
+          "id": "1618-2"
         }
       ],
-      "id": 1619,
+      "id": 1618,
       "localizedNames": {
-        "ja": "マーシャルビート2コントローラ同梱"
+        "ja": "マーシャルビート2"
       }
     },
     {
@@ -44668,16 +43811,7 @@
           "regionalName": "名探偵コナン 3人の名推理 説明書なし",
           "releaseDate": "2000-08-10",
           "id": "1644-1"
-        }
-      ],
-      "id": 1644,
-      "localizedNames": {
-        "ja": "名探偵コナン 3人の名推理 説明書なし"
-      }
-    },
-    {
-      "name": "MEITANTE CONAN - 3-JIN NO MEITANTEI (BANDAI THE BEST)",
-      "gameInstances": [
+        },
         {
           "name": "MEITANTE CONAN - 3-JIN NO MEITANTEI (BANDAI THE BEST)",
           "platform": "ps1",
@@ -44688,12 +43822,12 @@
           "upc": "4543112107336",
           "regionalName": "名探偵コナン 3人の名推理 廉価版",
           "releaseDate": "2002-07-04",
-          "id": "1645-1"
+          "id": "1644-2"
         }
       ],
-      "id": 1645,
+      "id": 1644,
       "localizedNames": {
-        "ja": "名探偵コナン 3人の名推理 廉価版"
+        "ja": "名探偵コナン 3人の名推理 説明書なし"
       }
     },
     {
@@ -44985,13 +44119,7 @@
           "tgdbId": 0,
           "releaseDate": "2001-09-27",
           "id": "1659-1"
-        }
-      ],
-      "id": 1659
-    },
-    {
-      "name": "MEMORIES OFF 2ND",
-      "gameInstances": [
+        },
         {
           "name": "MEMORIES OFF 2ND [LIMITED EDITION]",
           "platform": "ps1",
@@ -45002,13 +44130,10 @@
           "upc": "4933516103209",
           "regionalName": "Memories Off 2nd(メモリーズオフ・セカンド) キッド",
           "releaseDate": "2001-09-27",
-          "id": "1660-1"
+          "id": "1659-2"
         }
       ],
-      "id": 1660,
-      "localizedNames": {
-        "ja": "Memories Off 2nd(メモリーズオフ・セカンド) キッド"
-      }
+      "id": 1659
     },
     {
       "name": "MENKYO O TORU - GET THE LICENSE",
@@ -45024,16 +44149,7 @@
           "regionalName": "免許をとろう トワイライトエクスプレス",
           "releaseDate": "2000-05-25",
           "id": "1661-1"
-        }
-      ],
-      "id": 1661,
-      "localizedNames": {
-        "ja": "免許をとろう トワイライトエクスプレス"
-      }
-    },
-    {
-      "name": "MENKYO O TORU - GET THE LICENSE (PLAYSTATION THE BEST)",
-      "gameInstances": [
+        },
         {
           "name": "MENKYO O TORU - GET THE LICENSE (PLAYSTATION THE BEST)",
           "platform": "ps1",
@@ -45044,12 +44160,12 @@
           "upc": "4530290002355",
           "regionalName": "免許をとろう",
           "releaseDate": "2001-07-27",
-          "id": "1662-1"
+          "id": "1661-2"
         }
       ],
-      "id": 1662,
+      "id": 1661,
       "localizedNames": {
-        "ja": "免許をとろう"
+        "ja": "免許をとろう トワイライトエクスプレス"
       }
     },
     {
@@ -45285,16 +44401,7 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "1670-9"
-        }
-      ],
-      "id": 1670,
-      "localizedNames": {
-        "ja": "METAL GEAR SOLID(メタルギア ソリッド)"
-      }
-    },
-    {
-      "name": "METAL GEAR SOLID",
-      "gameInstances": [
+        },
         {
           "name": "METAL GEAR SOLID [KONAMI THE BEST]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -45305,7 +44412,7 @@
           "upc": "4988602774238",
           "regionalName": "メタルギアソリッド コナミ ザ・ベスト",
           "releaseDate": "2000-04-27",
-          "id": "1671-1"
+          "id": "1670-10"
         },
         {
           "name": "METAL GEAR SOLID [METAL GEAR 20TH ANNIVERSARY]  -  [ 3 DISCS ]",
@@ -45316,7 +44423,7 @@
           "tgdbId": 0,
           "upc": "4988602136135",
           "releaseDate": "2007-07-26",
-          "id": "1671-2"
+          "id": "1670-11"
         },
         {
           "name": "METAL GEAR SOLID [PSONE BOOKS]  -  [ 2 DISCS ]",
@@ -45327,7 +44434,7 @@
           "tgdbId": 0,
           "upc": "4988602087093",
           "releaseDate": "2002-01-24",
-          "id": "1671-3"
+          "id": "1670-12"
         },
         {
           "name": "METAL GEAR SOLID [PREMIUM PACKAGE]  -  [ 3 DISCS ]\n Includes: \n\t\tMetal Gear Solid + Bonus Disc",
@@ -45337,24 +44444,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-09-03",
-          "id": "1671-4",
-          "upc": "4988602495942"
-        },
-        {
-          "name": "METAL GEAR SOLID [PREMIUM PACKAGE SAI HAKKOU KINEN]  -  [ 3 DISCS ]\n Includes: \n\t\tMetal Gear Solid + Bonus Disc",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-86111SLPM-86112SLPM-86113",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "releaseDate": "1998-09-03",
-          "id": "1671-5",
+          "id": "1670-13",
           "upc": "4988602495942"
         }
       ],
-      "id": 1671,
+      "id": 1670,
       "localizedNames": {
-        "ja": "メタルギアソリッド コナミ ザ・ベスト"
+        "ja": "METAL GEAR SOLID(メタルギア ソリッド)"
       }
     },
     {
@@ -45382,16 +44478,7 @@
           "regionalName": "メタルギア ソリッド INTEGRAL",
           "releaseDate": "1999-06-24",
           "id": "1672-2"
-        }
-      ],
-      "id": 1672,
-      "localizedNames": {
-        "ja": "メタルギア ソリッド INTEGRAL"
-      }
-    },
-    {
-      "name": "METAL GEAR SOLID INTEGRAL",
-      "gameInstances": [
+        },
         {
           "name": "METAL GEAR SOLID INTEGRAL [KONAMI THE BEST]  -  [ 3 DISCS ]",
           "platform": "ps1",
@@ -45402,7 +44489,7 @@
           "upc": "4988602774245",
           "regionalName": "METAL GEAR SOLID INTEGRAL コナミ ザ ベスト",
           "releaseDate": "2000-04-27",
-          "id": "1673-1"
+          "id": "1672-3"
         },
         {
           "name": "METAL GEAR SOLID INTEGRAL [PSONE BOOKS]  -  [ 3 DISCS ]",
@@ -45414,12 +44501,12 @@
           "upc": "4988602105827",
           "regionalName": "METAL GEAR SOLID INTEGRAL PS one Books",
           "releaseDate": "2003-11-06",
-          "id": "1673-2"
+          "id": "1672-4"
         }
       ],
-      "id": 1673,
+      "id": 1672,
       "localizedNames": {
-        "ja": "METAL GEAR SOLID INTEGRAL コナミ ザ ベスト"
+        "ja": "メタルギア ソリッド INTEGRAL"
       }
     },
     {
@@ -46864,16 +45951,7 @@
           "regionalName": "機動戦士Zガンダム 説明書なし",
           "releaseDate": "1997-12-11",
           "id": "1727-2"
-        }
-      ],
-      "id": 1727,
-      "localizedNames": {
-        "ja": "機動戦士Zガンダム 説明書なし"
-      }
-    },
-    {
-      "name": "MOBILE SUIT Z GUNDAM",
-      "gameInstances": [
+        },
         {
           "name": "MOBILE SUIT Z GUNDAM [BANDAI THE BEST]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -46884,12 +45962,12 @@
           "upc": "4543112017352",
           "regionalName": "機動戦士Zガンダム BANDAI THE BEST",
           "releaseDate": "2001-06-21",
-          "id": "1728-1"
+          "id": "1727-3"
         }
       ],
-      "id": 1728,
+      "id": 1727,
       "localizedNames": {
-        "ja": "機動戦士Zガンダム BANDAI THE BEST"
+        "ja": "機動戦士Zガンダム 説明書なし"
       }
     },
     {
@@ -47111,27 +46189,6 @@
         }
       ],
       "id": 1735
-    },
-    {
-      "name": "MONACO GRAND PRIX RACING SIMULATION 2",
-      "gameInstances": [
-        {
-          "name": "MONACO GRAND PRIX RACING SIMULATION 2",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-02106",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4949244000253",
-          "regionalName": "MONACO GRAND PRIX Racing Simulation 2(モナコ グランプリ レーシング シミュレーション2) ユービーアイソフト",
-          "releaseDate": "1999-09-30",
-          "id": "1736-1"
-        }
-      ],
-      "id": 1736,
-      "localizedNames": {
-        "ja": "MONACO GRAND PRIX Racing Simulation 2(モナコ グランプリ レーシング シミュレーション2) ユービーアイソフト"
-      }
     },
     {
       "name": "MONEY IDOL EXCHANGER",
@@ -48027,27 +47084,6 @@
       }
     },
     {
-      "name": "MOTOR TOON GRAND PRIX 2",
-      "gameInstances": [
-        {
-          "name": "MOTOR TOON GRAND PRIX 2  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SCPS-10018SCPS-10019",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4948872100182",
-          "regionalName": "モータートゥーン グランプリ2 説明書なし",
-          "releaseDate": "1996-05-24",
-          "id": "1767-1"
-        }
-      ],
-      "id": 1767,
-      "localizedNames": {
-        "ja": "モータートゥーン グランプリ2 説明書なし"
-      }
-    },
-    {
       "name": "MOTOR TOON GRAND PRIX USA EDITION",
       "gameInstances": [
         {
@@ -48294,27 +47330,6 @@
         }
       ],
       "id": 1776
-    },
-    {
-      "name": "MS PACMAN - MAZE MADNESS",
-      "gameInstances": [
-        {
-          "name": "MS PACMAN - MAZE MADNESS",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-03000",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4907892010918",
-          "regionalName": "ミズ・パックマンメイズマッドネス",
-          "releaseDate": "2000-12-28",
-          "id": "1777-1"
-        }
-      ],
-      "id": 1777,
-      "localizedNames": {
-        "ja": "ミズ・パックマンメイズマッドネス"
-      }
     },
     {
       "name": "MTB DIRT CROSS",
@@ -48618,16 +47633,7 @@
           "regionalName": "マイホームドリーム2 庭付き一戸建てで、行こう! ビクターソフト",
           "releaseDate": "1999-12-02",
           "id": "1790-1"
-        }
-      ],
-      "id": 1790,
-      "localizedNames": {
-        "ja": "マイホームドリーム2 庭付き一戸建てで、行こう! ビクターソフト"
-      }
-    },
-    {
-      "name": "MY HOME DREAM 2 - NIWATSUKU IKKODATE DE, IKOU! (VICTOR THE BEST)",
-      "gameInstances": [
+        },
         {
           "name": "MY HOME DREAM 2 - NIWATSUKU IKKODATE DE, IKOU! (VICTOR THE BEST)",
           "platform": "ps1",
@@ -48638,10 +47644,10 @@
           "upc": "4988110020544",
           "regionalName": "マイホームドリーム2 庭付き一戸建てで、行こう! ビクターソフト",
           "releaseDate": "2003-01-16",
-          "id": "1791-1"
+          "id": "1790-2"
         }
       ],
-      "id": 1791,
+      "id": 1790,
       "localizedNames": {
         "ja": "マイホームドリーム2 庭付き一戸建てで、行こう! ビクターソフト"
       }
@@ -48702,6 +47708,15 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "1792-5"
+        },
+        {
+          "name": "MYST (ORIGINAL & HELP CHARITY COMPILATION DISC 2/3)",
+          "platform": "ps1",
+          "Language": "[E][F][G][I][S]",
+          "serial": "SLES-00218",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "1792-6"
         }
       ],
       "id": 1792,
@@ -49173,16 +48188,7 @@
           "regionalName": "七つの秘館",
           "releaseDate": "1996-08-09",
           "id": "1806-1"
-        }
-      ],
-      "id": 1806,
-      "localizedNames": {
-        "ja": "七つの秘館"
-      }
-    },
-    {
-      "name": "NANATSU NO HIKAN",
-      "gameInstances": [
+        },
         {
           "name": "NANATSU NO HIKAN [KOEI THE BEST]  -  [ 3 DISCS ]",
           "platform": "ps1",
@@ -49193,12 +48199,12 @@
           "upc": "4988615012976",
           "regionalName": "七つの秘館 KOEI The Best",
           "releaseDate": "1998-12-10",
-          "id": "1807-1"
+          "id": "1806-2"
         }
       ],
-      "id": 1807,
+      "id": 1806,
       "localizedNames": {
-        "ja": "七つの秘館 KOEI The Best"
+        "ja": "七つの秘館"
       }
     },
     {
@@ -50327,16 +49333,7 @@
           "regionalName": "Neorude ネオリュード",
           "releaseDate": "1997-05-09",
           "id": "1843-1"
-        }
-      ],
-      "id": 1843,
-      "localizedNames": {
-        "ja": "Neorude ネオリュード"
-      }
-    },
-    {
-      "name": "NEORUDE",
-      "gameInstances": [
+        },
         {
           "name": "NEORUDE [TECHNOSOFT COLLECTION]",
           "platform": "ps1",
@@ -50347,10 +49344,10 @@
           "upc": "4907095000532",
           "regionalName": "Neorude ネオリュード",
           "releaseDate": "1999-08-05",
-          "id": "1844-1"
+          "id": "1843-2"
         }
       ],
-      "id": 1844,
+      "id": 1843,
       "localizedNames": {
         "ja": "Neorude ネオリュード"
       }
@@ -51904,16 +50901,7 @@
           "regionalName": "ノエル ラ ネージュ 通常",
           "releaseDate": "1998-02-26",
           "id": "1898-1"
-        }
-      ],
-      "id": 1898,
-      "localizedNames": {
-        "ja": "ノエル ラ ネージュ 通常"
-      }
-    },
-    {
-      "name": "NÖEL - LA NEIGE",
-      "gameInstances": [
+        },
         {
           "name": "NÖEL - LA NEIGE [SPECIAL EDITION]  -  [ 3 DISCS ]",
           "platform": "ps1",
@@ -51924,12 +50912,12 @@
           "upc": "4988102158620",
           "regionalName": "特集ドラマ ラジオ BD",
           "releaseDate": "1998-02-26",
-          "id": "1899-1"
+          "id": "1898-2"
         }
       ],
-      "id": 1899,
+      "id": 1898,
       "localizedNames": {
-        "ja": "特集ドラマ ラジオ BD"
+        "ja": "ノエル ラ ネージュ 通常"
       }
     },
     {
@@ -51949,27 +50937,6 @@
         }
       ],
       "id": 1900,
-      "localizedNames": {
-        "ja": "特集ドラマ ラジオ BD"
-      }
-    },
-    {
-      "name": "NÖEL - NOT DIGITAL",
-      "gameInstances": [
-        {
-          "name": "NÖEL - NOT DIGITAL  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-00316SLPS-00317",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4988102136123",
-          "regionalName": "特集ドラマ ラジオ BD",
-          "releaseDate": "1996-07-26",
-          "id": "1901-1"
-        }
-      ],
-      "id": 1901,
       "localizedNames": {
         "ja": "特集ドラマ ラジオ BD"
       }
@@ -52000,6 +50967,18 @@
           "regionalName": "特集ドラマ ラジオ DVD",
           "releaseDate": "1996-07-26",
           "id": "1902-2"
+        },
+        {
+          "name": "NÖEL - NOT DIGITAL  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-00316SLPS-00317",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4988102136123",
+          "regionalName": "特集ドラマ ラジオ BD",
+          "releaseDate": "1996-07-26",
+          "id": "1902-3"
         }
       ],
       "id": 1902,
@@ -52021,16 +51000,7 @@
           "regionalName": "特集ドラマ ラジオ BD",
           "releaseDate": "1999-03-11",
           "id": "1903-1"
-        }
-      ],
-      "id": 1903,
-      "localizedNames": {
-        "ja": "特集ドラマ ラジオ BD"
-      }
-    },
-    {
-      "name": "NÖEL 3 - MISSION ON THE LINE",
-      "gameInstances": [
+        },
         {
           "name": "NÖEL 3 - MISSION ON THE LINE [MAJOR WAVE SERIES]  -  [ 3 DISCS ]",
           "platform": "ps1",
@@ -52041,12 +51011,12 @@
           "upc": "4529651000338",
           "regionalName": "NOeL3 MISSION ON THE LINE Major Wave シリーズ",
           "releaseDate": "2000-08-31",
-          "id": "1904-1"
+          "id": "1903-2"
         }
       ],
-      "id": 1904,
+      "id": 1903,
       "localizedNames": {
-        "ja": "NOeL3 MISSION ON THE LINE Major Wave シリーズ"
+        "ja": "特集ドラマ ラジオ BD"
       }
     },
     {
@@ -53739,49 +52709,6 @@
       "id": 1965,
       "localizedNames": {
         "ja": "オーバーブラッド"
-      }
-    },
-    {
-      "name": "OVERBLOOD 2",
-      "gameInstances": [
-        {
-          "name": "OVERBLOOD 2 [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SCPS-45190SCPS-45191",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "releaseDate": "1998-03-12",
-          "id": "1966-1"
-        },
-        {
-          "name": "OVERBLOOD 2 [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-01261SLPS-01262",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4967652101409",
-          "regionalName": "オーバーブラッド2",
-          "releaseDate": "1998-07-23",
-          "id": "1966-2"
-        },
-        {
-          "name": "OVERBLOOD 2 [PLAYSTATION THE BEST] [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-91140SLPS-91141",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4967652101492",
-          "regionalName": "オーバーブラッド2 ベスト",
-          "releaseDate": "1999-06-03",
-          "id": "1966-3"
-        }
-      ],
-      "id": 1966,
-      "localizedNames": {
-        "ja": "オーバーブラッド2"
       }
     },
     {
@@ -56395,16 +55322,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "2066-3"
-        }
-      ],
-      "id": 2066,
-      "localizedNames": {
-        "ja": "ペルソナ2 罰 ETERNAL PUNISHMENT"
-      }
-    },
-    {
-      "name": "PERSONA 2 - ETERNAL PUNISHMENT",
-      "gameInstances": [
+        },
         {
           "name": "PERSONA 2 - ETERNAL PUNISHMENT [ATLUS BEST COLLECTION]",
           "platform": "ps1",
@@ -56415,7 +55333,7 @@
           "upc": "4984995110561",
           "regionalName": "ペルソナ2 罰 ETERNAL PUNISHMENT アトラスベストコレクション",
           "releaseDate": "2001-11-22",
-          "id": "2067-1"
+          "id": "2066-4"
         },
         {
           "name": "PERSONA 2 - ETERNAL PUNISHMENT [DELUXE PACK]  -  [ 2 DISCS ]",
@@ -56427,10 +55345,10 @@
           "upc": "4984995110387",
           "regionalName": "ペルソナ2 罰 ETERNAL PUNISHMENT デラックスパック",
           "releaseDate": "2000-06-29",
-          "id": "2067-2"
+          "id": "2066-5"
         }
       ],
-      "id": 2067,
+      "id": 2066,
       "localizedNames": {
         "ja": "ペルソナ2 罰 ETERNAL PUNISHMENT"
       }
@@ -57014,16 +55932,7 @@
           "regionalName": "ピクシーガーデン",
           "releaseDate": "1999-09-30",
           "id": "2088-1"
-        }
-      ],
-      "id": 2088,
-      "localizedNames": {
-        "ja": "ピクシーガーデン"
-      }
-    },
-    {
-      "name": "PIXYGARDEN",
-      "gameInstances": [
+        },
         {
           "name": "PIXYGARDEN [ESCOT ORIGINAL BEST]",
           "platform": "ps1",
@@ -57034,12 +55943,12 @@
           "upc": "4948426003013",
           "regionalName": "PIXY　GARDEN　ピクシーガーデン　THE　BEST",
           "releaseDate": "2000-08-03",
-          "id": "2089-1"
+          "id": "2088-2"
         }
       ],
-      "id": 2089,
+      "id": 2088,
       "localizedNames": {
-        "ja": "PIXY　GARDEN　ピクシーガーデン　THE　BEST"
+        "ja": "ピクシーガーデン"
       }
     },
     {
@@ -57859,27 +56768,6 @@
       "name": "POLICENAUTS",
       "gameInstances": [
         {
-          "name": "POLICENAUTS  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-00215SLPS-00216",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4988602017656",
-          "regionalName": "ポリスノーツ(POLICENAUTS) コナミ",
-          "releaseDate": "1996-01-19",
-          "id": "2124-1"
-        }
-      ],
-      "id": 2124,
-      "localizedNames": {
-        "ja": "ポリスノーツ(POLICENAUTS) コナミ"
-      }
-    },
-    {
-      "name": "POLICENAUTS",
-      "gameInstances": [
-        {
           "name": "POLICENAUTS [PLAYSTATION THE BEST]  -  [ 2 DISCS ]",
           "platform": "ps1",
           "Language": "[J]",
@@ -57902,6 +56790,18 @@
           "regionalName": "ポリスノーツ(ベスト)",
           "releaseDate": "2003-07-08",
           "id": "2125-2"
+        },
+        {
+          "name": "POLICENAUTS  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-00215SLPS-00216",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4988602017656",
+          "regionalName": "ポリスノーツ(POLICENAUTS) コナミ",
+          "releaseDate": "1996-01-19",
+          "id": "2125-3"
         }
       ],
       "id": 2125,
@@ -59135,13 +58035,7 @@
           "tgdbId": 0,
           "releaseDate": "1998-05-07",
           "id": "2170-1"
-        }
-      ],
-      "id": 2170
-    },
-    {
-      "name": "Pro Yakyuu Nettou Puzzle Stadium",
-      "gameInstances": [
+        },
         {
           "name": "Pro Yakyuu Nettou Puzzle Stadium [Reprint]",
           "platform": "ps1",
@@ -59150,10 +58044,10 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-05-07",
-          "id": "2171-1"
+          "id": "2170-2"
         }
       ],
-      "id": 2171
+      "id": 2170
     },
     {
       "name": "Pro Yakyuu Ninarou",
@@ -60240,13 +59134,7 @@
           "releaseDate": "1997-11-27",
           "id": "2216-1",
           "upc": "4902425599830"
-        }
-      ],
-      "id": 2216
-    },
-    {
-      "name": "R MJ - THE MYSTERY HOSPITAL",
-      "gameInstances": [
+        },
         {
           "name": "R MJ - THE MYSTERY HOSPITAL [PLAYSTATION THE BEST]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -60257,13 +59145,10 @@
           "upc": "4902425703626",
           "regionalName": "R？MJ（エムジェイ）THE MYSTERY HOSPITAL（再販）",
           "releaseDate": "1998-10-08",
-          "id": "2217-1"
+          "id": "2216-2"
         }
       ],
-      "id": 2217,
-      "localizedNames": {
-        "ja": "R？MJ（エムジェイ）THE MYSTERY HOSPITAL（再販）"
-      }
+      "id": 2216
     },
     {
       "name": "R4 - RIDGE RACER TYPE 4",
@@ -61538,13 +60423,7 @@
           "tgdbId": 0,
           "releaseDate": "1999-07-22",
           "id": "2255-1"
-        }
-      ],
-      "id": 2255
-    },
-    {
-      "name": "REMOTE CONTROL DANDY",
-      "gameInstances": [
+        },
         {
           "name": "REMOTE CONTROL DANDY  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -61555,13 +60434,10 @@
           "upc": "4959143900509",
           "regionalName": "ウォブリーライフ ELJM-30761",
           "releaseDate": "1999-07-22",
-          "id": "2256-1"
+          "id": "2255-2"
         }
       ],
-      "id": 2256,
-      "localizedNames": {
-        "ja": "ウォブリーライフ ELJM-30761"
-      }
+      "id": 2255
     },
     {
       "name": "RENAI KOUHOSEI - STARLIGHT SCRAMBLE",
@@ -63077,16 +61953,7 @@
           "regionalName": "ロマンスは剣の輝きII〜銀の虹をさがして〜",
           "releaseDate": "2002-09-19",
           "id": "2304-1"
-        }
-      ],
-      "id": 2304,
-      "localizedNames": {
-        "ja": "ロマンスは剣の輝きII〜銀の虹をさがして〜"
-      }
-    },
-    {
-      "name": "ROMANCE WA KEN NO KAGAYAKI II",
-      "gameInstances": [
+        },
         {
           "name": "ROMANCE WA KEN NO KAGAYAKI II [LIMITED EDITION]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -63097,12 +61964,12 @@
           "upc": "4997766200170",
           "regionalName": "ロマンスは剣の輝きII 〜銀の虹を探して〜(限定版)",
           "releaseDate": "2002-09-19",
-          "id": "2305-1"
+          "id": "2304-2"
         }
       ],
-      "id": 2305,
+      "id": 2304,
       "localizedNames": {
-        "ja": "ロマンスは剣の輝きII 〜銀の虹を探して〜(限定版)"
+        "ja": "ロマンスは剣の輝きII〜銀の虹をさがして〜"
       }
     },
     {
@@ -63735,38 +62602,6 @@
       "id": 2323,
       "localizedNames": {
         "ja": "サガ フロンティア"
-      }
-    },
-    {
-      "name": "SAGA FRONTIER 2  - (2 DISCS ] \n Includes: \n\t\tSaga Frontier 2 + Bonus Disc (Square's Preview 4) (2 DISCS ] \n Includes: \n\t\tSaga Frontier 2 + Bonus Disc (Square's Preview 4)",
-      "gameInstances": [
-        {
-          "name": "SAGA FRONTIER 2  -  [ 2 DISCS ] \n Includes: \n\t\tSaga Frontier 2 + Bonus Disc (Square's Preview 4)",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SCPS-45300SCPS-45301",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "regionalName": "サガフロンティア2",
-          "releaseDate": "1999-04-01",
-          "id": "2324-1"
-        },
-        {
-          "name": "SAGA FRONTIER 2  -  [ 2 DISCS ] \n Includes: \n\t\tSaga Frontier 2 + Bonus Disc (Square's Preview 4)",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-01990SLPS-01991",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4961012987139",
-          "regionalName": "サガフロンティア2",
-          "releaseDate": "1999-04-01",
-          "id": "2324-2"
-        }
-      ],
-      "id": 2324,
-      "localizedNames": {
-        "ja": "サガフロンティア2"
       }
     },
     {
@@ -65393,16 +64228,7 @@
           "regionalName": "SDガンダムGジェネレーション",
           "releaseDate": "1998-08-06",
           "id": "2377-1"
-        }
-      ],
-      "id": 2377,
-      "localizedNames": {
-        "ja": "SDガンダムGジェネレーション"
-      }
-    },
-    {
-      "name": "SD GUNDAM G GENERATION",
-      "gameInstances": [
+        },
         {
           "name": "SD GUNDAM G GENERATION [PLAYSTATION THE BEST]",
           "platform": "ps1",
@@ -65413,12 +64239,12 @@
           "upc": "4902425728308",
           "regionalName": "SDガンダム G GENERATION(ジージェネレーション)",
           "releaseDate": "1999-05-04",
-          "id": "2378-1"
+          "id": "2377-2"
         }
       ],
-      "id": 2378,
+      "id": 2377,
       "localizedNames": {
-        "ja": "SDガンダム G GENERATION(ジージェネレーション)"
+        "ja": "SDガンダムGジェネレーション"
       }
     },
     {
@@ -65435,16 +64261,7 @@
           "regionalName": "SDガンダム GGENERATION-F 限定版",
           "releaseDate": "2000-08-03",
           "id": "2379-1"
-        }
-      ],
-      "id": 2379,
-      "localizedNames": {
-        "ja": "SDガンダム GGENERATION-F 限定版"
-      }
-    },
-    {
-      "name": "SD GUNDAM G GENERATION-F",
-      "gameInstances": [
+        },
         {
           "name": "SD GUNDAM G GENERATION-F  -  [ 4 DISCS ]",
           "platform": "ps1",
@@ -65455,12 +64272,12 @@
           "upc": "4902425771069",
           "regionalName": "SDガンダムGジェネレーション-F[通常版]",
           "releaseDate": "2000-08-03",
-          "id": "2380-1"
+          "id": "2379-2"
         }
       ],
-      "id": 2380,
+      "id": 2379,
       "localizedNames": {
-        "ja": "SDガンダムGジェネレーション-F[通常版]"
+        "ja": "SDガンダム GGENERATION-F 限定版"
       }
     },
     {
@@ -65498,16 +64315,7 @@
           "regionalName": "SDガンダム ジージェネレーション ゼロ 説明書なし",
           "releaseDate": "1999-08-12",
           "id": "2382-1"
-        }
-      ],
-      "id": 2382,
-      "localizedNames": {
-        "ja": "SDガンダム ジージェネレーション ゼロ 説明書なし"
-      }
-    },
-    {
-      "name": "SD GUNDAM G GENERATION ZERO",
-      "gameInstances": [
+        },
         {
           "name": "SD GUNDAM G GENERATION ZERO [BANDAI THE BEST]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -65518,12 +64326,12 @@
           "upc": "4543112017291",
           "regionalName": "SDガンダム ジージェネレーション・ゼロ BANDAI THE BEST",
           "releaseDate": "2001-05-02",
-          "id": "2383-1"
+          "id": "2382-2"
         }
       ],
-      "id": 2383,
+      "id": 2382,
       "localizedNames": {
-        "ja": "SDガンダム ジージェネレーション・ゼロ BANDAI THE BEST"
+        "ja": "SDガンダム ジージェネレーション ゼロ 説明書なし"
       }
     },
     {
@@ -65695,38 +64503,6 @@
       }
     },
     {
-      "name": "SEIKEN DENSETSU - LEGEND OF MANA  - (2 DISCS ]\n Includes: \n\t\tSeiken Densetsu - Legend of Mana + Bonus Disc (Square's Preview 5) (2 DISCS ]\n Includes: \n\t\tSeiken Densetsu - Legend of Mana + Bonus Disc (Square's Preview 5)",
-      "gameInstances": [
-        {
-          "name": "SEIKEN DENSETSU - LEGEND OF MANA  -  [ 2 DISCS ]\n Includes: \n\t\tSeiken Densetsu - Legend of Mana + Bonus Disc (Square's Preview 5)",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SCPS-45416SCPS-45417",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "regionalName": "聖剣伝説 LEGEND OF MANA（レジェンド オブ マナ）",
-          "releaseDate": "1999-07-15",
-          "id": "2392-1"
-        },
-        {
-          "name": "SEIKEN DENSETSU - LEGEND OF MANA  -  [ 2 DISCS ]\n Includes: \n\t\tSeiken Densetsu - Legend of Mana + Bonus Disc (Square's Preview 5)",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-02170SLPS-02171",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4961012997022",
-          "regionalName": "聖剣伝説 LEGEND OF MANA（レジェンド オブ マナ）",
-          "releaseDate": "1999-07-15",
-          "id": "2392-2"
-        }
-      ],
-      "id": 2392,
-      "localizedNames": {
-        "ja": "聖剣伝説 LEGEND OF MANA（レジェンド オブ マナ）"
-      }
-    },
-    {
       "name": "SEIKEN DENSETSU - LEGEND OF MANA",
       "gameInstances": [
         {
@@ -65764,6 +64540,29 @@
           "regionalName": "聖剣伝説 LEGEND OF MANA アルティメットヒッツ",
           "releaseDate": "2006-07-20",
           "id": "2393-3"
+        },
+        {
+          "name": "SEIKEN DENSETSU - LEGEND OF MANA  -  [ 2 DISCS ]\n Includes: \n\t\tSeiken Densetsu - Legend of Mana + Bonus Disc (Square's Preview 5)",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SCPS-45416SCPS-45417",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "regionalName": "聖剣伝説 LEGEND OF MANA（レジェンド オブ マナ）",
+          "releaseDate": "1999-07-15",
+          "id": "2393-4"
+        },
+        {
+          "name": "SEIKEN DENSETSU - LEGEND OF MANA  -  [ 2 DISCS ]\n Includes: \n\t\tSeiken Densetsu - Legend of Mana + Bonus Disc (Square's Preview 5)",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-02170SLPS-02171",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4961012997022",
+          "regionalName": "聖剣伝説 LEGEND OF MANA（レジェンド オブ マナ）",
+          "releaseDate": "1999-07-15",
+          "id": "2393-5"
         }
       ],
       "id": 2393,
@@ -67097,16 +65896,7 @@
           "regionalName": "真・女神転生if...",
           "releaseDate": "2002-12-26",
           "id": "2450-1"
-        }
-      ],
-      "id": 2450,
-      "localizedNames": {
-        "ja": "真・女神転生if..."
-      }
-    },
-    {
-      "name": "SHIN MEGAMI TENSEI IF...[KARUKO SAKATAKA-KOU 50TH ANIIVERSARY PACK]",
-      "gameInstances": [
+        },
         {
           "name": "SHIN MEGAMI TENSEI IF...[KARUKO SAKATAKA-KOU 50TH ANIIVERSARY PACK]",
           "platform": "ps1",
@@ -67117,12 +65907,12 @@
           "upc": "4984995111704",
           "regionalName": "真・女神転生if... 花子坂高校50周年記念パック",
           "releaseDate": "2002-12-26",
-          "id": "2451-1"
+          "id": "2450-2"
         }
       ],
-      "id": 2451,
+      "id": 2450,
       "localizedNames": {
-        "ja": "真・女神転生if... 花子坂高校50周年記念パック"
+        "ja": "真・女神転生if..."
       }
     },
     {
@@ -67470,27 +66260,6 @@
       "name": "SHIN SEIKI GPX CYBER FORMULA - ARATANARU CHOUSENSHA",
       "gameInstances": [
         {
-          "name": "SHIN SEIKI GPX CYBER FORMULA - ARATANARU CHOUSENSHA  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-01958SLPS-01959",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4988021095426",
-          "regionalName": "新世紀GPXサイバーフォーミュラ　〜新たなる挑戦者〜",
-          "releaseDate": "1999-03-19",
-          "id": "2463-1"
-        }
-      ],
-      "id": 2463,
-      "localizedNames": {
-        "ja": "新世紀GPXサイバーフォーミュラ　〜新たなる挑戦者〜"
-      }
-    },
-    {
-      "name": "SHIN SEIKI GPX CYBER FORMULA - ARATANARU CHOUSENSHA",
-      "gameInstances": [
-        {
           "name": "SHIN SEIKI GPX CYBER FORMULA - ARATANARU CHOUSENSHA [COLLECTOR'S EDITION]  -  [ 2 DISCS ]",
           "platform": "ps1",
           "Language": "[J]",
@@ -67513,6 +66282,18 @@
           "regionalName": "新世紀GPXサイバーフォーミュラ 新たなる挑戦者 廉価版",
           "releaseDate": "2003-08-21",
           "id": "2464-2"
+        },
+        {
+          "name": "SHIN SEIKI GPX CYBER FORMULA - ARATANARU CHOUSENSHA  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-01958SLPS-01959",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4988021095426",
+          "regionalName": "新世紀GPXサイバーフォーミュラ　〜新たなる挑戦者〜",
+          "releaseDate": "1999-03-19",
+          "id": "2464-3"
         }
       ],
       "id": 2464,
@@ -71804,27 +70585,6 @@
       "name": "SISTER PRINCESS",
       "gameInstances": [
         {
-          "name": "SISTER PRINCESS  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-03156SLPS-03157",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4942330423325",
-          "regionalName": "シスタープリンセス",
-          "releaseDate": "2001-03-08",
-          "id": "2648-1"
-        }
-      ],
-      "id": 2648,
-      "localizedNames": {
-        "ja": "シスタープリンセス"
-      }
-    },
-    {
-      "name": "SISTER PRINCESS",
-      "gameInstances": [
-        {
           "name": "SISTER PRINCESS [LIMITED EDITION]  -  [ 2 DISCS ]",
           "platform": "ps1",
           "Language": "[J]",
@@ -71847,6 +70607,18 @@
           "regionalName": "Sister Princess(シスター・プリンセス)",
           "releaseDate": "2002-12-05",
           "id": "2649-2"
+        },
+        {
+          "name": "SISTER PRINCESS  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-03156SLPS-03157",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4942330423325",
+          "regionalName": "シスタープリンセス",
+          "releaseDate": "2001-03-08",
+          "id": "2649-3"
         }
       ],
       "id": 2649,
@@ -71900,27 +70672,6 @@
       "name": "SISTER PRINCESS 2",
       "gameInstances": [
         {
-          "name": "SISTER PRINCESS 2  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-03523SLPS-03524",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4942330424322",
-          "regionalName": "シスター・プリンセス2",
-          "releaseDate": "2003-03-20",
-          "id": "2652-1"
-        }
-      ],
-      "id": 2652,
-      "localizedNames": {
-        "ja": "シスター・プリンセス2"
-      }
-    },
-    {
-      "name": "SISTER PRINCESS 2",
-      "gameInstances": [
-        {
           "name": "SISTER PRINCESS 2 [LIMITED EDITION]  -  [ 2 DISCS ]",
           "platform": "ps1",
           "Language": "[J]",
@@ -71943,6 +70694,18 @@
           "regionalName": "シスター・プリンセス2",
           "releaseDate": "2004-04-15",
           "id": "2653-2"
+        },
+        {
+          "name": "SISTER PRINCESS 2  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-03523SLPS-03524",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4942330424322",
+          "regionalName": "シスター・プリンセス2",
+          "releaseDate": "2003-03-20",
+          "id": "2653-3"
         }
       ],
       "id": 2653,
@@ -72041,36 +70804,6 @@
       "id": 2657,
       "localizedNames": {
         "ja": "スラムドラゴン"
-      }
-    },
-    {
-      "name": "SLAM'N'JAM '96 - FEATURING MAGIC & KAREEM",
-      "gameInstances": [
-        {
-          "name": "SLAM'N'JAM '96 - FEATURING MAGIC & KAREEM",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLPS-00426",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4988017203743",
-          "regionalName": "スラムジャム96 M.J K.A.J",
-          "releaseDate": "1996-08-09",
-          "id": "2658-1"
-        },
-        {
-          "name": "SLAM'N'JAM '96 - FEATURING MAGIC & KAREEM",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-00076",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "2658-2"
-        }
-      ],
-      "id": 2658,
-      "localizedNames": {
-        "ja": "スラムジャム96 M.J K.A.J"
       }
     },
     {
@@ -73626,16 +72359,7 @@
           "regionalName": "ゲームソフト アライアンス・アライブ HDリマスター Switch HACPAQNLA",
           "releaseDate": "1999-01-28",
           "id": "2721-1"
-        }
-      ],
-      "id": 2721,
-      "localizedNames": {
-        "ja": "ゲームソフト アライアンス・アライブ HDリマスター Switch HACPAQNLA"
-      }
-    },
-    {
-      "name": "SOUND NOVEL EVOLUTION 3 - MACHI",
-      "gameInstances": [
+        },
         {
           "name": "SOUND NOVEL EVOLUTION 3 - MACHI [PSONE BOOKS]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -73646,12 +72370,12 @@
           "upc": "4932345026208",
           "regionalName": "one Books 街 〜運命の交差点〜 サウンドノベル・エボリューション3",
           "releaseDate": "2002-04-04",
-          "id": "2722-1"
+          "id": "2721-2"
         }
       ],
-      "id": 2722,
+      "id": 2721,
       "localizedNames": {
-        "ja": "one Books 街 〜運命の交差点〜 サウンドノベル・エボリューション3"
+        "ja": "ゲームソフト アライアンス・アライブ HDリマスター Switch HACPAQNLA"
       }
     },
     {
@@ -73897,16 +72621,7 @@
           "regionalName": "さらば宇宙戦艦ヤマト 愛の戦士たち （設定資料集あり）",
           "releaseDate": "2000-05-02",
           "id": "2732-1"
-        }
-      ],
-      "id": 2732,
-      "localizedNames": {
-        "ja": "さらば宇宙戦艦ヤマト 愛の戦士たち （設定資料集あり）"
-      }
-    },
-    {
-      "name": "SPACE BATTLESHIP YAMATO 2",
-      "gameInstances": [
+        },
         {
           "name": "SPACE BATTLESHIP YAMATO 2 [DX PACK]  -  [ 3 DISCS ]",
           "platform": "ps1",
@@ -73917,12 +72632,12 @@
           "upc": "4902425761688",
           "regionalName": "さらば宇宙戦艦ヤマト 愛の戦士たち DXパック(限定版)",
           "releaseDate": "2000-05-02",
-          "id": "2733-1"
+          "id": "2732-2"
         }
       ],
-      "id": 2733,
+      "id": 2732,
       "localizedNames": {
-        "ja": "さらば宇宙戦艦ヤマト 愛の戦士たち DXパック(限定版)"
+        "ja": "さらば宇宙戦艦ヤマト 愛の戦士たち （設定資料集あり）"
       }
     },
     {
@@ -74459,60 +73174,6 @@
       "localizedNames": {
         "ja": "スピードボール2100(WAORLDGREATESTHITS"
       }
-    },
-    {
-      "name": "SPIDER - THE VIDEO GAME",
-      "gameInstances": [
-        {
-          "name": "SPIDER - THE VIDEO GAME",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SCPS-45068",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "releaseDate": "1997-05-23",
-          "id": "2752-1"
-        },
-        {
-          "name": "SPIDER - THE VIDEO GAME",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-00852",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "releaseDate": "1997-05-23",
-          "id": "2752-2",
-          "upc": "4988017203835"
-        },
-        {
-          "name": "SPIDER - THE VIDEO GAME",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-00117",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "2752-3"
-        },
-        {
-          "name": "SPIDER - THE VIDEO GAME",
-          "platform": "ps1",
-          "Language": "[F]",
-          "serial": "SLES-00681",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "2752-4"
-        },
-        {
-          "name": "SPIDER - THE VIDEO GAME",
-          "platform": "ps1",
-          "Language": "[G]",
-          "serial": "SLES-00682",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "2752-5"
-        }
-      ],
-      "id": 2752
     },
     {
       "name": "SPIDER-MAN",
@@ -75089,16 +73750,7 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "2769-5"
-        }
-      ],
-      "id": 2769,
-      "localizedNames": {
-        "ja": "スターオーシャン セカンドストーリー"
-      }
-    },
-    {
-      "name": "STAR OCEAN - THE SECOND STORY",
-      "gameInstances": [
+        },
         {
           "name": "STAR OCEAN - THE SECOND STORY [PSONE BOOKS]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -75109,10 +73761,10 @@
           "upc": "4988601004206",
           "regionalName": "スターオーシャン セカンドストーリー PS one Books",
           "releaseDate": "2005-03-03",
-          "id": "2770-1"
+          "id": "2769-6"
         }
       ],
-      "id": 2770,
+      "id": 2769,
       "localizedNames": {
         "ja": "スターオーシャン セカンドストーリー"
       }
@@ -75565,16 +74217,7 @@
           "regionalName": "限定STOLEN SONG Vピック同梱",
           "releaseDate": "1998-05-21",
           "id": "2782-1"
-        }
-      ],
-      "id": 2782,
-      "localizedNames": {
-        "ja": "限定STOLEN SONG Vピック同梱"
-      }
-    },
-    {
-      "name": "STOLEN SONG - A VIRTUAL MUSIC ADVENTURE - TOMOYASU HOTEI",
-      "gameInstances": [
+        },
         {
           "name": "STOLEN SONG - A VIRTUAL MUSIC ADVENTURE - TOMOYASU HOTEI [LIMITED EDITION]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -75585,10 +74228,10 @@
           "upc": "4948872180078",
           "regionalName": "限定STOLEN SONG Vピック同梱",
           "releaseDate": "1998-05-21",
-          "id": "2783-1"
+          "id": "2782-2"
         }
       ],
-      "id": 2783,
+      "id": 2782,
       "localizedNames": {
         "ja": "限定STOLEN SONG Vピック同梱"
       }
@@ -76503,16 +75146,7 @@
           "regionalName": "サモンナイト2",
           "releaseDate": "2001-02-08",
           "id": "2815-1"
-        }
-      ],
-      "id": 2815,
-      "localizedNames": {
-        "ja": "サモンナイト2"
-      }
-    },
-    {
-      "name": "SUMMON NIGHT 2",
-      "gameInstances": [
+        },
         {
           "name": "SUMMON NIGHT 2 [PSONE BOOKS]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -76523,12 +75157,12 @@
           "upc": "4983164735499",
           "regionalName": "サモンナイト2 Psone Books（再販）",
           "releaseDate": "2003-06-11",
-          "id": "2816-1"
+          "id": "2815-2"
         }
       ],
-      "id": 2816,
+      "id": 2815,
       "localizedNames": {
-        "ja": "サモンナイト2 Psone Books（再販）"
+        "ja": "サモンナイト2"
       }
     },
     {
@@ -76830,16 +75464,7 @@
           "regionalName": "スーパーヒーロー作戦 ダイダルの野望 (限定版)",
           "releaseDate": "2000-11-22",
           "id": "2827-1"
-        }
-      ],
-      "id": 2827,
-      "localizedNames": {
-        "ja": "スーパーヒーロー作戦 ダイダルの野望 (限定版)"
-      }
-    },
-    {
-      "name": "SUPER HERO SAKUSEN - DAIDARU NO YABOU",
-      "gameInstances": [
+        },
         {
           "name": "SUPER HERO SAKUSEN - DAIDARU NO YABOU",
           "platform": "ps1",
@@ -76850,12 +75475,12 @@
           "upc": "4983164734621",
           "regionalName": "スーパーヒーロー作戦ダイダルの野望",
           "releaseDate": "2000-11-22",
-          "id": "2828-1"
+          "id": "2827-2"
         }
       ],
-      "id": 2828,
+      "id": 2827,
       "localizedNames": {
-        "ja": "スーパーヒーロー作戦ダイダルの野望"
+        "ja": "スーパーヒーロー作戦 ダイダルの野望 (限定版)"
       }
     },
     {
@@ -78670,13 +77295,7 @@
           "releaseDate": "2001-03-29",
           "id": "2903-1",
           "upc": "4529651000673"
-        }
-      ],
-      "id": 2903
-    },
-    {
-      "name": "TAIHO SHICHAUZO - YOU'RE UNDER ARREST ",
-      "gameInstances": [
+        },
         {
           "name": "TAIHO SHICHAUZO - YOU'RE UNDER ARREST   -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -78685,11 +77304,11 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-03-29",
-          "id": "2904-1",
+          "id": "2903-2",
           "upc": "4529651000680"
         }
       ],
-      "id": 2904
+      "id": 2903
     },
     {
       "name": "TAIKAI NOBUNAGADEN - GE TEN II",
@@ -79123,16 +77742,7 @@
           "regionalName": "テイルズ オブ エターニア",
           "releaseDate": "2000-11-30",
           "id": "2918-2"
-        }
-      ],
-      "id": 2918,
-      "localizedNames": {
-        "ja": "テイルズ オブ エターニア"
-      }
-    },
-    {
-      "name": "TALES OF ETERNIA",
-      "gameInstances": [
+        },
         {
           "name": "TALES OF ETERNIA [PREMIUM BOX]  -  [ 3 DISCS ]",
           "platform": "ps1",
@@ -79143,7 +77753,7 @@
           "upc": "4907892010901",
           "regionalName": "テイルズ オブ エターニア プレミアムボックス",
           "releaseDate": "2000-11-30",
-          "id": "2919-1"
+          "id": "2918-3"
         },
         {
           "name": "TALES OF ETERNIA [PLAYSTATION THE BEST]  -  [ 3 DISCS ]",
@@ -79155,12 +77765,12 @@
           "upc": "4907892011038",
           "regionalName": "テイルズ オブ エターニア PlayStation the Best",
           "releaseDate": "2002-11-07",
-          "id": "2919-2"
+          "id": "2918-4"
         }
       ],
-      "id": 2919,
+      "id": 2918,
       "localizedNames": {
-        "ja": "テイルズ オブ エターニア プレミアムボックス"
+        "ja": "テイルズ オブ エターニア"
       }
     },
     {
@@ -80960,6 +79570,33 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "2982-3"
+        },
+        {
+          "name": "THE CITY OF LOST CHILDREN (LA CITE DES ENFANTS PERDUS)",
+          "platform": "ps1",
+          "Language": "[F]",
+          "serial": "SLES-00573",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "2982-4"
+        },
+        {
+          "name": "THE CITY OF LOST CHILDREN (DIE STADT DER VERLORENEN KINDER)",
+          "platform": "ps1",
+          "Language": "[G]",
+          "serial": "SLES-00574",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "2982-5"
+        },
+        {
+          "name": "THE CITY OF LOST CHILDREN (LA CIUDAD DE LOS NIÑOS PERDIDOS)",
+          "platform": "ps1",
+          "Language": "[S]",
+          "serial": "SLES-00638",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "2982-6"
         }
       ],
       "id": 2982,
@@ -81308,13 +79945,7 @@
           "releaseDate": "1998-12-17",
           "id": "2993-1",
           "upc": "4959143900417"
-        }
-      ],
-      "id": 2993
-    },
-    {
-      "name": "THE FAMIRES - SHIJOU SAIKYOU NO MENU (BEST OF THE BEST)",
-      "gameInstances": [
+        },
         {
           "name": "THE FAMIRES - SHIJOU SAIKYOU NO MENU (BEST OF THE BEST)",
           "platform": "ps1",
@@ -81323,15 +79954,9 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-05-11",
-          "id": "2994-1",
+          "id": "2993-2",
           "upc": "4997232100157"
-        }
-      ],
-      "id": 2994
-    },
-    {
-      "name": "THE FAMIRES - SHIJOU SAIKYOU NO MENU (MAJOR WAVE SERIES)",
-      "gameInstances": [
+        },
         {
           "name": "THE FAMIRES - SHIJOU SAIKYOU NO MENU (MAJOR WAVE SERIES)",
           "platform": "ps1",
@@ -81340,10 +79965,10 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2003-05-22",
-          "id": "2995-1"
+          "id": "2993-3"
         }
       ],
-      "id": 2995
+      "id": 2993
     },
     {
       "name": "THE FIFTH ELEMENT",
@@ -81398,16 +80023,7 @@
           "regionalName": "ザ・ファイヤーメン2 ピート＆ダニー",
           "releaseDate": "1995-12-22",
           "id": "2997-1"
-        }
-      ],
-      "id": 2997,
-      "localizedNames": {
-        "ja": "ザ・ファイヤーメン2 ピート＆ダニー"
-      }
-    },
-    {
-      "name": "THE FIREMEN 2 - PETE & DANNY (RERELEASE)",
-      "gameInstances": [
+        },
         {
           "name": "THE FIREMEN 2 - PETE & DANNY (RERELEASE)",
           "platform": "ps1",
@@ -81418,12 +80034,12 @@
           "upc": "4959143900486",
           "regionalName": "ゲームソフト アライアンス・アライブ HDリマスター Switch HACPAQNLA",
           "releaseDate": "1999-05-27",
-          "id": "2998-1"
+          "id": "2997-2"
         }
       ],
-      "id": 2998,
+      "id": 2997,
       "localizedNames": {
-        "ja": "ゲームソフト アライアンス・アライブ HDリマスター Switch HACPAQNLA"
+        "ja": "ザ・ファイヤーメン2 ピート＆ダニー"
       }
     },
     {
@@ -82096,16 +80712,7 @@
           "regionalName": "ザ・マエストロムジーク",
           "releaseDate": "2000-07-27",
           "id": "3017-1"
-        }
-      ],
-      "id": 3017,
-      "localizedNames": {
-        "ja": "ザ・マエストロムジーク"
-      }
-    },
-    {
-      "name": "THE MAESTRO MUSIC (WITH BATON STICK)",
-      "gameInstances": [
+        },
         {
           "name": "THE MAESTRO MUSIC (WITH BATON STICK)",
           "platform": "ps1",
@@ -82116,12 +80723,12 @@
           "upc": "4542082000012",
           "regionalName": "ザ・マエストロムジーク(コントローラ同梱版)",
           "releaseDate": "2000-07-27",
-          "id": "3018-1"
+          "id": "3017-2"
         }
       ],
-      "id": 3018,
+      "id": 3017,
       "localizedNames": {
-        "ja": "ザ・マエストロムジーク(コントローラ同梱版)"
+        "ja": "ザ・マエストロムジーク"
       }
     },
     {
@@ -83902,27 +82509,6 @@
       "name": "TOBAL Nº.1",
       "gameInstances": [
         {
-          "name": "TOBAL Nº.1  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-00400SLPS-00401",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4961012967018",
-          "regionalName": "研磨済 追跡可 送料無料",
-          "releaseDate": "1996-08-02",
-          "id": "3086-1"
-        }
-      ],
-      "id": 3086,
-      "localizedNames": {
-        "ja": "研磨済 追跡可 送料無料"
-      }
-    },
-    {
-      "name": "TOBAL Nº.1",
-      "gameInstances": [
-        {
           "name": "TOBAL Nº.1 [LEGENDARY HITS]",
           "platform": "ps1",
           "Language": "[J]",
@@ -83942,6 +82528,18 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "3087-2"
+        },
+        {
+          "name": "TOBAL Nº.1  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-00400SLPS-00401",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4961012967018",
+          "regionalName": "研磨済 追跡可 送料無料",
+          "releaseDate": "1996-08-02",
+          "id": "3087-3"
         }
       ],
       "id": 3087,
@@ -84693,16 +83291,7 @@
           "regionalName": "BMXART0814 BMXART0814",
           "releaseDate": "2002-01-24",
           "id": "3117-1"
-        }
-      ],
-      "id": 3117,
-      "localizedNames": {
-        "ja": "BMXART0814 BMXART0814"
-      }
-    },
-    {
-      "name": "TOKYO MAJIN GAKUEN GEHOUCHOU",
-      "gameInstances": [
+        },
         {
           "name": "TOKYO MAJIN GAKUEN GEHOUCHOU [LIMITED EDITION]  -  [ 3 DISCS ]",
           "platform": "ps1",
@@ -84713,12 +83302,12 @@
           "upc": "4988126510350",
           "regionalName": "東京魔人學園外法帖　特別初回限定版 / アスミック・エース エンタテインメント",
           "releaseDate": "2002-01-24",
-          "id": "3118-1"
+          "id": "3117-2"
         }
       ],
-      "id": 3118,
+      "id": 3117,
       "localizedNames": {
-        "ja": "東京魔人學園外法帖　特別初回限定版 / アスミック・エース エンタテインメント"
+        "ja": "BMXART0814 BMXART0814"
       }
     },
     {
@@ -84793,13 +83382,7 @@
           "releaseDate": "2002-05-12",
           "id": "3122-1",
           "upc": "4904880139774"
-        }
-      ],
-      "id": 3122
-    },
-    {
-      "name": "TOKYO MEW MEW (MEW MINT BOX)",
-      "gameInstances": [
+        },
         {
           "name": "TOKYO MEW MEW (MEW MINT BOX)",
           "platform": "ps1",
@@ -84808,14 +83391,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-05-12",
-          "id": "3123-1"
-        }
-      ],
-      "id": 3123
-    },
-    {
-      "name": "TOKYO MEW MEW",
-      "gameInstances": [
+          "id": "3122-2"
+        },
         {
           "name": "TOKYO MEW MEW",
           "platform": "ps1",
@@ -84824,11 +83401,11 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-05-12",
-          "id": "3124-1",
+          "id": "3122-3",
           "upc": "4904880139781"
         }
       ],
-      "id": 3124
+      "id": 3122
     },
     {
       "name": "TOKYO SHADOW",
@@ -85052,37 +83629,6 @@
       "id": 3130,
       "localizedNames": {
         "ja": "トゥームレイダー2"
-      }
-    },
-    {
-      "name": "TOMB RAIDER III - ADVENTURES OF LARA CROFT",
-      "gameInstances": [
-        {
-          "name": "TOMB RAIDER III - ADVENTURES OF LARA CROFT  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J][E]",
-          "serial": "SCPS-45385SCPS-45386",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "releaseDate": "1999-04-03",
-          "id": "3131-1"
-        },
-        {
-          "name": "TOMB RAIDER III - ADVENTURES OF LARA CROFT  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[J][E]",
-          "serial": "SLPM-86196SLPM-86197",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4988601003193",
-          "regionalName": "トゥームレイダー3",
-          "releaseDate": "1999-04-03",
-          "id": "3131-2"
-        }
-      ],
-      "id": 3131,
-      "localizedNames": {
-        "ja": "トゥームレイダー3"
       }
     },
     {
@@ -85334,27 +83880,6 @@
       "id": 3139,
       "localizedNames": {
         "ja": "トンズラくん"
-      }
-    },
-    {
-      "name": "TOP GUN - FIRE AT WILL!",
-      "gameInstances": [
-        {
-          "name": "TOP GUN - FIRE AT WILL!",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPS-00665",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4902931950170",
-          "regionalName": "TOP GUN FIRE AT WILL(STG)",
-          "releaseDate": "1997-02-14",
-          "id": "3140-1"
-        }
-      ],
-      "id": 3140,
-      "localizedNames": {
-        "ja": "TOP GUN FIRE AT WILL(STG)"
       }
     },
     {
@@ -86042,16 +84567,7 @@
           "regionalName": "トロンにコブン",
           "releaseDate": "1999-07-22",
           "id": "3168-1"
-        }
-      ],
-      "id": 3168,
-      "localizedNames": {
-        "ja": "トロンにコブン"
-      }
-    },
-    {
-      "name": "TRON NI KOBUN - THE MISSADVENTURES OF TRON BONNE",
-      "gameInstances": [
+        },
         {
           "name": "TRON NI KOBUN - THE MISSADVENTURES OF TRON BONNE [PLAYSTATION THE BEST]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -86062,10 +84578,10 @@
           "upc": "4976219454407",
           "regionalName": "トロンにコブン PlayStation the Best",
           "releaseDate": "2000-07-27",
-          "id": "3169-1"
+          "id": "3168-2"
         }
       ],
-      "id": 3169,
+      "id": 3168,
       "localizedNames": {
         "ja": "トロンにコブン"
       }
@@ -87952,16 +86468,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "3236-2"
-        }
-      ],
-      "id": 3236,
-      "localizedNames": {
-        "ja": "プラグマタ ELJM-30823"
-      }
-    },
-    {
-      "name": "VALKYRIE PROFILE",
-      "gameInstances": [
+        },
         {
           "name": "VALKYRIE PROFILE [LIMITED DELUXE PACK]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -87972,7 +86479,7 @@
           "upc": "4988601003285",
           "regionalName": "ヴァルキリープロファイル (リミテッドボックス)",
           "releaseDate": "1999-12-22",
-          "id": "3237-1"
+          "id": "3236-3"
         },
         {
           "name": "VALKYRIE PROFILE [PSONE BOOKS]  -  [ 2 DISCS ]",
@@ -87983,7 +86490,7 @@
           "tgdbId": 0,
           "upc": "4988601004152",
           "releaseDate": "2005-03-02",
-          "id": "3237-2"
+          "id": "3236-4"
         },
         {
           "name": "VALKYRIE PROFILE [ULTIMATE HITS]  -  [ 2 DISCS ]",
@@ -87995,12 +86502,12 @@
           "upc": "4988601004756",
           "regionalName": "ULTMATE HITS ヴァルキリープロファイル",
           "releaseDate": "2006-07-20",
-          "id": "3237-3"
+          "id": "3236-5"
         }
       ],
-      "id": 3237,
+      "id": 3236,
       "localizedNames": {
-        "ja": "ヴァルキリープロファイル (リミテッドボックス)"
+        "ja": "プラグマタ ELJM-30823"
       }
     },
     {
@@ -89417,16 +87924,7 @@
           "regionalName": "BMXART0814 BMXART0814",
           "releaseDate": "1998-03-07",
           "id": "3290-1"
-        }
-      ],
-      "id": 3290,
-      "localizedNames": {
-        "ja": "BMXART0814 BMXART0814"
-      }
-    },
-    {
-      "name": "WANGAN TRIAL - CINEMATIC RACING",
-      "gameInstances": [
+        },
         {
           "name": "WANGAN TRIAL - CINEMATIC RACING [REPRINT]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -89437,12 +87935,12 @@
           "upc": "4988110400223",
           "regionalName": "湾岸トライアル",
           "releaseDate": "1999-09-22",
-          "id": "3291-1"
+          "id": "3290-2"
         }
       ],
-      "id": 3291,
+      "id": 3290,
       "localizedNames": {
-        "ja": "湾岸トライアル"
+        "ja": "BMXART0814 BMXART0814"
       }
     },
     {
@@ -89880,16 +88378,7 @@
           "regionalName": "ワイルドアームズ2ndイグニッション",
           "releaseDate": "1999-09-02",
           "id": "3304-2"
-        }
-      ],
-      "id": 3304,
-      "localizedNames": {
-        "ja": "ワイルドアームズ2ndイグニッション"
-      }
-    },
-    {
-      "name": "WILD ARMS - SECOND IGNITION",
-      "gameInstances": [
+        },
         {
           "name": "WILD ARMS - SECOND IGNITION [PLAYSTATION THE BEST]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -89900,7 +88389,7 @@
           "upc": "4948872912082",
           "regionalName": "ワイルドアームズ 2ndイグニッション(WILD ARMS 2nd IGNITION)",
           "releaseDate": "2000-08-24",
-          "id": "3305-1"
+          "id": "3304-3"
         },
         {
           "name": "WILD ARMS - SECOND IGNITION [PSONE BOOKS]  -  [ 2 DISCS ]",
@@ -89912,12 +88401,12 @@
           "upc": "4948872913218",
           "regionalName": "ワイルドアームズ 2ndイグニッション(WILD ARMS 2nd IGNITION)",
           "releaseDate": "2001-12-06",
-          "id": "3305-2"
+          "id": "3304-4"
         }
       ],
-      "id": 3305,
+      "id": 3304,
       "localizedNames": {
-        "ja": "ワイルドアームズ 2ndイグニッション(WILD ARMS 2nd IGNITION)"
+        "ja": "ワイルドアームズ2ndイグニッション"
       }
     },
     {
@@ -91566,60 +90055,6 @@
       }
     },
     {
-      "name": "X-MEN MUTANT ACADEMY",
-      "gameInstances": [
-        {
-          "name": "X-MEN MUTANT ACADEMY",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-86765",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4944076001690",
-          "regionalName": "X-MEN ミュータントアカデミー",
-          "releaseDate": "2001-04-12",
-          "id": "3364-1"
-        },
-        {
-          "name": "X-MEN MUTANT ACADEMY [SUPERLITE 1500 SERIES]",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-87081",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4944076002543",
-          "regionalName": "SuperLite 1500シリーズ X-MEN MUTANT ACADEMY 〜エックスメン ミュータントアカデミー〜",
-          "releaseDate": "2002-06-06",
-          "id": "3364-2"
-        }
-      ],
-      "id": 3364,
-      "localizedNames": {
-        "ja": "X-MEN ミュータントアカデミー"
-      }
-    },
-    {
-      "name": "X-MEN MUTANT ACADEMY 2",
-      "gameInstances": [
-        {
-          "name": "X-MEN MUTANT ACADEMY 2",
-          "platform": "ps1",
-          "Language": "[J]",
-          "serial": "SLPM-87077",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "upc": "4944076002376",
-          "regionalName": "X-MEN MUTANT ACADEMY2",
-          "releaseDate": "2003-03-06",
-          "id": "3365-1"
-        }
-      ],
-      "id": 3365,
-      "localizedNames": {
-        "ja": "X-MEN MUTANT ACADEMY2"
-      }
-    },
-    {
       "name": "X-MEN VS STREET FIGHTER EX EDITION",
       "gameInstances": [
         {
@@ -91674,16 +90109,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "3367-3"
-        }
-      ],
-      "id": 3367,
-      "localizedNames": {
-        "ja": "ゼノギアス"
-      }
-    },
-    {
-      "name": "XENOGEARS",
-      "gameInstances": [
+        },
         {
           "name": "XENOGEARS [PSONE BOOKS]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -91694,7 +90120,7 @@
           "upc": "4961012017027",
           "regionalName": "ゼノギアス",
           "releaseDate": "2001-12-20",
-          "id": "3368-1"
+          "id": "3367-4"
         },
         {
           "name": "XENOGEARS [VAN HOUTEN EDITION] [SQUARESOFT MILLENNIUM COLLECTION]  -  [ 2 DISCS ]",
@@ -91706,7 +90132,7 @@
           "upc": "4961012007271",
           "regionalName": "ゼノギアス",
           "releaseDate": "2000-10-26",
-          "id": "3368-2"
+          "id": "3367-5"
         },
         {
           "name": "XENOGEARS [WONG FEI FONG EDITION] [SQUARESOFT MILLENNIUM COLLECTION]  -  [ 2 DISCS ]",
@@ -91718,10 +90144,10 @@
           "upc": "4961012007264",
           "regionalName": "ゼノギアス",
           "releaseDate": "2000-10-26",
-          "id": "3368-3"
+          "id": "3367-6"
         }
       ],
-      "id": 3368,
+      "id": 3367,
       "localizedNames": {
         "ja": "ゼノギアス"
       }
@@ -92246,16 +90672,7 @@
           "regionalName": "ダブルキャスト",
           "releaseDate": "1998-06-25",
           "id": "3388-1"
-        }
-      ],
-      "id": 3388,
-      "localizedNames": {
-        "ja": "ダブルキャスト"
-      }
-    },
-    {
-      "name": "YARUDORA SERIES VOL.1 - DOUBLE CAST",
-      "gameInstances": [
+        },
         {
           "name": "YARUDORA SERIES VOL.1 - DOUBLE CAST [PLAYSTATION THE BEST]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -92266,12 +90683,12 @@
           "upc": "4948872912389",
           "regionalName": "ダブルキャスト(the Best)",
           "releaseDate": "2001-08-16",
-          "id": "3389-1"
+          "id": "3388-2"
         }
       ],
-      "id": 3389,
+      "id": 3388,
       "localizedNames": {
-        "ja": "ダブルキャスト(the Best)"
+        "ja": "ダブルキャスト"
       }
     },
     {
@@ -92288,16 +90705,7 @@
           "regionalName": "季節を抱きしめて",
           "releaseDate": "1998-07-23",
           "id": "3390-1"
-        }
-      ],
-      "id": 3390,
-      "localizedNames": {
-        "ja": "季節を抱きしめて"
-      }
-    },
-    {
-      "name": "YARUDORA SERIES VOL.2 - KISETSU O DAKISHIMETE",
-      "gameInstances": [
+        },
         {
           "name": "YARUDORA SERIES VOL.2 - KISETSU O DAKISHIMETE [PLAYSTATION THE BEST]",
           "platform": "ps1",
@@ -92308,12 +90716,12 @@
           "upc": "4948872912402",
           "regionalName": "季節を抱きしめて(the Best)",
           "releaseDate": "2001-08-16",
-          "id": "3391-1"
+          "id": "3390-2"
         }
       ],
-      "id": 3391,
+      "id": 3390,
       "localizedNames": {
-        "ja": "季節を抱きしめて(the Best)"
+        "ja": "季節を抱きしめて"
       }
     },
     {
@@ -92330,16 +90738,7 @@
           "regionalName": "サンパギータ",
           "releaseDate": "1998-10-15",
           "id": "3392-1"
-        }
-      ],
-      "id": 3392,
-      "localizedNames": {
-        "ja": "サンパギータ"
-      }
-    },
-    {
-      "name": "YARUDORA SERIES VOL.3 - SAMPAGUITA",
-      "gameInstances": [
+        },
         {
           "name": "YARUDORA SERIES VOL.3 - SAMPAGUITA [PLAYSTATION THE BEST]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -92350,12 +90749,12 @@
           "upc": "4948872912426",
           "regionalName": "サンパギータ(SAMPAGUITA)",
           "releaseDate": "2001-08-16",
-          "id": "3393-1"
+          "id": "3392-2"
         }
       ],
-      "id": 3393,
+      "id": 3392,
       "localizedNames": {
-        "ja": "サンパギータ(SAMPAGUITA)"
+        "ja": "サンパギータ"
       }
     },
     {
@@ -92372,16 +90771,7 @@
           "regionalName": "雪割りの花(YUKIWARI NO HANA) やるドラシリーズVol.4 ソニー・コンピュータエンタテインメント",
           "releaseDate": "1998-11-26",
           "id": "3394-1"
-        }
-      ],
-      "id": 3394,
-      "localizedNames": {
-        "ja": "雪割りの花(YUKIWARI NO HANA) やるドラシリーズVol.4 ソニー・コンピュータエンタテインメント"
-      }
-    },
-    {
-      "name": "YARUDORA SERIES VOL.4 - YUKIWARI NO HANA",
-      "gameInstances": [
+        },
         {
           "name": "YARUDORA SERIES VOL.4 - YUKIWARI NO HANA [PLAYSTATION THE BEST]  -  [ 2 DISCS ]",
           "platform": "ps1",
@@ -92392,12 +90782,12 @@
           "upc": "4948872912440",
           "regionalName": "雪割りの花(the Best)",
           "releaseDate": "2001-08-16",
-          "id": "3395-1"
+          "id": "3394-2"
         }
       ],
-      "id": 3395,
+      "id": 3394,
       "localizedNames": {
-        "ja": "雪割りの花(the Best)"
+        "ja": "雪割りの花(YUKIWARI NO HANA) やるドラシリーズVol.4 ソニー・コンピュータエンタテインメント"
       }
     },
     {
@@ -93598,13 +91988,7 @@
           "upc": "4959143900523",
           "releaseDate": "1999-10-07",
           "id": "3441-1"
-        }
-      ],
-      "id": 3441
-    },
-    {
-      "name": "ZOKU MIKAGURA SHOUJO TANTEIDAN - KANKETSUHEN",
-      "gameInstances": [
+        },
         {
           "name": "ZOKU MIKAGURA SHOUJO TANTEIDAN - KANKETSUHEN [RERELEASE]  -  [ 4 DISCS ]",
           "platform": "ps1",
@@ -93615,13 +91999,10 @@
           "upc": "4939439210017",
           "regionalName": "続・御神楽少女探偵団〜完結編〜",
           "releaseDate": "2000-09-21",
-          "id": "3442-1"
+          "id": "3441-2"
         }
       ],
-      "id": 3442,
-      "localizedNames": {
-        "ja": "続・御神楽少女探偵団〜完結編〜"
-      }
+      "id": 3441
     },
     {
       "name": "ZOOP",
@@ -93982,6 +92363,15 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "3459-1"
+        },
+        {
+          "name": "AIR HOCKEY!!",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-03743",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3459-2"
         }
       ],
       "id": 3459
@@ -95144,6 +93534,42 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "3507-1"
+        },
+        {
+          "name": "BARBIE - RACE & RIDE",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SCES-02365",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3507-2"
+        },
+        {
+          "name": "BARBIE - RACE & RIDE",
+          "platform": "ps1",
+          "Language": "[G]",
+          "serial": "SCES-02367",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3507-3"
+        },
+        {
+          "name": "BARBIE - RACE & RIDE",
+          "platform": "ps1",
+          "Language": "[I]",
+          "serial": "SCES-02368",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3507-4"
+        },
+        {
+          "name": "BARBIE - RACE & RIDE",
+          "platform": "ps1",
+          "Language": "[S]",
+          "serial": "SCES-02369",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3507-5"
         }
       ],
       "id": 3507
@@ -95603,6 +94029,15 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "3528-1"
+        },
+        {
+          "name": "BIO F.R.E.A.K.S.",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-01316",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3528-2"
         }
       ],
       "id": 3528
@@ -96500,6 +94935,33 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "3572-1"
+        },
+        {
+          "name": "C-12 FINAL RESISTANCE",
+          "platform": "ps1",
+          "Language": "[F][G]",
+          "serial": "SCES-03365",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3572-2"
+        },
+        {
+          "name": "C-12 FINAL RESISTANCE",
+          "platform": "ps1",
+          "Language": "[I][S]",
+          "serial": "SCES-03366",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3572-3"
+        },
+        {
+          "name": "C-12 FINAL RESISTANCE",
+          "platform": "ps1",
+          "Language": "[R]",
+          "serial": "SCES-03426",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3572-4"
         }
       ],
       "id": 3572
@@ -96617,6 +95079,27 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "3578-1"
+        },
+        {
+          "name": "CAPCOM VS SNK MILLENNIUM FIGHT 2000 PRO",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-87053",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4976219754194",
+          "regionalName": "カプコン バーサス エス・エヌ・ケイ ミレニアムファイト2000 プロ",
+          "releaseDate": "2002-04-18",
+          "id": "3578-2"
+        },
+        {
+          "name": "CAPCOM VS SNK MILLENNIUM FIGHT 2000 PRO",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-03889",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3578-3"
         }
       ],
       "id": 3578
@@ -97141,6 +95624,62 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "3597-1"
+        },
+        {
+          "name": "CHRONO CROSS  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SCPS-45447SCPS-45448",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "releaseDate": "1999-11-18",
+          "id": "3597-2"
+        },
+        {
+          "name": "CHRONO CROSS  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-02364SLPS-02365",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "releaseDate": "1999-11-18",
+          "id": "3597-3"
+        },
+        {
+          "name": "CHRONO CROSS [PSONE BOOKS]  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-91464SLPS-91465",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4961012027095",
+          "regionalName": "クロノ・クロス Psone Books（再販）",
+          "releaseDate": "2002-02-21",
+          "id": "3597-4"
+        },
+        {
+          "name": "CHRONO CROSS [SQUARE MILLENNIUM COLLECTION]  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-02777SLPS-02778",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4961012007295",
+          "regionalName": "クロノ・クロス Psone Books（再販）",
+          "releaseDate": "2000-10-26",
+          "id": "3597-5"
+        },
+        {
+          "name": "CHRONO CROSS [ULTIMATE HITS]  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-87395SLPM-87396",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4988601004695",
+          "regionalName": "クロノ・クロス Psone Books（再販）",
+          "releaseDate": "2006-07-20",
+          "id": "3597-6"
         }
       ],
       "id": 3597
@@ -97477,6 +96016,15 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "3608-1"
+        },
+        {
+          "name": "COMMAND & CONQUER -  RED ALERT - RETALIATION  -  [ 2 DISCS ]\n   Includes: \n  Allies Disc + Soviet Disc",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-01343SLES-11343",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3608-2"
         }
       ],
       "id": 3608
@@ -97609,6 +96157,15 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "3615-1"
+        },
+        {
+          "name": "CRASH BANDICOOT 2- CORTEX STRIKES BACK",
+          "platform": "ps1",
+          "Language": "[E][F][G][I][S]",
+          "serial": "SCES-00967",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3615-2"
         }
       ],
       "id": 3615
@@ -98005,6 +96562,15 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "3630-1"
+        },
+        {
+          "name": "CUBIX - ROBOTS FOR EVERYONE - RACE'N ROBOTS",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-03729",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3630-2"
         }
       ],
       "id": 3630
@@ -98506,6 +97072,24 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "3652-1"
+        },
+        {
+          "name": "DEXTER'S LABORATORY - MANDARK'S LAB?",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-03627",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3652-2"
+        },
+        {
+          "name": "DEXTER'S LABORATORY - MANDARK'S LAB?",
+          "platform": "ps1",
+          "Language": "[F][G]",
+          "serial": "SLES-03829",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3652-3"
         }
       ],
       "id": 3652
@@ -98596,6 +97180,15 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "3655-1"
+        },
+        {
+          "name": "DIGIMON - RUMBLE ARENA",
+          "platform": "ps1",
+          "Language": "[E][F][G][I][S]",
+          "serial": "SLES-03841",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3655-2"
         }
       ],
       "id": 3655
@@ -98626,6 +97219,75 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "3657-1"
+        },
+        {
+          "name": "DINO CRISIS",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-02180",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4976219355681",
+          "regionalName": "ディノクライシス",
+          "releaseDate": "1999-07-01",
+          "id": "3657-2"
+        },
+        {
+          "name": "DINO CRISIS [PLAYSTATION THE BEST]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-86903",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4976219554985",
+          "regionalName": "廉価版DINO CRISIS",
+          "releaseDate": "2003-02-27",
+          "id": "3657-3"
+        },
+        {
+          "name": "DINO CRISIS",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-02207",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3657-4"
+        },
+        {
+          "name": "DINO CRISIS",
+          "platform": "ps1",
+          "Language": "[F]",
+          "serial": "SLES-02208",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3657-5"
+        },
+        {
+          "name": "DINO CRISIS",
+          "platform": "ps1",
+          "Language": "[G]",
+          "serial": "SLES-02209",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3657-6"
+        },
+        {
+          "name": "DINO CRISIS",
+          "platform": "ps1",
+          "Language": "[I]",
+          "serial": "SLES-02210",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3657-7"
+        },
+        {
+          "name": "DINO CRISIS",
+          "platform": "ps1",
+          "Language": "[S]",
+          "serial": "SLES-02211",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3657-8"
         }
       ],
       "id": 3657
@@ -98974,6 +97636,15 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "3670-1"
+        },
+        {
+          "name": "DISNEY'S MULAN - STORY STUDIO",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SCES-01695",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3670-2"
         }
       ],
       "id": 3670
@@ -99517,6 +98188,24 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "3693-1"
+        },
+        {
+          "name": "DUCATI WORLD RACING CHALLENGE",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-02821",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3693-2"
+        },
+        {
+          "name": "DUCATI WORLD RACING CHALLENGE",
+          "platform": "ps1",
+          "Language": "[F][G][I]",
+          "serial": "SLES-03377",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3693-3"
         }
       ],
       "id": 3693
@@ -100561,6 +99250,30 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "3732-3"
+        },
+        {
+          "name": "FIFA ROAD TO WORLD CUP '98",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-01383",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4938833004758",
+          "regionalName": "FIFAロードトゥワールドカップ98",
+          "releaseDate": "1998-05-14",
+          "id": "3732-4"
+        },
+        {
+          "name": "FIFA ROAD TO WORLD CUP '98 [PLAYSTATION THE BEST]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-91150",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4938833005090",
+          "regionalName": "FIFA ロード トゥ ワールドカップ98X ベスト",
+          "releaseDate": "1999-08-12",
+          "id": "3732-5"
         }
       ],
       "id": 3732
@@ -101152,6 +99865,24 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "3758-1"
+        },
+        {
+          "name": "FUTURE COP L.A.P.D",
+          "platform": "ps1",
+          "Language": "[E][F]",
+          "serial": "SLES-01449",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3758-2"
+        },
+        {
+          "name": "FUTURE COP L.A.P.D",
+          "platform": "ps1",
+          "Language": "[G]",
+          "serial": "SLES-01482",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3758-3"
         }
       ],
       "id": 3758
@@ -101554,6 +100285,57 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "3774-1"
+        },
+        {
+          "name": "GRANDIA  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-02124SLPS-02125",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4988649973304",
+          "regionalName": "グランディア",
+          "releaseDate": "1999-06-24",
+          "id": "3774-2"
+        },
+        {
+          "name": "GRANDIA  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-02397SLES-12397",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3774-3"
+        },
+        {
+          "name": "GRANDIA  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[F]",
+          "serial": "SLES-02398SLES-12398",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3774-4"
+        },
+        {
+          "name": "GRANDIA  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[G]",
+          "serial": "SLES-02399SLES-12399",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3774-5"
+        },
+        {
+          "name": "GRANDIA [PLAYSTATION THE BEST]  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-91205SLPS-91206",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4988649073431",
+          "regionalName": "グランディア PlayStation the Best",
+          "releaseDate": "2000-07-27",
+          "id": "3774-6"
         }
       ],
       "id": 3774
@@ -102571,6 +101353,15 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "3813-1"
+        },
+        {
+          "name": "IRON MAN & X-O MANOWAR IN HEAVY METAL",
+          "platform": "ps1",
+          "Language": "[E][F][G]",
+          "serial": "SLES-00281",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "3813-2"
         }
       ],
       "id": 3813
@@ -107039,6 +105830,15 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "4041-1"
+        },
+        {
+          "name": "MOTO RACER - WORLD TOUR",
+          "platform": "ps1",
+          "Language": "[E][F][G][I][S][Sw]",
+          "serial": "SCES-03037",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4041-2"
         }
       ],
       "id": 4041
@@ -107153,6 +105953,18 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "4045-4"
+        },
+        {
+          "name": "MS PACMAN - MAZE MADNESS",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-03000",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4907892010918",
+          "regionalName": "ミズ・パックマンメイズマッドネス",
+          "releaseDate": "2000-12-28",
+          "id": "4045-5"
         }
       ],
       "id": 4045
@@ -108530,6 +107342,15 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "4111-1"
+        },
+        {
+          "name": "NEWMAN HAAS RACING",
+          "platform": "ps1",
+          "Language": "[E][F][G]",
+          "serial": "SLES-00933",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4111-2"
         }
       ],
       "id": 4111
@@ -109337,6 +108158,15 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "4148-1"
+        },
+        {
+          "name": "NO FEAR - DOWNHILL MOUNTAIN BIKING",
+          "platform": "ps1",
+          "Language": "[E][F][G][I][S][Sw]",
+          "serial": "SLES-00849",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4148-2"
         }
       ],
       "id": 4148
@@ -109445,6 +108275,15 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "4151-5"
+        },
+        {
+          "name": "ODDWORLD - ABE'S ODDYSEE (L'ODDYSEE D'ABE)",
+          "platform": "ps1",
+          "Language": "[F]",
+          "serial": "SLES-00838",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4151-6"
         }
       ],
       "id": 4151
@@ -111686,6 +110525,15 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "4239-1"
+        },
+        {
+          "name": "ROAD & TRACKS PRESENTS THE NEED FOR SPEED",
+          "platform": "ps1",
+          "Language": "[E][G]",
+          "serial": "SLES-00223",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4239-2"
         }
       ],
       "id": 4239
@@ -111947,6 +110795,15 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "4251-1"
+        },
+        {
+          "name": "ROSCO MCQUEEN - FIREFIGHTER EXTREME",
+          "platform": "ps1",
+          "Language": "[E][F][G][I][S]",
+          "serial": "SCES-00257",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4251-2"
         }
       ],
       "id": 4251
@@ -111992,6 +110849,15 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "4254-1"
+        },
+        {
+          "name": "RUGRATS IN PARIS - THE MOVIE",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-03342",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4254-2"
         }
       ],
       "id": 4254
@@ -112274,6 +111140,15 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "4268-1"
+        },
+        {
+          "name": "SAN FRANCISCO RUSH EXTREME RACING",
+          "platform": "ps1",
+          "Language": "[E][F][G][I][S]",
+          "serial": "SLES-01208",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4268-2"
         }
       ],
       "id": 4268
@@ -112823,6 +111698,27 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "4292-1"
+        },
+        {
+          "name": "SLAM'N'JAM '96 - FEATURING MAGIC & KAREEM",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLPS-00426",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4988017203743",
+          "regionalName": "スラムジャム96 M.J K.A.J",
+          "releaseDate": "1996-08-09",
+          "id": "4292-2"
+        },
+        {
+          "name": "SLAM'N'JAM '96 - FEATURING MAGIC & KAREEM",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-00076",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4292-3"
         }
       ],
       "id": 4292
@@ -112958,6 +111854,15 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "4298-1"
+        },
+        {
+          "name": "SNO-CROSS CHAMPIONSHIP RACING",
+          "platform": "ps1",
+          "Language": "[E][F][G][I][S]",
+          "serial": "SLES-02763",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4298-2"
         }
       ],
       "id": 4298
@@ -113342,6 +112247,54 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "4314-1"
+        },
+        {
+          "name": "SPIDER - THE VIDEO GAME",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SCPS-45068",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "releaseDate": "1997-05-23",
+          "id": "4314-2"
+        },
+        {
+          "name": "SPIDER - THE VIDEO GAME",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-00852",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "releaseDate": "1997-05-23",
+          "id": "4314-3",
+          "upc": "4988017203835"
+        },
+        {
+          "name": "SPIDER - THE VIDEO GAME",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-00117",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4314-4"
+        },
+        {
+          "name": "SPIDER - THE VIDEO GAME",
+          "platform": "ps1",
+          "Language": "[F]",
+          "serial": "SLES-00681",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4314-5"
+        },
+        {
+          "name": "SPIDER - THE VIDEO GAME",
+          "platform": "ps1",
+          "Language": "[G]",
+          "serial": "SLES-00682",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4314-6"
         }
       ],
       "id": 4314
@@ -113951,6 +112904,15 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "4338-1"
+        },
+        {
+          "name": "STRIDER 2  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-02867SLES-12867",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4338-2"
         }
       ],
       "id": 4338
@@ -115658,6 +114620,15 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "4409-1"
+        },
+        {
+          "name": "TIGER WOODS - PGA TOUR 2000",
+          "platform": "ps1",
+          "Language": "[E][F][G][Sw][S]",
+          "serial": "SLES-02551",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4409-2"
         }
       ],
       "id": 4409
@@ -115772,6 +114743,15 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "4413-1"
+        },
+        {
+          "name": "TINY TOON ADVENTURES - TOONENSTEIN DARE TO SCARE!",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-02923",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4413-2"
         }
       ],
       "id": 4413
@@ -116116,6 +115096,28 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "4423-6"
+        },
+        {
+          "name": "TOMB RAIDER III - ADVENTURES OF LARA CROFT  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J][E]",
+          "serial": "SCPS-45385SCPS-45386",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "releaseDate": "1999-04-03",
+          "id": "4423-7"
+        },
+        {
+          "name": "TOMB RAIDER III - ADVENTURES OF LARA CROFT  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J][E]",
+          "serial": "SLPM-86196SLPM-86197",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4988601003193",
+          "regionalName": "トゥームレイダー3",
+          "releaseDate": "1999-04-03",
+          "id": "4423-8"
         }
       ],
       "id": 4423
@@ -116275,6 +115277,27 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "4430-1"
+        },
+        {
+          "name": "TOP GUN - FIRE AT WILL!",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-00665",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4902931950170",
+          "regionalName": "TOP GUN FIRE AT WILL(STG)",
+          "releaseDate": "1997-02-14",
+          "id": "4430-2"
+        },
+        {
+          "name": "TOP GUN - FIRE AT WILL",
+          "platform": "ps1",
+          "Language": "[E][F][G][I][S]",
+          "serial": "SLES-00352",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4430-3"
         }
       ],
       "id": 4430
@@ -117549,6 +116572,15 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "4486-1"
+        },
+        {
+          "name": "WHO WANTS TO BE A MILLIONAIRE? - 2ND EDITION",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-03589",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4486-2"
         }
       ],
       "id": 4486
@@ -117708,6 +116740,15 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "4493-1"
+        },
+        {
+          "name": "WORLD CUP 98",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-01265",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4493-2"
         }
       ],
       "id": 4493
@@ -118080,6 +117121,30 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "4507-3"
+        },
+        {
+          "name": "X-MEN MUTANT ACADEMY",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-86765",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4944076001690",
+          "regionalName": "X-MEN ミュータントアカデミー",
+          "releaseDate": "2001-04-12",
+          "id": "4507-4"
+        },
+        {
+          "name": "X-MEN MUTANT ACADEMY [SUPERLITE 1500 SERIES]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-87081",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4944076002543",
+          "regionalName": "SuperLite 1500シリーズ X-MEN MUTANT ACADEMY 〜エックスメン ミュータントアカデミー〜",
+          "releaseDate": "2002-06-06",
+          "id": "4507-5"
         }
       ],
       "id": 4507
@@ -118104,6 +117169,18 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "4508-2"
+        },
+        {
+          "name": "X-MEN MUTANT ACADEMY 2",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-87077",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4944076002376",
+          "regionalName": "X-MEN MUTANT ACADEMY2",
+          "releaseDate": "2003-03-06",
+          "id": "4508-3"
         }
       ],
       "id": 4508
@@ -118311,6 +117388,51 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "4517-1"
+        },
+        {
+          "name": "YU-GI-OH! - FORBIDDEN MEMORIES",
+          "platform": "ps1",
+          "Language": "[E]",
+          "serial": "SLES-03947",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4517-2"
+        },
+        {
+          "name": "YU-GI-OH! - FORBIDDEN MEMORIES",
+          "platform": "ps1",
+          "Language": "[F]",
+          "serial": "SLES-03948",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4517-3"
+        },
+        {
+          "name": "YU-GI-OH! - FORBIDDEN MEMORIES",
+          "platform": "ps1",
+          "Language": "[G]",
+          "serial": "SLES-03949",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4517-4"
+        },
+        {
+          "name": "YU-GI-OH! - FORBIDDEN MEMORIES",
+          "platform": "ps1",
+          "Language": "[I]",
+          "serial": "SLES-03950",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4517-5"
+        },
+        {
+          "name": "YU-GI-OH! - FORBIDDEN MEMORIES",
+          "platform": "ps1",
+          "Language": "[S]",
+          "serial": "SLES-03951",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "4517-6"
         }
       ],
       "id": 4517
@@ -118557,6 +117679,42 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "4536-1"
+        },
+        {
+          "name": "A IV EVOLUTION GLOBAL",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-00125",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "regionalName": "Ａ列車で行こう４ ＥＶＯＬＵＴＩＯＮ ＧＬＯＢＡＬ",
+          "upc": "4988640100075",
+          "releaseDate": "1995-11-22",
+          "id": "4536-2"
+        },
+        {
+          "name": "A IV EVOLUTION GLOBAL [PLAYSTATION THE BEST]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-91019",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "regionalName": "Ａ列車で行こう４ ＥＶＯＬＵＴＩＯＮ ＧＬＯＢＡＬ [PLAYSTATION THE BEST]",
+          "upc": "4988640100150",
+          "releaseDate": "1997-03-28",
+          "id": "4536-3"
+        },
+        {
+          "name": "A IV EVOLUTION GLOBAL [SUPERLITE 1500 SERIES]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-87231",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "regionalName": "Ａ列車で行こう４ ＥＶＯＬＵＴＩＯＮ ＧＬＯＢＡＬ [SUPERLITE 1500 SERIES]",
+          "upc": "4944076002949",
+          "releaseDate": "2003-04-24",
+          "id": "4536-4"
         }
       ],
       "id": 4536
@@ -118884,21 +118042,6 @@
         }
       ],
       "id": 4554
-    },
-    {
-      "name": "AIR HOCKEY!!",
-      "gameInstances": [
-        {
-          "name": "AIR HOCKEY!!",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-03743",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "4555-1"
-        }
-      ],
-      "id": 4555
     },
     {
       "name": "AIR RACE",
@@ -119801,48 +118944,6 @@
       "id": 4612
     },
     {
-      "name": "BARBIE - RACE & RIDE",
-      "gameInstances": [
-        {
-          "name": "BARBIE - RACE & RIDE",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SCES-02365",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "4613-1"
-        },
-        {
-          "name": "BARBIE - RACE & RIDE",
-          "platform": "ps1",
-          "Language": "[G]",
-          "serial": "SCES-02367",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "4613-2"
-        },
-        {
-          "name": "BARBIE - RACE & RIDE",
-          "platform": "ps1",
-          "Language": "[I]",
-          "serial": "SCES-02368",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "4613-3"
-        },
-        {
-          "name": "BARBIE - RACE & RIDE",
-          "platform": "ps1",
-          "Language": "[S]",
-          "serial": "SCES-02369",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "4613-4"
-        }
-      ],
-      "id": 4613
-    },
-    {
       "name": "BARBIE SPORTS EXTREME",
       "gameInstances": [
         {
@@ -119961,21 +119062,6 @@
         }
       ],
       "id": 4621
-    },
-    {
-      "name": "BIO F.R.E.A.K.S.",
-      "gameInstances": [
-        {
-          "name": "BIO F.R.E.A.K.S.",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-01316",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "4622-1"
-        }
-      ],
-      "id": 4622
     },
     {
       "name": "BLOCK BUSTER",
@@ -120428,39 +119514,6 @@
       "id": 4652
     },
     {
-      "name": "C-12 FINAL RESISTANCE",
-      "gameInstances": [
-        {
-          "name": "C-12 FINAL RESISTANCE",
-          "platform": "ps1",
-          "Language": "[F][G]",
-          "serial": "SCES-03365",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "4653-1"
-        },
-        {
-          "name": "C-12 FINAL RESISTANCE",
-          "platform": "ps1",
-          "Language": "[I][S]",
-          "serial": "SCES-03366",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "4653-2"
-        },
-        {
-          "name": "C-12 FINAL RESISTANCE",
-          "platform": "ps1",
-          "Language": "[R]",
-          "serial": "SCES-03426",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "4653-3"
-        }
-      ],
-      "id": 4653
-    },
-    {
       "name": "C3 RACING - CAR CONSTRUCTORS CHAMPIONSHIP",
       "gameInstances": [
         {
@@ -120899,21 +119952,6 @@
       "id": 4681
     },
     {
-      "name": "COMMAND & CONQUER -  RED ALERT - RETALIATION",
-      "gameInstances": [
-        {
-          "name": "COMMAND & CONQUER -  RED ALERT - RETALIATION  -  [ 2 DISCS ]\n   Includes: \n  Allies Disc + Soviet Disc",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-01343SLES-11343",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "4682-1"
-        }
-      ],
-      "id": 4682
-    },
-    {
       "name": "CONSTRUCTOR",
       "gameInstances": [
         {
@@ -120983,21 +120021,6 @@
       "id": 4686
     },
     {
-      "name": "CRASH BANDICOOT 2- CORTEX STRIKES BACK",
-      "gameInstances": [
-        {
-          "name": "CRASH BANDICOOT 2- CORTEX STRIKES BACK",
-          "platform": "ps1",
-          "Language": "[E][F][G][I][S]",
-          "serial": "SCES-00967",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "4687-1"
-        }
-      ],
-      "id": 4687
-    },
-    {
       "name": "CRICKET 2000",
       "gameInstances": [
         {
@@ -121056,21 +120079,6 @@
         }
       ],
       "id": 4691
-    },
-    {
-      "name": "CUBIX - ROBOTS FOR EVERYONE - RACE'N ROBOTS",
-      "gameInstances": [
-        {
-          "name": "CUBIX - ROBOTS FOR EVERYONE - RACE'N ROBOTS",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-03729",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "4692-1"
-        }
-      ],
-      "id": 4692
     },
     {
       "name": "CYBALL ZONE",
@@ -121337,30 +120345,6 @@
       "id": 4709
     },
     {
-      "name": "DEXTER'S LABORATORY - MANDARK'S LAB?",
-      "gameInstances": [
-        {
-          "name": "DEXTER'S LABORATORY - MANDARK'S LAB?",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-03627",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "4710-1"
-        },
-        {
-          "name": "DEXTER'S LABORATORY - MANDARK'S LAB?",
-          "platform": "ps1",
-          "Language": "[F][G]",
-          "serial": "SLES-03829",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "4710-2"
-        }
-      ],
-      "id": 4710
-    },
-    {
       "name": "DIE MILLIONEN SHOW",
       "gameInstances": [
         {
@@ -121374,21 +120358,6 @@
         }
       ],
       "id": 4711
-    },
-    {
-      "name": "DIGIMON - RUMBLE ARENA",
-      "gameInstances": [
-        {
-          "name": "DIGIMON - RUMBLE ARENA",
-          "platform": "ps1",
-          "Language": "[E][F][G][I][S]",
-          "serial": "SLES-03841",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "4712-1"
-        }
-      ],
-      "id": 4712
     },
     {
       "name": "DIGIMON WORLD 2003",
@@ -122583,21 +121552,6 @@
         }
       ],
       "id": 4788
-    },
-    {
-      "name": "DISNEY'S MULAN - STORY STUDIO",
-      "gameInstances": [
-        {
-          "name": "DISNEY'S MULAN - STORY STUDIO",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SCES-01695",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "4789-1"
-        }
-      ],
-      "id": 4789
     },
     {
       "name": "DISNEY'S PARTY MIT WINNIE PUUH",
@@ -123860,30 +122814,6 @@
       "id": 4872
     },
     {
-      "name": "DUCATI WORLD RACING CHALLENGE",
-      "gameInstances": [
-        {
-          "name": "DUCATI WORLD RACING CHALLENGE",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-02821",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "4873-1"
-        },
-        {
-          "name": "DUCATI WORLD RACING CHALLENGE",
-          "platform": "ps1",
-          "Language": "[F][G][I]",
-          "serial": "SLES-03377",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "4873-2"
-        }
-      ],
-      "id": 4873
-    },
-    {
       "name": "EA SPORTS SUPERCROSS",
       "gameInstances": [
         {
@@ -124707,6 +123637,29 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "4912-1"
+        },
+        {
+          "name": "FINAL FANTASY VI",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SCPS-45387",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "regionalName": "ファイナルファンタジーVI （コンビニ専売）",
+          "releaseDate": "1999-03-11",
+          "id": "4912-2"
+        },
+        {
+          "name": "FINAL FANTASY VI",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPM-86198",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4961012987085",
+          "regionalName": "ファイナルファンタジーVI （コンビニ専売）",
+          "releaseDate": "1999-03-11",
+          "id": "4912-3"
         }
       ],
       "id": 4912
@@ -125016,30 +123969,6 @@
         }
       ],
       "id": 4930
-    },
-    {
-      "name": "FUTURE COP L.A.P.D",
-      "gameInstances": [
-        {
-          "name": "FUTURE COP L.A.P.D",
-          "platform": "ps1",
-          "Language": "[E][F]",
-          "serial": "SLES-01449",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "4931-1"
-        },
-        {
-          "name": "FUTURE COP L.A.P.D",
-          "platform": "ps1",
-          "Language": "[G]",
-          "serial": "SLES-01482",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "4931-2"
-        }
-      ],
-      "id": 4931
     },
     {
       "name": "FUTURE RACER",
@@ -125978,21 +124907,6 @@
       "id": 4976
     },
     {
-      "name": "IRON MAN & X-O MANOWAR IN HEAVY METAL",
-      "gameInstances": [
-        {
-          "name": "IRON MAN & X-O MANOWAR IN HEAVY METAL",
-          "platform": "ps1",
-          "Language": "[E][F][G]",
-          "serial": "SLES-00281",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "4977-1"
-        }
-      ],
-      "id": 4977
-    },
-    {
       "name": "ISS PRO EVOLUTION 2",
       "gameInstances": [
         {
@@ -126489,6 +125403,28 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "5002-1"
+        },
+        {
+          "name": "KLONOA BEACH VOLLEYBALL",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SCPS-45516",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "releaseDate": "2002-04-24",
+          "id": "5002-2"
+        },
+        {
+          "name": "KLONOA BEACH VOLLEYBALL",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-03433",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4907892011021",
+          "regionalName": "クロノアビーチバレー最強チーム決定戦!",
+          "releaseDate": "2002-04-24",
+          "id": "5002-3"
         }
       ],
       "id": 5002
@@ -127740,6 +126676,18 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "5077-1"
+        },
+        {
+          "name": "MONACO GRAND PRIX RACING SIMULATION 2",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-02106",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4949244000253",
+          "regionalName": "MONACO GRAND PRIX Racing Simulation 2(モナコ グランプリ レーシング シミュレーション2) ユービーアイソフト",
+          "releaseDate": "1999-09-30",
+          "id": "5077-2"
         }
       ],
       "id": 5077
@@ -127895,21 +126843,6 @@
       "id": 5087
     },
     {
-      "name": "MOTO RACER - WORLD TOUR",
-      "gameInstances": [
-        {
-          "name": "MOTO RACER - WORLD TOUR",
-          "platform": "ps1",
-          "Language": "[E][F][G][I][S][Sw]",
-          "serial": "SCES-03037",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5088-1"
-        }
-      ],
-      "id": 5088
-    },
-    {
       "name": "MOTOR MASH",
       "gameInstances": [
         {
@@ -127935,6 +126868,18 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "5090-1"
+        },
+        {
+          "name": "MOTOR TOON GRAND PRIX 2  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SCPS-10018SCPS-10019",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4948872100182",
+          "regionalName": "モータートゥーン グランプリ2 説明書なし",
+          "releaseDate": "1996-05-24",
+          "id": "5090-2"
         }
       ],
       "id": 5090
@@ -128013,21 +126958,6 @@
         }
       ],
       "id": 5095
-    },
-    {
-      "name": "MYST (ORIGINAL & HELP CHARITY COMPILATION DISC 2/3)",
-      "gameInstances": [
-        {
-          "name": "MYST (ORIGINAL & HELP CHARITY COMPILATION DISC 2/3)",
-          "platform": "ps1",
-          "Language": "[E][F][G][I][S]",
-          "serial": "SLES-00218",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5096-1"
-        }
-      ],
-      "id": 5096
     },
     {
       "name": "NAMCO SOCCER PRIME GOAL",
@@ -128231,21 +127161,6 @@
       "id": 5107
     },
     {
-      "name": "NEWMAN HAAS RACING",
-      "gameInstances": [
-        {
-          "name": "NEWMAN HAAS RACING",
-          "platform": "ps1",
-          "Language": "[E][F][G]",
-          "serial": "SLES-00933",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5108-1"
-        }
-      ],
-      "id": 5108
-    },
-    {
       "name": "NHL FACEOFF 2000",
       "gameInstances": [
         {
@@ -128306,21 +127221,6 @@
       "id": 5112
     },
     {
-      "name": "NO FEAR - DOWNHILL MOUNTAIN BIKING",
-      "gameInstances": [
-        {
-          "name": "NO FEAR - DOWNHILL MOUNTAIN BIKING",
-          "platform": "ps1",
-          "Language": "[E][F][G][I][S][Sw]",
-          "serial": "SLES-00849",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5113-1"
-        }
-      ],
-      "id": 5113
-    },
-    {
       "name": "NODDY'S MAGIC ADVENTURE",
       "gameInstances": [
         {
@@ -128351,21 +127251,6 @@
       "id": 5115
     },
     {
-      "name": "ODDWORLD - ABE'S EXODDUS (L'EXODE DE ABE)  - (2 DISCS)",
-      "gameInstances": [
-        {
-          "name": "ODDWORLD - ABE'S EXODDUS (L'EXODE DE ABE)  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[F]",
-          "serial": "SLES-01502SLES-11502",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5116-1"
-        }
-      ],
-      "id": 5116
-    },
-    {
       "name": "ODDWORLD - ABE'S EXODDUS",
       "gameInstances": [
         {
@@ -128394,24 +127279,18 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "5117-3"
+        },
+        {
+          "name": "ODDWORLD - ABE'S EXODDUS (L'EXODE DE ABE)  -  [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[F]",
+          "serial": "SLES-01502SLES-11502",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "5117-4"
         }
       ],
       "id": 5117
-    },
-    {
-      "name": "ODDWORLD - ABE'S ODDYSEE (L'ODDYSEE D'ABE)",
-      "gameInstances": [
-        {
-          "name": "ODDWORLD - ABE'S ODDYSEE (L'ODDYSEE D'ABE)",
-          "platform": "ps1",
-          "Language": "[F]",
-          "serial": "SLES-00838",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5118-1"
-        }
-      ],
-      "id": 5118
     },
     {
       "name": "OLYMPIC GAMES - ATLANTA '96",
@@ -128487,6 +127366,40 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "5122-3"
+        },
+        {
+          "name": "OVERBLOOD 2 [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SCPS-45190SCPS-45191",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "releaseDate": "1998-03-12",
+          "id": "5122-4"
+        },
+        {
+          "name": "OVERBLOOD 2 [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-01261SLPS-01262",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4967652101409",
+          "regionalName": "オーバーブラッド2",
+          "releaseDate": "1998-07-23",
+          "id": "5122-5"
+        },
+        {
+          "name": "OVERBLOOD 2 [PLAYSTATION THE BEST] [ 2 DISCS ]",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-91140SLPS-91141",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4967652101492",
+          "regionalName": "オーバーブラッド2 ベスト",
+          "releaseDate": "1999-06-03",
+          "id": "5122-6"
         }
       ],
       "id": 5122
@@ -129488,21 +128401,6 @@
       "id": 5186
     },
     {
-      "name": "ROAD & TRACKS PRESENTS THE NEED FOR SPEED",
-      "gameInstances": [
-        {
-          "name": "ROAD & TRACKS PRESENTS THE NEED FOR SPEED",
-          "platform": "ps1",
-          "Language": "[E][G]",
-          "serial": "SLES-00223",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5187-1"
-        }
-      ],
-      "id": 5187
-    },
-    {
       "name": "ROAD RAGE",
       "gameInstances": [
         {
@@ -129662,21 +128560,6 @@
       "id": 5197
     },
     {
-      "name": "ROSCO MCQUEEN - FIREFIGHTER EXTREME",
-      "gameInstances": [
-        {
-          "name": "ROSCO MCQUEEN - FIREFIGHTER EXTREME",
-          "platform": "ps1",
-          "Language": "[E][F][G][I][S]",
-          "serial": "SCES-00257",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5198-1"
-        }
-      ],
-      "id": 5198
-    },
-    {
       "name": "ROSWELL CONSPIRACIES",
       "gameInstances": [
         {
@@ -129827,21 +128710,6 @@
       "id": 5208
     },
     {
-      "name": "RUGRATS IN PARIS - THE MOVIE",
-      "gameInstances": [
-        {
-          "name": "RUGRATS IN PARIS - THE MOVIE",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-03342",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5209-1"
-        }
-      ],
-      "id": 5209
-    },
-    {
       "name": "SABRINA THE TEENAGE WITCH - A TWITCHT IN TIME",
       "gameInstances": [
         {
@@ -129900,24 +128768,32 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "5212-3"
+        },
+        {
+          "name": "SAGA FRONTIER 2  -  [ 2 DISCS ] \n Includes: \n\t\tSaga Frontier 2 + Bonus Disc (Square's Preview 4)",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SCPS-45300SCPS-45301",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "regionalName": "サガフロンティア2",
+          "releaseDate": "1999-04-01",
+          "id": "5212-4"
+        },
+        {
+          "name": "SAGA FRONTIER 2  -  [ 2 DISCS ] \n Includes: \n\t\tSaga Frontier 2 + Bonus Disc (Square's Preview 4)",
+          "platform": "ps1",
+          "Language": "[J]",
+          "serial": "SLPS-01990SLPS-01991",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4961012987139",
+          "regionalName": "サガフロンティア2",
+          "releaseDate": "1999-04-01",
+          "id": "5212-5"
         }
       ],
       "id": 5212
-    },
-    {
-      "name": "SAN FRANCISCO RUSH EXTREME RACING",
-      "gameInstances": [
-        {
-          "name": "SAN FRANCISCO RUSH EXTREME RACING",
-          "platform": "ps1",
-          "Language": "[E][F][G][I][S]",
-          "serial": "SLES-01208",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5213-1"
-        }
-      ],
-      "id": 5213
     },
     {
       "name": "SANTA CLAUS SAVES THE EARTH",
@@ -130158,21 +129034,6 @@
         }
       ],
       "id": 5229
-    },
-    {
-      "name": "SNO-CROSS CHAMPIONSHIP RACING",
-      "gameInstances": [
-        {
-          "name": "SNO-CROSS CHAMPIONSHIP RACING",
-          "platform": "ps1",
-          "Language": "[E][F][G][I][S]",
-          "serial": "SLES-02763",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5230-1"
-        }
-      ],
-      "id": 5230
     },
     {
       "name": "SNOW RACER 98",
@@ -130449,21 +129310,6 @@
         }
       ],
       "id": 5246
-    },
-    {
-      "name": "STRIDER 2",
-      "gameInstances": [
-        {
-          "name": "STRIDER 2  -  [ 2 DISCS ]",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-02867SLES-12867",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5247-1"
-        }
-      ],
-      "id": 5247
     },
     {
       "name": "STRIKE FORCE HYDRA",
@@ -130931,51 +129777,6 @@
       "id": 5278
     },
     {
-      "name": "THE CITY OF LOST CHILDREN (LA CITE DES ENFANTS PERDUS)",
-      "gameInstances": [
-        {
-          "name": "THE CITY OF LOST CHILDREN (LA CITE DES ENFANTS PERDUS)",
-          "platform": "ps1",
-          "Language": "[F]",
-          "serial": "SLES-00573",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5279-1"
-        }
-      ],
-      "id": 5279
-    },
-    {
-      "name": "THE CITY OF LOST CHILDREN (DIE STADT DER VERLORENEN KINDER)",
-      "gameInstances": [
-        {
-          "name": "THE CITY OF LOST CHILDREN (DIE STADT DER VERLORENEN KINDER)",
-          "platform": "ps1",
-          "Language": "[G]",
-          "serial": "SLES-00574",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5280-1"
-        }
-      ],
-      "id": 5280
-    },
-    {
-      "name": "THE CITY OF LOST CHILDREN (LA CIUDAD DE LOS NIÑOS PERDIDOS)",
-      "gameInstances": [
-        {
-          "name": "THE CITY OF LOST CHILDREN (LA CIUDAD DE LOS NIÑOS PERDIDOS)",
-          "platform": "ps1",
-          "Language": "[S]",
-          "serial": "SLES-00638",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5281-1"
-        }
-      ],
-      "id": 5281
-    },
-    {
       "name": "THE DALMATIANS",
       "gameInstances": [
         {
@@ -131061,13 +129862,7 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "5287-1"
-        }
-      ],
-      "id": 5287
-    },
-    {
-      "name": "THE FLINTSTONES BEDROCK BOWLING (LES PIERRAFEU - BEDROCK BOWLING)",
-      "gameInstances": [
+        },
         {
           "name": "THE FLINTSTONES BEDROCK BOWLING (LES PIERRAFEU - BEDROCK BOWLING)",
           "platform": "ps1",
@@ -131075,14 +129870,8 @@
           "serial": "SLES-03319",
           "region": "PAL",
           "tgdbId": 0,
-          "id": "5288-1"
-        }
-      ],
-      "id": 5288
-    },
-    {
-      "name": "THE FLINTSTONES BEDROCK BOWLING (FAMILIE FEUERSTEIN - BEDROCK BOWLING)",
-      "gameInstances": [
+          "id": "5287-2"
+        },
         {
           "name": "THE FLINTSTONES BEDROCK BOWLING (FAMILIE FEUERSTEIN - BEDROCK BOWLING)",
           "platform": "ps1",
@@ -131090,10 +129879,10 @@
           "serial": "SLES-03320",
           "region": "PAL",
           "tgdbId": 0,
-          "id": "5289-1"
+          "id": "5287-3"
         }
       ],
-      "id": 5289
+      "id": 5287
     },
     {
       "name": "THE GUARDIAN OF DARKNESS",
@@ -131434,21 +130223,6 @@
       "id": 5304
     },
     {
-      "name": "TIGER WOODS - PGA TOUR 2000",
-      "gameInstances": [
-        {
-          "name": "TIGER WOODS - PGA TOUR 2000",
-          "platform": "ps1",
-          "Language": "[E][F][G][Sw][S]",
-          "serial": "SLES-02551",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5305-1"
-        }
-      ],
-      "id": 5305
-    },
-    {
       "name": "TIGER WOODS - USA TOUR 2000",
       "gameInstances": [
         {
@@ -131555,21 +130329,6 @@
         }
       ],
       "id": 5311
-    },
-    {
-      "name": "TINY TOON ADVENTURES - TOONENSTEIN DARE TO SCARE!",
-      "gameInstances": [
-        {
-          "name": "TINY TOON ADVENTURES - TOONENSTEIN DARE TO SCARE!",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-02923",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5312-1"
-        }
-      ],
-      "id": 5312
     },
     {
       "name": "TINY TOON ADVENTURES - TOONENSTEIN - GEISTERSTUNDE!",
@@ -131951,21 +130710,6 @@
         }
       ],
       "id": 5326
-    },
-    {
-      "name": "TOP GUN - FIRE AT WILL",
-      "gameInstances": [
-        {
-          "name": "TOP GUN - FIRE AT WILL",
-          "platform": "ps1",
-          "Language": "[E][F][G][I][S]",
-          "serial": "SLES-00352",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5327-1"
-        }
-      ],
-      "id": 5327
     },
     {
       "name": "TOTAL DRIVIN'",
@@ -133003,21 +131747,6 @@
       "id": 5385
     },
     {
-      "name": "WHO WANTS TO BE A MILLIONAIRE? - 2ND EDITION",
-      "gameInstances": [
-        {
-          "name": "WHO WANTS TO BE A MILLIONAIRE? - 2ND EDITION",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-03589",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5386-1"
-        }
-      ],
-      "id": 5386
-    },
-    {
       "name": "WHO WANTS TO BE A MILLIONAIRE? - JUNIOR",
       "gameInstances": [
         {
@@ -133151,21 +131880,6 @@
         }
       ],
       "id": 5395
-    },
-    {
-      "name": "WORLD CUP 98",
-      "gameInstances": [
-        {
-          "name": "WORLD CUP 98",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-01265",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5396-1"
-        }
-      ],
-      "id": 5396
     },
     {
       "name": "WORLD CUP 98 - COPPA DEL MONDO",
@@ -133537,57 +132251,6 @@
         }
       ],
       "id": 5414
-    },
-    {
-      "name": "YU-GI-OH! - FORBIDDEN MEMORIES",
-      "gameInstances": [
-        {
-          "name": "YU-GI-OH! - FORBIDDEN MEMORIES",
-          "platform": "ps1",
-          "Language": "[E]",
-          "serial": "SLES-03947",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5415-1"
-        },
-        {
-          "name": "YU-GI-OH! - FORBIDDEN MEMORIES",
-          "platform": "ps1",
-          "Language": "[F]",
-          "serial": "SLES-03948",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5415-2"
-        },
-        {
-          "name": "YU-GI-OH! - FORBIDDEN MEMORIES",
-          "platform": "ps1",
-          "Language": "[G]",
-          "serial": "SLES-03949",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5415-3"
-        },
-        {
-          "name": "YU-GI-OH! - FORBIDDEN MEMORIES",
-          "platform": "ps1",
-          "Language": "[I]",
-          "serial": "SLES-03950",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5415-4"
-        },
-        {
-          "name": "YU-GI-OH! - FORBIDDEN MEMORIES",
-          "platform": "ps1",
-          "Language": "[S]",
-          "serial": "SLES-03951",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "5415-5"
-        }
-      ],
-      "id": 5415
     },
     {
       "name": "YUSHA - HEAVEN'S GATE",
@@ -141763,13 +140426,7 @@
           "redumpId": 65668,
           "id": "5642-2",
           "upc": "710425473333"
-        }
-      ],
-      "id": 5642
-    },
-    {
-      "name": "BORDERLANDS 2: GAME OF THE YEAR EDITION (TSUIKA CONTENTS DISC)",
-      "gameInstances": [
+        },
         {
           "name": "BORDERLANDS 2: GAME OF THE YEAR EDITION (TSUIKA CONTENTS DISC)",
           "platform": "ps3",
@@ -141779,11 +140436,11 @@
           "tgdbId": 0,
           "redumpId": 102727,
           "releaseDate": "2014-01-16",
-          "id": "5643-1",
+          "id": "5642-3",
           "upc": "4571304473358"
         }
       ],
-      "id": 5643
+      "id": 5642
     },
     {
       "name": "BORDERLANDS TRIPLE PACK (GAMEPLAY DISC)",
@@ -141809,13 +140466,7 @@
           "redumpId": 44706,
           "id": "5644-2",
           "upc": "710425477041"
-        }
-      ],
-      "id": 5644
-    },
-    {
-      "name": "BORDERLANDS TRIPLE PACK (ADD-ON INSTALLATION DISC)",
-      "gameInstances": [
+        },
         {
           "name": "BORDERLANDS TRIPLE PACK (ADD-ON INSTALLATION DISC)",
           "platform": "ps3",
@@ -141824,7 +140475,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpId": 65634,
-          "id": "5645-1"
+          "id": "5644-3"
         },
         {
           "name": "BORDERLANDS TRIPLE PACK (ADD-ON INSTALLATION DISC)",
@@ -141834,11 +140485,11 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpId": 44705,
-          "id": "5645-2",
+          "id": "5644-4",
           "upc": "710425477041"
         }
       ],
-      "id": 5645
+      "id": 5644
     },
     {
       "name": "BORDERLANDS: GAME OF THE YEAR EDITION",
@@ -165582,24 +164233,6 @@
       "id": 6277
     },
     {
-      "name": "J-STARS VICTORY VS",
-      "gameInstances": [
-        {
-          "name": "J-STARS VICTORY VS",
-          "platform": "ps3",
-          "regionalName": "Jスターズ ビクトリーVS",
-          "serial": "BLJS-10258",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 67451,
-          "id": "6278-1",
-          "upc": "4560467042723",
-          "releaseDate": "2014-03-19"
-        }
-      ],
-      "id": 6278
-    },
-    {
       "name": "J-STARS VICTORY VS: ANISON SOUND EDITION",
       "gameInstances": [
         {
@@ -165642,6 +164275,18 @@
           "redumpId": 35486,
           "id": "6280-2",
           "upc": "722674111829"
+        },
+        {
+          "name": "J-STARS VICTORY VS",
+          "platform": "ps3",
+          "regionalName": "Jスターズ ビクトリーVS",
+          "serial": "BLJS-10258",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 67451,
+          "id": "6280-3",
+          "upc": "4560467042723",
+          "releaseDate": "2014-03-19"
         }
       ],
       "id": 6280
@@ -173625,13 +172270,7 @@
           "tgdbId": 0,
           "redumpId": 48127,
           "id": "6505-3"
-        }
-      ],
-      "id": 6505
-    },
-    {
-      "name": "METAL GEAR SOLID: THE LEGACY COLLECTION 1987-2012 (DISC 1)",
-      "gameInstances": [
+        },
         {
           "name": "METAL GEAR SOLID: THE LEGACY COLLECTION 1987-2012 (DISC 1)",
           "platform": "ps3",
@@ -173641,11 +172280,11 @@
           "tgdbId": 0,
           "redumpId": 64352,
           "releaseDate": "2013-07-11",
-          "id": "6506-1",
+          "id": "6505-4",
           "upc": "4988602165425"
         }
       ],
-      "id": 6506
+      "id": 6505
     },
     {
       "name": "METRO: LAST LIGHT",
@@ -175643,37 +174282,25 @@
           "redumpId": 11756,
           "id": "6569-4",
           "upc": "711719815525"
-        }
-      ],
-      "id": 6569
-    },
-    {
-      "name": "MOTORSTORM: PACIFIC RIFT (DISC 1)",
-      "gameInstances": [
+        },
         {
           "name": "MOTORSTORM: PACIFIC RIFT (DISC 1)",
           "platform": "ps3",
           "region": "Europe",
           "tgdbId": 0,
           "redumpId": 133790,
-          "id": "6570-1"
-        }
-      ],
-      "id": 6570
-    },
-    {
-      "name": "MOTORSTORM: PACIFIC RIFT (DISC 2)",
-      "gameInstances": [
+          "id": "6569-5"
+        },
         {
           "name": "MOTORSTORM: PACIFIC RIFT (DISC 2)",
           "platform": "ps3",
           "region": "Europe",
           "tgdbId": 0,
           "redumpId": 133791,
-          "id": "6571-1"
+          "id": "6569-6"
         }
       ],
-      "id": 6571
+      "id": 6569
     },
     {
       "name": "MOTTO ASOBOU: PLAYSTATION MOVE TAIKEN DISC",
@@ -204623,35 +203250,6 @@
       "id": 7505
     },
     {
-      "name": "WATCH DOGS",
-      "gameInstances": [
-        {
-          "name": "WATCH DOGS",
-          "platform": "ps3",
-          "regionalName": "ウォッチドッグス",
-          "language": "[Zh,En,Ja,Ko]",
-          "serial": "BLAS-50718",
-          "region": "Asia",
-          "tgdbId": 0,
-          "redumpId": 33368,
-          "id": "7506-1"
-        },
-        {
-          "name": "WATCH DOGS",
-          "platform": "ps3",
-          "regionalName": "ウォッチドッグス",
-          "language": "[Zh,En,Ja,Ko]",
-          "serial": "BLJM-61054",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 33368,
-          "id": "7506-2",
-          "upc": "4949244003018"
-        }
-      ],
-      "id": 7506
-    },
-    {
       "name": "WATCH_DOGS",
       "gameInstances": [
         {
@@ -204706,6 +203304,29 @@
           "redumpId": 57708,
           "id": "7507-5",
           "upc": "3307215721834"
+        },
+        {
+          "name": "WATCH DOGS",
+          "platform": "ps3",
+          "regionalName": "ウォッチドッグス",
+          "language": "[Zh,En,Ja,Ko]",
+          "serial": "BLAS-50718",
+          "region": "Asia",
+          "tgdbId": 0,
+          "redumpId": 33368,
+          "id": "7507-6"
+        },
+        {
+          "name": "WATCH DOGS",
+          "platform": "ps3",
+          "regionalName": "ウォッチドッグス",
+          "language": "[Zh,En,Ja,Ko]",
+          "serial": "BLJM-61054",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 33368,
+          "id": "7507-7",
+          "upc": "4949244003018"
         }
       ],
       "id": 7507
@@ -207325,13 +205946,7 @@
           "redumpId": 42072,
           "id": "7593-2",
           "upc": "893610001884"
-        }
-      ],
-      "id": 7593
-    },
-    {
-      "name": "XBLAZE: CODE:EMBRYO",
-      "gameInstances": [
+        },
         {
           "name": "XBLAZE: CODE:EMBRYO",
           "platform": "ps3",
@@ -207340,11 +205955,11 @@
           "tgdbId": 0,
           "redumpId": 61106,
           "releaseDate": "2013-07-25",
-          "id": "7594-1",
+          "id": "7593-3",
           "upc": "4510772130103"
         }
       ],
-      "id": 7594
+      "id": 7593
     },
     {
       "name": "XBLAZE: LOST: MEMORIES",
@@ -207359,13 +205974,7 @@
           "redumpId": 37121,
           "id": "7595-1",
           "upc": "865415000119"
-        }
-      ],
-      "id": 7595
-    },
-    {
-      "name": "XBLAZE: LOST:MEMORIES",
-      "gameInstances": [
+        },
         {
           "name": "XBLAZE: LOST:MEMORIES",
           "platform": "ps3",
@@ -207375,11 +205984,11 @@
           "tgdbId": 0,
           "redumpId": 101316,
           "releaseDate": "2015-04-09",
-          "id": "7596-1",
+          "id": "7595-2",
           "upc": "4510772150019"
         }
       ],
-      "id": 7596
+      "id": 7595
     },
     {
       "name": "XCOM: ENEMY UNKNOWN",
