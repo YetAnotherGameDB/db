@@ -2,6 +2,7 @@
   "enums": {
     "platforms": [
       "ps1",
+      "ps2",
       "saturn",
       "snes",
       "ps3",
@@ -9,6 +10,11 @@
     ],
     "regions": {
       "ps1": [
+        "NTSC-J",
+        "NTSC-U",
+        "PAL"
+      ],
+      "ps2": [
         "NTSC-J",
         "NTSC-U",
         "PAL"
@@ -134273,6 +134279,19 @@
           "redumpId": 29905,
           "id": "5488-3",
           "upc": "010086690545"
+        },
+        {
+          "name": "MAX ANARCHY",
+          "platform": "ps3",
+          "regionalName": "マックス・アナーキー",
+          "language": "[En,Fr,It,Ja,Es]",
+          "serial": "BLJM-60305",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 32738,
+          "releaseDate": "2012-07-05",
+          "id": "5488-4",
+          "upc": "4974365835637"
         }
       ],
       "id": 5488
@@ -138597,25 +138616,6 @@
       "id": 5589
     },
     {
-      "name": "BIG 3 GUN SHOOTING",
-      "gameInstances": [
-        {
-          "name": "BIG 3 GUN SHOOTING",
-          "platform": "ps3",
-          "regionalName": "ビッグスリー　ガンシューティング",
-          "language": "[Ja]",
-          "serial": "BLJS-10091",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 88337,
-          "releaseDate": "2010-10-21",
-          "id": "5590-1",
-          "upc": "4582224497560"
-        }
-      ],
-      "id": 5590
-    },
-    {
       "name": "THE BIGS 2",
       "gameInstances": [
         {
@@ -138799,37 +138799,6 @@
         }
       ],
       "id": 5596
-    },
-    {
-      "name": "BIOHAZARD 6",
-      "gameInstances": [
-        {
-          "name": "BIOHAZARD 6",
-          "platform": "ps3",
-          "regionalName": "バイオハザード６",
-          "language": "[En,Fr,De,It,Ja,Pl,Pt,Ru,Es]",
-          "serial": "BLJM-55069",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 28536,
-          "id": "5597-1",
-          "upc": "4976219054119"
-        },
-        {
-          "name": "BIOHAZARD 6",
-          "platform": "ps3",
-          "regionalName": "バイオハザード６",
-          "language": "[En,Fr,De,It,Ja,Pl,Pt,Ru,Es]",
-          "serial": "BLJM-60405",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 28536,
-          "releaseDate": "2012-10-04",
-          "id": "5597-2",
-          "upc": "4976219042901"
-        }
-      ],
-      "id": 5597
     },
     {
       "name": "BIOHAZARD ZERO: HD REMASTER",
@@ -143724,24 +143693,6 @@
       "id": 5712
     },
     {
-      "name": "CHIKYUU BOUEIGUN 4",
-      "gameInstances": [
-        {
-          "name": "CHIKYUU BOUEIGUN 4",
-          "platform": "ps3",
-          "regionalName": "地球防衛軍４",
-          "serial": "BLJS-10209",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 67447,
-          "releaseDate": "2013-07-04",
-          "id": "5713-1",
-          "upc": "4527823997042"
-        }
-      ],
-      "id": 5713
-    },
-    {
       "name": "CHILD OF EDEN",
       "gameInstances": [
         {
@@ -148155,59 +148106,6 @@
       "id": 5834
     },
     {
-      "name": "DISGAEA D2",
-      "gameInstances": [
-        {
-          "name": "DISGAEA D2",
-          "platform": "ps3",
-          "regionalName": "ディスガイア　ディメンション２",
-          "language": "[Ja]",
-          "serial": "BCAS-20274",
-          "region": "Asia",
-          "tgdbId": 0,
-          "redumpId": 58426,
-          "id": "5835-1"
-        },
-        {
-          "name": "DISGAEA D2",
-          "platform": "ps3",
-          "regionalName": "ディスガイア　ディメンション２",
-          "language": "[Ja]",
-          "serial": "BLJS-10205",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 58426,
-          "id": "5835-2",
-          "upc": "4995506002077"
-        },
-        {
-          "name": "DISGAEA D2",
-          "platform": "ps3",
-          "regionalName": "ディスガイア　ディメンション２",
-          "language": "[Ja]",
-          "serial": "BLJS-10206",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 58426,
-          "id": "5835-3",
-          "upc": "4995506002084"
-        },
-        {
-          "name": "DISGAEA D2",
-          "platform": "ps3",
-          "regionalName": "디스가이아 디멘션 2",
-          "language": "[Zh,Ko]",
-          "serial": "BCKS-10264",
-          "region": "Korea",
-          "tgdbId": 0,
-          "redumpId": 101731,
-          "id": "5835-4",
-          "upc": "8809338092563"
-        }
-      ],
-      "id": 5835
-    },
-    {
       "name": "DISGAEA D2: A BRIGHTER DARKNESS",
       "gameInstances": [
         {
@@ -148230,6 +148128,53 @@
           "redumpId": 30414,
           "id": "5836-2",
           "upc": "813633012810"
+        },
+        {
+          "name": "DISGAEA D2",
+          "platform": "ps3",
+          "regionalName": "ディスガイア　ディメンション２",
+          "language": "[Ja]",
+          "serial": "BCAS-20274",
+          "region": "Asia",
+          "tgdbId": 0,
+          "redumpId": 58426,
+          "id": "5836-3"
+        },
+        {
+          "name": "DISGAEA D2",
+          "platform": "ps3",
+          "regionalName": "ディスガイア　ディメンション２",
+          "language": "[Ja]",
+          "serial": "BLJS-10205",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 58426,
+          "id": "5836-4",
+          "upc": "4995506002077"
+        },
+        {
+          "name": "DISGAEA D2",
+          "platform": "ps3",
+          "regionalName": "ディスガイア　ディメンション２",
+          "language": "[Ja]",
+          "serial": "BLJS-10206",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 58426,
+          "id": "5836-5",
+          "upc": "4995506002084"
+        },
+        {
+          "name": "DISGAEA D2",
+          "platform": "ps3",
+          "regionalName": "디스가이아 디멘션 2",
+          "language": "[Zh,Ko]",
+          "serial": "BCKS-10264",
+          "region": "Korea",
+          "tgdbId": 0,
+          "redumpId": 101731,
+          "id": "5836-6",
+          "upc": "8809338092563"
         }
       ],
       "id": 5836
@@ -150044,36 +149989,6 @@
       "id": 5882
     },
     {
-      "name": "DRAG-ON DRAGOON 3",
-      "gameInstances": [
-        {
-          "name": "DRAG-ON DRAGOON 3",
-          "platform": "ps3",
-          "regionalName": "誓血龍騎士３",
-          "language": "[Zh]",
-          "serial": "BCAS-20311",
-          "region": "Asia",
-          "tgdbId": 0,
-          "redumpId": 33315,
-          "id": "5883-1",
-          "upc": "4948872963091"
-        },
-        {
-          "name": "DRAG-ON DRAGOON 3",
-          "platform": "ps3",
-          "regionalName": "ドラッグ　オン　ドラグーン３",
-          "serial": "BLJM-61043",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 60415,
-          "releaseDate": "2013-12-19",
-          "id": "5883-2",
-          "upc": "4988601007832"
-        }
-      ],
-      "id": 5883
-    },
-    {
       "name": "DRAGON AGE II",
       "gameInstances": [
         {
@@ -150957,6 +150872,30 @@
           "redumpId": 33743,
           "id": "5905-1",
           "upc": "662248913872"
+        },
+        {
+          "name": "DRAG-ON DRAGOON 3",
+          "platform": "ps3",
+          "regionalName": "誓血龍騎士３",
+          "language": "[Zh]",
+          "serial": "BCAS-20311",
+          "region": "Asia",
+          "tgdbId": 0,
+          "redumpId": 33315,
+          "id": "5905-2",
+          "upc": "4948872963091"
+        },
+        {
+          "name": "DRAG-ON DRAGOON 3",
+          "platform": "ps3",
+          "regionalName": "ドラッグ　オン　ドラグーン３",
+          "serial": "BLJM-61043",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 60415,
+          "releaseDate": "2013-12-19",
+          "id": "5905-3",
+          "upc": "4988601007832"
         }
       ],
       "id": 5905
@@ -152090,6 +152029,29 @@
           "tgdbId": 0,
           "redumpId": 28487,
           "id": "5943-3"
+        },
+        {
+          "name": "GUNDAM MUSOU 3",
+          "platform": "ps3",
+          "regionalName": "ガンダム無双３",
+          "language": "[Ja]",
+          "serial": "BLAS-50289",
+          "region": "Asia",
+          "tgdbId": 0,
+          "redumpId": 32704,
+          "id": "5943-4"
+        },
+        {
+          "name": "GUNDAM MUSOU 3",
+          "platform": "ps3",
+          "regionalName": "ガンダム無双３",
+          "language": "[Ja]",
+          "serial": "BLJM-60300",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 32704,
+          "id": "5943-5",
+          "upc": "4582224493876"
         }
       ],
       "id": 5943
@@ -152276,6 +152238,18 @@
           "redumpId": 35009,
           "id": "5951-2",
           "upc": "879278001411"
+        },
+        {
+          "name": "CHIKYUU BOUEIGUN 4",
+          "platform": "ps3",
+          "regionalName": "地球防衛軍４",
+          "serial": "BLJS-10209",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 67447,
+          "releaseDate": "2013-07-04",
+          "id": "5951-3",
+          "upc": "4527823997042"
         }
       ],
       "id": 5951
@@ -153568,6 +153542,19 @@
           "tgdbId": 0,
           "redumpId": 39765,
           "id": "5989-6"
+        },
+        {
+          "name": "PSYCHO BREAK",
+          "platform": "ps3",
+          "regionalName": "サイコブレイク",
+          "language": "[En,Ja]",
+          "serial": "BLJM-61235",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 91596,
+          "releaseDate": "2014-10-23",
+          "id": "5989-7",
+          "upc": "4562226430758"
         }
       ],
       "id": 5989
@@ -160355,6 +160342,26 @@
           "tgdbId": 0,
           "redumpId": 29426,
           "id": "6145-3"
+        },
+        {
+          "name": "RACE DRIVER: GRID 2",
+          "platform": "ps3",
+          "serial": "BLJM-60559",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 99543,
+          "id": "6145-4",
+          "upc": "4562271970452"
+        },
+        {
+          "name": "RACE DRIVER: GRID 2",
+          "platform": "ps3",
+          "serial": "BLJM-61185",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 99543,
+          "id": "6145-5",
+          "upc": "4562271970506"
         }
       ],
       "id": 6145
@@ -161037,35 +161044,6 @@
         }
       ],
       "id": 6168
-    },
-    {
-      "name": "GUNDAM MUSOU 3",
-      "gameInstances": [
-        {
-          "name": "GUNDAM MUSOU 3",
-          "platform": "ps3",
-          "regionalName": "ガンダム無双３",
-          "language": "[Ja]",
-          "serial": "BLAS-50289",
-          "region": "Asia",
-          "tgdbId": 0,
-          "redumpId": 32704,
-          "id": "6169-1"
-        },
-        {
-          "name": "GUNDAM MUSOU 3",
-          "platform": "ps3",
-          "regionalName": "ガンダム無双３",
-          "language": "[Ja]",
-          "serial": "BLJM-60300",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 32704,
-          "id": "6169-2",
-          "upc": "4582224493876"
-        }
-      ],
-      "id": 6169
     },
     {
       "name": "GUNDAM MUSSANG",
@@ -165777,48 +165755,6 @@
       "id": 6336
     },
     {
-      "name": "KATAMARI DAMACY TRIBUTE",
-      "gameInstances": [
-        {
-          "name": "KATAMARI DAMACY TRIBUTE",
-          "platform": "ps3",
-          "regionalName": "塊魂ＴＲＩＢＵＴＥ",
-          "language": "[Ja]",
-          "serial": "BCAS-20080",
-          "region": "Asia",
-          "tgdbId": 0,
-          "redumpId": 61219,
-          "id": "6337-1"
-        },
-        {
-          "name": "KATAMARI DAMACY TRIBUTE",
-          "platform": "ps3",
-          "regionalName": "塊魂ＴＲＩＢＵＴＥ",
-          "language": "[Ja]",
-          "serial": "BLJS-10047",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 61219,
-          "id": "6337-2",
-          "releaseDate": "2009-07-23",
-          "upc": "4582224497041"
-        },
-        {
-          "name": "KATAMARI DAMACY TRIBUTE",
-          "platform": "ps3",
-          "regionalName": "塊魂ＴＲＩＢＵＴＥ",
-          "language": "[Ja]",
-          "serial": "BLJS-50013",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 61219,
-          "id": "6337-3",
-          "upc": "4582224497386"
-        }
-      ],
-      "id": 6337
-    },
-    {
       "name": "KATAMARI FOREVER",
       "gameInstances": [
         {
@@ -165851,6 +165787,42 @@
           "tgdbId": 0,
           "redumpId": 30114,
           "id": "6338-3"
+        },
+        {
+          "name": "KATAMARI DAMACY TRIBUTE",
+          "platform": "ps3",
+          "regionalName": "塊魂ＴＲＩＢＵＴＥ",
+          "language": "[Ja]",
+          "serial": "BCAS-20080",
+          "region": "Asia",
+          "tgdbId": 0,
+          "redumpId": 61219,
+          "id": "6338-4"
+        },
+        {
+          "name": "KATAMARI DAMACY TRIBUTE",
+          "platform": "ps3",
+          "regionalName": "塊魂ＴＲＩＢＵＴＥ",
+          "language": "[Ja]",
+          "serial": "BLJS-10047",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 61219,
+          "id": "6338-5",
+          "releaseDate": "2009-07-23",
+          "upc": "4582224497041"
+        },
+        {
+          "name": "KATAMARI DAMACY TRIBUTE",
+          "platform": "ps3",
+          "regionalName": "塊魂ＴＲＩＢＵＴＥ",
+          "language": "[Ja]",
+          "serial": "BLJS-50013",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 61219,
+          "id": "6338-6",
+          "upc": "4582224497386"
         }
       ],
       "id": 6338
@@ -171283,24 +171255,6 @@
       "id": 6479
     },
     {
-      "name": "MATO KURENAI YUUGEKITAI",
-      "gameInstances": [
-        {
-          "name": "MATO KURENAI YUUGEKITAI",
-          "platform": "ps3",
-          "regionalName": "魔都紅色幽撃隊",
-          "serial": "BLJS-10265",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 99453,
-          "releaseDate": "2014-04-10",
-          "id": "6480-1",
-          "upc": "4510772140027"
-        }
-      ],
-      "id": 6480
-    },
-    {
       "name": "MATO KURENAI YUUGEKITAI: DAYBREAK SPECIAL GIGS",
       "gameInstances": [
         {
@@ -171317,25 +171271,6 @@
         }
       ],
       "id": 6481
-    },
-    {
-      "name": "MAX ANARCHY",
-      "gameInstances": [
-        {
-          "name": "MAX ANARCHY",
-          "platform": "ps3",
-          "regionalName": "マックス・アナーキー",
-          "language": "[En,Fr,It,Ja,Es]",
-          "serial": "BLJM-60305",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 32738,
-          "releaseDate": "2012-07-05",
-          "id": "6482-1",
-          "upc": "4974365835637"
-        }
-      ],
-      "id": 6482
     },
     {
       "name": "MAX PAYNE 3",
@@ -174627,35 +174562,6 @@
         }
       ],
       "id": 6584
-    },
-    {
-      "name": "MUSOU OROCHI 2",
-      "gameInstances": [
-        {
-          "name": "MUSOU OROCHI 2",
-          "platform": "ps3",
-          "regionalName": "無双ＯＲＯＣＨＩ２",
-          "language": "[Ja]",
-          "serial": "BLJM-60417",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 33299,
-          "id": "6585-1",
-          "upc": "4988615040436"
-        },
-        {
-          "name": "MUSOU OROCHI 2",
-          "platform": "ps3",
-          "regionalName": "無双ＯＲＯＣＨＩ２",
-          "language": "[Ja]",
-          "serial": "BLKS-20346",
-          "region": "Korea",
-          "tgdbId": 0,
-          "redumpId": 33299,
-          "id": "6585-2"
-        }
-      ],
-      "id": 6585
     },
     {
       "name": "MUSOU OROCHI 2 ULTIMATE",
@@ -178680,13 +178586,7 @@
           "redumpId": 27811,
           "id": "6706-2",
           "upc": "083717202196"
-        }
-      ],
-      "id": 6706
-    },
-    {
-      "name": "NO MORE HEROES: RED ZONE EDITION",
-      "gameInstances": [
+        },
         {
           "name": "NO MORE HEROES: RED ZONE EDITION",
           "platform": "ps3",
@@ -178696,7 +178596,7 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 74142,
-          "id": "6707-1",
+          "id": "6706-3",
           "upc": "4535506301819",
           "releaseDate": "2011-07-21"
         },
@@ -178710,11 +178610,11 @@
           "tgdbId": 0,
           "redumpId": 96713,
           "releaseDate": "2012-08-23",
-          "id": "6707-2",
+          "id": "6706-4",
           "upc": "4535506301987"
         }
       ],
-      "id": 6707
+      "id": 6706
     },
     {
       "name": "NOBUNAGA NO YABOU ONLINE: 10 SHUUNEN KINEN BOX",
@@ -181303,6 +181203,42 @@
           "redumpId": 33812,
           "id": "6837-2",
           "upc": "730865001538"
+        },
+        {
+          "name": "PERSONA 4: THE ULTIMAX ULTRA SUPLEX HOLD",
+          "platform": "ps3",
+          "regionalName": "ペルソナ４　ジ・アルティマックス　ウルトラスープレックスホールド",
+          "language": "[Ja]",
+          "serial": "BLJM-61209",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 61296,
+          "releaseDate": "2014-08-28",
+          "id": "6837-3",
+          "upc": "4984995900933"
+        },
+        {
+          "name": "PERSONA 4: THE ULTIMAX ULTRA SUPLEX HOLD",
+          "platform": "ps3",
+          "regionalName": "ペルソナ４　ジ・アルティマックス　ウルトラスープレックスホールド",
+          "language": "[Ja]",
+          "serial": "BLJM-61226",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 61296,
+          "id": "6837-4",
+          "upc": "4984995900971"
+        },
+        {
+          "name": "PERSONA 4: THE ULTIMAX ULTRA SUPLEX HOLD",
+          "platform": "ps3",
+          "regionalName": "여신전생 페르소나 4 The ULTIMAX ULTRA SUPLEX HOLD",
+          "serial": "BCKS-10284",
+          "region": "Korea",
+          "tgdbId": 0,
+          "redumpId": 119891,
+          "id": "6837-5",
+          "upc": "8809338094574"
         }
       ],
       "id": 6837
@@ -181325,48 +181261,6 @@
         }
       ],
       "id": 6838
-    },
-    {
-      "name": "PERSONA 4: THE ULTIMAX ULTRA SUPLEX HOLD",
-      "gameInstances": [
-        {
-          "name": "PERSONA 4: THE ULTIMAX ULTRA SUPLEX HOLD",
-          "platform": "ps3",
-          "regionalName": "ペルソナ４　ジ・アルティマックス　ウルトラスープレックスホールド",
-          "language": "[Ja]",
-          "serial": "BLJM-61209",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 61296,
-          "releaseDate": "2014-08-28",
-          "id": "6839-1",
-          "upc": "4984995900933"
-        },
-        {
-          "name": "PERSONA 4: THE ULTIMAX ULTRA SUPLEX HOLD",
-          "platform": "ps3",
-          "regionalName": "ペルソナ４　ジ・アルティマックス　ウルトラスープレックスホールド",
-          "language": "[Ja]",
-          "serial": "BLJM-61226",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 61296,
-          "id": "6839-2",
-          "upc": "4984995900971"
-        },
-        {
-          "name": "PERSONA 4: THE ULTIMAX ULTRA SUPLEX HOLD",
-          "platform": "ps3",
-          "regionalName": "여신전생 페르소나 4 The ULTIMAX ULTRA SUPLEX HOLD",
-          "serial": "BCKS-10284",
-          "region": "Korea",
-          "tgdbId": 0,
-          "redumpId": 119891,
-          "id": "6839-3",
-          "upc": "8809338094574"
-        }
-      ],
-      "id": 6839
     },
     {
       "name": "PERSONA 5",
@@ -183539,25 +183433,6 @@
       "id": 6918
     },
     {
-      "name": "PSYCHO BREAK",
-      "gameInstances": [
-        {
-          "name": "PSYCHO BREAK",
-          "platform": "ps3",
-          "regionalName": "サイコブレイク",
-          "language": "[En,Ja]",
-          "serial": "BLJM-61235",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 91596,
-          "releaseDate": "2014-10-23",
-          "id": "6919-1",
-          "upc": "4562226430758"
-        }
-      ],
-      "id": 6919
-    },
-    {
       "name": "PUPPETEER",
       "gameInstances": [
         {
@@ -183902,32 +183777,6 @@
         }
       ],
       "id": 6930
-    },
-    {
-      "name": "RACE DRIVER: GRID 2",
-      "gameInstances": [
-        {
-          "name": "RACE DRIVER: GRID 2",
-          "platform": "ps3",
-          "serial": "BLJM-60559",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 99543,
-          "id": "6931-1",
-          "upc": "4562271970452"
-        },
-        {
-          "name": "RACE DRIVER: GRID 2",
-          "platform": "ps3",
-          "serial": "BLJM-61185",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 99543,
-          "id": "6931-2",
-          "upc": "4562271970506"
-        }
-      ],
-      "id": 6931
     },
     {
       "name": "RACKET SPORTS",
@@ -185780,6 +185629,31 @@
           "tgdbId": 0,
           "redumpId": 28514,
           "id": "6977-7"
+        },
+        {
+          "name": "BIOHAZARD 6",
+          "platform": "ps3",
+          "regionalName": "バイオハザード６",
+          "language": "[En,Fr,De,It,Ja,Pl,Pt,Ru,Es]",
+          "serial": "BLJM-55069",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 28536,
+          "id": "6977-8",
+          "upc": "4976219054119"
+        },
+        {
+          "name": "BIOHAZARD 6",
+          "platform": "ps3",
+          "regionalName": "バイオハザード６",
+          "language": "[En,Fr,De,It,Ja,Pl,Pt,Ru,Es]",
+          "serial": "BLJM-60405",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 28536,
+          "releaseDate": "2012-10-04",
+          "id": "6977-9",
+          "upc": "4976219042901"
         }
       ],
       "id": 6977
@@ -187979,35 +187853,6 @@
       "id": 7045
     },
     {
-      "name": "SAINT SEIYA SENKI",
-      "gameInstances": [
-        {
-          "name": "SAINT SEIYA SENKI",
-          "platform": "ps3",
-          "regionalName": "聖闘士星矢戦記",
-          "language": "[Ja]",
-          "serial": "BLAS-50574",
-          "region": "Asia",
-          "tgdbId": 0,
-          "redumpId": 91506,
-          "id": "7046-1"
-        },
-        {
-          "name": "SAINT SEIYA SENKI",
-          "platform": "ps3",
-          "regionalName": "聖闘士星矢戦記",
-          "language": "[Ja]",
-          "serial": "BLJS-10152",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 91506,
-          "id": "7046-2",
-          "upc": "4582224494392"
-        }
-      ],
-      "id": 7046
-    },
-    {
       "name": "SAINT SEIYA: BRAVE SOLDIERS",
       "gameInstances": [
         {
@@ -188075,6 +187920,29 @@
           "tgdbId": 0,
           "redumpId": 63387,
           "id": "7049-2"
+        },
+        {
+          "name": "SAINT SEIYA SENKI",
+          "platform": "ps3",
+          "regionalName": "聖闘士星矢戦記",
+          "language": "[Ja]",
+          "serial": "BLAS-50574",
+          "region": "Asia",
+          "tgdbId": 0,
+          "redumpId": 91506,
+          "id": "7049-3"
+        },
+        {
+          "name": "SAINT SEIYA SENKI",
+          "platform": "ps3",
+          "regionalName": "聖闘士星矢戦記",
+          "language": "[Ja]",
+          "serial": "BLJS-10152",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 91506,
+          "id": "7049-4",
+          "upc": "4582224494392"
         }
       ],
       "id": 7049
@@ -189331,80 +189199,6 @@
       "id": 7096
     },
     {
-      "name": "SENGOKU BASARA 3",
-      "gameInstances": [
-        {
-          "name": "SENGOKU BASARA 3",
-          "platform": "ps3",
-          "regionalName": "戦国ＢＡＳＡＲＡ３",
-          "language": "[Ja]",
-          "serial": "BLAS-50220",
-          "region": "Asia",
-          "tgdbId": 0,
-          "redumpId": 31224,
-          "id": "7097-1"
-        },
-        {
-          "name": "SENGOKU BASARA 3",
-          "platform": "ps3",
-          "regionalName": "戦国ＢＡＳＡＲＡ３",
-          "language": "[Ja]",
-          "serial": "BLAS-50345",
-          "region": "Asia",
-          "tgdbId": 0,
-          "redumpId": 31224,
-          "id": "7097-2"
-        },
-        {
-          "name": "SENGOKU BASARA 3",
-          "platform": "ps3",
-          "regionalName": "戦国ＢＡＳＡＲＡ３",
-          "language": "[Ja]",
-          "serial": "BLAS-50475",
-          "region": "Asia",
-          "tgdbId": 0,
-          "redumpId": 31224,
-          "id": "7097-3"
-        },
-        {
-          "name": "SENGOKU BASARA 3",
-          "platform": "ps3",
-          "regionalName": "戦国ＢＡＳＡＲＡ３",
-          "language": "[Ja]",
-          "serial": "BLJM-55033",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 31224,
-          "id": "7097-4",
-          "upc": "4976219038416"
-        },
-        {
-          "name": "SENGOKU BASARA 3",
-          "platform": "ps3",
-          "regionalName": "戦国ＢＡＳＡＲＡ３",
-          "language": "[Ja]",
-          "serial": "BLJM-60218",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 31224,
-          "id": "7097-5",
-          "upc": "4976219034098"
-        },
-        {
-          "name": "SENGOKU BASARA 3",
-          "platform": "ps3",
-          "regionalName": "戦国ＢＡＳＡＲＡ３",
-          "language": "[Ja]",
-          "serial": "BLKS-20205",
-          "region": "Korea",
-          "tgdbId": 0,
-          "redumpId": 31224,
-          "id": "7097-6"
-        }
-      ],
-      "id": 7097
-    },
-    {
       "name": "SENGOKU BASARA 3: UTAGE",
       "gameInstances": [
         {
@@ -189556,6 +189350,74 @@
           "tgdbId": 0,
           "redumpId": 39175,
           "id": "7102-3"
+        },
+        {
+          "name": "SENGOKU BASARA 3",
+          "platform": "ps3",
+          "regionalName": "戦国ＢＡＳＡＲＡ３",
+          "language": "[Ja]",
+          "serial": "BLAS-50220",
+          "region": "Asia",
+          "tgdbId": 0,
+          "redumpId": 31224,
+          "id": "7102-4"
+        },
+        {
+          "name": "SENGOKU BASARA 3",
+          "platform": "ps3",
+          "regionalName": "戦国ＢＡＳＡＲＡ３",
+          "language": "[Ja]",
+          "serial": "BLAS-50345",
+          "region": "Asia",
+          "tgdbId": 0,
+          "redumpId": 31224,
+          "id": "7102-5"
+        },
+        {
+          "name": "SENGOKU BASARA 3",
+          "platform": "ps3",
+          "regionalName": "戦国ＢＡＳＡＲＡ３",
+          "language": "[Ja]",
+          "serial": "BLAS-50475",
+          "region": "Asia",
+          "tgdbId": 0,
+          "redumpId": 31224,
+          "id": "7102-6"
+        },
+        {
+          "name": "SENGOKU BASARA 3",
+          "platform": "ps3",
+          "regionalName": "戦国ＢＡＳＡＲＡ３",
+          "language": "[Ja]",
+          "serial": "BLJM-55033",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 31224,
+          "id": "7102-7",
+          "upc": "4976219038416"
+        },
+        {
+          "name": "SENGOKU BASARA 3",
+          "platform": "ps3",
+          "regionalName": "戦国ＢＡＳＡＲＡ３",
+          "language": "[Ja]",
+          "serial": "BLJM-60218",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 31224,
+          "id": "7102-8",
+          "upc": "4976219034098"
+        },
+        {
+          "name": "SENGOKU BASARA 3",
+          "platform": "ps3",
+          "regionalName": "戦国ＢＡＳＡＲＡ３",
+          "language": "[Ja]",
+          "serial": "BLKS-20205",
+          "region": "Korea",
+          "tgdbId": 0,
+          "redumpId": 31224,
+          "id": "7102-9"
         }
       ],
       "id": 7102
@@ -192898,13 +192760,7 @@
           "tgdbId": 0,
           "redumpId": 36065,
           "id": "7226-1"
-        }
-      ],
-      "id": 7226
-    },
-    {
-      "name": "SIREN: NEW TRANSLATION",
-      "gameInstances": [
+        },
         {
           "name": "SIREN: NEW TRANSLATION",
           "platform": "ps3",
@@ -192913,7 +192769,7 @@
           "region": "Asia",
           "tgdbId": 0,
           "redumpId": 84351,
-          "id": "7227-1",
+          "id": "7226-2",
           "releaseDate": "2008-07-24"
         },
         {
@@ -192924,7 +192780,7 @@
           "region": "Asia",
           "tgdbId": 0,
           "redumpId": 84351,
-          "id": "7227-2",
+          "id": "7226-3",
           "releaseDate": "2009-07-09"
         },
         {
@@ -192936,7 +192792,7 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 34092,
-          "id": "7227-3",
+          "id": "7226-4",
           "releaseDate": "2008-07-24",
           "upc": "4948872730204"
         },
@@ -192949,12 +192805,12 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 34092,
-          "id": "7227-4",
+          "id": "7226-5",
           "upc": "4948872850063",
           "releaseDate": "2009-07-09"
         }
       ],
-      "id": 7227
+      "id": 7226
     },
     {
       "name": "SKATE 2",
@@ -194394,13 +194250,7 @@
           "tgdbId": 0,
           "redumpId": 12256,
           "id": "7264-4"
-        }
-      ],
-      "id": 7264
-    },
-    {
-      "name": "SONIC WORLD ADVENTURE",
-      "gameInstances": [
+        },
         {
           "name": "SONIC WORLD ADVENTURE",
           "platform": "ps3",
@@ -194410,12 +194260,12 @@
           "region": "Japan",
           "tgdbId": 0,
           "redumpId": 81581,
-          "id": "7265-1",
+          "id": "7264-5",
           "upc": "4974365835286",
           "releaseDate": "2009-02-19"
         }
       ],
-      "id": 7265
+      "id": 7264
     },
     {
       "name": "SONIC'S ULTIMATE GENESIS COLLECTION",
@@ -198396,6 +198246,19 @@
           "redumpId": 40133,
           "id": "7374-4",
           "upc": "4710841415869"
+        },
+        {
+          "name": "BIG 3 GUN SHOOTING",
+          "platform": "ps3",
+          "regionalName": "ビッグスリー　ガンシューティング",
+          "language": "[Ja]",
+          "serial": "BLJS-10091",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 88337,
+          "releaseDate": "2010-10-21",
+          "id": "7374-5",
+          "upc": "4582224497560"
         }
       ],
       "id": 7374
@@ -198633,6 +198496,18 @@
           "redumpId": 35727,
           "id": "7381-2",
           "upc": "893610001945"
+        },
+        {
+          "name": "MATO KURENAI YUUGEKITAI",
+          "platform": "ps3",
+          "regionalName": "魔都紅色幽撃隊",
+          "serial": "BLJS-10265",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 99453,
+          "releaseDate": "2014-04-10",
+          "id": "7381-3",
+          "upc": "4510772140027"
         }
       ],
       "id": 7381
@@ -203218,6 +203093,29 @@
           "redumpId": 59402,
           "id": "7504-1",
           "upc": "5060073308811"
+        },
+        {
+          "name": "MUSOU OROCHI 2",
+          "platform": "ps3",
+          "regionalName": "無双ＯＲＯＣＨＩ２",
+          "language": "[Ja]",
+          "serial": "BLJM-60417",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 33299,
+          "id": "7504-2",
+          "upc": "4988615040436"
+        },
+        {
+          "name": "MUSOU OROCHI 2",
+          "platform": "ps3",
+          "regionalName": "無双ＯＲＯＣＨＩ２",
+          "language": "[Ja]",
+          "serial": "BLKS-20346",
+          "region": "Korea",
+          "tgdbId": 0,
+          "redumpId": 33299,
+          "id": "7504-3"
         }
       ],
       "id": 7504
@@ -206463,6 +206361,188 @@
         }
       ],
       "id": 7612
+    },
+    {
+      "name": "RATCHET & CLANK",
+      "gameInstances": [
+        {
+          "name": "RATCHET & CLANK",
+          "platform": "ps2",
+          "language": "[En]",
+          "serial": "SCUS-97199",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "releaseDate": "2002-11-04",
+          "id": "7613-1"
+        },
+        {
+          "name": "RATCHET & CLANK",
+          "platform": "ps2",
+          "language": "[En,Fr,De,Es,It]",
+          "serial": "SCES-50916",
+          "region": "PAL",
+          "tgdbId": 0,
+          "releaseDate": "2002-11-08",
+          "id": "7613-2"
+        },
+        {
+          "name": "RATCHET & CLANK",
+          "platform": "ps2",
+          "language": "[Ja]",
+          "serial": "SCAJ-20001",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "regionalName": "ラチェット&クランク",
+          "releaseDate": "2002-12-03",
+          "id": "7613-3"
+        }
+      ],
+      "id": 7613
+    },
+    {
+      "name": "RATCHET & CLANK: GOING COMMANDO",
+      "gameInstances": [
+        {
+          "name": "RATCHET & CLANK: GOING COMMANDO",
+          "platform": "ps2",
+          "language": "[En]",
+          "serial": "SCUS-97268",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "releaseDate": "2003-11-11",
+          "id": "7614-1"
+        },
+        {
+          "name": "RATCHET & CLANK 2",
+          "platform": "ps2",
+          "language": "[En,Fr,De,Es,It]",
+          "serial": "SCES-51607",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "7614-2"
+        },
+        {
+          "name": "RATCHET & CLANK 2",
+          "platform": "ps2",
+          "language": "[Ja]",
+          "serial": "SCAJ-20052",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "regionalName": "ラチェット&クランク2 ガガガ!銀河のコマンドーっす",
+          "id": "7614-3"
+        }
+      ],
+      "id": 7614
+    },
+    {
+      "name": "RATCHET & CLANK: UP YOUR ARSENAL",
+      "gameInstances": [
+        {
+          "name": "RATCHET & CLANK: UP YOUR ARSENAL",
+          "platform": "ps2",
+          "language": "[En]",
+          "serial": "SCUS-97353",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "releaseDate": "2004-11-03",
+          "id": "7615-1"
+        },
+        {
+          "name": "RATCHET & CLANK 3",
+          "platform": "ps2",
+          "language": "[En,Fr,De,Es,It]",
+          "serial": "SCES-52456",
+          "region": "PAL",
+          "tgdbId": 0,
+          "releaseDate": "2004-11-12",
+          "id": "7615-2"
+        },
+        {
+          "name": "RATCHET & CLANK 3",
+          "platform": "ps2",
+          "language": "[Ja]",
+          "serial": "SCPS-15084",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "regionalName": "ラチェット&クランク3 突撃!ガラクチック★レンジャーズ",
+          "releaseDate": "2004-11-25",
+          "id": "7615-3"
+        }
+      ],
+      "id": 7615
+    },
+    {
+      "name": "GOD OF WAR",
+      "gameInstances": [
+        {
+          "name": "GOD OF WAR",
+          "platform": "ps2",
+          "language": "[En]",
+          "serial": "SCUS-97399",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "releaseDate": "2005-03-22",
+          "id": "7616-1"
+        },
+        {
+          "name": "GOD OF WAR",
+          "platform": "ps2",
+          "language": "[En,Fr,De,It,Es]",
+          "serial": "SCES-53133",
+          "region": "PAL",
+          "tgdbId": 0,
+          "releaseDate": "2005-07-08",
+          "id": "7616-2"
+        },
+        {
+          "name": "GOD OF WAR",
+          "platform": "ps2",
+          "language": "[Ja]",
+          "serial": "SLPM-67010",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "regionalName": "ゴッド・オブ・ウォー",
+          "releaseDate": "2005-11-17",
+          "id": "7616-3"
+        }
+      ],
+      "id": 7616
+    },
+    {
+      "name": "GOD OF WAR II",
+      "gameInstances": [
+        {
+          "name": "GOD OF WAR II",
+          "platform": "ps2",
+          "language": "[En]",
+          "serial": "SCUS-97481",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "releaseDate": "2007-03-13",
+          "id": "7617-1"
+        },
+        {
+          "name": "GOD OF WAR II",
+          "platform": "ps2",
+          "language": "[En,Fr,De,It,Es]",
+          "serial": "SCES-54206",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "7617-2"
+        },
+        {
+          "name": "GOD OF WAR II",
+          "platform": "ps2",
+          "language": "[Ja]",
+          "serial": "SLPM-67013",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "regionalName": "ゴッド・オブ・ウォーII 終焉への序曲",
+          "releaseDate": "2007-10-25",
+          "id": "7617-3"
+        }
+      ],
+      "id": 7617
     }
   ]
 }
