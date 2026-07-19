@@ -158649,126 +158649,6 @@
       "id": 6114
     },
     {
-      "name": "GOD OF WAR COLLECTION",
-      "gameInstances": [
-        {
-          "name": "GOD OF WAR COLLECTION",
-          "platform": "ps3",
-          "language": "[En,Fr,De,It,Ru,Es]",
-          "serial": "BCES-00791",
-          "region": "Europe",
-          "tgdbId": 0,
-          "redumpId": 28545,
-          "id": "6115-1"
-        },
-        {
-          "name": "GOD OF WAR COLLECTION",
-          "platform": "ps3",
-          "language": "[En,Fr,De,It,Ru,Es]",
-          "serial": "BCES-00791/E/EXP",
-          "region": "Europe",
-          "tgdbId": 0,
-          "redumpId": 28545,
-          "id": "6115-2"
-        },
-        {
-          "name": "GOD OF WAR COLLECTION",
-          "platform": "ps3",
-          "language": "[En,Fr,De,It,Ru,Es]",
-          "serial": "BCES-00791/E/RSC",
-          "region": "Europe",
-          "tgdbId": 0,
-          "redumpId": 28545,
-          "id": "6115-3"
-        },
-        {
-          "name": "GOD OF WAR COLLECTION",
-          "platform": "ps3",
-          "language": "[En,Fr,De,It,Ru,Es]",
-          "serial": "BCES-00791/RUS",
-          "region": "Europe",
-          "tgdbId": 0,
-          "redumpId": 28545,
-          "id": "6115-4"
-        },
-        {
-          "name": "GOD OF WAR COLLECTION",
-          "platform": "ps3",
-          "language": "[En,Fr,De,It,Ru,Es]",
-          "serial": "BCUS-98253",
-          "region": "North America",
-          "tgdbId": 0,
-          "redumpId": 28545,
-          "id": "6115-5"
-        },
-        {
-          "name": "GOD OF WAR COLLECTION",
-          "platform": "ps3",
-          "regionalName": "ゴッド・オブ・ウォー コレクション",
-          "language": "[Ja]",
-          "serial": "BLJM-60200",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 60458,
-          "id": "6115-6",
-          "upc": "4976219033732",
-          "releaseDate": "2010-03-18"
-        },
-        {
-          "name": "GOD OF WAR COLLECTION",
-          "platform": "ps3",
-          "language": "[En]",
-          "serial": "BCAS-20102",
-          "region": "Asia",
-          "tgdbId": 0,
-          "redumpId": 10885,
-          "id": "6115-7"
-        },
-        {
-          "name": "GOD OF WAR COLLECTION",
-          "platform": "ps3",
-          "language": "[En]",
-          "serial": "BCKS-10093",
-          "region": "Korea",
-          "tgdbId": 0,
-          "redumpId": 10885,
-          "id": "6115-8"
-        },
-        {
-          "name": "GOD OF WAR COLLECTION",
-          "platform": "ps3",
-          "language": "[En]",
-          "serial": "BCUS-98229",
-          "region": "North America",
-          "tgdbId": 0,
-          "redumpId": 10885,
-          "id": "6115-9"
-        },
-        {
-          "name": "GOD OF WAR COLLECTION",
-          "platform": "ps3",
-          "language": "[En]",
-          "serial": "BCUS-98229",
-          "region": "North America",
-          "tgdbId": 0,
-          "redumpId": 40150,
-          "id": "6115-10"
-        },
-        {
-          "name": "GOD OF WAR COLLECTION",
-          "platform": "ps3",
-          "language": "[En]",
-          "serial": "BCES-00800",
-          "region": "Europe",
-          "tgdbId": 0,
-          "redumpId": 30688,
-          "id": "6115-11",
-          "upc": "711719189664"
-        }
-      ],
-      "id": 6115
-    },
-    {
       "name": "GOD OF WAR COLLECTION: VOLUME II",
       "gameInstances": [
         {
@@ -160737,23 +160617,6 @@
       "id": 6157
     },
     {
-      "name": "GUITAR HERO: GREATEST HITS",
-      "gameInstances": [
-        {
-          "name": "GUITAR HERO: GREATEST HITS",
-          "platform": "ps3",
-          "language": "[En,Fr,De,It,Es]",
-          "serial": "BLES-00549",
-          "region": "Europe",
-          "tgdbId": 0,
-          "redumpId": 61857,
-          "id": "6158-1",
-          "upc": "5030917068638"
-        }
-      ],
-      "id": 6158
-    },
-    {
       "name": "GUITAR HERO: METALLICA",
       "gameInstances": [
         {
@@ -160792,6 +160655,17 @@
           "redumpId": 35838,
           "id": "6160-1",
           "upc": "047875957756"
+        },
+        {
+          "name": "GUITAR HERO: GREATEST HITS",
+          "platform": "ps3",
+          "language": "[En,Fr,De,It,Es]",
+          "serial": "BLES-00549",
+          "region": "Europe",
+          "tgdbId": 0,
+          "redumpId": 61857,
+          "id": "6160-2",
+          "upc": "5030917068638"
         }
       ],
       "id": 6160
@@ -177425,7 +177299,7 @@
           "tgdbId": 0,
           "redumpId": 101622,
           "releaseDate": "2011-12-08",
-          "id": "6672-3",
+          "id": "6672-4",
           "upc": "4938833020710"
         },
         {
@@ -177436,7 +177310,7 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpId": 29428,
-          "id": "6672-4"
+          "id": "6672-5"
         }
       ],
       "id": 6672
@@ -182419,36 +182293,6 @@
       "id": 6875
     },
     {
-      "name": "PORT ROYALE 3",
-      "gameInstances": [
-        {
-          "name": "PORT ROYALE 3",
-          "platform": "ps3",
-          "language": "[En,Fr,De,It,Es]",
-          "serial": "BLES-01707",
-          "region": "Europe",
-          "tgdbId": 0,
-          "redumpId": 50939,
-          "id": "6876-1",
-          "upc": "4260089413986"
-        },
-        {
-          "name": "PORT ROYALE 3",
-          "platform": "ps3",
-          "regionalName": "ポートロイヤル 3",
-          "language": "[Ja]",
-          "serial": "BLJM-60566",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 78954,
-          "releaseDate": "2012-12-13",
-          "id": "6876-2",
-          "upc": "4560100336486"
-        }
-      ],
-      "id": 6876
-    },
-    {
       "name": "PORT ROYALE 3: GOLD EDITION",
       "gameInstances": [
         {
@@ -182488,6 +182332,30 @@
           "tgdbId": 0,
           "redumpId": 38015,
           "id": "6878-1"
+        },
+        {
+          "name": "PORT ROYALE 3",
+          "platform": "ps3",
+          "language": "[En,Fr,De,It,Es]",
+          "serial": "BLES-01707",
+          "region": "Europe",
+          "tgdbId": 0,
+          "redumpId": 50939,
+          "id": "6878-2",
+          "upc": "4260089413986"
+        },
+        {
+          "name": "PORT ROYALE 3",
+          "platform": "ps3",
+          "regionalName": "ポートロイヤル 3",
+          "language": "[Ja]",
+          "serial": "BLJM-60566",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 78954,
+          "releaseDate": "2012-12-13",
+          "id": "6878-3",
+          "upc": "4560100336486"
         }
       ],
       "id": 6878
@@ -184129,40 +183997,6 @@
       "id": 6943
     },
     {
-      "name": "RATCHET & CLANK 1, 2, 3: GINGA SAIKYOU GORGEOUS PACK",
-      "gameInstances": [
-        {
-          "name": "RATCHET & CLANK 1, 2, 3: GINGA SAIKYOU GORGEOUS PACK",
-          "platform": "ps3",
-          "regionalName": "ラチェット＆クランク１・２・３　銀河★最強ゴージャスパック",
-          "serial": "BCJS-30084",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 66945,
-          "releaseDate": "2012-09-06",
-          "id": "6944-1",
-          "upc": "4948872730860"
-        }
-      ],
-      "id": 6944
-    },
-    {
-      "name": "RATCHET & CLANK COLLECTION",
-      "gameInstances": [
-        {
-          "name": "RATCHET & CLANK COLLECTION",
-          "platform": "ps3",
-          "language": "[En,Fr,Es]",
-          "serial": "BCUS-98282",
-          "region": "North America",
-          "tgdbId": 0,
-          "redumpId": 29856,
-          "id": "6945-1"
-        }
-      ],
-      "id": 6945
-    },
-    {
       "name": "RATCHET & CLANK FUTURE",
       "gameInstances": [
         {
@@ -184291,32 +184125,6 @@
         }
       ],
       "id": 6949
-    },
-    {
-      "name": "THE RATCHET & CLANK TRILOGY",
-      "gameInstances": [
-        {
-          "name": "THE RATCHET & CLANK TRILOGY",
-          "platform": "ps3",
-          "language": "[En,Fr,De,It,Es]",
-          "serial": "BCES-01503",
-          "region": "Europe",
-          "tgdbId": 0,
-          "redumpId": 47911,
-          "id": "6950-1"
-        },
-        {
-          "name": "THE RATCHET & CLANK TRILOGY",
-          "platform": "ps3",
-          "language": "[En,Fr,De,It,Es]",
-          "serial": "BCKS-10221",
-          "region": "Korea",
-          "tgdbId": 0,
-          "redumpId": 47911,
-          "id": "6950-2"
-        }
-      ],
-      "id": 6950
     },
     {
       "name": "RATCHET & CLANK: A CRACK IN TIME",
@@ -194948,13 +194756,7 @@
           "tgdbId": 0,
           "redumpId": 13317,
           "id": "7280-3"
-        }
-      ],
-      "id": 7280
-    },
-    {
-      "name": "SPLIT/SECOND: VELOCITY",
-      "gameInstances": [
+        },
         {
           "name": "SPLIT/SECOND: VELOCITY",
           "platform": "ps3",
@@ -194963,7 +194765,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpId": 31271,
-          "id": "7281-1"
+          "id": "7280-4"
         },
         {
           "name": "SPLIT/SECOND: VELOCITY",
@@ -194973,11 +194775,11 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpId": 90025,
-          "id": "7281-2",
+          "id": "7280-5",
           "upc": "8717418254995"
         }
       ],
-      "id": 7281
+      "id": 7280
     },
     {
       "name": "SPORTS CHAMPIONS",
@@ -206407,6 +206209,48 @@
           "regionalName": "ラチェット&クランク",
           "releaseDate": "2002-12-03",
           "id": "7613-3"
+        },
+        {
+          "name": "RATCHET & CLANK COLLECTION",
+          "platform": "ps3",
+          "language": "[En,Fr,Es]",
+          "serial": "BCUS-98282",
+          "region": "North America",
+          "tgdbId": 0,
+          "redumpId": 29856,
+          "id": "7613-4"
+        },
+        {
+          "name": "RATCHET & CLANK 1, 2, 3: GINGA SAIKYOU GORGEOUS PACK",
+          "platform": "ps3",
+          "regionalName": "ラチェット＆クランク１・２・３　銀河★最強ゴージャスパック",
+          "serial": "BCJS-30084",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 66945,
+          "releaseDate": "2012-09-06",
+          "id": "7613-5",
+          "upc": "4948872730860"
+        },
+        {
+          "name": "THE RATCHET & CLANK TRILOGY",
+          "platform": "ps3",
+          "language": "[En,Fr,De,It,Es]",
+          "serial": "BCES-01503",
+          "region": "Europe",
+          "tgdbId": 0,
+          "redumpId": 47911,
+          "id": "7613-6"
+        },
+        {
+          "name": "THE RATCHET & CLANK TRILOGY",
+          "platform": "ps3",
+          "language": "[En,Fr,De,It,Es]",
+          "serial": "BCKS-10221",
+          "region": "Korea",
+          "tgdbId": 0,
+          "redumpId": 47911,
+          "id": "7613-7"
         }
       ],
       "id": 7613
@@ -206442,6 +206286,22 @@
           "tgdbId": 0,
           "regionalName": "ラチェット&クランク2 ガガガ!銀河のコマンドーっす",
           "id": "7614-3"
+        },
+        {
+          "id": "7614-4",
+          "link": "7613-4"
+        },
+        {
+          "id": "7614-5",
+          "link": "7613-5"
+        },
+        {
+          "id": "7614-6",
+          "link": "7613-6"
+        },
+        {
+          "id": "7614-7",
+          "link": "7613-7"
         }
       ],
       "id": 7614
@@ -206479,6 +206339,22 @@
           "regionalName": "ラチェット&クランク3 突撃!ガラクチック★レンジャーズ",
           "releaseDate": "2004-11-25",
           "id": "7615-3"
+        },
+        {
+          "id": "7615-4",
+          "link": "7613-4"
+        },
+        {
+          "id": "7615-5",
+          "link": "7613-5"
+        },
+        {
+          "id": "7615-6",
+          "link": "7613-6"
+        },
+        {
+          "id": "7615-7",
+          "link": "7613-7"
         }
       ],
       "id": 7615
@@ -206516,6 +206392,110 @@
           "regionalName": "ゴッド・オブ・ウォー",
           "releaseDate": "2005-11-17",
           "id": "7616-3"
+        },
+        {
+          "name": "GOD OF WAR COLLECTION",
+          "platform": "ps3",
+          "language": "[En,Fr,De,It,Ru,Es]",
+          "serial": "BCES-00791",
+          "region": "Europe",
+          "tgdbId": 0,
+          "redumpId": 28545,
+          "id": "7616-4"
+        },
+        {
+          "name": "GOD OF WAR COLLECTION",
+          "platform": "ps3",
+          "language": "[En,Fr,De,It,Ru,Es]",
+          "serial": "BCES-00791/E/EXP",
+          "region": "Europe",
+          "tgdbId": 0,
+          "redumpId": 28545,
+          "id": "7616-5"
+        },
+        {
+          "name": "GOD OF WAR COLLECTION",
+          "platform": "ps3",
+          "language": "[En,Fr,De,It,Ru,Es]",
+          "serial": "BCES-00791/E/RSC",
+          "region": "Europe",
+          "tgdbId": 0,
+          "redumpId": 28545,
+          "id": "7616-6"
+        },
+        {
+          "name": "GOD OF WAR COLLECTION",
+          "platform": "ps3",
+          "language": "[En,Fr,De,It,Ru,Es]",
+          "serial": "BCES-00791/RUS",
+          "region": "Europe",
+          "tgdbId": 0,
+          "redumpId": 28545,
+          "id": "7616-7"
+        },
+        {
+          "name": "GOD OF WAR COLLECTION",
+          "platform": "ps3",
+          "language": "[En,Fr,De,It,Ru,Es]",
+          "serial": "BCUS-98253",
+          "region": "North America",
+          "tgdbId": 0,
+          "redumpId": 28545,
+          "id": "7616-8"
+        },
+        {
+          "name": "GOD OF WAR COLLECTION",
+          "platform": "ps3",
+          "regionalName": "ゴッド・オブ・ウォー コレクション",
+          "language": "[Ja]",
+          "serial": "BLJM-60200",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 60458,
+          "id": "7616-9",
+          "upc": "4976219033732",
+          "releaseDate": "2010-03-18"
+        },
+        {
+          "name": "GOD OF WAR COLLECTION",
+          "platform": "ps3",
+          "language": "[En]",
+          "serial": "BCAS-20102",
+          "region": "Asia",
+          "tgdbId": 0,
+          "redumpId": 10885,
+          "id": "7616-10"
+        },
+        {
+          "name": "GOD OF WAR COLLECTION",
+          "platform": "ps3",
+          "language": "[En]",
+          "serial": "BCKS-10093",
+          "region": "Korea",
+          "tgdbId": 0,
+          "redumpId": 10885,
+          "id": "7616-11"
+        },
+        {
+          "name": "GOD OF WAR COLLECTION",
+          "platform": "ps3",
+          "language": "[En]",
+          "serial": "BCUS-98229",
+          "region": "North America",
+          "tgdbId": 0,
+          "redumpId": 10885,
+          "id": "7616-12"
+        },
+        {
+          "name": "GOD OF WAR COLLECTION",
+          "platform": "ps3",
+          "language": "[En]",
+          "serial": "BCES-00800",
+          "region": "Europe",
+          "tgdbId": 0,
+          "redumpId": 30688,
+          "id": "7616-13",
+          "upc": "711719189664"
         }
       ],
       "id": 7616
@@ -206552,6 +206532,46 @@
           "regionalName": "ゴッド・オブ・ウォーII 終焉への序曲",
           "releaseDate": "2007-10-25",
           "id": "7617-3"
+        },
+        {
+          "id": "7617-4",
+          "link": "7616-4"
+        },
+        {
+          "id": "7617-5",
+          "link": "7616-5"
+        },
+        {
+          "id": "7617-6",
+          "link": "7616-6"
+        },
+        {
+          "id": "7617-7",
+          "link": "7616-7"
+        },
+        {
+          "id": "7617-8",
+          "link": "7616-8"
+        },
+        {
+          "id": "7617-9",
+          "link": "7616-9"
+        },
+        {
+          "id": "7617-10",
+          "link": "7616-10"
+        },
+        {
+          "id": "7617-11",
+          "link": "7616-11"
+        },
+        {
+          "id": "7617-12",
+          "link": "7616-12"
+        },
+        {
+          "id": "7617-13",
+          "link": "7616-13"
         }
       ],
       "id": 7617
