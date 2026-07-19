@@ -184060,70 +184060,6 @@
       "id": 6880
     },
     {
-      "name": "POWER SMASH 3",
-      "gameInstances": [
-        {
-          "name": "POWER SMASH 3",
-          "platform": "ps3",
-          "regionalName": "パワースマッシュ３",
-          "language": "[En,Fr,De,It,Ja,Es]",
-          "serial": "BLJM-60017",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 38470,
-          "id": "6881-1",
-          "upc": "4974365835057",
-          "releaseDate": "2007-03-08"
-        },
-        {
-          "name": "POWER SMASH 3 [Sega The Best]",
-          "platform": "ps3",
-          "regionalName": "パワースマッシュ３ [Sega The Best]",
-          "language": "[En,Fr,De,It,Ja,Es]",
-          "serial": "BLJM-60102",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 38470,
-          "id": "6881-2",
-          "upc": "4974365835293",
-          "releaseDate": "2008-11-27"
-        }
-      ],
-      "id": 6881
-    },
-    {
-      "name": "POWER SMASH 4",
-      "gameInstances": [
-        {
-          "name": "POWER SMASH 4",
-          "platform": "ps3",
-          "regionalName": "パワースマッシュ４",
-          "language": "[En,Fr,De,It,Ja,Es]",
-          "serial": "BLJM-60356",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 99541,
-          "releaseDate": "2011-06-30",
-          "id": "6882-1",
-          "upc": "4974365835675"
-        },
-        {
-          "name": "POWER SMASH 4 [SEGA the best]",
-          "platform": "ps3",
-          "regionalName": "パワースマッシュ４ [SEGA the best]",
-          "language": "[En,Fr,De,It,Ja,Es]",
-          "serial": "BLJM-60551",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpId": 99541,
-          "releaseDate": "2012-11-29",
-          "id": "6882-2",
-          "upc": "4974365835880"
-        }
-      ],
-      "id": 6882
-    },
-    {
       "name": "POWER SMASH: LIVE MATCH!",
       "gameInstances": [
         {
@@ -204087,9 +204023,38 @@
           "tgdbId": 0,
           "redumpId": 11122,
           "id": "7486-3"
+        },
+        {
+          "name": "POWER SMASH 3",
+          "platform": "ps3",
+          "regionalName": "パワースマッシュ３",
+          "language": "[En,Fr,De,It,Ja,Es]",
+          "serial": "BLJM-60017",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 38470,
+          "id": "7486-4",
+          "upc": "4974365835057",
+          "releaseDate": "2007-03-08"
+        },
+        {
+          "name": "POWER SMASH 3 [Sega The Best]",
+          "platform": "ps3",
+          "regionalName": "パワースマッシュ３ [Sega The Best]",
+          "language": "[En,Fr,De,It,Ja,Es]",
+          "serial": "BLJM-60102",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 38470,
+          "id": "7486-5",
+          "upc": "4974365835293",
+          "releaseDate": "2008-11-27"
         }
       ],
-      "id": 7486
+      "id": 7486,
+      "localizedNames": {
+        "ja": "パワースマッシュ３"
+      }
     },
     {
       "name": "VIRTUA TENNIS 4",
@@ -204113,9 +204078,38 @@
           "tgdbId": 0,
           "redumpId": 41931,
           "id": "7487-2"
+        },
+        {
+          "name": "POWER SMASH 4",
+          "platform": "ps3",
+          "regionalName": "パワースマッシュ４",
+          "language": "[En,Fr,De,It,Ja,Es]",
+          "serial": "BLJM-60356",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 99541,
+          "releaseDate": "2011-06-30",
+          "id": "7487-3",
+          "upc": "4974365835675"
+        },
+        {
+          "name": "POWER SMASH 4 [SEGA the best]",
+          "platform": "ps3",
+          "regionalName": "パワースマッシュ４ [SEGA the best]",
+          "language": "[En,Fr,De,It,Ja,Es]",
+          "serial": "BLJM-60551",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 99541,
+          "releaseDate": "2012-11-29",
+          "id": "7487-4",
+          "upc": "4974365835880"
         }
       ],
-      "id": 7487
+      "id": 7487,
+      "localizedNames": {
+        "ja": "パワースマッシュ4"
+      }
     },
     {
       "name": "THE VOICE OF GERMANY: VOL. 2",
