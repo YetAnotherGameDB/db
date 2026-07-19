@@ -177405,9 +177405,9 @@
           "id": "6672-2"
         },
         {
-          "name": "NEED FOR SPEED: THE RUN",
+          "name": "NEED FOR SPEED: THE RUN [EA Best Hits]",
           "platform": "ps3",
-          "regionalName": "ニード・フォー・スピード　ザ・ラン",
+          "regionalName": "ニード・フォー・スピード　ザ・ラン [EA Best Hits]",
           "serial": "BLJM-60533",
           "region": "Japan",
           "tgdbId": 0,
@@ -177415,6 +177415,18 @@
           "releaseDate": "2012-09-20",
           "id": "6672-3",
           "upc": "4938833021175"
+        },
+        {
+          "name": "NEED FOR SPEED: THE RUN",
+          "platform": "ps3",
+          "regionalName": "ニード・フォー・スピード　ザ・ラン",
+          "serial": "BLJM-60386",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 101622,
+          "releaseDate": "2011-12-08",
+          "id": "6672-3",
+          "upc": "4938833020710"
         },
         {
           "name": "NEED FOR SPEED: THE RUN",
