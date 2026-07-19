@@ -184106,6 +184106,19 @@
           "releaseDate": "2011-06-30",
           "id": "6882-1",
           "upc": "4974365835675"
+        },
+        {
+          "name": "POWER SMASH 4 [SEGA the best]",
+          "platform": "ps3",
+          "regionalName": "パワースマッシュ４ [SEGA the best]",
+          "language": "[En,Fr,De,It,Ja,Es]",
+          "serial": "BLJM-60551",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 99541,
+          "releaseDate": "2012-11-29",
+          "id": "6882-2",
+          "upc": "4974365835880"
         }
       ],
       "id": 6882
