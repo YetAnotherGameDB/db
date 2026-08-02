@@ -15285,14 +15285,14 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872180030",
-          "regionalName": "DEPTH(デプス) ソニー・コンピュータエンタテインメント",
+          "regionalName": "DEPTH(デプス)",
           "releaseDate": "1996-12-06",
           "id": "550-1"
         }
       ],
       "id": 550,
       "localizedNames": {
-        "ja": "DEPTH(デプス) ソニー・コンピュータエンタテインメント"
+        "ja": "DEPTH(デプス)"
       }
     },
     {
@@ -15554,7 +15554,7 @@
           "serial": "SCPS-45076",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "デストラクション・ダービー2 ソニー・コンピュータエンタテインメント",
+          "regionalName": "デストラクション・ダービー2",
           "releaseDate": "1997-02-21",
           "id": "558-1"
         },
@@ -15566,7 +15566,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872600125",
-          "regionalName": "デストラクション・ダービー2 ソニー・コンピュータエンタテインメント",
+          "regionalName": "デストラクション・ダービー2",
           "releaseDate": "1997-02-21",
           "id": "558-2"
         },
@@ -15591,7 +15591,7 @@
       ],
       "id": 558,
       "localizedNames": {
-        "ja": "デストラクション・ダービー2 ソニー・コンピュータエンタテインメント"
+        "ja": "デストラクション・ダービー2"
       }
     },
     {
@@ -17347,14 +17347,14 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872101424",
-          "regionalName": "どこでもいっしょ デラックスパック(iモードもいっしょ・携帯接続ケーブル同梱版) ソニー・コンピュータエンタテインメント",
+          "regionalName": "どこでもいっしょ デラックスパック(iモードもいっしょ・携帯接続ケーブル同梱版)",
           "releaseDate": "2001-05-24",
           "id": "618-1"
         }
       ],
       "id": 618,
       "localizedNames": {
-        "ja": "どこでもいっしょ デラックスパック(iモードもいっしょ・携帯接続ケーブル同梱版) ソニー・コンピュータエンタテインメント"
+        "ja": "どこでもいっしょ デラックスパック(iモードもいっしょ・携帯接続ケーブル同梱版)"
       }
     },
     {
@@ -22968,7 +22968,7 @@
           "serial": "SCPS-45077",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "Formula 1(フォーミュラワン) ソニー・コンピュータエンタテインメント",
+          "regionalName": "Formula 1(フォーミュラワン)",
           "releaseDate": "1996-12-13",
           "id": "832-1"
         },
@@ -22980,7 +22980,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872600118",
-          "regionalName": "Formula 1(フォーミュラワン) ソニー・コンピュータエンタテインメント",
+          "regionalName": "Formula 1(フォーミュラワン)",
           "releaseDate": "1996-12-13",
           "id": "832-2"
         },
@@ -23005,7 +23005,7 @@
       ],
       "id": 832,
       "localizedNames": {
-        "ja": "Formula 1(フォーミュラワン) ソニー・コンピュータエンタテインメント"
+        "ja": "Formula 1(フォーミュラワン)"
       }
     },
     {
@@ -23019,7 +23019,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872600231",
-          "regionalName": "Formula 1 '97(フォーミュラワン '97) ソニー・コンピュータエンタテインメント",
+          "regionalName": "Formula 1 '97(フォーミュラワン '97)",
           "releaseDate": "1998-01-15",
           "id": "833-1"
         },
@@ -23035,7 +23035,7 @@
       ],
       "id": 833,
       "localizedNames": {
-        "ja": "Formula 1 '97(フォーミュラワン '97) ソニー・コンピュータエンタテインメント"
+        "ja": "Formula 1 '97(フォーミュラワン '97)"
       }
     },
     {
@@ -23108,7 +23108,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872101011",
-          "regionalName": "Formula One 99(フォーミュラワン99) ソニー・コンピュータエンタテインメント",
+          "regionalName": "Formula One 99(フォーミュラワン99)",
           "releaseDate": "1999-10-21",
           "id": "837-1"
         },
@@ -23142,7 +23142,7 @@
       ],
       "id": 837,
       "localizedNames": {
-        "ja": "Formula One 99(フォーミュラワン99) ソニー・コンピュータエンタテインメント"
+        "ja": "Formula One 99(フォーミュラワン99)"
       }
     },
     {
@@ -24940,7 +24940,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872100366",
-          "regionalName": "がんばれ森川君2号 通常版 ソニー・コンピュータエンタテインメント",
+          "regionalName": "がんばれ森川君2号 通常版",
           "releaseDate": "1997-05-23",
           "id": "894-2"
         },
@@ -24959,7 +24959,7 @@
       ],
       "id": 894,
       "localizedNames": {
-        "ja": "がんばれ森川君2号 通常版 ソニー・コンピュータエンタテインメント"
+        "ja": "がんばれ森川君2号 通常版"
       }
     },
     {
@@ -31960,7 +31960,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872101448",
-          "regionalName": "iモードもいっしょ　～「携帯電話接続ケーブル」もいっしょ～ / ソニー・コンピュータエンタテインメント",
+          "regionalName": "iモードもいっしょ　～「携帯電話接続ケーブル」もいっしょ～ /",
           "releaseDate": "2001-05-24",
           "id": "1167-2"
         }
@@ -32193,7 +32193,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872190060",
-          "regionalName": "プレイステーションコミック第5弾 「ブザービーター(前編)」 ソニー・コンピュータエンタテインメント",
+          "regionalName": "プレイステーションコミック第5弾 「ブザービーター(前編)」",
           "releaseDate": "1999-05-27",
           "id": "1174-2"
         }
@@ -33269,7 +33269,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872600200",
-          "regionalName": "Jet Moto(ジェットモト) ソニー・コンピュータエンタテインメント",
+          "regionalName": "Jet Moto(ジェットモト)",
           "releaseDate": "1997-07-08",
           "id": "1216-1"
         },
@@ -33285,7 +33285,7 @@
       ],
       "id": 1216,
       "localizedNames": {
-        "ja": "Jet Moto(ジェットモト) ソニー・コンピュータエンタテインメント"
+        "ja": "Jet Moto(ジェットモト)"
       }
     },
     {
@@ -33299,14 +33299,14 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872100632",
-          "regionalName": "Jet Moto '99(ジェットモト'98) ソニー・コンピュータエンタテインメント",
+          "regionalName": "Jet Moto '99(ジェットモト'98)",
           "releaseDate": "1998-08-06",
           "id": "1217-1"
         }
       ],
       "id": 1217,
       "localizedNames": {
-        "ja": "Jet Moto '99(ジェットモト'98) ソニー・コンピュータエンタテインメント"
+        "ja": "Jet Moto '99(ジェットモト'98)"
       }
     },
     {
@@ -55542,14 +55542,14 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872101110",
-          "regionalName": "Pet in TV With my dear Dog(ペット イン TV ウィズ マイ ディア ドッグ) ソニー・コンピュータエンタテインメント",
+          "regionalName": "Pet in TV With my dear Dog(ペット イン TV ウィズ マイ ディア ドッグ)",
           "releaseDate": "1999-11-11",
           "id": "2069-1"
         }
       ],
       "id": 2069,
       "localizedNames": {
-        "ja": "Pet in TV With my dear Dog(ペット イン TV ウィズ マイ ディア ドッグ) ソニー・コンピュータエンタテインメント"
+        "ja": "Pet in TV With my dear Dog(ペット イン TV ウィズ マイ ディア ドッグ)"
       }
     },
     {
@@ -56658,14 +56658,14 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872101042",
-          "regionalName": "ポケットじまん ソニー・コンピュータエンタテインメント",
+          "regionalName": "ポケットじまん",
           "releaseDate": "2000-01-13",
           "id": "2113-1"
         }
       ],
       "id": 2113,
       "localizedNames": {
-        "ja": "ポケットじまん ソニー・コンピュータエンタテインメント"
+        "ja": "ポケットじまん"
       }
     },
     {
@@ -56679,14 +56679,14 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872100762",
-          "regionalName": "ポケットムームー(Pocket muu muu) ソニー・コンピュータエンタテインメント",
+          "regionalName": "ポケットムームー(Pocket muu muu)",
           "releaseDate": "1999-02-04",
           "id": "2114-1"
         }
       ],
       "id": 2114,
       "localizedNames": {
-        "ja": "ポケットムームー(Pocket muu muu) ソニー・コンピュータエンタテインメント"
+        "ja": "ポケットムームー(Pocket muu muu)"
       }
     },
     {
@@ -56878,7 +56878,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872101080",
-          "regionalName": "ポケ単（通常版） / ソニー・コンピュータエンタテインメント",
+          "regionalName": "ポケ単（通常版） /",
           "releaseDate": "1999-10-21",
           "id": "2123-1"
         },
@@ -56896,7 +56896,7 @@
       ],
       "id": 2123,
       "localizedNames": {
-        "ja": "ポケ単（通常版） / ソニー・コンピュータエンタテインメント"
+        "ja": "ポケ単（通常版） /"
       }
     },
     {
@@ -57402,7 +57402,7 @@
           "serial": "SCPS-45117",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "Porsche Challenge(ポルシェ・チャレンジ) ソニー・コンピュータエンタテインメント",
+          "regionalName": "Porsche Challenge(ポルシェ・チャレンジ)",
           "releaseDate": "1997-09-25",
           "id": "2141-1"
         },
@@ -57414,7 +57414,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872600163",
-          "regionalName": "Porsche Challenge(ポルシェ・チャレンジ) ソニー・コンピュータエンタテインメント",
+          "regionalName": "Porsche Challenge(ポルシェ・チャレンジ)",
           "releaseDate": "1997-09-25",
           "id": "2141-2"
         },
@@ -57439,7 +57439,7 @@
       ],
       "id": 2141,
       "localizedNames": {
-        "ja": "Porsche Challenge(ポルシェ・チャレンジ) ソニー・コンピュータエンタテインメント"
+        "ja": "Porsche Challenge(ポルシェ・チャレンジ)"
       }
     },
     {
@@ -58947,14 +58947,14 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872180047",
-          "regionalName": "QUEST FOR FAME(クエストフォーフェイム) ソニー・コンピュータエンタテインメント",
+          "regionalName": "QUEST FOR FAME(クエストフォーフェイム)",
           "releaseDate": "1997-07-10",
           "id": "2202-1"
         }
       ],
       "id": 2202,
       "localizedNames": {
-        "ja": "QUEST FOR FAME(クエストフォーフェイム) ソニー・コンピュータエンタテインメント"
+        "ja": "QUEST FOR FAME(クエストフォーフェイム)"
       }
     },
     {
@@ -74841,14 +74841,14 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872600194",
-          "regionalName": "Street Games '97(ストリートゲームズ'97) ソニー・コンピュータエンタテインメント",
+          "regionalName": "Street Games '97(ストリートゲームズ'97)",
           "releaseDate": "1997-04-11",
           "id": "2796-1"
         }
       ],
       "id": 2796,
       "localizedNames": {
-        "ja": "Street Games '97(ストリートゲームズ'97) ソニー・コンピュータエンタテインメント"
+        "ja": "Street Games '97(ストリートゲームズ'97)"
       }
     },
     {
@@ -84292,7 +84292,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872600156",
-          "regionalName": "Total NBA '97(トータル NBA'97) ソニー・コンピュータエンタテインメント",
+          "regionalName": "Total NBA '97(トータル NBA'97)",
           "releaseDate": "1997-06-27",
           "id": "3147-1"
         },
@@ -84308,7 +84308,7 @@
       ],
       "id": 3147,
       "localizedNames": {
-        "ja": "Total NBA '97(トータル NBA'97) ソニー・コンピュータエンタテインメント"
+        "ja": "Total NBA '97(トータル NBA'97)"
       }
     },
     {
@@ -90998,7 +90998,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872100694",
-          "regionalName": "雪割りの花(YUKIWARI NO HANA) やるドラシリーズVol.4 ソニー・コンピュータエンタテインメント",
+          "regionalName": "雪割りの花(YUKIWARI NO HANA) やるドラシリーズVol.4",
           "releaseDate": "1998-11-26",
           "id": "3394-1"
         },
@@ -91017,7 +91017,7 @@
       ],
       "id": 3394,
       "localizedNames": {
-        "ja": "雪割りの花(YUKIWARI NO HANA) やるドラシリーズVol.4 ソニー・コンピュータエンタテインメント"
+        "ja": "雪割りの花(YUKIWARI NO HANA) やるドラシリーズVol.4"
       }
     },
     {
@@ -113920,14 +113920,14 @@
           "region": "NTSC-J",
           "tgdbId": 128401,
           "upc": "4988009004099",
-          "regionalName": "立体忍者活劇 天誅 ソニー・コンピュータエンタテインメント",
+          "regionalName": "立体忍者活劇 天誅",
           "releaseDate": "1998-02-26",
           "id": "4369-3"
         }
       ],
       "id": 4369,
       "localizedNames": {
-        "ja": "立体忍者活劇 天誅 ソニー・コンピュータエンタテインメント"
+        "ja": "立体忍者活劇 天誅"
       }
     },
     {
