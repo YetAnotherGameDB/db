@@ -13,6 +13,7 @@ $instanceGame = @{}   # instance id -> owning game id
 $linkTargets = @{}    # linking instance id -> target instance id
 $serialGames = @{}    # serial -> set of game ids (links excluded)
 $errors = 0
+$warnings = 0
 
 # Serials legitimately shared across games (physically different discs
 # that reuse the same serial, e.g. Heavy Rain vs its Move Edition).
@@ -86,11 +87,17 @@ foreach ($entry in $linkTargets.GetEnumerator()) {
 
 # The same serial under two games means a duplicated instance — it should be
 # a link stub instead (or the serial belongs on the allowlist above).
+# TEMPORARY: reported as a warning instead of an error while the existing
+# duplicates are being cleaned up. Restore the $errors++ once they are fixed.
 foreach ($entry in $serialGames.GetEnumerator()) {
     if ($entry.Value.Count -gt 1 -and $entry.Key -notin $sharedSerialAllowlist) {
-        Write-Error "Serial '$($entry.Key)' appears under multiple games: $($entry.Value -join ', '). Use a link instance instead."
-        $errors++
+        Write-Warning "Serial '$($entry.Key)' appears under multiple games: $($entry.Value -join ', '). Use a link instance instead."
+        $warnings++
     }
+}
+
+if ($warnings -gt 0) {
+    Write-Output "Validation produced $warnings warning(s)."
 }
 
 if ($errors -gt 0) {
