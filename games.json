@@ -26945,7 +26945,7 @@
           "id": "961-4"
         },
         {
-          "name": "GRAND THEFT AUTO [COLLECTOR'S EDITION SET] Includes: \n\t\tGrand Theft Auto Disc + Mission Pack #1 - London 1969 + Grand Theft Auto 2 Disc",
+          "name": "GRAND THEFT AUTO [COLLECTOR'S EDITION SET]",
           "platform": "ps1",
           "Language": "[E][F][G][I][S]",
           "serial": "SLES-00032",
@@ -100424,25 +100424,27 @@
           "name": "GRAND THEFT AUTO - COLLECTOR'S EDITION",
           "platform": "ps1",
           "Language": "[E]",
-          "serial": "SLUS-00106",
+          "serial": "SLUS-00106CE",
           "region": "NTSC-U",
           "tgdbId": 0,
-          "id": "3770-1"
+          "id": "3770-1",
+          "upc": "1042523180"
         }
       ],
       "id": 3770
     },
     {
-      "name": "GRAND THEFT AUTO DIRECTOR'S CUT ",
+      "name": "GRAND THEFT AUTO DIRECTOR'S CUT",
       "gameInstances": [
         {
-          "name": "GRAND THEFT AUTO DIRECTOR'S CUT ",
+          "name": "GRAND THEFT AUTO DIRECTOR'S CUT",
           "platform": "ps1",
           "Language": "[E]",
-          "serial": "SLUS-00106",
+          "serial": "SLUS-00864",
           "region": "NTSC-U",
           "tgdbId": 0,
-          "id": "3771-1"
+          "id": "3771-1",
+          "upc": "1042523042"
         }
       ],
       "id": 3771
