@@ -214217,6 +214217,27 @@
       }
     },
     {
+      "name": "YS",
+      "gameInstances": [
+        {
+          "name": "Ys",
+          "platform": "famicom",
+          "language": "[Ja]",
+          "serial": "VFR-Y2-05",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4988002149414",
+          "id": "8542-1",
+          "regionalName": "イース",
+          "releaseDate": "1988-08-26"
+        }
+      ],
+      "id": 8542,
+      "localizedNames": {
+        "ja": "イース"
+      }
+    },
+    {
       "name": "YS II - ANCIENT YS VANISHED - THE FINAL CHAPTER",
       "gameInstances": [
         {
