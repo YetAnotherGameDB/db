@@ -206994,7 +206994,7 @@
       }
     },
     {
-      "name": "AKUMAJOU DENSETSU",
+      "name": "CASTLEVANIA III - DRACULA'S CURSE",
       "gameInstances": [
         {
           "name": "Akumajou Densetsu",
@@ -207007,6 +207007,26 @@
           "id": "7626-1",
           "regionalName": "悪魔城伝説",
           "releaseDate": "1989-12-22"
+        },
+        {
+          "name": "Castlevania III - Dracula's Curse",
+          "platform": "famicom",
+          "language": "[En]",
+          "serial": "NES-VN-USA",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "upc": "083717110217",
+          "id": "7626-2",
+          "releaseDate": "1990-09-19"
+        },
+        {
+          "name": "Castlevania III - Dracula's Curse",
+          "platform": "famicom",
+          "language": "[En]",
+          "serial": "NES-VN-UKV",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "7626-3"
         }
       ],
       "id": 7626,
@@ -226109,6 +226129,182 @@
       "id": 8541,
       "localizedNames": {
         "ja": "TECMO SUPER BOWL(テクモスーパーボウル)"
+      }
+    },
+    {
+      "name": "CASTLEVANIA",
+      "gameInstances": [
+        {
+          "name": "Akumajou Dracula",
+          "platform": "fds",
+          "language": "[Ja]",
+          "serial": "KDS-AKM",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4988602512106",
+          "id": "8543-1",
+          "regionalName": "悪魔城ドラキュラ",
+          "releaseDate": "1986-09-26"
+        },
+        {
+          "name": "Akumajou Dracula [ROM Cassette]",
+          "platform": "famicom",
+          "language": "[Ja]",
+          "serial": "RV003",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4988602592986",
+          "id": "8543-2",
+          "regionalName": "悪魔城ドラキュラ",
+          "releaseDate": "1993-02-05"
+        },
+        {
+          "name": "Castlevania",
+          "platform": "famicom",
+          "language": "[En]",
+          "serial": "NES-CV-USA",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "upc": "083717110040",
+          "id": "8543-3",
+          "releaseDate": "1987-04-30"
+        },
+        {
+          "name": "Castlevania",
+          "platform": "famicom",
+          "language": "[En]",
+          "serial": "NES-CV-EEC",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "8543-4"
+        }
+      ],
+      "id": 8543,
+      "localizedNames": {
+        "ja": "悪魔城ドラキュラ"
+      }
+    },
+    {
+      "name": "CASTLEVANIA II - SIMON'S QUEST",
+      "gameInstances": [
+        {
+          "name": "Dracula II - Noroi no Fuuin",
+          "platform": "fds",
+          "language": "[Ja]",
+          "serial": "KDS-DRK",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4988602529388",
+          "id": "8544-1",
+          "regionalName": "ドラキュラII 呪いの封印",
+          "releaseDate": "1987-08-28"
+        },
+        {
+          "name": "Castlevania II - Simon's Quest",
+          "platform": "famicom",
+          "language": "[En]",
+          "serial": "NES-QU-USA",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "upc": "083717110149",
+          "id": "8544-2",
+          "releaseDate": "1988-11-24"
+        },
+        {
+          "name": "Castlevania II - Simon's Quest",
+          "platform": "famicom",
+          "language": "[En]",
+          "serial": "NES-QU-EEC",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "8544-3"
+        }
+      ],
+      "id": 8544,
+      "localizedNames": {
+        "ja": "ドラキュラII 呪いの封印"
+      }
+    },
+    {
+      "name": "SUPER CASTLEVANIA IV",
+      "gameInstances": [
+        {
+          "name": "Akumajou Dracula",
+          "platform": "snes",
+          "language": "[Ja]",
+          "serial": "SHVC-AD",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4988602574463",
+          "id": "8545-1",
+          "regionalName": "悪魔城ドラキュラ",
+          "releaseDate": "1991-10-31"
+        },
+        {
+          "name": "Super Castlevania IV",
+          "platform": "snes",
+          "language": "[En]",
+          "serial": "SNS-AD-USA",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "upc": "083717150015",
+          "id": "8545-2"
+        },
+        {
+          "name": "Super Castlevania IV",
+          "platform": "snes",
+          "language": "[En]",
+          "serial": "SNSP-AD-UKV",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "8545-3",
+          "releaseDate": "1992-11-23"
+        }
+      ],
+      "id": 8545,
+      "localizedNames": {
+        "ja": "悪魔城ドラキュラ"
+      }
+    },
+    {
+      "name": "CASTLEVANIA - DRACULA X",
+      "gameInstances": [
+        {
+          "name": "Akumajou Dracula XX",
+          "platform": "snes",
+          "language": "[Ja]",
+          "serial": "SHVC-ADZJ",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4988602009736",
+          "id": "8546-1",
+          "regionalName": "悪魔城ドラキュラXX",
+          "releaseDate": "1995-07-21"
+        },
+        {
+          "name": "Castlevania - Dracula X",
+          "platform": "snes",
+          "language": "[En]",
+          "serial": "SNS-ADZE-USA",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "upc": "083717150237",
+          "id": "8546-2"
+        },
+        {
+          "name": "Castlevania - Vampire's Kiss",
+          "platform": "snes",
+          "language": "[En]",
+          "serial": "SNSP-ADZP-EUR",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "8546-3",
+          "releaseDate": "1996-02-22"
+        }
+      ],
+      "id": 8546,
+      "localizedNames": {
+        "ja": "悪魔城ドラキュラXX"
       }
     }
   ]
