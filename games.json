@@ -207840,7 +207840,7 @@
           "tgdbId": 0,
           "upc": "4988142166609",
           "id": "7665-1",
-          "regionalName": "チャンピオンシップロードランナー(Championship Lode Runner)",
+          "regionalName": "チャンピオンシップロードランナー",
           "releaseDate": "1985-04-17"
         }
       ],
@@ -211736,13 +211736,13 @@
           "tgdbId": 0,
           "upc": "4907859101031",
           "id": "7851-1",
-          "regionalName": "忍者くん 魔城の冒険(にんじゃくん まじょうのぼうけん)",
+          "regionalName": "忍者くん 魔城の冒険",
           "releaseDate": "1985-05-10"
         }
       ],
       "id": 7851,
       "localizedNames": {
-        "ja": "忍者くん 魔城の冒険(にんじゃくん まじょうのぼうけん)"
+        "ja": "忍者くん 魔城の冒険"
       }
     },
     {
@@ -213073,13 +213073,13 @@
           "tgdbId": 0,
           "upc": "4961012881031",
           "id": "7915-1",
-          "regionalName": "スクウェアのトム・ソーヤ(SQUARE'S TOM SAWYER)",
+          "regionalName": "スクウェアのトム・ソーヤ",
           "releaseDate": "1989-11-30"
         }
       ],
       "id": 7915,
       "localizedNames": {
-        "ja": "スクウェアのトム・ソーヤ(SQUARE'S TOM SAWYER)"
+        "ja": "スクウェアのトム・ソーヤ"
       }
     },
     {
@@ -213094,13 +213094,13 @@
           "tgdbId": 0,
           "upc": "4927713040498",
           "id": "7916-1",
-          "regionalName": "STAR FORCE(スターフォース) ハドソン",
+          "regionalName": "スターフォース",
           "releaseDate": "1985-06-25"
         }
       ],
       "id": 7916,
       "localizedNames": {
-        "ja": "STAR FORCE(スターフォース) ハドソン"
+        "ja": "スターフォース"
       }
     },
     {
@@ -225497,13 +225497,25 @@
           "tgdbId": 0,
           "upc": "4988627000145",
           "id": "8510-1",
-          "regionalName": "ヨッシーのクッキー(Yoshi's Cookie)",
+          "regionalName": "ヨッシーのクッキー",
           "releaseDate": "1993-07-09"
+        },
+        {
+          "name": "Yoshi no Cookie",
+          "platform": "famicom",
+          "language": "[Ja]",
+          "serial": "HVC-CI",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4902370501605",
+          "id": "8510-2",
+          "regionalName": "ヨッシーのクッキー",
+          "releaseDate": "1992-11-21"
         }
       ],
       "id": 8510,
       "localizedNames": {
-        "ja": "ヨッシーのクッキー(Yoshi's Cookie)"
+        "ja": "ヨッシーのクッキー"
       }
     },
     {
@@ -225852,13 +225864,13 @@
           "tgdbId": 0,
           "upc": "4988607000035",
           "id": "8528-1",
-          "regionalName": "ロードランナー(Lode Runner)",
+          "regionalName": "ロードランナー",
           "releaseDate": "1984-07-31"
         }
       ],
       "id": 8528,
       "localizedNames": {
-        "ja": "ロードランナー(Lode Runner)"
+        "ja": "ロードランナー"
       }
     },
     {
