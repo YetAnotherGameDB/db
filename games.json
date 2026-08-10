@@ -133333,7 +133333,8 @@
           "tgdbId": 0,
           "redumpId": 26202,
           "id": "5437-3",
-          "upc": "4949776341039"
+          "upc": "4949776341039",
+          "releaseDate": "2009-11-05"
         },
         {
           "name": "3D DOT GAME HEROES",
@@ -144627,7 +144628,8 @@
           "tgdbId": 0,
           "redumpId": 100847,
           "id": "5729-3",
-          "upc": "4562271970155"
+          "upc": "4562271970155",
+          "releaseDate": "2009-11-05"
         },
         {
           "name": "COLIN MCRAE: DIRT 2",
@@ -229470,7 +229472,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "upc": "4907892000681",
+          "upc": "4907892000308",
           "id": "8682-1",
           "regionalName": "デジタル・デビル物語 女神転生",
           "releaseDate": "1987-09-11"
@@ -229488,10 +229490,9 @@
           "name": "Digital Devil Story - Megami Tensei II",
           "platform": "famicom",
           "language": "[Ja]",
-          "serial": "SQF-FC",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "upc": "4961012901012",
+          "upc": "4907892000681",
           "id": "8683-1",
           "regionalName": "デジタル・デビル物語 女神転生Ⅱ",
           "releaseDate": "1990-04-06"
@@ -241220,6 +241221,47 @@
       "id": 9250,
       "localizedNames": {
         "ja": "シルヴィアーナ 愛いっぱいの冒険者"
+      }
+    },
+    {
+      "name": "FINAL FANTASY III",
+      "gameInstances": [
+        {
+          "name": "Final Fantasy III",
+          "platform": "famicom",
+          "language": "[Ja]",
+          "serial": "SQF-FC",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4961012901012",
+          "id": "9251-1",
+          "regionalName": "ファイナルファンタジーIII(FINAL FANTASY III/FF3)",
+          "releaseDate": "1990-04-27"
+        }
+      ],
+      "id": 9251,
+      "localizedNames": {
+        "ja": "ファイナルファンタジーIII(FINAL FANTASY III/FF3)"
+      }
+    },
+    {
+      "name": "SAINT SEIYA - OUGON DENSETSU",
+      "gameInstances": [
+        {
+          "name": "Saint Seiya - Ougon Densetsu",
+          "platform": "famicom",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4902425202969",
+          "id": "9252-1",
+          "regionalName": "聖闘士星矢 黄金伝説",
+          "releaseDate": "1987-08-10"
+        }
+      ],
+      "id": 9252,
+      "localizedNames": {
+        "ja": "聖闘士星矢 黄金伝説"
       }
     }
   ]
