@@ -217596,7 +217596,8 @@
           "tgdbId": 0,
           "upc": "4902370501254",
           "id": "8114-1",
-          "regionalName": "F-ZERO(エフゼロ)"
+          "regionalName": "F-ZERO(エフゼロ)",
+          "releaseDate": "1990-11-21"
         }
       ],
       "id": 8114,
@@ -218262,7 +218263,8 @@
           "tgdbId": 0,
           "upc": "4988602564501",
           "id": "8146-1",
-          "regionalName": "グラディウスIII(GRADIUS3)"
+          "regionalName": "グラディウスIII(GRADIUS3)",
+          "releaseDate": "1990-12-21"
         }
       ],
       "id": 8146,
@@ -221434,7 +221436,8 @@
           "tgdbId": 0,
           "upc": "4965857001098",
           "id": "8298-1",
-          "regionalName": "ポピュラス(Populous)"
+          "regionalName": "ポピュラス(Populous)",
+          "releaseDate": "1990-12-16"
         }
       ],
       "id": 8298,
@@ -223988,7 +223991,8 @@
           "tgdbId": 0,
           "upc": "4902370501247",
           "id": "8421-1",
-          "regionalName": "スーパーマリオワールド"
+          "regionalName": "スーパーマリオワールド",
+          "releaseDate": "1990-11-21"
         }
       ],
       "id": 8421,
