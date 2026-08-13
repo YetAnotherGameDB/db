@@ -241269,6 +241269,27 @@
       "localizedNames": {
         "ja": "聖闘士星矢 黄金伝説"
       }
+    },
+    {
+      "name": "BOMBUZAL",
+      "gameInstances": [
+        {
+          "name": "Bombuzal",
+          "platform": "snes",
+          "language": "[Ja]",
+          "serial": "SHVC-BB",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4906571516512",
+          "id": "9253-1",
+          "regionalName": "ボンバザル",
+          "releaseDate": "1990-12-01"
+        }
+      ],
+      "id": 9253,
+      "localizedNames": {
+        "ja": "ボンバザル"
+      }
     }
   ]
 }
