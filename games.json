@@ -152822,6 +152822,19 @@
           "id": "5956-2",
           "upc": "4956027125997",
           "releaseDate": "2013-09-26"
+        },
+        {
+          "name": "EIYUU DENSETSU: SEN NO KISEKI [Launch Edition]",
+          "platform": "ps3",
+          "regionalName": "英雄伝説 閃の軌跡 [限定]",
+          "language": "[Ja]",
+          "serial": "BLJM-61059",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 57596,
+          "id": "5956-3",
+          "upc": "4956027126017",
+          "releaseDate": "2013-09-26"
         }
       ],
       "id": 5956
