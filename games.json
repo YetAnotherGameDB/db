@@ -135927,13 +135927,7 @@
           "releaseDate": "2008-01-31",
           "id": "5522-14",
           "upc": "4949244001205"
-        }
-      ],
-      "id": 5522
-    },
-    {
-      "name": "ASSASSIN'S CREED I + II WELCOME PACK",
-      "gameInstances": [
+        },
         {
           "name": "ASSASSIN'S CREED I + II WELCOME PACK",
           "platform": "ps3",
@@ -135944,11 +135938,11 @@
           "tgdbId": 0,
           "redumpId": 55733,
           "releaseDate": "2012-07-19",
-          "id": "5523-1",
+          "id": "5522-15",
           "upc": "4949244002752"
         }
       ],
-      "id": 5523
+      "id": 5522
     },
     {
       "name": "ASSASSIN'S CREED II",
@@ -136042,6 +136036,10 @@
           "redumpId": 54429,
           "id": "5524-8",
           "upc": "3307211666474"
+        },
+        {
+          "id": "5524-9",
+          "link": "5522-15"
         }
       ],
       "id": 5524
