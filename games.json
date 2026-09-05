@@ -182844,9 +182844,9 @@
           "id": "6879-3"
         },
         {
-          "name": "PORTAL 2",
+          "name": "PORTAL 2 [EA Best Hits]",
           "platform": "ps3",
-          "regionalName": "ポータル２",
+          "regionalName": "ポータル２ [EA Best Hits]",
           "serial": "BLJM-60473",
           "region": "Japan",
           "tgdbId": 0,
@@ -182890,6 +182890,18 @@
           "redumpId": 29474,
           "id": "6879-7",
           "upc": "014633098891"
+        },
+        {
+          "name": "PORTAL 2",
+          "platform": "ps3",
+          "regionalName": "ポータル２",
+          "serial": "BLJM-60352",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 99980,
+          "releaseDate": "2011-05-19",
+          "id": "6879-8",
+          "upc": "4938833020567"
         }
       ],
       "id": 6879
