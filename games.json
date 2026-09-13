@@ -137638,9 +137638,9 @@
           "id": "5563-2"
         },
         {
-          "name": "BATMAN: ARKHAM ASYLUM",
+          "name": "BATMAN: ARKHAM ASYLUM [Warner the best]",
           "platform": "ps3",
-          "regionalName": "バットマン　アーカム・アサイラム",
+          "regionalName": "バットマン　アーカム・アサイラム [Warner the best]",
           "releaseDate": "2012-07-05",
           "language": "[Ja]",
           "serial": "BLJM-60496",
@@ -137651,9 +137651,9 @@
           "upc": "4988135926395"
         },
         {
-          "name": "BATMAN: ARKHAM ASYLUM",
+          "name": "BATMAN: ARKHAM ASYLUM [Twinpack]",
           "platform": "ps3",
-          "regionalName": "バットマン　アーカム・アサイラム",
+          "regionalName": "バットマン　アーカム・アサイラム [ツインパック]",
           "releaseDate": "2013-10-10",
           "language": "[Ja]",
           "serial": "BLJM-61116",
@@ -137682,6 +137682,19 @@
           "tgdbId": 0,
           "redumpId": 11733,
           "id": "5563-6"
+        },
+        {
+          "name": "BATMAN: ARKHAM ASYLUM",
+          "platform": "ps3",
+          "regionalName": "バットマン　アーカム・アサイラム",
+          "releaseDate": "2010-01-14",
+          "language": "[Ja]",
+          "serial": "BLJM-60193",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpId": 58749,
+          "id": "5563-7",
+          "upc": "4988601006347"
         }
       ],
       "id": 5563
