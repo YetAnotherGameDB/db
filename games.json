@@ -15709,19 +15709,19 @@
       "name": "DEVIL SUMMONER - SOUL HACKERS",
       "gameInstances": [
         {
-          "name": "DEVIL SUMMONER - SOUL HACKERS [ 3 DISCS ]",
+          "name": "DEVIL SUMMONER - SOUL HACKERS",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-01921",
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110264",
-          "regionalName": "プラグマタ ELJM-30823",
+          "regionalName": "デビルサマナー ソウルハッカーズ",
           "releaseDate": "1999-04-08",
           "id": "561-1"
         },
         {
-          "name": "DEVIL SUMMONER - SOUL HACKERS [PLAYSTATION THE BEST] [ 2 DISCS ]",
+          "name": "DEVIL SUMMONER - SOUL HACKERS [PLAYSTATION THE BEST]",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPS-91200",
@@ -15733,7 +15733,7 @@
           "id": "561-2"
         },
         {
-          "name": "DEVIL SUMMONER - SOUL HACKERS [PSONE BOOKS] [ 2 DISCS ]",
+          "name": "DEVIL SUMMONER - SOUL HACKERS [PSONE BOOKS]",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPM-87184",
@@ -15747,7 +15747,7 @@
       ],
       "id": 561,
       "localizedNames": {
-        "ja": "デビルサマナー ソウルハッカーズ PS one Books"
+        "ja": "デビルサマナー ソウルハッカーズ"
       }
     },
     {
@@ -19484,7 +19484,7 @@
           "region": "NTSC-J",
           "tgdbId": 31073,
           "upc": "4949776363031",
-          "regionalName": "プラグマタ ELJM-30823",
+          "regionalName": "エコーナイト#2 眠りの支配者",
           "releaseDate": "1999-08-05",
           "id": "692-1"
         },
@@ -19502,7 +19502,7 @@
       ],
       "id": 692,
       "localizedNames": {
-        "ja": "プラグマタ ELJM-30823"
+        "ja": "エコーナイト#2 眠りの支配者"
       }
     },
     {
@@ -22209,7 +22209,7 @@
           "serial": "SCPS-45500",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "プラグマタ ELJM-30823",
+          "regionalName": "ファイナルファンタジーIX",
           "releaseDate": "2000-07-07",
           "id": "803-1"
         },
@@ -22444,7 +22444,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4959143900455",
-          "regionalName": "ウォブリーライフ ELJM-30761",
+          "regionalName": "ファイヤープロレスリングG",
           "releaseDate": "1999-06-24",
           "id": "810-1"
         },
@@ -22462,7 +22462,7 @@
       ],
       "id": 810,
       "localizedNames": {
-        "ja": "ウォブリーライフ ELJM-30761"
+        "ja": "ファイヤープロレスリングG"
       }
     },
     {
@@ -24446,7 +24446,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988606102570",
-          "regionalName": "プラグマタ ELJM-30823",
+          "regionalName": "ガレリアンズ",
           "releaseDate": "1999-08-26",
           "id": "877-1"
         },
@@ -24489,7 +24489,7 @@
       ],
       "id": 877,
       "localizedNames": {
-        "ja": "プラグマタ ELJM-30823"
+        "ja": "ガレリアンズ"
       }
     },
     {
@@ -27528,7 +27528,7 @@
           "region": "NTSC-J",
           "tgdbId": 30384,
           "upc": "4988602643961",
-          "regionalName": "プラグマタ ELJM-30823",
+          "regionalName": "ギターフリークス",
           "releaseDate": "1999-07-29",
           "id": "982-2"
         },
@@ -33775,14 +33775,14 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602726084",
-          "regionalName": "プラグマタ ELJM-30823",
+          "regionalName": "実況パワフルプロ野球'99 決定版",
           "releaseDate": "1999-12-25",
           "id": "1235-1"
         }
       ],
       "id": 1235,
       "localizedNames": {
-        "ja": "プラグマタ ELJM-30823"
+        "ja": "実況パワフルプロ野球'99 決定版"
       }
     },
     {
@@ -43710,14 +43710,14 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4965857040370",
-          "regionalName": "プラグマタ ELJM-30823",
+          "regionalName": "メダロットR",
           "releaseDate": "1999-11-25",
           "id": "1635-1"
         }
       ],
       "id": 1635,
       "localizedNames": {
-        "ja": "プラグマタ ELJM-30823"
+        "ja": "メダロットR"
       }
     },
     {
@@ -43881,7 +43881,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110738",
-          "regionalName": "プラグマタ ELJM-30823",
+          "regionalName": "女神異聞録ペルソナ [PSONE BOOKS]",
           "releaseDate": "2003-01-23",
           "id": "1639-3"
         }
@@ -52417,7 +52417,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872100748",
-          "regionalName": "SunnySide ELJM-30569",
+          "regionalName": "俺の屍を越えてゆけ",
           "releaseDate": "1999-06-17",
           "id": "1947-1"
         },
@@ -52446,7 +52446,7 @@
       ],
       "id": 1947,
       "localizedNames": {
-        "ja": "SunnySide ELJM-30569"
+        "ja": "俺の屍を越えてゆけ"
       }
     },
     {
@@ -57086,7 +57086,7 @@
           "serial": "SCPS-45433",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "プラグマタ ELJM-30823",
+          "regionalName": "ポップンミュージック2",
           "releaseDate": "2000-05-25",
           "id": "2128-1"
         },
@@ -57098,7 +57098,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602662283",
-          "regionalName": "プラグマタ ELJM-30823",
+          "regionalName": "ポップンミュージック2",
           "releaseDate": "1999-09-14",
           "id": "2128-2"
         },
@@ -60658,7 +60658,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4959143900509",
-          "regionalName": "ウォブリーライフ ELJM-30761",
+          "regionalName": "リモートコントロール ダンディ",
           "releaseDate": "1999-07-22",
           "id": "2255-2"
         }
@@ -64736,14 +64736,14 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602499148",
-          "regionalName": "プラグマタ ELJM-30823",
+          "regionalName": "聖少女艦隊・バージン・フリート",
           "releaseDate": "1999-07-01",
           "id": "2389-1"
         }
       ],
       "id": 2389,
       "localizedNames": {
-        "ja": "プラグマタ ELJM-30823"
+        "ja": "聖少女艦隊・バージン・フリート"
       }
     },
     {
@@ -66160,7 +66160,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4984995110479",
-          "regionalName": "プラグマタ ELJM-30823",
+          "regionalName": "真・女神転生II",
           "releaseDate": "2002-03-20",
           "id": "2448-1"
         },
@@ -66179,7 +66179,7 @@
       ],
       "id": 2448,
       "localizedNames": {
-        "ja": "プラグマタ ELJM-30823"
+        "ja": "真・女神転生II"
       }
     },
     {
@@ -67418,7 +67418,7 @@
           "serial": "SCPS-45380",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "regionalName": "プラグマタ ELJM-30823",
+          "regionalName": "サイレントヒル",
           "releaseDate": "1999-03-04",
           "id": "2494-1"
         },
@@ -83474,7 +83474,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602522624",
-          "regionalName": "プラグマタ ELJM-30823",
+          "regionalName": "ときめきメモリアル ドラマ・シリーズ Vol.3 ~旅立ちの詩~",
           "releaseDate": "1999-04-01",
           "id": "3110-1"
         },
@@ -83486,7 +83486,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988602103069",
-          "regionalName": "プラグマタ ELJM-30823",
+          "regionalName": "ときめきメモリアル ドラマ・シリーズ Vol.3 ~旅立ちの詩~ PS one Books",
           "releaseDate": "2003-09-18",
           "id": "3110-2"
         },
@@ -86834,7 +86834,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988601003278",
-          "regionalName": "プラグマタ ELJM-30823",
+          "regionalName": "ヴァルキリープロファイル",
           "releaseDate": "1999-12-22",
           "id": "3236-1"
         },
@@ -86885,7 +86885,7 @@
       ],
       "id": 3236,
       "localizedNames": {
-        "ja": "プラグマタ ELJM-30823"
+        "ja": "ヴァルキリープロファイル"
       }
     },
     {
