@@ -1,0 +1,336 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Game Meta Database</title>
+<style>
+  :root {
+    --bg: #0f1115;
+    --panel: #171a21;
+    --panel-2: #1e222b;
+    --border: #2a2f3a;
+    --text: #e6e8ec;
+    --muted: #9aa3b2;
+    --accent: #6ea8fe;
+    --chip: #2a3142;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font: 14px/1.45 system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+  }
+  header {
+    padding: 18px 20px 12px;
+    border-bottom: 1px solid var(--border);
+    background: var(--panel);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  h1 { margin: 0 0 10px; font-size: 18px; }
+  h1 .count { color: var(--muted); font-weight: 400; font-size: 13px; margin-left: 8px; }
+  .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+  input[type=search], select {
+    background: var(--panel-2);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 7px;
+    padding: 8px 10px;
+    font: inherit;
+    outline: none;
+  }
+  input[type=search] { flex: 1 1 280px; min-width: 200px; }
+  input[type=search]:focus, select:focus { border-color: var(--accent); }
+  .status { color: var(--muted); font-size: 12px; margin-left: auto; }
+  main { padding: 0 20px 60px; }
+  table { width: 100%; border-collapse: collapse; }
+  thead th {
+    text-align: left;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+    color: var(--muted);
+    padding: 10px 8px;
+    border-bottom: 1px solid var(--border);
+    position: sticky;
+    top: 96px;
+    background: var(--bg);
+  }
+  tbody tr.game { border-bottom: 1px solid var(--border); cursor: pointer; }
+  tbody tr.game:hover { background: var(--panel); }
+  td { padding: 9px 8px; vertical-align: top; }
+  td.id { color: var(--muted); font-variant-numeric: tabular-nums; width: 56px; }
+  td.name { font-weight: 600; }
+  td.local { color: var(--muted); font-weight: 400; font-size: 13px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 4px; }
+  .chip {
+    background: var(--chip);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 1px 9px;
+    font-size: 12px;
+    color: var(--text);
+    white-space: nowrap;
+  }
+  .detail td { background: var(--panel); padding: 0; }
+  .instances { padding: 6px 8px 14px 64px; }
+  .inst {
+    background: var(--panel-2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 10px 12px;
+    margin: 8px 0;
+  }
+  .inst .head { display: flex; flex-wrap: wrap; gap: 8px; align-items: baseline; margin-bottom: 6px; }
+  .inst .iname { font-weight: 600; }
+  .inst .rname { color: var(--muted); font-size: 13px; }
+  .kv { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 4px 18px; }
+  .kv div { font-size: 13px; }
+  .kv b { color: var(--muted); font-weight: 500; margin-right: 6px; }
+  .kv a { color: var(--accent); text-decoration: none; }
+  .kv a:hover { text-decoration: underline; }
+  .empty { color: var(--muted); padding: 40px 8px; text-align: center; }
+  .more { color: var(--muted); padding: 16px 8px; text-align: center; font-size: 13px; }
+  .twirl { display: inline-block; width: 14px; color: var(--muted); }
+  mark { background: #4a4400; color: #fff; border-radius: 2px; }
+  footer { color: var(--muted); font-size: 12px; padding: 16px 20px; border-top: 1px solid var(--border); }
+  footer a { color: var(--accent); }
+</style>
+</head>
+<body>
+<header>
+  <h1>Game Meta Database <span class="count" id="count"></span></h1>
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search name, serial, UPC, redump…" autocomplete="off">
+    <select id="platform"><option value="">All platforms</option></select>
+    <select id="region"><option value="">All regions</option></select>
+    <span class="status" id="status">Loading…</span>
+  </div>
+</header>
+<main>
+  <table>
+    <thead>
+      <tr>
+        <th></th><th>ID</th><th>Name</th><th>Platforms</th><th>Regions</th><th>Instances</th>
+      </tr>
+    </thead>
+    <tbody id="rows"></tbody>
+  </table>
+  <div id="more" class="more" hidden></div>
+  <div id="empty" class="empty" hidden>No matching games.</div>
+</main>
+<footer>
+  Static browser over <a href="games.json">games.json</a> &middot;
+  downloads: <a href="games.json">json</a>,
+  <a href="games.json.gz">json.gz</a>,
+  <a href="games.db">sqlite</a>
+</footer>
+
+<script>
+"use strict";
+const PAGE = 200; // rows rendered per chunk
+
+// Defensive getter: tolerate inconsistent key casing / typos in the data.
+function pick(obj, ...keys) {
+  for (const k of keys) {
+    if (obj[k] !== undefined && obj[k] !== null && obj[k] !== "") return obj[k];
+  }
+  return "";
+}
+const instName = o => pick(o, "name");
+const instRegionalName = o => pick(o, "regionalName", "regioonalName");
+const instLang = o => pick(o, "language", "Language");
+const instUpc = o => pick(o, "upc", "UPC");
+const instDate = o => pick(o, "releaseDate", "ReleaseDate");
+const instRedump = o => pick(o, "redumpId");
+const instTgdb = o => { const v = pick(o, "tgdbId"); return v && v !== 0 ? v : ""; };
+
+let games = [];
+let filtered = [];
+let shown = 0;
+const expanded = new Set();
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+function highlight(text, terms) {
+  let s = esc(text);
+  for (const t of terms) {
+    if (!t) continue;
+    const re = new RegExp("(" + t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + ")", "ig");
+    s = s.replace(re, "<mark>$1</mark>");
+  }
+  return s;
+}
+
+function uniq(arr) { return [...new Set(arr.filter(Boolean))]; }
+
+// localizedNames is an object like {"ja": "…"} (occasionally absent). Return ["ja: …"].
+function localNames(g) {
+  const ln = g.localizedNames;
+  if (!ln || typeof ln !== "object") return [];
+  if (Array.isArray(ln)) return ln.map(x => typeof x === "string" ? x : (x.name || x.value || "")).filter(Boolean);
+  return Object.entries(ln).map(([k, v]) => v ? `${k}: ${v}` : "").filter(Boolean);
+}
+
+function gamePlatforms(g) { return uniq((g.gameInstances || []).map(i => i.platform)); }
+function gameRegions(g) { return uniq((g.gameInstances || []).map(i => i.region)); }
+
+// Build a lowercase search blob once per game.
+function indexGame(g) {
+  const parts = [g.name, String(g.id), ...localNames(g)];
+  for (const i of (g.gameInstances || [])) {
+    parts.push(instName(i), instRegionalName(i), pick(i, "serial"), instUpc(i), instRedump(i), i.platform, i.region);
+  }
+  g._blob = parts.filter(Boolean).join(" ").toLowerCase();
+}
+
+function applyFilters() {
+  const q = $("q").value.trim().toLowerCase();
+  const terms = q.split(/\s+/).filter(Boolean);
+  const plat = $("platform").value;
+  const region = $("region").value;
+
+  filtered = games.filter(g => {
+    if (plat && !gamePlatforms(g).includes(plat)) return false;
+    if (region && !gameRegions(g).includes(region)) return false;
+    for (const t of terms) if (!g._blob.includes(t)) return false;
+    return true;
+  });
+  shown = 0;
+  $("rows").innerHTML = "";
+  $("empty").hidden = filtered.length > 0;
+  $("count").textContent = filtered.length === games.length
+    ? `(${games.length.toLocaleString()} games)`
+    : `(${filtered.length.toLocaleString()} of ${games.length.toLocaleString()})`;
+  renderMore();
+}
+
+function renderMore() {
+  const terms = $("q").value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+  const frag = document.createDocumentFragment();
+  const end = Math.min(shown + PAGE, filtered.length);
+  for (let i = shown; i < end; i++) {
+    const g = filtered[i];
+    frag.appendChild(rowFor(g, terms));
+    if (expanded.has(g.id)) frag.appendChild(detailRow(g, terms));
+  }
+  $("rows").appendChild(frag);
+  shown = end;
+  const moreEl = $("more");
+  if (shown < filtered.length) {
+    moreEl.hidden = false;
+    moreEl.textContent = `Showing ${shown.toLocaleString()} of ${filtered.length.toLocaleString()} — scroll for more`;
+  } else {
+    moreEl.hidden = true;
+  }
+}
+
+function chip(text) { return `<span class="chip">${esc(text)}</span>`; }
+
+function rowFor(g, terms) {
+  const tr = document.createElement("tr");
+  tr.className = "game";
+  const isOpen = expanded.has(g.id);
+  const local = localNames(g);
+  tr.innerHTML =
+    `<td class="twirl">${isOpen ? "▾" : "▸"}</td>` +
+    `<td class="id">${g.id}</td>` +
+    `<td class="name">${highlight(g.name, terms)}` +
+      (local.length ? `<div class="local">${highlight(local.join(" / "), terms)}</div>` : "") +
+    `</td>` +
+    `<td><div class="chips">${gamePlatforms(g).map(chip).join("")}</div></td>` +
+    `<td><div class="chips">${gameRegions(g).map(chip).join("")}</div></td>` +
+    `<td>${(g.gameInstances || []).length}</td>`;
+  tr.addEventListener("click", () => toggle(g, tr, terms));
+  return tr;
+}
+
+function toggle(g, tr, terms) {
+  const next = tr.nextElementSibling;
+  if (next && next.classList.contains("detail")) {
+    next.remove();
+    expanded.delete(g.id);
+    tr.querySelector(".twirl").textContent = "▸";
+  } else {
+    tr.after(detailRow(g, terms));
+    expanded.add(g.id);
+    tr.querySelector(".twirl").textContent = "▾";
+  }
+}
+
+function pcLink(o) {
+  const id = pick(o, "PriceCharting", "pricechartingId");
+  if (!id) return "";
+  const url = "https://www.pricecharting.com/game/" + String(id).replace(/^\//, "");
+  return `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(id)}</a>`;
+}
+
+function detailRow(g, terms) {
+  const tr = document.createElement("tr");
+  tr.className = "detail";
+  const cells = (g.gameInstances || []).map(o => {
+    const kv = [];
+    const add = (label, val) => { if (val) kv.push(`<div><b>${label}</b>${val}</div>`); };
+    add("Platform", esc(o.platform));
+    add("Region", esc(o.region));
+    add("Serial", highlight(pick(o, "serial"), terms));
+    add("Language", esc(instLang(o)));
+    add("Release", esc(instDate(o)));
+    add("UPC", highlight(instUpc(o), terms));
+    add("Redump", highlight(instRedump(o), terms));
+    add("TGDB", esc(instTgdb(o)));
+    add("PriceCharting", pcLink(o));
+    const rn = instRegionalName(o);
+    return `<div class="inst">` +
+      `<div class="head"><span class="iname">${highlight(instName(o) || g.name, terms)}</span>` +
+      (rn ? `<span class="rname">${highlight(rn, terms)}</span>` : "") +
+      `<span class="chip">${esc(o.id)}</span></div>` +
+      `<div class="kv">${kv.join("")}</div>` +
+    `</div>`;
+  }).join("");
+  tr.innerHTML = `<td></td><td colspan="5"><div class="instances">${cells}</div></td>`;
+  return tr;
+}
+
+// Infinite scroll
+window.addEventListener("scroll", () => {
+  if (shown >= filtered.length) return;
+  if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 600) renderMore();
+});
+
+function populateFilters(enums) {
+  const ps = $("platform");
+  for (const p of (enums.platforms || [])) ps.add(new Option(p, p));
+  const rs = $("region");
+  const regions = uniq(Object.values(enums.regions || {}).flat());
+  for (const r of regions) rs.add(new Option(r, r));
+}
+
+let debounce;
+function onInput() { clearTimeout(debounce); debounce = setTimeout(applyFilters, 120); }
+
+async function load() {
+  try {
+    const res = await fetch("games.json");
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+    games = data.games || [];
+    for (const g of games) indexGame(g);
+    populateFilters(data.enums || {});
+    $("status").textContent = `${games.length.toLocaleString()} games loaded`;
+    $("q").addEventListener("input", onInput);
+    $("platform").addEventListener("change", applyFilters);
+    $("region").addEventListener("change", applyFilters);
+    applyFilters();
+  } catch (e) {
+    $("status").textContent = "Failed to load games.json: " + e.message;
+  }
+}
+load();
+</script>
+</body>
+</html>
