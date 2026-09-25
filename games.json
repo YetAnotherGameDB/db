@@ -157628,8 +157628,128 @@
       "id": 6064
     },
     {
-      "name": "FINAL FANTASY X | X-2: HD REMASTER",
+      "name": "FINAL FANTASY X",
       "gameInstances": [
+        {
+          "name": "FINAL FANTASY X",
+          "platform": "ps2",
+          "language": "[En]",
+          "serial": "SLUS-20312",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "releaseDate": "2001-12-17",
+          "id": "6065-1"
+        },
+        {
+          "name": "FINAL FANTASY X",
+          "platform": "ps2",
+          "language": "[En]",
+          "serial": "SCES-50490",
+          "region": "PAL",
+          "tgdbId": 0,
+          "releaseDate": "2002-05-17",
+          "id": "6065-2"
+        },
+        {
+          "name": "FINAL FANTASY X",
+          "platform": "ps2",
+          "language": "[Fr]",
+          "serial": "SCES-50491",
+          "region": "PAL",
+          "tgdbId": 0,
+          "releaseDate": "2002-05-17",
+          "id": "6065-3"
+        },
+        {
+          "name": "FINAL FANTASY X",
+          "platform": "ps2",
+          "language": "[De]",
+          "serial": "SCES-50492",
+          "region": "PAL",
+          "tgdbId": 0,
+          "releaseDate": "2002-05-17",
+          "id": "6065-4"
+        },
+        {
+          "name": "FINAL FANTASY X",
+          "platform": "ps2",
+          "language": "[It]",
+          "serial": "SCES-50493",
+          "region": "PAL",
+          "tgdbId": 0,
+          "releaseDate": "2002-05-17",
+          "id": "6065-5"
+        },
+        {
+          "name": "FINAL FANTASY X",
+          "platform": "ps2",
+          "language": "[Es]",
+          "serial": "SCES-50494",
+          "region": "PAL",
+          "tgdbId": 0,
+          "releaseDate": "2002-05-17",
+          "id": "6065-6"
+        },
+        {
+          "name": "FINAL FANTASY X",
+          "regionalName": "ファイナルファンタジーX",
+          "platform": "ps2",
+          "language": "[Ja]",
+          "serial": "SLPS-25050",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "releaseDate": "2001-07-19",
+          "id": "6065-7"
+        },
+        {
+          "name": "FINAL FANTASY X INTERNATIONAL",
+          "platform": "ps2",
+          "language": "[En,Ja]",
+          "serial": "SLPS-25088",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "releaseDate": "2002-01-31",
+          "id": "6065-8"
+        },
+        {
+          "name": "FINAL FANTASY X [MEGA HITS]",
+          "platform": "ps2",
+          "language": "[Ja]",
+          "serial": "SLPS-72501",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "releaseDate": "2003-01-16",
+          "id": "6065-9"
+        },
+        {
+          "name": "FINAL FANTASY X [ULTIMATE HITS]",
+          "platform": "ps2",
+          "language": "[Ja]",
+          "serial": "SLPM-66124",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "releaseDate": "2005-09-08",
+          "id": "6065-10"
+        },
+        {
+          "name": "FINAL FANTASY X INTERNATIONAL [ULTIMATE HITS]",
+          "platform": "ps2",
+          "language": "[En,Ja]",
+          "serial": "SLPM-66677",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "releaseDate": "2007-01-25",
+          "id": "6065-11"
+        },
+        {
+          "name": "FINAL FANTASY X [GREATEST HITS]",
+          "platform": "ps2",
+          "language": "[En]",
+          "serial": "SLUS-20312GH",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "6065-12"
+        },
         {
           "name": "FINAL FANTASY X | X-2: HD REMASTER",
           "platform": "ps3",
@@ -157638,7 +157758,7 @@
           "region": "Asia",
           "tgdbId": 0,
           "redumpId": 33325,
-          "id": "6065-1"
+          "id": "6065-13"
         },
         {
           "name": "FINAL FANTASY X | X-2: HD REMASTER",
@@ -157648,7 +157768,7 @@
           "region": "Korea",
           "tgdbId": 0,
           "redumpId": 33325,
-          "id": "6065-2"
+          "id": "6065-14"
         },
         {
           "name": "FINAL FANTASY X | X-2: HD REMASTER",
@@ -157658,7 +157778,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpId": 31565,
-          "id": "6065-3"
+          "id": "6065-15"
         },
         {
           "name": "FINAL FANTASY X | X-2: HD REMASTER",
@@ -157668,7 +157788,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpId": 31565,
-          "id": "6065-4"
+          "id": "6065-16"
         },
         {
           "name": "FINAL FANTASY X | X-2: HD REMASTER",
@@ -157680,7 +157800,7 @@
           "tgdbId": 0,
           "redumpId": 65863,
           "releaseDate": "2013-12-26",
-          "id": "6065-5",
+          "id": "6065-17",
           "upc": "4988601008051"
         },
         {
@@ -157691,10 +157811,141 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpId": 31627,
-          "id": "6065-6"
+          "id": "6065-18"
         }
       ],
       "id": 6065
+    },
+    {
+      "name": "FINAL FANTASY X-2",
+      "gameInstances": [
+        {
+          "name": "FINAL FANTASY X-2",
+          "platform": "ps2",
+          "language": "[En]",
+          "serial": "SLUS-20672",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "releaseDate": "2003-11-18",
+          "id": "9254-1"
+        },
+        {
+          "name": "FINAL FANTASY X-2",
+          "platform": "ps2",
+          "language": "[En]",
+          "serial": "SLES-51815",
+          "region": "PAL",
+          "tgdbId": 0,
+          "releaseDate": "2004-02-20",
+          "id": "9254-2"
+        },
+        {
+          "name": "FINAL FANTASY X-2",
+          "platform": "ps2",
+          "language": "[Fr]",
+          "serial": "SLES-51816",
+          "region": "PAL",
+          "tgdbId": 0,
+          "releaseDate": "2004-02-20",
+          "id": "9254-3"
+        },
+        {
+          "name": "FINAL FANTASY X-2",
+          "platform": "ps2",
+          "language": "[De]",
+          "serial": "SLES-51817",
+          "region": "PAL",
+          "tgdbId": 0,
+          "releaseDate": "2004-02-20",
+          "id": "9254-4"
+        },
+        {
+          "name": "FINAL FANTASY X-2",
+          "platform": "ps2",
+          "language": "[It]",
+          "serial": "SLES-51818",
+          "region": "PAL",
+          "tgdbId": 0,
+          "releaseDate": "2004-02-20",
+          "id": "9254-5"
+        },
+        {
+          "name": "FINAL FANTASY X-2",
+          "platform": "ps2",
+          "language": "[Es]",
+          "serial": "SLES-51819",
+          "region": "PAL",
+          "tgdbId": 0,
+          "releaseDate": "2004-02-20",
+          "id": "9254-6"
+        },
+        {
+          "name": "FINAL FANTASY X-2",
+          "regionalName": "ファイナルファンタジーX-2",
+          "platform": "ps2",
+          "language": "[Ja]",
+          "serial": "SLPS-25250",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "releaseDate": "2003-03-13",
+          "id": "9254-7"
+        },
+        {
+          "name": "FINAL FANTASY X-2 INTERNATIONAL + LAST MISSION",
+          "platform": "ps2",
+          "language": "[Ja]",
+          "serial": "SLPM-65478",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "releaseDate": "2004-02-19",
+          "id": "9254-8"
+        },
+        {
+          "name": "FINAL FANTASY X-2 INTERNATIONAL + LAST MISSION [ULTIMATE HITS]",
+          "platform": "ps2",
+          "language": "[Ja]",
+          "serial": "SLPM-66678",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "releaseDate": "2007-01-25",
+          "id": "9254-9"
+        },
+        {
+          "name": "FINAL FANTASY X-2 [GREATEST HITS]",
+          "platform": "ps2",
+          "language": "[En]",
+          "serial": "SLUS-20672GH",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "upc": "662248903057",
+          "id": "9254-10"
+        },
+        {
+          "id": "9254-11",
+          "link": "6065-13"
+        },
+        {
+          "id": "9254-12",
+          "link": "6065-14"
+        },
+        {
+          "id": "9254-13",
+          "link": "6065-15"
+        },
+        {
+          "id": "9254-14",
+          "link": "6065-16"
+        },
+        {
+          "id": "9254-15",
+          "link": "6065-17"
+        },
+        {
+          "id": "9254-16",
+          "link": "6065-18"
+        }
+      ],
+      "id": 9254
     },
     {
       "name": "FINAL FANTASY XIII",
