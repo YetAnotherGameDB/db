@@ -147319,6 +147319,7 @@
         {
           "name": "DEAD SPACE 3",
           "platform": "ps3",
+          "serial": "BLUS-31053",
           "region": "North America",
           "tgdbId": 0,
           "redumpId": 59526,
@@ -154244,6 +154245,7 @@
         {
           "name": "EYEPET & FRIENDS",
           "platform": "ps3",
+          "serial": "BCES-00865",
           "region": "Europe",
           "tgdbId": 0,
           "redumpId": 105979,
@@ -172270,6 +172272,7 @@
         {
           "name": "MEDIEVAL MOVES",
           "platform": "ps3",
+          "serial": "BCES-01279",
           "region": "Europe",
           "tgdbId": 0,
           "redumpId": 105980,
@@ -177857,6 +177860,7 @@
           "name": "NEED FOR SPEED: MOST WANTED: A CRITERION GAME",
           "platform": "ps3",
           "language": "[En,Fr,Es]",
+          "serial": "BLUS-31010",
           "region": "North America",
           "tgdbId": 0,
           "redumpId": 62300,
