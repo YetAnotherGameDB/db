@@ -149,6 +149,9 @@ const instRedump = o => pick(o, "redumpId");
 const instTgdb = o => { const v = pick(o, "tgdbId"); return v && v !== 0 ? v : ""; };
 
 let games = [];
+const instById = new Map();   // instance id -> instance
+const gameByInstId = new Map(); // instance id -> owning game
+const linkedFrom = new Map();   // instance id -> link stubs pointing at it
 let filtered = [];
 let shown = 0;
 const expanded = new Set();
@@ -166,6 +169,9 @@ function highlight(text, terms) {
   return s;
 }
 
+// Link stubs ({id, link}) stand for another game's instance; use its data.
+const resolve = i => (i.link && instById.get(i.link)) || i;
+
 function uniq(arr) { return [...new Set(arr.filter(Boolean))]; }
 
 // localizedNames is an object like {"ja": "…"} (occasionally absent). Return ["ja: …"].
@@ -176,13 +182,14 @@ function localNames(g) {
   return Object.entries(ln).map(([k, v]) => v ? `${k}: ${v}` : "").filter(Boolean);
 }
 
-function gamePlatforms(g) { return uniq((g.gameInstances || []).map(i => i.platform)); }
-function gameRegions(g) { return uniq((g.gameInstances || []).map(i => i.region)); }
+function gamePlatforms(g) { return uniq((g.gameInstances || []).map(i => resolve(i).platform)); }
+function gameRegions(g) { return uniq((g.gameInstances || []).map(i => resolve(i).region)); }
 
 // Build a lowercase search blob once per game.
 function indexGame(g) {
   const parts = [g.name, String(g.id), ...localNames(g)];
-  for (const i of (g.gameInstances || [])) {
+  for (const raw of (g.gameInstances || [])) {
+    const i = resolve(raw);
     parts.push(instName(i), instRegionalName(i), pick(i, "serial"), instUpc(i), instRedump(i), i.platform, i.region);
   }
   g._blob = parts.filter(Boolean).join(" ").toLowerCase();
@@ -272,7 +279,8 @@ function pcLink(o) {
 function detailRow(g, terms) {
   const tr = document.createElement("tr");
   tr.className = "detail";
-  const cells = (g.gameInstances || []).map(o => {
+  const cells = (g.gameInstances || []).map(raw => {
+    const o = resolve(raw);
     const kv = [];
     const add = (label, val) => { if (val) kv.push(`<div><b>${label}</b>${val}</div>`); };
     add("Platform", esc(o.platform));
@@ -284,11 +292,22 @@ function detailRow(g, terms) {
     add("Redump", highlight(instRedump(o), terms));
     add("TGDB", esc(instTgdb(o)));
     add("PriceCharting", pcLink(o));
+    if (raw !== o) {
+      const owner = gameByInstId.get(o.id);
+      add("Linked to", `${esc(o.id)}` + (owner ? ` (${esc(owner.name)})` : ""));
+    }
+    const back = linkedFrom.get(o.id);
+    if (raw === o && back) {
+      add("Also listed as", back.map(id => {
+        const owner = gameByInstId.get(id);
+        return esc(id) + (owner ? ` (${esc(owner.name)})` : "");
+      }).join(", "));
+    }
     const rn = instRegionalName(o);
     return `<div class="inst">` +
       `<div class="head"><span class="iname">${highlight(instName(o) || g.name, terms)}</span>` +
       (rn ? `<span class="rname">${highlight(rn, terms)}</span>` : "") +
-      `<span class="chip">${esc(o.id)}</span></div>` +
+      `<span class="chip">${esc(raw.id)}</span></div>` +
       `<div class="kv">${kv.join("")}</div>` +
     `</div>`;
   }).join("");
@@ -319,6 +338,14 @@ async function load() {
     if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
     games = data.games || [];
+    for (const g of games) for (const i of (g.gameInstances || [])) {
+      instById.set(i.id, i);
+      gameByInstId.set(i.id, g);
+      if (i.link) {
+        if (!linkedFrom.has(i.link)) linkedFrom.set(i.link, []);
+        linkedFrom.get(i.link).push(i.id);
+      }
+    }
     for (const g of games) indexGame(g);
     populateFilters(data.enums || {});
     $("status").textContent = `${games.length.toLocaleString()} games loaded`;
