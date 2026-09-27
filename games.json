@@ -60,7 +60,7 @@
         {
           "name": "0 KARA NO SHOGI - SHOGI YOUCHIEN AYUMI-GUMI",
           "platform": "ps1",
-          "language": "[J]",
+          "Language": "[J]",
           "serial": "SLPS-02044",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -106,7 +106,7 @@
           "serial": "SLPS-02604",
           "region": "NTSC-J",
           "tgdbId": 0,
-          "GameyeID": 112664,
+          "gameyeId": 112664,
           "PriceCharting": "jp-playstation/007-tomorrow-never-dies",
           "upc": "4938833005137",
           "regionalName": "007 トゥモロー・ネバー・ダイ",
@@ -6464,7 +6464,7 @@
           "region": "NTSC-J",
           "upc": "4948872100144",
           "tgdbId": 0,
-          "regioonalName": "ビヨンド ザ ビヨンド",
+          "regionalName": "ビヨンド ザ ビヨンド",
           "releaseDate": "1995-11-03",
           "id": "225-1"
         },
@@ -10113,7 +10113,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988110021428",
-          "regionalName": "one Books チャルメラ / ビクター インタラクティブ ソフトウエア",
+          "regionalName": "PS one Books チャルメラ / ビクター インタラクティブ ソフトウエア",
           "releaseDate": "2003-11-12",
           "id": "361-3"
         }
@@ -11916,7 +11916,7 @@
           "serial": "SLPS-00657",
           "region": "NTSC-J",
           "tgdbId": 96147,
-          "upc": "T4959143900127",
+          "upc": "4959143900127",
           "regionalName": "収納 バスケット ネーム バスケット ロング イノマタ化学",
           "releaseDate": "1996-12-13",
           "id": "432-1"
@@ -12746,7 +12746,7 @@
           "region": "NTSC-J",
           "tgdbId": 97801,
           "upc": "49488721003111",
-          "regionalName": "one Books　クラッシュ・バンディクー",
+          "regionalName": "PS one Books　クラッシュ・バンディクー",
           "releaseDate": "1996-12-06",
           "id": "458-1"
         },
@@ -12758,7 +12758,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872910576",
-          "regionalName": "one Books　クラッシュ・バンディクー",
+          "regionalName": "PS one Books　クラッシュ・バンディクー",
           "releaseDate": "1998-05-28",
           "id": "458-2"
         },
@@ -12770,7 +12770,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872913041",
-          "regionalName": "one Books　クラッシュ・バンディクー",
+          "regionalName": "PS one Books　クラッシュ・バンディクー",
           "releaseDate": "2001-10-12",
           "id": "458-3"
         },
@@ -25908,7 +25908,7 @@
           "serial": "SLPM-86848",
           "region": "NTSC-J",
           "tgdbId": 107254,
-          "upc": "49886002079470",
+          "upc": "4988602079470",
           "releaseDate": "2001-07-26",
           "id": "923-1"
         },
@@ -27100,7 +27100,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4517015940321",
-          "regionalName": "one Books グレイトラグビー〜ワールドカップへの道〜",
+          "regionalName": "PS one Books グレイトラグビー〜ワールドカップへの道〜",
           "releaseDate": "2001-12-13",
           "id": "966-3"
         }
@@ -57422,7 +57422,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4948872913126",
-          "regionalName": "one Books　ポポローグ",
+          "regionalName": "PS one Books　ポポローグ",
           "releaseDate": "2001-11-27",
           "id": "2139-2"
         }
@@ -72689,7 +72689,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4932345026208",
-          "regionalName": "one Books 街 〜運命の交差点〜 サウンドノベル・エボリューション3",
+          "regionalName": "PS one Books 街 〜運命の交差点〜 サウンドノベル・エボリューション3",
           "releaseDate": "2002-04-04",
           "id": "2721-2"
         }
@@ -82401,13 +82401,13 @@
           "upc": "4640299101025",
           "regionalName": "サンダーストーム&ロードブラスター",
           "releaseDate": "1995-10-20",
-          "localizedNames": {
-            "ja": "サンダーストーム&ロードブラスター"
-          },
           "id": "3069-1"
         }
       ],
-      "id": 3069
+      "id": 3069,
+      "localizedNames": {
+        "ja": "サンダーストーム&ロードブラスター"
+      }
     },
     {
       "name": "THUNDERHAWK II",
@@ -85415,7 +85415,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4940261506599",
-          "regionalName": "one Books トワイライトシンドローム〜再会〜",
+          "regionalName": "PS one Books トワイライトシンドローム〜再会〜",
           "releaseDate": "2002-02-14",
           "id": "3188-2"
         },
@@ -86765,7 +86765,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4961012027088",
-          "regionalName": "one Books ベイグラントストーリー / スクウェア",
+          "regionalName": "PS one Books ベイグラントストーリー / スクウェア",
           "releaseDate": "2002-02-21",
           "id": "3235-3"
         },
@@ -86942,7 +86942,7 @@
           "tgdbId": 93550,
           "upc": "4988110020537",
           "gameyeId": 86922,
-          "pricechartingId": 63853,
+          "pricechartingId": 13179615,
           "regionalName": "プレイステーション バンパイアハンターD",
           "releaseDate": "1999-12-09",
           "id": "3240-1"
@@ -90214,7 +90214,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4940261507022",
-          "regionalName": "one Books WTC～ワールド・ツーリングカー・チャンピオンシップ～ / スパイク",
+          "regionalName": "PS one Books WTC～ワールド・ツーリングカー・チャンピオンシップ～ / スパイク",
           "releaseDate": "2002-04-04",
           "id": "3357-2"
         },
@@ -91924,7 +91924,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4940261506407",
-          "regionalName": "one Books 全日本プロレス~王者の魂~",
+          "regionalName": "PS one Books 全日本プロレス~王者の魂~",
           "releaseDate": "2001-12-13",
           "id": "3424-2"
         },
@@ -92248,7 +92248,7 @@
           "name": "ZIPANGUJIMA - UNMEI WA SAIKARORO GA KIMERU!",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-02260\n ZIPANGUJIMA - UNMEI WA SAIKARORO GA KIMERU!\n [J]",
+          "serial": "SLPS-02260",
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1999-10-07",
@@ -92275,7 +92275,7 @@
           "name": "ZOIDS - BATTLE CARD GAME",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-03255\n ZOIDS - BATTLE CARD GAME\n [J]",
+          "serial": "SLPS-03255",
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2001-07-26",
@@ -92292,7 +92292,7 @@
           "name": "ZOIDS - ZENEBUS VS HERIC",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-02982\n ZOIDS - ZENEBUS VS HERIC\n [J]",
+          "serial": "SLPS-02982",
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-11-22",
@@ -92309,7 +92309,7 @@
           "name": "ZOIDS 2 - HELIC REPUBLIC VS GUYLOS EMPIRE",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-03389\n ZOIDS 2 - HELIC REPUBLIC VS GUYLOS EMPIRE\n [J]",
+          "serial": "SLPS-03389",
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2002-02-21",
@@ -92326,7 +92326,7 @@
           "name": "ZOKU GUSSUN OYOYO",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-00488\n ZOKU GUSSUN OYOYO\n [J]",
+          "serial": "SLPS-00488",
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-10-10",
@@ -92389,7 +92389,7 @@
           "name": "ZOOP",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-00534\n ZOOP\n [J]",
+          "serial": "SLPS-00534",
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-11-22",
@@ -92415,7 +92415,7 @@
           "name": "ZORK I - THE GREAT UNDERGROUND EMPIRE",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-00271\n ZORK I - THE GREAT UNDERGROUND EMPIRE\n [J]",
+          "serial": "SLPS-00271",
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-03-15",
@@ -92432,7 +92432,7 @@
           "name": "ZUTTO ISSHO - WITH ME EVERYTIME...",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-01238\n ZUTTO ISSHO - WITH ME EVERYTIME...\n [J]",
+          "serial": "SLPS-01238",
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1998-03-12",
@@ -92443,7 +92443,7 @@
           "name": "ZUTTO ISSHO - WITH ME EVERYTIME... [MAJOR WAVE SERIES]",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPM-86523\n ZUTTO ISSHO - WITH ME EVERYTIME... [MAJOR WAVE SERIES]\n [J]",
+          "serial": "SLPM-86523",
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "2000-05-25",
@@ -92459,7 +92459,7 @@
           "name": "ZXE-D - LEGEND OF PLASMALITE",
           "platform": "ps1",
           "Language": "[J]",
-          "serial": "SLPS-00424\n ZXE-D - LEGEND OF PLASMALITE\n [J]",
+          "serial": "SLPS-00424",
           "region": "NTSC-J",
           "tgdbId": 0,
           "releaseDate": "1996-12-20",
@@ -157923,6 +157923,17 @@
           "id": "9254-10"
         },
         {
+          "name": "FINAL FANTASY X-2 [ULTIMATE HITS]",
+          "platform": "ps2",
+          "language": "[Ja]",
+          "serial": "SLPM-66125",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "upc": "4988601004336",
+          "releaseDate": "2005-09-08",
+          "id": "9254-17"
+        },
+        {
           "id": "9254-11",
           "link": "6065-13"
         },
@@ -209115,7 +209126,7 @@
           "tgdbId": 0,
           "upc": "4902370832099",
           "id": "7688-1",
-          "regionalName": "ドンキーコングJR.(DONKYE KONG ジュニア) 任天堂",
+          "regionalName": "ドンキーコングJR.(DONKEY KONG ジュニア) 任天堂",
           "releaseDate": "1983-07-15"
         },
         {
@@ -209132,7 +209143,7 @@
       ],
       "id": 7688,
       "localizedNames": {
-        "ja": "ドンキーコングJR.(DONKYE KONG ジュニア) 任天堂"
+        "ja": "ドンキーコングJR.(DONKEY KONG ジュニア) 任天堂"
       }
     },
     {
@@ -227841,7 +227852,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "8575-1",
-          "regionalName": "オールナイトニッポン スーパーマリオブラザーズ"
+          "regionalName": "オールナイトニッポン スーパーマリオブラザーズ",
+          "releaseDate": "1986-12-12"
         }
       ],
       "id": 8575,
@@ -228793,7 +228805,7 @@
           "name": "Bubble Bobble",
           "platform": "fds",
           "language": "[Ja]",
-          "serial": "TFD-BUB-3500",
+          "serial": "TFD-BUB",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "8621-1",
@@ -238117,7 +238129,7 @@
           "name": "Replicart",
           "platform": "fds",
           "language": "[Ja]",
-          "serial": "TFD-REP-3500",
+          "serial": "TFD-REP",
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4988611870242",
