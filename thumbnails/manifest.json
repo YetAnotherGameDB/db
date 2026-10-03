@@ -1,0 +1,95 @@
+{
+  "generated": "2026-09-06T14:07:49Z",
+  "packs": {
+    "famicom": {
+      "hash": "64fe50232c3ea4a30c6002fbf735d19b60bed44a",
+      "count": 334,
+      "bytes": 19206472,
+      "version": 2,
+      "parts": [
+        {
+          "file": "thumbs-famicom.zip",
+          "count": 334,
+          "bytes": 19206472,
+          "hash": "64fe50232c3ea4a30c6002fbf735d19b60bed44a"
+        }
+      ]
+    },
+    "fds": {
+      "hash": "dffff8d0f67ea387d5f7ed20aff6bd37b867243c",
+      "count": 16,
+      "bytes": 1298948,
+      "version": 2,
+      "parts": [
+        {
+          "file": "thumbs-fds.zip",
+          "count": 16,
+          "bytes": 1298948,
+          "hash": "dffff8d0f67ea387d5f7ed20aff6bd37b867243c"
+        }
+      ]
+    },
+    "ps1": {
+      "hash": "ad59e7ebc12dfdda0ca7b49bf599f9503cef2afb",
+      "count": 3514,
+      "bytes": 116273071,
+      "version": 5,
+      "parts": [
+        {
+          "file": "thumbs-ps1-01.zip",
+          "count": 2845,
+          "bytes": 94634105,
+          "hash": "11af9e33d3dec86663b88ef663e12b5083d6cab9"
+        },
+        {
+          "file": "thumbs-ps1-02.zip",
+          "count": 669,
+          "bytes": 21638966,
+          "hash": "876b66b6f0335c657709c3a1e3a81393bdbe5d48"
+        }
+      ]
+    },
+    "ps3": {
+      "hash": "d7d015baeb9edd2d89325743ae075b9fdff945c1",
+      "count": 1280,
+      "bytes": 52805490,
+      "version": 5,
+      "parts": [
+        {
+          "file": "thumbs-ps3.zip",
+          "count": 1280,
+          "bytes": 52805490,
+          "hash": "d7d015baeb9edd2d89325743ae075b9fdff945c1"
+        }
+      ]
+    },
+    "snes": {
+      "hash": "b14fb5ff70d1f7ea95df2c0d52281a4c07c3e6c4",
+      "count": 533,
+      "bytes": 28359320,
+      "version": 2,
+      "parts": [
+        {
+          "file": "thumbs-snes.zip",
+          "count": 533,
+          "bytes": 28359320,
+          "hash": "b14fb5ff70d1f7ea95df2c0d52281a4c07c3e6c4"
+        }
+      ]
+    },
+    "wii": {
+      "hash": "d50b05c87186c405934b358a11cb987c70a3b7c6",
+      "count": 2,
+      "bytes": 57171,
+      "version": 2,
+      "parts": [
+        {
+          "file": "thumbs-wii.zip",
+          "count": 2,
+          "bytes": 57171,
+          "hash": "d50b05c87186c405934b358a11cb987c70a3b7c6"
+        }
+      ]
+    }
+  }
+}
