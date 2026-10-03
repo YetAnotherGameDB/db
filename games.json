@@ -207290,6 +207290,7 @@
           "serial": "SCES-51607",
           "region": "PAL",
           "tgdbId": 0,
+          "releaseDate": "2003-11-21",
           "id": "7614-2"
         },
         {
@@ -207300,6 +207301,7 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "regionalName": "ラチェット&クランク2 ガガガ!銀河のコマンドーっす",
+          "releaseDate": "2003-12-11",
           "id": "7614-3"
         },
         {
