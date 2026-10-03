@@ -100969,7 +100969,7 @@
         {
           "name": "HEAVY RAIN",
           "platform": "ps3",
-          "Language": "[J]",
+          "language": "[J]",
           "serial": "BCJS-30040",
           "region": "Japan",
           "tgdbId": 0,
@@ -132699,7 +132699,7 @@
         {
           "name": "Homefront",
           "platform": "ps3",
-          "Language": "[J]",
+          "language": "[J]",
           "serial": "BLJS-10119",
           "region": "Japan",
           "tgdbId": 0,
@@ -132819,7 +132819,7 @@
         {
           "name": "Tiger Woods PGA Tour 09",
           "platform": "ps3",
-          "Language": "[J]",
+          "language": "[J]",
           "serial": "BLJM-60087",
           "region": "Japan",
           "tgdbId": 0,
@@ -132883,7 +132883,7 @@
         {
           "name": "Harry Potter and the Order of the Phoenix",
           "platform": "ps3",
-          "Language": "[J]",
+          "language": "[J]",
           "serial": "BLJM-60048",
           "region": "Japan",
           "tgdbId": 0,
