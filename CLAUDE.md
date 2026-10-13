@@ -84,6 +84,11 @@ Each game entry:
 - A game can have multiple `gameInstances` for different regional releases.
 - `tgdbId: 0` means the TheGamesDB ID has not been looked up yet.
 
+## Backfill scripts (`.github/scripts/`)
+
+- `import-redump-ps2.py` — PS2 from the Redump DAT (serial-keyed, one instance per base serial; reuses an existing game only if it already has a PS2 instance). Idempotent: skips serials already present.
+- `import-nintendo.py` — famicom/fds/snes backfill and `n64` seeding from the No-Intro DATs (libretro mirror), plus the superfamicom.org catalogue (`fetch-nintendo-catalogue.py`, cached in `.cache/`) for serials/dates. Only region `Japan` counts as NTSC-J (Asia/Korea dumps are unlicensed bootlegs). Western NES/SNES releases have **no serial** unless the catalogue knows one; N64 `serial` is the 4-letter cartridge game code (first 3 letters = game, last = region). Fuzzy near-duplicates are skipped and listed in `.cache/nintendo-review.txt`.
+
 ## Key Conventions
 
 - Game names in `games.json` are uppercase.
