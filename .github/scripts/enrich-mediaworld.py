@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Fill Japanese PS2 instances' regionalName / releaseDate / upc from mediaworld.co.jp.
+"""Fill Japanese PS2 / PSP instances' regionalName / releaseDate / upc from mediaworld.co.jp.
 
-For every NTSC-J ps2 instance missing any of those fields, search mediaworld
+For every Japan-region ps2 (NTSC-J) / psp (Japan) instance missing any of those fields, search mediaworld
 by the disc serial, fetch each candidate product's /products/<sku>.js and keep
 one only when its structured ■メーカー品番 field equals the serial exactly -
 a search hit that merely mentions the serial somewhere is not evidence.
@@ -12,10 +12,10 @@ a search hit that merely mentions the serial somewhere is not evidence.
                 it agrees with ■発売日 (either field alone is sometimes wrong)
 
 Existing values are never overwritten. Results (including misses) are cached
-under .cache/mediaworld-ps2/, so re-runs only fetch what is new.
+under .cache/mediaworld-<platform>/, so re-runs only fetch what is new.
 
 Usage:
-  python enrich-ps2-mediaworld.py [--apply] [--limit N] [--workers 4]
+  python enrich-mediaworld.py [--platform ps2|psp] [--apply] [--limit N] [--workers 4]
 """
 
 import argparse
@@ -32,6 +32,8 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[2]
 GAMES = REPO / "games.json"
+PLATFORM = "ps2"   # set from --platform
+JP_REGION = {"ps2": "NTSC-J", "psp": "Japan"}
 CACHE = REPO / ".cache" / "mediaworld-ps2"
 UA = {"User-Agent": "Mozilla/5.0"}
 BASE = "https://mediaworld.co.jp"
@@ -81,7 +83,7 @@ def clean_title(raw, serial):
     t = re.sub(r"【[^】]*】", "", t)
     # condition / bundle notes the shop appends
     t = re.sub(r"\((?:ソフト単品|本体同梱ソフト単品|本体同梱版?|再販|初回限定版?|通常版)\)", "", t)
-    t = re.sub(r"\[PS2[^\]]*\]", "", t)
+    t = re.sub(r"\[PS[2P][^\]]*\]", "", t)
     t = re.sub(r"\(\s*" + re.escape(serial) + r"[^)]*\)", "", t)
     # ASCII-only bracketed alias: (FINAL FANTASY X / FF10)
     t = re.sub(r"\([\x20-\x7e]*\)", "", t)
@@ -112,7 +114,7 @@ def lookup(serial):
         except ValueError:
             continue
         desc = prod.get("description", "")
-        if norm(field(desc, "メーカー品番")) != norm(serial) or "PS2" not in prod.get("title", "") + field(desc, "機種"):
+        if norm(field(desc, "メーカー品番")) != norm(serial) or PLATFORM.upper() not in prod.get("title", "") + field(desc, "機種"):
             continue
         jan = field(desc, "JAN/EAN")
         barcode = (prod.get("variants") or [{}])[0].get("barcode") or ""
@@ -137,16 +139,20 @@ def lookup(serial):
 
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument("--platform", choices=("ps2", "psp"), default="ps2")
     ap.add_argument("--apply", action="store_true")
     ap.add_argument("--limit", type=int)
     ap.add_argument("--workers", type=int, default=4)
     args = ap.parse_args()
+    global PLATFORM, CACHE
+    PLATFORM = args.platform
+    CACHE = REPO / ".cache" / f"mediaworld-{PLATFORM}"
 
     data = json.loads(GAMES.read_text(encoding="utf-8"))
     todo = []
     for g in data["games"]:
         for i in g["gameInstances"]:
-            if (i.get("platform") == "ps2" and i.get("region") == "NTSC-J" and i.get("serial")
+            if (i.get("platform") == PLATFORM and i.get("region") == JP_REGION[PLATFORM] and i.get("serial")
                     and not (i.get("regionalName") and i.get("releaseDate") and i.get("upc"))):
                 todo.append(i["serial"])
     todo = sorted(set(todo))[: args.limit] if args.limit else sorted(set(todo))
@@ -166,7 +172,7 @@ def main():
     changed = {"regionalName": 0, "releaseDate": 0, "upc": 0, "localizedNames": 0}
     for g in data["games"]:
         for i in g["gameInstances"]:
-            r = ok.get(i.get("serial")) if i.get("platform") == "ps2" else None
+            r = ok.get(i.get("serial")) if i.get("platform") == PLATFORM else None
             if not r:
                 continue
             if r["title_ja"] and not i.get("regionalName"):
