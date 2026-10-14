@@ -86,7 +86,7 @@ Each game entry:
 
 ## Backfill scripts (`.github/scripts/`)
 
-- `import-redump-ps2.py` — PS2 from the Redump DAT (serial-keyed, one instance per base serial; reuses an existing game only if it already has a PS2 instance). Idempotent: skips serials already present.
+- `import-redump-ps2.py [--platform ps2|psp]` — PS2 and PSP from the Redump DATs (PSP is region-free, so it uses the PS3-style market regions derived from the serial's 3rd letter: ULJM→Japan, ULUS→North America, ULES→Europe, ULAS→Asia, ULKS→Korea). PS2 (serial-keyed, one instance per base serial; reuses an existing game only if it already has a PS2 instance). Idempotent: skips serials already present.
 - `import-nintendo.py` — famicom/fds/snes backfill and `n64` seeding from the No-Intro DATs (libretro mirror), plus the superfamicom.org catalogue (`fetch-nintendo-catalogue.py`, cached in `.cache/`) for serials/dates. Only region `Japan` counts as NTSC-J (Asia/Korea dumps are unlicensed bootlegs). Western NES/SNES releases have **no serial** unless the catalogue knows one; N64 `serial` is the 4-letter cartridge game code (first 3 letters = game, last = region). Fuzzy near-duplicates are skipped and listed in `.cache/nintendo-review.txt`.
 
 ## Key Conventions
