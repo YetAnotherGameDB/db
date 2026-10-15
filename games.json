@@ -170212,6 +170212,24 @@
           "redumpId": 28641,
           "id": "6419-5",
           "upc": "883929216598"
+        },
+        {
+          "name": "THE LORD OF THE RINGS: WAR IN THE NORTH",
+          "platform": "ps3",
+          "regionalName": "ウォー・イン・ザ・ノース：ロード・オブ・ザ・リング",
+          "serial": "BLJM-60406",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "6419-6"
+        },
+        {
+          "name": "Lord of the Rings, The - War in the North",
+          "platform": "xbox360",
+          "language": "[En,Fr,De,Es,It,Pt,Pl,Ru]",
+          "serial": "WR-2031",
+          "region": "North America",
+          "tgdbId": 0,
+          "id": "6419-7"
         }
       ],
       "id": 6419
@@ -629973,21 +629991,6 @@
         }
       ],
       "id": 27442
-    },
-    {
-      "name": "LORD OF THE RINGS, THE - WAR IN THE NORTH",
-      "gameInstances": [
-        {
-          "name": "Lord of the Rings, The - War in the North",
-          "platform": "xbox360",
-          "language": "[En,Fr,De,Es,It,Pt,Pl,Ru]",
-          "serial": "WR-2031",
-          "region": "North America",
-          "tgdbId": 0,
-          "id": "27443-1"
-        }
-      ],
-      "id": 27443
     },
     {
       "name": "ORANGE BOX, THE",
