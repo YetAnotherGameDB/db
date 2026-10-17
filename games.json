@@ -24,7 +24,18 @@
       "genesis",
       "sms",
       "gamegear",
-      "virtualboy"
+      "virtualboy",
+      "wiiu",
+      "switch",
+      "ps4",
+      "ps5",
+      "msx",
+      "pc88",
+      "pc98",
+      "x68000",
+      "fmtowns",
+      "pcengine",
+      "neogeo"
     ],
     "regions": {
       "famicom": [
@@ -168,7 +179,18 @@
         "Europe",
         "Asia",
         "Korea"
-      ]
+      ],
+      "wiiu": ["Japan", "North America", "Europe", "Asia", "Korea"],
+      "switch": ["Japan", "North America", "Europe", "Asia", "Korea"],
+      "ps4": ["Japan", "North America", "Europe", "Asia", "Korea"],
+      "ps5": ["Japan", "North America", "Europe", "Asia", "Korea"],
+      "msx": ["Japan"],
+      "pc88": ["Japan"],
+      "pc98": ["Japan"],
+      "x68000": ["Japan"],
+      "fmtowns": ["Japan"],
+      "pcengine": ["NTSC-J", "NTSC-U", "PAL"],
+      "neogeo": ["NTSC-J", "NTSC-U", "PAL"]
     }
   },
   "games": [
