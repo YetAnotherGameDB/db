@@ -886091,6 +886091,1114 @@
         }
       ],
       "id": 40994
+    },
+    {
+      "name": "2020 SUPER BASEBALL",
+      "gameInstances": [
+        {
+          "name": "2020 Super Baseball (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "40995-1",
+          "serial": "NGCD-030"
+        }
+      ],
+      "id": 40995
+    },
+    {
+      "name": "ADK WORLD",
+      "gameInstances": [
+        {
+          "name": "ADK World (Japan)",
+          "platform": "neogeo",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "40996-1",
+          "serial": "ADCD-103"
+        }
+      ],
+      "id": 40996
+    },
+    {
+      "name": "ASO II - THE LAST GUARDIAN ~ ALPHA MISSION II",
+      "gameInstances": [
+        {
+          "name": "ASO II - The Last Guardian ~ Alpha Mission II (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "40997-1",
+          "serial": "NGCD-007"
+        }
+      ],
+      "id": 40997
+    },
+    {
+      "name": "ANDRO DUNOS",
+      "gameInstances": [
+        {
+          "name": "Andro Dunos (France)",
+          "platform": "neogeo",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "40998-1"
+        }
+      ],
+      "id": 40998
+    },
+    {
+      "name": "BAKUMATSU ROMAN - GEKKA NO KENSHI ~ THE LAST BLADE",
+      "gameInstances": [
+        {
+          "name": "Bakumatsu Roman - Gekka no Kenshi ~ The Last Blade (Japan) (En,Ja,Es,Pt)",
+          "platform": "neogeo",
+          "language": "[En,Ja,Es,Pt]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "40999-1",
+          "serial": "NGCD-2340"
+        }
+      ],
+      "id": 40999
+    },
+    {
+      "name": "BAKUMATSU ROMAN DAINI MAKU - GEKKA NO KENSHI - TSUKI NI SAKU HANA, CHIRI YUKU HANA ~ THE LAST BLADE 2",
+      "gameInstances": [
+        {
+          "name": "Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana ~ The Last Blade 2 (Japan) (En,Ja,Es,Pt)",
+          "platform": "neogeo",
+          "language": "[En,Ja,Es,Pt]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41000-1",
+          "serial": "NGCD-2430"
+        }
+      ],
+      "id": 41000
+    },
+    {
+      "name": "BANG^2 BUSTERS",
+      "gameInstances": [
+        {
+          "name": "Bang^2 Busters (France) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "41001-1"
+        }
+      ],
+      "id": 41001
+    },
+    {
+      "name": "BASEBALL STARS 2",
+      "gameInstances": [
+        {
+          "name": "Baseball Stars 2 (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41002-1",
+          "serial": "NGCD-041"
+        }
+      ],
+      "id": 41002
+    },
+    {
+      "name": "BASEBALL STARS PROFESSIONAL",
+      "gameInstances": [
+        {
+          "name": "Baseball Stars Professional (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41003-1",
+          "serial": "NGCD-002"
+        }
+      ],
+      "id": 41003
+    },
+    {
+      "name": "BIG TOURNAMENT GOLF ~ NEO TURF MASTERS",
+      "gameInstances": [
+        {
+          "name": "Big Tournament Golf ~ Neo Turf Masters (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41004-1",
+          "serial": "NGCD-200"
+        }
+      ],
+      "id": 41004
+    },
+    {
+      "name": "BREAKERS",
+      "gameInstances": [
+        {
+          "name": "Breakers (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41005-1",
+          "serial": "NGCD-2300"
+        }
+      ],
+      "id": 41005
+    },
+    {
+      "name": "BURNING FIGHT",
+      "gameInstances": [
+        {
+          "name": "Burning Fight (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41006-1",
+          "serial": "NGCD-018"
+        }
+      ],
+      "id": 41006
+    },
+    {
+      "name": "CHOUTETSU BRIKIN'GER ~ IRONCLAD - TESSHOU RUSHA",
+      "gameInstances": [
+        {
+          "name": "Choutetsu Brikin'ger ~ Ironclad - Tesshou Rusha (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41007-1",
+          "serial": "NGCD-220"
+        }
+      ],
+      "id": 41007
+    },
+    {
+      "name": "CROSSED SWORDS",
+      "gameInstances": [
+        {
+          "name": "Crossed Swords (Japan)",
+          "platform": "neogeo",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41008-1",
+          "serial": "ADCD-002"
+        }
+      ],
+      "id": 41008
+    },
+    {
+      "name": "CROSSED SWORDS II",
+      "gameInstances": [
+        {
+          "name": "Crossed Swords II (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41009-1",
+          "serial": "ADCD-102"
+        }
+      ],
+      "id": 41009
+    },
+    {
+      "name": "CYBER-LIP",
+      "gameInstances": [
+        {
+          "name": "Cyber-Lip (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41010-1",
+          "serial": "NGCD-010"
+        }
+      ],
+      "id": 41010
+    },
+    {
+      "name": "DOUBLE DRAGON",
+      "gameInstances": [
+        {
+          "name": "Double Dragon (Japan) (En,Ja) (Rev 1)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41011-1",
+          "serial": "NGCD-082"
+        }
+      ],
+      "id": 41011
+    },
+    {
+      "name": "FAR EAST OF EDEN - TENGAI MAKYOU SHINDEN ~ FAR EAST OF EDEN - KABUKI KLASH",
+      "gameInstances": [
+        {
+          "name": "Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41012-1",
+          "serial": "NGCD-092"
+        }
+      ],
+      "id": 41012
+    },
+    {
+      "name": "FLYING POWER DISC ~ WINDJAMMERS",
+      "gameInstances": [
+        {
+          "name": "Flying Power Disc ~ Windjammers (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41013-1",
+          "serial": "DECD-002"
+        }
+      ],
+      "id": 41013
+    },
+    {
+      "name": "FOOTBALL FRENZY",
+      "gameInstances": [
+        {
+          "name": "Football Frenzy (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41014-1",
+          "serial": "NGCD-034"
+        }
+      ],
+      "id": 41014
+    },
+    {
+      "name": "FUTSAL - 5 ON 5 MINI SOCCER ~ PLEASUREGOAL - 5 ON 5 MINI SOCCER",
+      "gameInstances": [
+        {
+          "name": "Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41015-1",
+          "serial": "NGCD-219"
+        }
+      ],
+      "id": 41015
+    },
+    {
+      "name": "GALAXY FIGHT - UNIVERSAL WARRIORS",
+      "gameInstances": [
+        {
+          "name": "Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es)",
+          "platform": "neogeo",
+          "language": "[En,Ja,Es]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41016-1",
+          "serial": "NGCD-078"
+        }
+      ],
+      "id": 41016
+    },
+    {
+      "name": "GAROU DENSETSU - SHUKUMEI NO TATAKAI ~ FATAL FURY - KING OF FIGHTERS",
+      "gameInstances": [
+        {
+          "name": "Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41017-1",
+          "serial": "NGCD-033"
+        }
+      ],
+      "id": 41017
+    },
+    {
+      "name": "GAROU DENSETSU 2 ~ FATAL FURY 2",
+      "gameInstances": [
+        {
+          "name": "Garou Densetsu 2 ~ Fatal Fury 2 (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41018-1",
+          "serial": "NGCD-047"
+        }
+      ],
+      "id": 41018
+    },
+    {
+      "name": "GAROU DENSETSU 3 - ROAD TO THE FINAL VICTORY ~ FATAL FURY 3 - ROAD TO THE FINAL VICTORY",
+      "gameInstances": [
+        {
+          "name": "Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt)",
+          "platform": "neogeo",
+          "language": "[En,Ja,Es,Pt]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41019-1",
+          "serial": "NGCD-069"
+        }
+      ],
+      "id": 41019
+    },
+    {
+      "name": "GAROU DENSETSU SPECIAL ~ FATAL FURY SPECIAL",
+      "gameInstances": [
+        {
+          "name": "Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41020-1",
+          "serial": "NGCD-058"
+        }
+      ],
+      "id": 41020
+    },
+    {
+      "name": "IDOL MAHJONG - FINAL ROMANCE 2",
+      "gameInstances": [
+        {
+          "name": "Idol Mahjong - Final Romance 2 (Japan)",
+          "platform": "neogeo",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41021-1",
+          "serial": "NGCD-098"
+        }
+      ],
+      "id": 41021
+    },
+    {
+      "name": "JANSHIN DENSETSU - QUEST OF JONGMASTER",
+      "gameInstances": [
+        {
+          "name": "Janshin Densetsu - Quest of Jongmaster (Japan)",
+          "platform": "neogeo",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41022-1",
+          "serial": "AICD-048"
+        }
+      ],
+      "id": 41022
+    },
+    {
+      "name": "KING OF FIGHTERS '95, THE",
+      "gameInstances": [
+        {
+          "name": "King of Fighters '95, The (Japan) (En,Ja) (Rev 1)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41023-1",
+          "serial": "NGCD-084"
+        }
+      ],
+      "id": 41023
+    },
+    {
+      "name": "KING OF FIGHTERS '97, THE",
+      "gameInstances": [
+        {
+          "name": "King of Fighters '97, The (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41024-1",
+          "serial": "NGCD-2320"
+        }
+      ],
+      "id": 41024
+    },
+    {
+      "name": "KING OF FIGHTERS '98, THE - DREAM MATCH NEVER ENDS ~ THE KING OF FIGHTERS '98 - THE SLUGFEST",
+      "gameInstances": [
+        {
+          "name": "King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41025-1",
+          "serial": "NGCD-2420"
+        }
+      ],
+      "id": 41025
+    },
+    {
+      "name": "LAST HOPE",
+      "gameInstances": [
+        {
+          "name": "Last Hope (Germany)",
+          "platform": "neogeo",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "41026-1",
+          "serial": "NGDT-CD-300J"
+        }
+      ],
+      "id": 41026
+    },
+    {
+      "name": "LAST RESORT",
+      "gameInstances": [
+        {
+          "name": "Last Resort (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41027-1",
+          "serial": "NGCD-024"
+        }
+      ],
+      "id": 41027
+    },
+    {
+      "name": "LEAGUE BOWLING",
+      "gameInstances": [
+        {
+          "name": "League Bowling (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41028-1",
+          "serial": "NGCD-019"
+        }
+      ],
+      "id": 41028
+    },
+    {
+      "name": "MAGICAL DROP 2",
+      "gameInstances": [
+        {
+          "name": "Magical Drop 2 (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41029-1",
+          "serial": "NGCD-221"
+        }
+      ],
+      "id": 41029
+    },
+    {
+      "name": "MAGICIAN LORD",
+      "gameInstances": [
+        {
+          "name": "Magician Lord (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41030-1",
+          "serial": "ADCD-100"
+        }
+      ],
+      "id": 41030
+    },
+    {
+      "name": "MAHJONG-KYOU RETSUDEN - NISHI NIHON-HEN",
+      "gameInstances": [
+        {
+          "name": "Mahjong-kyou Retsuden - Nishi Nihon-hen (Japan)",
+          "platform": "neogeo",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41031-1",
+          "serial": "NGCD-004"
+        }
+      ],
+      "id": 41031
+    },
+    {
+      "name": "METAL SLUG",
+      "gameInstances": [
+        {
+          "name": "Metal Slug (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41032-1",
+          "serial": "NGCD-201"
+        }
+      ],
+      "id": 41032
+    },
+    {
+      "name": "MUTATION NATION",
+      "gameInstances": [
+        {
+          "name": "Mutation Nation (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41033-1",
+          "serial": "NGCD-014"
+        }
+      ],
+      "id": 41033
+    },
+    {
+      "name": "NAM-1975",
+      "gameInstances": [
+        {
+          "name": "Nam-1975 (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41034-1",
+          "serial": "NGCD-001"
+        }
+      ],
+      "id": 41034
+    },
+    {
+      "name": "NEO DRIFT OUT - NEW TECHNOLOGY",
+      "gameInstances": [
+        {
+          "name": "Neo Drift Out - New Technology (Japan)",
+          "platform": "neogeo",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41035-1",
+          "serial": "NGCD-213"
+        }
+      ],
+      "id": 41035
+    },
+    {
+      "name": "NEO-GEO CD SPECIAL",
+      "gameInstances": [
+        {
+          "name": "Neo-Geo CD Special (Japan)",
+          "platform": "neogeo",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41036-1",
+          "serial": "NGCD-205"
+        }
+      ],
+      "id": 41036
+    },
+    {
+      "name": "NINJA COMBAT",
+      "gameInstances": [
+        {
+          "name": "Ninja Combat (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41037-1",
+          "serial": "ADCD-101"
+        }
+      ],
+      "id": 41037
+    },
+    {
+      "name": "NINJA COMMANDO",
+      "gameInstances": [
+        {
+          "name": "Ninja Commando (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41038-1",
+          "serial": "ADCD-004"
+        }
+      ],
+      "id": 41038
+    },
+    {
+      "name": "NINJA MASTER'S - HAOU NINPOU CHOU",
+      "gameInstances": [
+        {
+          "name": "Ninja Master's - Haou Ninpou Chou (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41039-1",
+          "serial": "ADCD-012"
+        }
+      ],
+      "id": 41039
+    },
+    {
+      "name": "OSHIDASHI ZINTRICK ~ ZINTRICK",
+      "gameInstances": [
+        {
+          "name": "Oshidashi Zintrick ~ ZinTricK (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41040-1",
+          "serial": "ADCD-104"
+        }
+      ],
+      "id": 41040
+    },
+    {
+      "name": "OVERTOP",
+      "gameInstances": [
+        {
+          "name": "OverTop (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41041-1",
+          "serial": "ADCD-011"
+        }
+      ],
+      "id": 41041
+    },
+    {
+      "name": "POWER SPIKES II",
+      "gameInstances": [
+        {
+          "name": "Power Spikes II (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41042-1",
+          "serial": "NGCD-068"
+        }
+      ],
+      "id": 41042
+    },
+    {
+      "name": "PULSTAR",
+      "gameInstances": [
+        {
+          "name": "Pulstar (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41043-1",
+          "serial": "NGCD-089"
+        }
+      ],
+      "id": 41043
+    },
+    {
+      "name": "PUZZLE BOBBLE ~ BUST-A-MOVE",
+      "gameInstances": [
+        {
+          "name": "Puzzle Bobble ~ Bust-A-Move (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41044-1",
+          "serial": "NGCD-083"
+        }
+      ],
+      "id": 41044
+    },
+    {
+      "name": "QUIZ KING OF FIGHTERS",
+      "gameInstances": [
+        {
+          "name": "Quiz King of Fighters (Japan)",
+          "platform": "neogeo",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41045-1",
+          "serial": "NGCD-080"
+        }
+      ],
+      "id": 41045
+    },
+    {
+      "name": "RAGUY ~ BLUE'S JOURNEY",
+      "gameInstances": [
+        {
+          "name": "Raguy ~ Blue's Journey (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41046-1",
+          "serial": "ADCD-001"
+        }
+      ],
+      "id": 41046
+    },
+    {
+      "name": "RALLY CHASE",
+      "gameInstances": [
+        {
+          "name": "Rally Chase (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41047-1",
+          "serial": "ADCD-003"
+        }
+      ],
+      "id": 41047
+    },
+    {
+      "name": "REAL BOUT GAROU DENSETSU 2 - THE NEWCOMERS ~ REAL BOUT FATAL FURY 2 - THE NEWCOMERS",
+      "gameInstances": [
+        {
+          "name": "Real Bout Garou Densetsu 2 - The Newcomers ~ Real Bout Fatal Fury 2 - The Newcomers (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41048-1",
+          "serial": "NGCD-2400"
+        }
+      ],
+      "id": 41048
+    },
+    {
+      "name": "RIDING HERO",
+      "gameInstances": [
+        {
+          "name": "Riding Hero (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41049-1",
+          "serial": "NGCD-006"
+        }
+      ],
+      "id": 41049
+    },
+    {
+      "name": "ROBO ARMY",
+      "gameInstances": [
+        {
+          "name": "Robo Army (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41050-1",
+          "serial": "NGCD-032"
+        }
+      ],
+      "id": 41050
+    },
+    {
+      "name": "SAMURAI SPIRITS ~ SAMURAI SHODOWN",
+      "gameInstances": [
+        {
+          "name": "Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41051-1",
+          "serial": "NGCD-045"
+        }
+      ],
+      "id": 41051
+    },
+    {
+      "name": "SENGOKU DENSHOU 2 ~ SENGOKU 2",
+      "gameInstances": [
+        {
+          "name": "Sengoku Denshou 2 ~ Sengoku 2 (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41052-1",
+          "serial": "NGCD-040"
+        }
+      ],
+      "id": 41052
+    },
+    {
+      "name": "SENGOKU DENSHOU ~ SENGOKU",
+      "gameInstances": [
+        {
+          "name": "Sengoku Denshou ~ Sengoku (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41053-1",
+          "serial": "NGCD-017"
+        }
+      ],
+      "id": 41053
+    },
+    {
+      "name": "SHINOUKEN ~ RAGNAGARD",
+      "gameInstances": [
+        {
+          "name": "Shinouken ~ Ragnagard (Japan) (En,Ja,Es)",
+          "platform": "neogeo",
+          "language": "[En,Ja,Es]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41054-1",
+          "serial": "NGCD-218"
+        }
+      ],
+      "id": 41054
+    },
+    {
+      "name": "SHINSETSU SAMURAI SPIRITS - BUSHIDOU RETSUDEN",
+      "gameInstances": [
+        {
+          "name": "Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan)",
+          "platform": "neogeo",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41055-1",
+          "serial": "NGCD-0850"
+        }
+      ],
+      "id": 41055
+    },
+    {
+      "name": "SHOUGI NO TATSUJIN - MASTER OF SYOUGI",
+      "gameInstances": [
+        {
+          "name": "Shougi no Tatsujin - Master of Syougi (Japan)",
+          "platform": "neogeo",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41056-1",
+          "serial": "ADCD-010"
+        }
+      ],
+      "id": 41056
+    },
+    {
+      "name": "SONIC WINGS 3 ~ AERO FIGHTERS 3",
+      "gameInstances": [
+        {
+          "name": "Sonic Wings 3 ~ Aero Fighters 3 (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41057-1",
+          "serial": "NGCD-097"
+        }
+      ],
+      "id": 41057
+    },
+    {
+      "name": "STAKES WINNER - GI KANZEN SEIHA E NO MICHI",
+      "gameInstances": [
+        {
+          "name": "Stakes Winner - GI Kanzen Seiha e no Michi (Japan)",
+          "platform": "neogeo",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41058-1",
+          "serial": "NGCD-088"
+        }
+      ],
+      "id": 41058
+    },
+    {
+      "name": "SUPER SIDEKICKS - TOKUTEN-OU",
+      "gameInstances": [
+        {
+          "name": "Super Sidekicks - Tokuten-ou (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41059-1",
+          "serial": "NGCD-052"
+        }
+      ],
+      "id": 41059
+    },
+    {
+      "name": "SUPER SPY, THE",
+      "gameInstances": [
+        {
+          "name": "Super Spy, The (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41060-1",
+          "serial": "NGCD-011"
+        }
+      ],
+      "id": 41060
+    },
+    {
+      "name": "TOKUTEN-OU 2 ~ SUPER SIDEKICKS 2 - THE WORLD CHAMPIONSHIP",
+      "gameInstances": [
+        {
+          "name": "Tokuten-ou 2 ~ Super Sidekicks 2 - The World Championship (Japan) (En,Ja,Es)",
+          "platform": "neogeo",
+          "language": "[En,Ja,Es]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41061-1",
+          "serial": "NGCD-061"
+        }
+      ],
+      "id": 41061
+    },
+    {
+      "name": "TOP PLAYER'S GOLF",
+      "gameInstances": [
+        {
+          "name": "Top Player's Golf (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41062-1",
+          "serial": "NGCD-003"
+        }
+      ],
+      "id": 41062
+    },
+    {
+      "name": "TREASURE OF THE CARIBBEAN",
+      "gameInstances": [
+        {
+          "name": "Treasure of the Caribbean (France) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "41063-1",
+          "serial": "NGCD-500"
+        }
+      ],
+      "id": 41063
+    },
+    {
+      "name": "TWINKLE STAR SPRITES",
+      "gameInstances": [
+        {
+          "name": "Twinkle Star Sprites (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41064-1",
+          "serial": "ADCD-013"
+        }
+      ],
+      "id": 41064
+    },
+    {
+      "name": "VIEWPOINT",
+      "gameInstances": [
+        {
+          "name": "Viewpoint (Japan)",
+          "platform": "neogeo",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41065-1",
+          "serial": "AICD-051"
+        }
+      ],
+      "id": 41065
+    },
+    {
+      "name": "WORLD HEROES",
+      "gameInstances": [
+        {
+          "name": "World Heroes (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41066-1",
+          "serial": "ADCD-005"
+        }
+      ],
+      "id": 41066
+    },
+    {
+      "name": "WORLD HEROES 2",
+      "gameInstances": [
+        {
+          "name": "World Heroes 2 (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41067-1",
+          "serial": "ADCD-006"
+        }
+      ],
+      "id": 41067
+    },
+    {
+      "name": "WORLD HEROES 2 JET",
+      "gameInstances": [
+        {
+          "name": "World Heroes 2 Jet (Japan) (En,Ja)",
+          "platform": "neogeo",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "41068-1",
+          "serial": "ADCD-007"
+        }
+      ],
+      "id": 41068
     }
   ]
 }
