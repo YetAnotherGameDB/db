@@ -35,6 +35,7 @@
       "x68000",
       "fmtowns",
       "pcengine",
+      "pcenginecd",
       "neogeo"
     ],
     "regions": {
@@ -224,6 +225,11 @@
         "Japan"
       ],
       "pcengine": [
+        "NTSC-J",
+        "NTSC-U",
+        "PAL"
+      ],
+      "pcenginecd": [
         "NTSC-J",
         "NTSC-U",
         "PAL"
