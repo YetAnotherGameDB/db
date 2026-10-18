@@ -887199,6 +887199,1591 @@
         }
       ],
       "id": 41068
+    },
+    {
+      "name": "AKAI SHIZUKU - THE LEGEND OF HEROES IV",
+      "gameInstances": [
+        {
+          "name": "Akai Shizuku - The Legend of Heroes IV (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41069-1",
+          "serial": "NW10091090"
+        }
+      ],
+      "id": 41069
+    },
+    {
+      "name": "AKIKO GOLD",
+      "gameInstances": [
+        {
+          "name": "Akiko Gold (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41070-1"
+        }
+      ],
+      "id": 41070
+    },
+    {
+      "name": "AKUMU - AOI KAJITSU NO SANKA",
+      "gameInstances": [
+        {
+          "name": "Akumu - Aoi Kajitsu no Sanka (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41071-1"
+        }
+      ],
+      "id": 41071
+    },
+    {
+      "name": "ALONE IN THE DARK 2",
+      "gameInstances": [
+        {
+          "name": "Alone in the Dark 2 (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41072-1"
+        }
+      ],
+      "id": 41072
+    },
+    {
+      "name": "ANGEL NIGHT - YAMIYO O KAKERU TENSHI-TACHI NO MONOGATARI",
+      "gameInstances": [
+        {
+          "name": "Angel Night - Yamiyo o Kakeru Tenshi-tachi no Monogatari (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41073-1",
+          "serial": "FNN-001"
+        }
+      ],
+      "id": 41073
+    },
+    {
+      "name": "APPARE-DEN - FUKURYUU NO SHOU",
+      "gameInstances": [
+        {
+          "name": "Appare-den - Fukuryuu no Shou (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41074-1",
+          "serial": "TGL-951215"
+        }
+      ],
+      "id": 41074
+    },
+    {
+      "name": "ARDOR AETERNUS - WASUREENU HONOO",
+      "gameInstances": [
+        {
+          "name": "Ardor Aeternus - Wasureenu Honoo (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41075-1"
+        }
+      ],
+      "id": 41075
+    },
+    {
+      "name": "AYUMI-CHAN MONOGATARI",
+      "gameInstances": [
+        {
+          "name": "Ayumi-chan Monogatari (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41076-1"
+        }
+      ],
+      "id": 41076
+    },
+    {
+      "name": "AYUMI-CHAN MONOGATARI - JISSHABAN",
+      "gameInstances": [
+        {
+          "name": "Ayumi-chan Monogatari - Jisshaban (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41077-1"
+        }
+      ],
+      "id": 41077
+    },
+    {
+      "name": "BALLADE FOR MARIA - MARIA NI SASAGERU BALLADE",
+      "gameInstances": [
+        {
+          "name": "Ballade for Maria - Maria ni Sasageru Ballade (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41078-1"
+        }
+      ],
+      "id": 41078
+    },
+    {
+      "name": "BLANDIA 98",
+      "gameInstances": [
+        {
+          "name": "Blandia 98 (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41079-1",
+          "serial": "VHMD-131"
+        }
+      ],
+      "id": 41079
+    },
+    {
+      "name": "BOUNTY HUNTER RUDY",
+      "gameInstances": [
+        {
+          "name": "Bounty Hunter Rudy (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41080-1",
+          "serial": "SLP-WIN95-HADV-0007"
+        }
+      ],
+      "id": 41080
+    },
+    {
+      "name": "BRANDISH",
+      "gameInstances": [
+        {
+          "name": "Brandish (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41081-1",
+          "serial": "NW10105030"
+        }
+      ],
+      "id": 41081
+    },
+    {
+      "name": "BRANDISH 2 - THE PLANET BUSTER",
+      "gameInstances": [
+        {
+          "name": "Brandish 2 - The Planet Buster (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41082-1",
+          "serial": "NW10105040"
+        }
+      ],
+      "id": 41082
+    },
+    {
+      "name": "BRANDISH 2 RENEWAL - THE PLANET BUSTER",
+      "gameInstances": [
+        {
+          "name": "Brandish 2 Renewal - The Planet Buster (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41083-1",
+          "serial": "NW10081070"
+        }
+      ],
+      "id": 41083
+    },
+    {
+      "name": "BRANDISH 3 - SPIRIT OF BALCAN",
+      "gameInstances": [
+        {
+          "name": "Brandish 3 - Spirit of Balcan (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41084-1",
+          "serial": "NW10105050"
+        }
+      ],
+      "id": 41084
+    },
+    {
+      "name": "BRANDISH RENEWAL",
+      "gameInstances": [
+        {
+          "name": "Brandish Renewal (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41085-1",
+          "serial": "NW10041050"
+        }
+      ],
+      "id": 41085
+    },
+    {
+      "name": "BRANDISH VT",
+      "gameInstances": [
+        {
+          "name": "Brandish VT (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41086-1",
+          "serial": "NW10104030"
+        }
+      ],
+      "id": 41086
+    },
+    {
+      "name": "BUZZ ALDRIN'S RACE INTO SPACE - UCHUU E NO CHOUSEN",
+      "gameInstances": [
+        {
+          "name": "Buzz Aldrin's Race into Space - Uchuu e no Chousen (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41087-1",
+          "serial": "RCR-2"
+        }
+      ],
+      "id": 41087
+    },
+    {
+      "name": "CRW 2",
+      "gameInstances": [
+        {
+          "name": "CRW 2 (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41088-1"
+        }
+      ],
+      "id": 41088
+    },
+    {
+      "name": "CANAAN - YAKUSOKU NO CHI",
+      "gameInstances": [
+        {
+          "name": "Canaan - Yakusoku no Chi (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41089-1",
+          "serial": "FNN-003"
+        }
+      ],
+      "id": 41089
+    },
+    {
+      "name": "CHOU JIKUU YOUSAI MACROSS - SKULLLEADER COMPLETE PACK",
+      "gameInstances": [
+        {
+          "name": "Chou Jikuu Yousai Macross - SkullLeader Complete Pack (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41090-1",
+          "serial": "21D-2039"
+        }
+      ],
+      "id": 41090
+    },
+    {
+      "name": "CHUUSHAKI - HIRASAWA NURSE SCHOOL",
+      "gameInstances": [
+        {
+          "name": "Chuushaki - Hirasawa Nurse School (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41091-1"
+        }
+      ],
+      "id": 41091
+    },
+    {
+      "name": "COLLECTOR D",
+      "gameInstances": [
+        {
+          "name": "Collector D (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41092-1",
+          "serial": "21D-2015"
+        }
+      ],
+      "id": 41092
+    },
+    {
+      "name": "DAWN PATROL",
+      "gameInstances": [
+        {
+          "name": "Dawn Patrol (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41093-1",
+          "serial": "JSGH60106"
+        }
+      ],
+      "id": 41093
+    },
+    {
+      "name": "DEMONSTRATION CD-ROM",
+      "gameInstances": [
+        {
+          "name": "Demonstration CD-ROM (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41094-1"
+        }
+      ],
+      "id": 41094
+    },
+    {
+      "name": "DIES IRAE",
+      "gameInstances": [
+        {
+          "name": "Dies Irae (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41095-1",
+          "serial": "21D-2032"
+        }
+      ],
+      "id": 41095
+    },
+    {
+      "name": "DISC STATION VOL. 10",
+      "gameInstances": [
+        {
+          "name": "Disc Station Vol. 10 (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41096-1",
+          "serial": "DS-010"
+        }
+      ],
+      "id": 41096
+    },
+    {
+      "name": "DISC STATION VOL. 11",
+      "gameInstances": [
+        {
+          "name": "Disc Station Vol. 11 (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41097-1",
+          "serial": "DS-11"
+        }
+      ],
+      "id": 41097
+    },
+    {
+      "name": "DISC STATION VOL. 9",
+      "gameInstances": [
+        {
+          "name": "Disc Station Vol. 9 (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41098-1",
+          "serial": "DS-009"
+        }
+      ],
+      "id": 41098
+    },
+    {
+      "name": "DOOM",
+      "gameInstances": [
+        {
+          "name": "Doom (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41099-1",
+          "serial": "21D-2031"
+        }
+      ],
+      "id": 41099
+    },
+    {
+      "name": "DOOM II",
+      "gameInstances": [
+        {
+          "name": "Doom II (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41100-1",
+          "serial": "21D-2047"
+        },
+        {
+          "name": "Doom II (Japan) (PC-98 Sen'you) (for Windows 95)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41100-2"
+        }
+      ],
+      "id": 41100
+    },
+    {
+      "name": "DRAGON LORE",
+      "gameInstances": [
+        {
+          "name": "Dragon Lore (Japan) (Disc 1)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41101-1"
+        },
+        {
+          "name": "Dragon Lore (Japan) (Disc 2)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41101-2"
+        }
+      ],
+      "id": 41101
+    },
+    {
+      "name": "EMIT VOL. 1 - TOKI NO MAIGO",
+      "gameInstances": [
+        {
+          "name": "Emit Vol. 1 - Toki no Maigo (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41102-1",
+          "serial": "KN10-60103"
+        }
+      ],
+      "id": 41102
+    },
+    {
+      "name": "ETEMIBLE - TENJOU MUKYUU",
+      "gameInstances": [
+        {
+          "name": "Etemible - Tenjou Mukyuu (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41103-1"
+        }
+      ],
+      "id": 41103
+    },
+    {
+      "name": "F-15 STRIKE EAGLE III",
+      "gameInstances": [
+        {
+          "name": "F-15 Strike Eagle III (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41104-1",
+          "serial": "SHJ-796"
+        }
+      ],
+      "id": 41104
+    },
+    {
+      "name": "FINISH HOLD 2 - TAG",
+      "gameInstances": [
+        {
+          "name": "Finish Hold 2 - Tag (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41105-1",
+          "serial": "001J0283TA"
+        }
+      ],
+      "id": 41105
+    },
+    {
+      "name": "GINGA EIYUU DENSETSU IV",
+      "gameInstances": [
+        {
+          "name": "Ginga Eiyuu Densetsu IV (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41106-1",
+          "serial": "UR-9460"
+        }
+      ],
+      "id": 41106
+    },
+    {
+      "name": "GITEN MEGAMI TENSEI - TOKYO MOKUSHIROKU",
+      "gameInstances": [
+        {
+          "name": "Giten Megami Tensei - Tokyo Mokushiroku (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41107-1",
+          "serial": "ASCII-003"
+        }
+      ],
+      "id": 41107
+    },
+    {
+      "name": "GUARDIAN RECALL - SHUGOJUU SHOUKAN",
+      "gameInstances": [
+        {
+          "name": "Guardian Recall - Shugojuu Shoukan (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41108-1",
+          "serial": "21D-2067"
+        }
+      ],
+      "id": 41108
+    },
+    {
+      "name": "INHERIT THE EARTH - QUEST FOR THE ORB",
+      "gameInstances": [
+        {
+          "name": "Inherit the Earth - Quest for the Orb (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41109-1",
+          "serial": "SC-95001"
+        }
+      ],
+      "id": 41109
+    },
+    {
+      "name": "INNOCENT TOUR",
+      "gameInstances": [
+        {
+          "name": "Innocent Tour (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41110-1",
+          "serial": "JSGP60095"
+        }
+      ],
+      "id": 41110
+    },
+    {
+      "name": "JINMON YUUGI",
+      "gameInstances": [
+        {
+          "name": "Jinmon Yuugi (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41111-1"
+        }
+      ],
+      "id": 41111
+    },
+    {
+      "name": "KANAKO",
+      "gameInstances": [
+        {
+          "name": "Kanako (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41112-1"
+        }
+      ],
+      "id": 41112
+    },
+    {
+      "name": "KONO YO NO HATE DE KOI O UTAU SHOUJO - YU-NO",
+      "gameInstances": [
+        {
+          "name": "Kono yo no Hate de Koi o Utau Shoujo - Yu-No (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41113-1",
+          "serial": "21D-2080"
+        }
+      ],
+      "id": 41113
+    },
+    {
+      "name": "KOUSOKU - YOROKOBI NO AEGI",
+      "gameInstances": [
+        {
+          "name": "Kousoku - Yorokobi no Aegi (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41114-1",
+          "serial": "PERS-9512"
+        }
+      ],
+      "id": 41114
+    },
+    {
+      "name": "KYRANDIA II - THE HAND OF FATE",
+      "gameInstances": [
+        {
+          "name": "Kyrandia II - The Hand of Fate (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41115-1",
+          "serial": "SC-95002"
+        }
+      ],
+      "id": 41115
+    },
+    {
+      "name": "LESSER MERN - SPECIAL DIRECTOR'S EDITION",
+      "gameInstances": [
+        {
+          "name": "Lesser Mern - Special Director's Edition (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41116-1",
+          "serial": "21D-2001"
+        }
+      ],
+      "id": 41116
+    },
+    {
+      "name": "LOGICOOL MOUSEWARE 8.2J",
+      "gameInstances": [
+        {
+          "name": "Logicool Mouseware 8.2J (Japan) (En,Ja)",
+          "platform": "pc98",
+          "language": "[En,Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41117-1",
+          "serial": "601569-0116"
+        }
+      ],
+      "id": 41117
+    },
+    {
+      "name": "LOVE ESCALATOR",
+      "gameInstances": [
+        {
+          "name": "Love Escalator (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41118-1",
+          "serial": "UDC-102"
+        }
+      ],
+      "id": 41118
+    },
+    {
+      "name": "MAGICAL SQUADRON",
+      "gameInstances": [
+        {
+          "name": "Magical Squadron (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41119-1",
+          "serial": "21D-2081"
+        }
+      ],
+      "id": 41119
+    },
+    {
+      "name": "MAHOU SHOUJO PRETTY SAMY - KOUHEN",
+      "gameInstances": [
+        {
+          "name": "Mahou Shoujo Pretty Samy - Kouhen (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41120-1",
+          "serial": "21D-2076"
+        }
+      ],
+      "id": 41120
+    },
+    {
+      "name": "MAHOU SHOUJO PRETTY SAMY - ZENPEN",
+      "gameInstances": [
+        {
+          "name": "Mahou Shoujo Pretty Samy - Zenpen (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41121-1",
+          "serial": "21D-2058"
+        }
+      ],
+      "id": 41121
+    },
+    {
+      "name": "MAHOU SHOUJOTAI WARS - MAGICAL JAM",
+      "gameInstances": [
+        {
+          "name": "Mahou Shoujotai Wars - Magical Jam (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41122-1",
+          "serial": "Jam-1302"
+        }
+      ],
+      "id": 41122
+    },
+    {
+      "name": "MAKING CANDY - OKI NI MESUMAMA",
+      "gameInstances": [
+        {
+          "name": "Making Candy - Oki ni Mesumama (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41123-1",
+          "serial": "WIC-5461"
+        }
+      ],
+      "id": 41123
+    },
+    {
+      "name": "MANJI PSYYUUKI",
+      "gameInstances": [
+        {
+          "name": "Manji PSYyuuki (Japan) (Install CD-ROM)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41124-1",
+          "serial": "PSD-01"
+        }
+      ],
+      "id": 41124
+    },
+    {
+      "name": "MASTER OF MAGIC",
+      "gameInstances": [
+        {
+          "name": "Master of Magic (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41125-1"
+        }
+      ],
+      "id": 41125
+    },
+    {
+      "name": "MENZOBERRANZAN - YAMI NO MONSHOU",
+      "gameInstances": [
+        {
+          "name": "Menzoberranzan - Yami no Monshou (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41126-1",
+          "serial": "JSGP60062"
+        }
+      ],
+      "id": 41126
+    },
+    {
+      "name": "MICROSOFT WINDOWS 98 SECOND EDITION",
+      "gameInstances": [
+        {
+          "name": "Microsoft Windows 98 Second Edition (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41127-1",
+          "serial": "X04-67430"
+        }
+      ],
+      "id": 41127
+    },
+    {
+      "name": "MIGHT AND MAGIC - CLOUDS OF XEEN",
+      "gameInstances": [
+        {
+          "name": "Might and Magic - Clouds of Xeen (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41128-1",
+          "serial": "SC-93001"
+        }
+      ],
+      "id": 41128
+    },
+    {
+      "name": "MOMOKO-CHAN FOR ME - MINARAI KANGOFU-HEN",
+      "gameInstances": [
+        {
+          "name": "Momoko-chan for Me - Minarai Kangofu-hen (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41129-1"
+        }
+      ],
+      "id": 41129
+    },
+    {
+      "name": "MOONLIGHT ENERGY 2",
+      "gameInstances": [
+        {
+          "name": "Moonlight Energy 2 (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41130-1",
+          "serial": "21D-2054"
+        }
+      ],
+      "id": 41130
+    },
+    {
+      "name": "MOONLIGHT-CHAN RIN SHAN",
+      "gameInstances": [
+        {
+          "name": "Moonlight-chan Rin shan (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41131-1",
+          "serial": "2TD-3001"
+        }
+      ],
+      "id": 41131
+    },
+    {
+      "name": "MY HOME DREAM 2",
+      "gameInstances": [
+        {
+          "name": "My Home Dream 2 (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41132-1",
+          "serial": "RCR-3"
+        }
+      ],
+      "id": 41132
+    },
+    {
+      "name": "NEC DEMONSTRATION CD-ROM - EVOLUTION AND DINOSAURS",
+      "gameInstances": [
+        {
+          "name": "NEC Demonstration CD-ROM - Evolution and Dinosaurs (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41133-1"
+        }
+      ],
+      "id": 41133
+    },
+    {
+      "name": "NECRONOMICON",
+      "gameInstances": [
+        {
+          "name": "Necronomicon (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41134-1"
+        }
+      ],
+      "id": 41134
+    },
+    {
+      "name": "NINGEN KONCHUU - NOZOKI",
+      "gameInstances": [
+        {
+          "name": "Ningen Konchuu - Nozoki (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41135-1",
+          "serial": "WIC-5518"
+        }
+      ],
+      "id": 41135
+    },
+    {
+      "name": "PILCASEX",
+      "gameInstances": [
+        {
+          "name": "PILcaSEX (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41136-1",
+          "serial": "PIL-0304"
+        }
+      ],
+      "id": 41136
+    },
+    {
+      "name": "PHOTO GENIC",
+      "gameInstances": [
+        {
+          "name": "Photo Genic (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41137-1",
+          "serial": "PP7CA0050"
+        }
+      ],
+      "id": 41137
+    },
+    {
+      "name": "PIA CARROT E YOUKOSO!! WE'VE BEEN WAITING FOR YOU",
+      "gameInstances": [
+        {
+          "name": "Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41138-1"
+        }
+      ],
+      "id": 41138
+    },
+    {
+      "name": "POLICENAUTS",
+      "gameInstances": [
+        {
+          "name": "Policenauts (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41139-1",
+          "serial": "RA710"
+        }
+      ],
+      "id": 41139
+    },
+    {
+      "name": "PRINCE OF PERSIA 2 - THE SHADOW & THE FLAME",
+      "gameInstances": [
+        {
+          "name": "Prince of Persia 2 - The Shadow & The Flame (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41140-1"
+        }
+      ],
+      "id": 41140
+    },
+    {
+      "name": "PUYO PUYO TSUU",
+      "gameInstances": [
+        {
+          "name": "Puyo Puyo Tsuu (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41141-1",
+          "serial": "C9501"
+        }
+      ],
+      "id": 41141
+    },
+    {
+      "name": "R-A-M 1 - NEW EVOLUTION ORGANIZE",
+      "gameInstances": [
+        {
+          "name": "R-A-M 1 - New Evolution Organize (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41142-1"
+        }
+      ],
+      "id": 41142
+    },
+    {
+      "name": "RPG TKOOL DANTE98 II",
+      "gameInstances": [
+        {
+          "name": "RPG Tkool Dante98 II (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41143-1"
+        }
+      ],
+      "id": 41143
+    },
+    {
+      "name": "RECORD OF LODOSS WAR - LODOSS-TOU SENKI II - GOSHIKI NO MARYUU",
+      "gameInstances": [
+        {
+          "name": "Record of Lodoss War - Lodoss-tou Senki II - Goshiki no Maryuu (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41144-1"
+        }
+      ],
+      "id": 41144
+    },
+    {
+      "name": "RIBBON",
+      "gameInstances": [
+        {
+          "name": "Ribbon (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41145-1"
+        }
+      ],
+      "id": 41145
+    },
+    {
+      "name": "RYOUKI NO ORI",
+      "gameInstances": [
+        {
+          "name": "Ryouki no Ori (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41146-1",
+          "serial": "CEN1RS-21-6"
+        }
+      ],
+      "id": 41146
+    },
+    {
+      "name": "SAINT DIARY - KIYOKA-CHAN NO NIKKI",
+      "gameInstances": [
+        {
+          "name": "Saint Diary - Kiyoka-chan no Nikki (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41147-1",
+          "serial": "EXC-004"
+        }
+      ],
+      "id": 41147
+    },
+    {
+      "name": "SANGOKUSHI V",
+      "gameInstances": [
+        {
+          "name": "Sangokushi V (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41148-1",
+          "serial": "KN11-00103"
+        },
+        {
+          "name": "Sangokushi V (Japan) (Alt)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41148-2",
+          "serial": "KN11-00103"
+        }
+      ],
+      "id": 41148
+    },
+    {
+      "name": "SCHWARZSCHILD EX - TESSA NO SEIGUN",
+      "gameInstances": [
+        {
+          "name": "Schwarzschild EX - Tessa no Seigun (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41149-1",
+          "serial": "9214-55HM10"
+        }
+      ],
+      "id": 41149
+    },
+    {
+      "name": "SCHWARZSCHILD GX - SABITA SOUSEI",
+      "gameInstances": [
+        {
+          "name": "Schwarzschild GX - Sabita Sousei (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41150-1",
+          "serial": "9531-77-01"
+        }
+      ],
+      "id": 41150
+    },
+    {
+      "name": "SHIN-OU DENSETSU CRYSTANIA DX",
+      "gameInstances": [
+        {
+          "name": "Shin-ou Densetsu Crystania DX (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41151-1",
+          "serial": "001J291TA"
+        }
+      ],
+      "id": 41151
+    },
+    {
+      "name": "SHINPI NO SEKAI EL-HAZARD - EL-HAZARD - THE MAGNIFICENT WORLD",
+      "gameInstances": [
+        {
+          "name": "Shinpi no Sekai El-Hazard - El-Hazard - The Magnificent World (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41152-1",
+          "serial": "21D-2077"
+        }
+      ],
+      "id": 41152
+    },
+    {
+      "name": "SILENT SERVICE, THE - CHINMOKU NO KANTAI",
+      "gameInstances": [
+        {
+          "name": "Silent Service, The - Chinmoku no Kantai (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41153-1",
+          "serial": "DWPC3808"
+        }
+      ],
+      "id": 41153
+    },
+    {
+      "name": "SORCER KINGDOM",
+      "gameInstances": [
+        {
+          "name": "Sorcer Kingdom (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41154-1",
+          "serial": "AYPIO-001"
+        }
+      ],
+      "id": 41154
+    },
+    {
+      "name": "STRIKE COMMANDER",
+      "gameInstances": [
+        {
+          "name": "Strike Commander (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41155-1",
+          "serial": "ENP-7010"
+        }
+      ],
+      "id": 41155
+    },
+    {
+      "name": "SYNDICATE",
+      "gameInstances": [
+        {
+          "name": "Syndicate (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41156-1",
+          "serial": "ENP-7009"
+        }
+      ],
+      "id": 41156
+    },
+    {
+      "name": "TFX - THE CUTTING EDGE OF AERIAL COMBAT",
+      "gameInstances": [
+        {
+          "name": "TFX - The Cutting Edge of Aerial Combat (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41157-1",
+          "serial": "21D-2063"
+        }
+      ],
+      "id": 41157
+    },
+    {
+      "name": "TEITOKU NO KETSUDAN III",
+      "gameInstances": [
+        {
+          "name": "Teitoku no Ketsudan III (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41158-1",
+          "serial": "KN11-14103"
+        }
+      ],
+      "id": 41158
+    },
+    {
+      "name": "THEME PARK",
+      "gameInstances": [
+        {
+          "name": "Theme Park (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41159-1",
+          "serial": "ENP-7018"
+        }
+      ],
+      "id": 41159
+    },
+    {
+      "name": "TOKIO 2 - KAITAKU IMIN BOSHUUCHUU!",
+      "gameInstances": [
+        {
+          "name": "Tokio 2 - Kaitaku Imin Boshuuchuu! (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41160-1",
+          "serial": "21D-2046"
+        }
+      ],
+      "id": 41160
+    },
+    {
+      "name": "TUNED HEART",
+      "gameInstances": [
+        {
+          "name": "Tuned Heart (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41161-1",
+          "serial": "001J0290TA"
+        }
+      ],
+      "id": 41161
+    },
+    {
+      "name": "UKI UKI ISLAND",
+      "gameInstances": [
+        {
+          "name": "Uki Uki Island (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41162-1",
+          "serial": "FDC-102"
+        }
+      ],
+      "id": 41162
+    },
+    {
+      "name": "ULTIMA VIII - PAGAN",
+      "gameInstances": [
+        {
+          "name": "Ultima VIII - Pagan (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41163-1",
+          "serial": "EID-4018"
+        }
+      ],
+      "id": 41163
+    },
+    {
+      "name": "UMANARI 1 FURLONG THEATER 2",
+      "gameInstances": [
+        {
+          "name": "Umanari 1 Furlong Theater 2 (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41164-1"
+        }
+      ],
+      "id": 41164
+    },
+    {
+      "name": "VIPER CTR - ASUKA",
+      "gameInstances": [
+        {
+          "name": "Viper CTR - Asuka (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41165-1"
+        }
+      ],
+      "id": 41165
+    },
+    {
+      "name": "VIRTUACALL",
+      "gameInstances": [
+        {
+          "name": "Virtuacall (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41166-1"
+        }
+      ],
+      "id": 41166
+    },
+    {
+      "name": "WAKU WAKU MAHJONG PANIC! 2 - KOKUSHI MUSOU",
+      "gameInstances": [
+        {
+          "name": "Waku Waku Mahjong Panic! 2 - Kokushi Musou (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41167-1",
+          "serial": "FNN-002"
+        }
+      ],
+      "id": 41167
+    },
+    {
+      "name": "WATASHI",
+      "gameInstances": [
+        {
+          "name": "Watashi (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41168-1",
+          "serial": "EXC-005"
+        }
+      ],
+      "id": 41168
+    },
+    {
+      "name": "X GIRL",
+      "gameInstances": [
+        {
+          "name": "X Girl (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41169-1"
+        }
+      ],
+      "id": 41169
+    },
+    {
+      "name": "YATSU NO NA WA DIAMOND - HIS NAME IS DIAMOND",
+      "gameInstances": [
+        {
+          "name": "Yatsu no Na wa Diamond - His Name Is Diamond (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41170-1",
+          "serial": "EXC-006"
+        }
+      ],
+      "id": 41170
+    },
+    {
+      "name": "YUMEMIZAKA",
+      "gameInstances": [
+        {
+          "name": "Yumemizaka (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41171-1"
+        }
+      ],
+      "id": 41171
+    },
+    {
+      "name": "YUUGIRI - NINGYOUSHI NO ISAN",
+      "gameInstances": [
+        {
+          "name": "Yuugiri - Ningyoushi no Isan (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41172-1",
+          "serial": "EXC-002"
+        }
+      ],
+      "id": 41172
+    },
+    {
+      "name": "YUUROU - TRANSIENT SANDS",
+      "gameInstances": [
+        {
+          "name": "Yuurou - Transient Sands (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41173-1"
+        }
+      ],
+      "id": 41173
+    },
+    {
+      "name": "ZAI METAJO",
+      "gameInstances": [
+        {
+          "name": "Zai Metajo (Japan)",
+          "platform": "pc98",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41174-1",
+          "serial": "WIC-5452"
+        }
+      ],
+      "id": 41174
     }
   ]
 }
