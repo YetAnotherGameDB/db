@@ -873603,7 +873603,7 @@
       "gameInstances": [
         {
           "name": "Hatsukoi Monogatari (Japan) (Rev 1)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873611,7 +873611,7 @@
         },
         {
           "name": "Hatsukoi Monogatari (Japan) (Rev 2)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873625,7 +873625,7 @@
       "gameInstances": [
         {
           "name": "Death Bringer - The Knight of Darkness (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873639,7 +873639,7 @@
       "gameInstances": [
         {
           "name": "Cosmic Fantasy 2 - Bouken Shounen Ban (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873653,7 +873653,7 @@
       "gameInstances": [
         {
           "name": "Lady Phantom (Japan) (FABT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873667,7 +873667,7 @@
       "gameInstances": [
         {
           "name": "Babel (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873681,7 +873681,7 @@
       "gameInstances": [
         {
           "name": "Cosmic Fantasy 3 - Bouken Shounen Rei (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873695,7 +873695,7 @@
       "gameInstances": [
         {
           "name": "Xak (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873709,7 +873709,7 @@
       "gameInstances": [
         {
           "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 2)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873717,7 +873717,7 @@
         },
         {
           "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873725,7 +873725,7 @@
         },
         {
           "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 1)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873739,7 +873739,7 @@
       "gameInstances": [
         {
           "name": "Gyuwambler Jiko Chuushinha - Mahjong Puzzle Collection (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873753,7 +873753,7 @@
       "gameInstances": [
         {
           "name": "Alnam no Kiba - Juuzoku Juuni Shinto Densetsu (Japan) (FAAT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873761,7 +873761,7 @@
         },
         {
           "name": "Alnam no Kiba - Juuzoku Juuni Shinto Densetsu (Japan) (FABT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873775,7 +873775,7 @@
       "gameInstances": [
         {
           "name": "Princess Minerva (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873789,7 +873789,7 @@
       "gameInstances": [
         {
           "name": "Sotsugyou II - Neo Generation (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873803,7 +873803,7 @@
       "gameInstances": [
         {
           "name": "Where in the World Is Carmen Sandiego (Japan) (En,Ja)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En,Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873817,7 +873817,7 @@
       "gameInstances": [
         {
           "name": "Cyber City Oedo 808 - Kemono no Alignment (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873831,7 +873831,7 @@
       "gameInstances": [
         {
           "name": "ROM ROM Stadium (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873845,7 +873845,7 @@
       "gameInstances": [
         {
           "name": "Nishimura Kyoutarou Mystery - Hokutosei no Onna (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873859,7 +873859,7 @@
       "gameInstances": [
         {
           "name": "F1 Circus Special - Pole to Win (Japan) (FAAT, FACT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873867,7 +873867,7 @@
         },
         {
           "name": "F1 Circus Special - Pole to Win (Japan) (FABT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873881,7 +873881,7 @@
       "gameInstances": [
         {
           "name": "Sexy Idol Mahjong (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873895,7 +873895,7 @@
       "gameInstances": [
         {
           "name": "Langrisser - Hikari no Matsuei (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873909,7 +873909,7 @@
       "gameInstances": [
         {
           "name": "Nekketsu Koukou Dodgeball-bu CD - Soccer-hen (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873923,7 +873923,7 @@
       "gameInstances": [
         {
           "name": "Quiz Avenue II (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873937,7 +873937,7 @@
       "gameInstances": [
         {
           "name": "Quiz Avenue (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873951,7 +873951,7 @@
       "gameInstances": [
         {
           "name": "Might and Magic (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873965,7 +873965,7 @@
       "gameInstances": [
         {
           "name": "Doukyuusei (Japan) (Rev 3) (Alt 1)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873973,7 +873973,7 @@
         },
         {
           "name": "Doukyuusei (Japan) (Rev 3)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873981,7 +873981,7 @@
         },
         {
           "name": "Doukyuusei (Japan) (Rev 3) (Alt 2)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -873989,7 +873989,7 @@
         },
         {
           "name": "Doukyuusei (Japan) (Rev 4)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874003,7 +874003,7 @@
       "gameInstances": [
         {
           "name": "Tanjou - Debut (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874017,7 +874017,7 @@
       "gameInstances": [
         {
           "name": "CAL III - Kanketsu-hen (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874031,7 +874031,7 @@
       "gameInstances": [
         {
           "name": "Sotsugyou - Graduation (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874039,7 +874039,7 @@
         },
         {
           "name": "Sotsugyou - Graduation (Japan) (Rev 1)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874053,7 +874053,7 @@
       "gameInstances": [
         {
           "name": "Dragon Knight III (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874067,7 +874067,7 @@
       "gameInstances": [
         {
           "name": "CAL II (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874075,7 +874075,7 @@
         },
         {
           "name": "CAL II (Japan) (Alt)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874089,7 +874089,7 @@
       "gameInstances": [
         {
           "name": "Dragon Knight II (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874103,7 +874103,7 @@
       "gameInstances": [
         {
           "name": "Monster Maker - Yami no Ryuukishi (Japan) (Alt)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874111,7 +874111,7 @@
         },
         {
           "name": "Monster Maker - Yami no Ryuukishi (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874125,7 +874125,7 @@
       "gameInstances": [
         {
           "name": "Top o Nerae! GunBuster Vol. 2 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874139,7 +874139,7 @@
       "gameInstances": [
         {
           "name": "Exile II - Janen no Jishou (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874153,7 +874153,7 @@
       "gameInstances": [
         {
           "name": "Master of Monsters (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874167,7 +874167,7 @@
       "gameInstances": [
         {
           "name": "Wizardry V - Heart of the Maelstrom (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874181,7 +874181,7 @@
       "gameInstances": [
         {
           "name": "Super Schwarzschild (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874195,7 +874195,7 @@
       "gameInstances": [
         {
           "name": "Super Schwarzschild 2 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874209,7 +874209,7 @@
       "gameInstances": [
         {
           "name": "BuilderLand - The Story of Melba (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874223,7 +874223,7 @@
       "gameInstances": [
         {
           "name": "Valis IV (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874237,7 +874237,7 @@
       "gameInstances": [
         {
           "name": "Sherlock Holmes - Consulting Detective (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874245,7 +874245,7 @@
         },
         {
           "name": "Sherlock Holmes - Consulting Detective (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -874259,7 +874259,7 @@
       "gameInstances": [
         {
           "name": "Sherlock Holmes - Consulting Detective - Vol. II (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874267,7 +874267,7 @@
         },
         {
           "name": "Sherlock Holmes - Consulting Detective - Vol. II (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -874281,7 +874281,7 @@
       "gameInstances": [
         {
           "name": "Pro Yakyuu, The (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874295,7 +874295,7 @@
       "gameInstances": [
         {
           "name": "Sengoku Kantou Sangokushi (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874309,7 +874309,7 @@
       "gameInstances": [
         {
           "name": "Princess Maker 2 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874323,7 +874323,7 @@
       "gameInstances": [
         {
           "name": "Princess Maker 1 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874337,7 +874337,7 @@
       "gameInstances": [
         {
           "name": "Hu PGA Tour - PowerGolf 2 - Golfer (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874351,7 +874351,7 @@
       "gameInstances": [
         {
           "name": "Bakushou Yoshimoto Shinkigeki (Japan) (FABT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874365,7 +874365,7 @@
       "gameInstances": [
         {
           "name": "SimEarth - The Living Planet (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874373,7 +874373,7 @@
         },
         {
           "name": "SimEarth - The Living Planet (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -874387,7 +874387,7 @@
       "gameInstances": [
         {
           "name": "Dragon Slayer - The Legend of Heroes II (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874401,7 +874401,7 @@
       "gameInstances": [
         {
           "name": "Dragon Slayer - The Legend of Heroes (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874409,7 +874409,7 @@
         },
         {
           "name": "Dragon Slayer - The Legend of Heroes (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -874423,7 +874423,7 @@
       "gameInstances": [
         {
           "name": "Atlas, The - Renaissance Voyager (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874437,7 +874437,7 @@
       "gameInstances": [
         {
           "name": "Bishoujo Senshi Sailor Moon Collection (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874445,7 +874445,7 @@
         },
         {
           "name": "Bishoujo Senshi Sailor Moon Collection (Japan) (Demo)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874459,7 +874459,7 @@
       "gameInstances": [
         {
           "name": "Mateki Densetsu Astralius (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874473,7 +874473,7 @@
       "gameInstances": [
         {
           "name": "No-Ri-Ko (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874487,7 +874487,7 @@
       "gameInstances": [
         {
           "name": "Quiz Marugoto the World 2 - Time Machine ni Onegai! (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874501,7 +874501,7 @@
       "gameInstances": [
         {
           "name": "Tokimeki Memorial (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874509,7 +874509,7 @@
         },
         {
           "name": "Tokimeki Memorial (Japan) (Rev 2) (FABT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874517,7 +874517,7 @@
         },
         {
           "name": "Tokimeki Memorial (Japan) (Rev 3)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874525,7 +874525,7 @@
         },
         {
           "name": "Tokimeki Memorial (Japan) (Rev 1)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874539,7 +874539,7 @@
       "gameInstances": [
         {
           "name": "Mahjong Vanilla Syndrome (Japan) (Alt)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874547,7 +874547,7 @@
         },
         {
           "name": "Mahjong Vanilla Syndrome (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874561,7 +874561,7 @@
       "gameInstances": [
         {
           "name": "Prince of Persia (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874569,7 +874569,7 @@
         },
         {
           "name": "Prince of Persia (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -874583,7 +874583,7 @@
       "gameInstances": [
         {
           "name": "Forgotten Worlds (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874591,7 +874591,7 @@
         },
         {
           "name": "Forgotten Worlds (USA) (En,Ja)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En,Ja]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -874605,7 +874605,7 @@
       "gameInstances": [
         {
           "name": "Lords of Thunder (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -874619,7 +874619,7 @@
       "gameInstances": [
         {
           "name": "Golden Axe (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874627,7 +874627,7 @@
         },
         {
           "name": "Golden Axe (Japan) (Alt)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874641,7 +874641,7 @@
       "gameInstances": [
         {
           "name": "A.III. - A Ressha de Ikou III (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874655,7 +874655,7 @@
       "gameInstances": [
         {
           "name": "Road Spirits (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874669,7 +874669,7 @@
       "gameInstances": [
         {
           "name": "Dungeon Master - Theron's Quest (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -874677,7 +874677,7 @@
         },
         {
           "name": "Dungeon Master - Theron's Quest (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874685,7 +874685,7 @@
         },
         {
           "name": "Dungeon Master - Theron's Quest (USA) (RE)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -874699,7 +874699,7 @@
       "gameInstances": [
         {
           "name": "Bishoujo Senshi Sailor Moon (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874713,7 +874713,7 @@
       "gameInstances": [
         {
           "name": "1552 Tenka Tairan (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874727,7 +874727,7 @@
       "gameInstances": [
         {
           "name": "Davis Cup Tennis, The (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874741,7 +874741,7 @@
       "gameInstances": [
         {
           "name": "Avenger (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874755,7 +874755,7 @@
       "gameInstances": [
         {
           "name": "R-Type Complete CD (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874769,7 +874769,7 @@
       "gameInstances": [
         {
           "name": "Psychic Storm (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874783,7 +874783,7 @@
       "gameInstances": [
         {
           "name": "Rayxanber II (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874797,7 +874797,7 @@
       "gameInstances": [
         {
           "name": "Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874805,7 +874805,7 @@
         },
         {
           "name": "Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan) (Alt)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874819,7 +874819,7 @@
       "gameInstances": [
         {
           "name": "Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 7)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874827,7 +874827,7 @@
         },
         {
           "name": "Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 8)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874841,7 +874841,7 @@
       "gameInstances": [
         {
           "name": "Pachio-kun - Warau Uchuu (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874855,7 +874855,7 @@
       "gameInstances": [
         {
           "name": "Far East of Eden - Tengai Makyou - Ziria (Japan) (Rev 6)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874863,7 +874863,7 @@
         },
         {
           "name": "Far East of Eden - Tengai Makyou - Ziria (Japan) (Hibaihin)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874871,7 +874871,7 @@
         },
         {
           "name": "Far East of Eden - Tengai Makyou - Ziria (Japan) (Rev 7)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874885,7 +874885,7 @@
       "gameInstances": [
         {
           "name": "Battle Shanghai - Dragon's Eye (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874899,7 +874899,7 @@
       "gameInstances": [
         {
           "name": "Human Sports Festival (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874913,7 +874913,7 @@
       "gameInstances": [
         {
           "name": "Psychic Detective Series Vol. 3 - Aya (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874921,7 +874921,7 @@
         },
         {
           "name": "Psychic Detective Series Vol. 3 - Aya (Japan) (Demo)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874935,7 +874935,7 @@
       "gameInstances": [
         {
           "name": "Super CD-ROM^2 Taiken Soft Shuu (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874949,7 +874949,7 @@
       "gameInstances": [
         {
           "name": "YaWaRa! A Fashionable Judo Girl! (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874963,7 +874963,7 @@
       "gameInstances": [
         {
           "name": "Ys IV - The Dawn of Ys (Japan) (Rev 3)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874971,7 +874971,7 @@
         },
         {
           "name": "Ys IV - The Dawn of Ys (Japan) (Rev 4)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874985,7 +874985,7 @@
       "gameInstances": [
         {
           "name": "Super Mahjong Taikai (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -874999,7 +874999,7 @@
       "gameInstances": [
         {
           "name": "Far East of Eden - Tengai Makyou - Fuun Kabuki-den (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875007,7 +875007,7 @@
         },
         {
           "name": "Far East of Eden - Tengai Makyou - Fuun Kabuki-den (Japan) (Demo)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875021,7 +875021,7 @@
       "gameInstances": [
         {
           "name": "Pro Yakyuu Super, The (Japan) (FABT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875035,7 +875035,7 @@
       "gameInstances": [
         {
           "name": "Ys I & II (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875043,7 +875043,7 @@
         },
         {
           "name": "Ys I & II (Japan) (Alt)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875057,7 +875057,7 @@
       "gameInstances": [
         {
           "name": "Space Adventure Cobra - Kokuryuuou no Densetsu (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875071,7 +875071,7 @@
       "gameInstances": [
         {
           "name": "Tenshi no Uta (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875085,7 +875085,7 @@
       "gameInstances": [
         {
           "name": "Tenshi no Uta II - Datenshi no Sentaku (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875099,7 +875099,7 @@
       "gameInstances": [
         {
           "name": "Faerie Dust Story - Meikyuu no Elfeene (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875113,7 +875113,7 @@
       "gameInstances": [
         {
           "name": "Quiz Marugoto the World (Japan) (Rev 7)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875121,7 +875121,7 @@
         },
         {
           "name": "Quiz Marugoto the World (Japan) (Rev 8)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875135,7 +875135,7 @@
       "gameInstances": [
         {
           "name": "IQ Panic (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875149,7 +875149,7 @@
       "gameInstances": [
         {
           "name": "Super Daisenryaku (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875163,7 +875163,7 @@
       "gameInstances": [
         {
           "name": "Magicoal (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875177,7 +875177,7 @@
       "gameInstances": [
         {
           "name": "Manhole, The (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875191,7 +875191,7 @@
       "gameInstances": [
         {
           "name": "Jantei Monogatari 2 - Uchuu Tantei Diban - Shutsudou-hen (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875205,7 +875205,7 @@
       "gameInstances": [
         {
           "name": "Valis II (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875213,7 +875213,7 @@
         },
         {
           "name": "Valis II (Japan) (Alt 2)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875221,7 +875221,7 @@
         },
         {
           "name": "Valis II (Japan) (Alt 1)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875229,7 +875229,7 @@
         },
         {
           "name": "Valis II (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -875243,7 +875243,7 @@
       "gameInstances": [
         {
           "name": "Sugoroku, The '92 - Nari Tore - Nariagari Trendy (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875257,7 +875257,7 @@
       "gameInstances": [
         {
           "name": "Exile - Toki no Hasama e (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875271,7 +875271,7 @@
       "gameInstances": [
         {
           "name": "Fighting Street (Japan) (Rev 5)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875279,7 +875279,7 @@
         },
         {
           "name": "Fighting Street (Japan) (Rev 4)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875287,7 +875287,7 @@
         },
         {
           "name": "Fighting Street (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -875301,7 +875301,7 @@
       "gameInstances": [
         {
           "name": "Black Hole Assault (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875315,7 +875315,7 @@
       "gameInstances": [
         {
           "name": "J.League Tremendous Soccer '94 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875329,7 +875329,7 @@
       "gameInstances": [
         {
           "name": "Akumajou Dracula X - Chi no Rondo (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875343,7 +875343,7 @@
       "gameInstances": [
         {
           "name": "Sotsugyou Shashin - Miki (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875357,7 +875357,7 @@
       "gameInstances": [
         {
           "name": "Eikan wa Kimi ni - Koukou Yakyuu Zenkoku Taikai (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875371,7 +875371,7 @@
       "gameInstances": [
         {
           "name": "Ginga Ojousama Densetsu Yuna (Japan) (FAFT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875379,7 +875379,7 @@
         },
         {
           "name": "Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875387,7 +875387,7 @@
         },
         {
           "name": "Ginga Ojousama Densetsu Yuna (Japan) (Demo)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875401,7 +875401,7 @@
       "gameInstances": [
         {
           "name": "Ginga Ojousama Densetsu Yuna HuVIDEO CD (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875415,7 +875415,7 @@
       "gameInstances": [
         {
           "name": "Ys III (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875429,7 +875429,7 @@
       "gameInstances": [
         {
           "name": "Shadow of the Beast - Mashou no Okite (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875443,7 +875443,7 @@
       "gameInstances": [
         {
           "name": "Hyper Wars (Japan) (SAAS)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875451,7 +875451,7 @@
         },
         {
           "name": "Hyper Wars (Japan) (SABS)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875465,7 +875465,7 @@
       "gameInstances": [
         {
           "name": "Ryuuko no Ken (Japan) (En,Ja,Es) (FABT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En,Ja,Es]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875473,7 +875473,7 @@
         },
         {
           "name": "Ryuuko no Ken (Japan) (En,Ja,Es) (FACT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En,Ja,Es]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875481,7 +875481,7 @@
         },
         {
           "name": "Ryuuko no Ken (Japan) (En,Ja,Es) (Demo)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En,Ja,Es]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875489,7 +875489,7 @@
         },
         {
           "name": "Ryuuko no Ken (Japan) (En,Ja,Es) (FAAT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En,Ja,Es]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875503,7 +875503,7 @@
       "gameInstances": [
         {
           "name": "Space Adventure Cobra II - Densetsu no Otoko (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875517,7 +875517,7 @@
       "gameInstances": [
         {
           "name": "Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875525,7 +875525,7 @@
         },
         {
           "name": "Garou Densetsu 2 - Aratanaru Tatakai (Japan) (Demo) (SABS)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875539,7 +875539,7 @@
       "gameInstances": [
         {
           "name": "Ranma 1-2 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875553,7 +875553,7 @@
       "gameInstances": [
         {
           "name": "Ranma 1-2 - Toraware no Hanayome (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875567,7 +875567,7 @@
       "gameInstances": [
         {
           "name": "Aurora Quest - Otaku no Seiza in Another World (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875581,7 +875581,7 @@
       "gameInstances": [
         {
           "name": "Dungeon Explorer II (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -875589,7 +875589,7 @@
         },
         {
           "name": "Dungeon Explorer II (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875603,7 +875603,7 @@
       "gameInstances": [
         {
           "name": "Ys III - Wanderers from Ys (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -875617,7 +875617,7 @@
       "gameInstances": [
         {
           "name": "World Heroes 2 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875625,7 +875625,7 @@
         },
         {
           "name": "World Heroes 2 (Japan) (Demo) (SACS)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875639,7 +875639,7 @@
       "gameInstances": [
         {
           "name": "Double Dragon II - The Revenge (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875653,7 +875653,7 @@
       "gameInstances": [
         {
           "name": "Pomping World (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875667,7 +875667,7 @@
       "gameInstances": [
         {
           "name": "Buster Bros. (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -875681,7 +875681,7 @@
       "gameInstances": [
         {
           "name": "Fantastic Night Dreams - Cotton (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -875689,7 +875689,7 @@
         },
         {
           "name": "Fantastic Night Dreams - Cotton (Japan) (En,Ja,Zh)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En,Ja,Zh]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875703,7 +875703,7 @@
       "gameInstances": [
         {
           "name": "Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -875717,7 +875717,7 @@
       "gameInstances": [
         {
           "name": "Ys Book I & II (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -875725,7 +875725,7 @@
         },
         {
           "name": "Ys Book I & II (USA) (Alt)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -875739,7 +875739,7 @@
       "gameInstances": [
         {
           "name": "High Grenadier (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875753,7 +875753,7 @@
       "gameInstances": [
         {
           "name": "Super Albatross (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875767,7 +875767,7 @@
       "gameInstances": [
         {
           "name": "Vasteel (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875775,7 +875775,7 @@
         },
         {
           "name": "Vasteel (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -875789,7 +875789,7 @@
       "gameInstances": [
         {
           "name": "Emerald Dragon (Japan) (Rev 1)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875797,7 +875797,7 @@
         },
         {
           "name": "Emerald Dragon (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875805,7 +875805,7 @@
         },
         {
           "name": "Emerald Dragon (Japan) (Demo)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875819,7 +875819,7 @@
       "gameInstances": [
         {
           "name": "Ai Chou Aniki (Japan) (SADS, SAES)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875833,7 +875833,7 @@
       "gameInstances": [
         {
           "name": "Last Armageddon (Japan) (Rev 6)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875841,7 +875841,7 @@
         },
         {
           "name": "Last Armageddon (Japan) (Rev 5)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875855,7 +875855,7 @@
       "gameInstances": [
         {
           "name": "Ane-san (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875869,7 +875869,7 @@
       "gameInstances": [
         {
           "name": "Bomberman - Panic Bomber (Japan) (FAAT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875877,7 +875877,7 @@
         },
         {
           "name": "Bomberman - Panic Bomber (Japan) (FABT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875891,7 +875891,7 @@
       "gameInstances": [
         {
           "name": "Browning (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875905,7 +875905,7 @@
       "gameInstances": [
         {
           "name": "Daisenryaku II - Campaign Version (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875919,7 +875919,7 @@
       "gameInstances": [
         {
           "name": "Winds of Thunder (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875933,7 +875933,7 @@
       "gameInstances": [
         {
           "name": "Zero 4 Champ II (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875947,7 +875947,7 @@
       "gameInstances": [
         {
           "name": "Cardangels (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875961,7 +875961,7 @@
       "gameInstances": [
         {
           "name": "Seirei Senshi Spriggan (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875975,7 +875975,7 @@
       "gameInstances": [
         {
           "name": "Super Darius (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875983,7 +875983,7 @@
         },
         {
           "name": "Super Darius (Japan) (Alt)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -875997,7 +875997,7 @@
       "gameInstances": [
         {
           "name": "Mitsubachi Gakuen (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876011,7 +876011,7 @@
       "gameInstances": [
         {
           "name": "Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (Japan) (FABT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876019,7 +876019,7 @@
         },
         {
           "name": "Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (Japan) (FAAT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876033,7 +876033,7 @@
       "gameInstances": [
         {
           "name": "Efera & Jiliora - The Emblem from Darkness (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876047,7 +876047,7 @@
       "gameInstances": [
         {
           "name": "NEXZR (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876061,7 +876061,7 @@
       "gameInstances": [
         {
           "name": "ImageFight II - Operation Deepstriker (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876075,7 +876075,7 @@
       "gameInstances": [
         {
           "name": "Sangokushi III (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876089,7 +876089,7 @@
       "gameInstances": [
         {
           "name": "Sol Bianca (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876103,7 +876103,7 @@
       "gameInstances": [
         {
           "name": "Kagami no Kuni no Legend (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876117,7 +876117,7 @@
       "gameInstances": [
         {
           "name": "Shanghai II (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876131,7 +876131,7 @@
       "gameInstances": [
         {
           "name": "Jack Nicklaus' World Tour Golf - 162 Holes (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876145,7 +876145,7 @@
       "gameInstances": [
         {
           "name": "Inoue Mami - Kono Hoshi ni Tatta Hitori no Kimi (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876159,7 +876159,7 @@
       "gameInstances": [
         {
           "name": "Burai - Yatsudama no Yuushi Densetsu (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876173,7 +876173,7 @@
       "gameInstances": [
         {
           "name": "Burai II - Yami Koutei no Gyakushuu (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876181,7 +876181,7 @@
         },
         {
           "name": "Burai II - Yami Koutei no Gyakushuu (Japan) (Demo)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876195,7 +876195,7 @@
       "gameInstances": [
         {
           "name": "Rising Sun (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876209,7 +876209,7 @@
       "gameInstances": [
         {
           "name": "Quiz Tonosama no Yabou (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876223,7 +876223,7 @@
       "gameInstances": [
         {
           "name": "Quiz Caravan Cult Q (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876237,7 +876237,7 @@
       "gameInstances": [
         {
           "name": "Ultra Box 6-gou (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876251,7 +876251,7 @@
       "gameInstances": [
         {
           "name": "Record of Lodoss War (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876265,7 +876265,7 @@
       "gameInstances": [
         {
           "name": "Far East of Eden - Tengai Makyou II - Manji Maru (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876279,7 +876279,7 @@
       "gameInstances": [
         {
           "name": "Garou Densetsu Special (Japan) (FABT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876287,7 +876287,7 @@
         },
         {
           "name": "Garou Densetsu Special (Japan) (Demo)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876301,7 +876301,7 @@
       "gameInstances": [
         {
           "name": "Shin Nihon Pro Wrestling - '94 Battlefield in Tokyo Dome (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876315,7 +876315,7 @@
       "gameInstances": [
         {
           "name": "Taiheiki (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876329,7 +876329,7 @@
       "gameInstances": [
         {
           "name": "Lord of Wars (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876343,7 +876343,7 @@
       "gameInstances": [
         {
           "name": "Vasteel 2 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876357,7 +876357,7 @@
       "gameInstances": [
         {
           "name": "Kaizou Choujin Shubibinman 3 - Ikai no Princess (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876371,7 +876371,7 @@
       "gameInstances": [
         {
           "name": "Kick Boxing, The (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876385,7 +876385,7 @@
       "gameInstances": [
         {
           "name": "Mashou Denki - La Valeur (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876399,7 +876399,7 @@
       "gameInstances": [
         {
           "name": "Genocide (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876413,7 +876413,7 @@
       "gameInstances": [
         {
           "name": "Neo Nectaris (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876427,7 +876427,7 @@
       "gameInstances": [
         {
           "name": "Splash Lake - Ostrich Daibouken (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876441,7 +876441,7 @@
       "gameInstances": [
         {
           "name": "Bonanza Bros. (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876455,7 +876455,7 @@
       "gameInstances": [
         {
           "name": "Record of Lodoss War II (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876463,7 +876463,7 @@
         },
         {
           "name": "Record of Lodoss War II (Japan) (Demo)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876477,7 +876477,7 @@
       "gameInstances": [
         {
           "name": "Faceball (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876485,7 +876485,7 @@
         },
         {
           "name": "Faceball (Japan) (Demo)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876499,7 +876499,7 @@
       "gameInstances": [
         {
           "name": "Motteke Tamago (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876513,7 +876513,7 @@
       "gameInstances": [
         {
           "name": "CD Denjin - Rockabilly Tengoku (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876527,7 +876527,7 @@
       "gameInstances": [
         {
           "name": "Ranma 1-2 - Datou, Ganso Musabetsu Kakutou-ryuu! (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876539,22 +876539,6 @@
     {
       "name": "JUUOUKI",
       "gameInstances": [
-        {
-          "name": "Juuouki (Japan) (Rev 4)",
-          "platform": "pcengine",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40356-1"
-        },
-        {
-          "name": "Juuouki (Japan) (Rev 5)",
-          "platform": "pcengine",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40356-2"
-        },
         {
           "name": "Juuouki (Japan)",
           "platform": "pcengine",
@@ -876571,7 +876555,7 @@
       "gameInstances": [
         {
           "name": "Dennou Tenshi - Digital Ange (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876585,7 +876569,7 @@
       "gameInstances": [
         {
           "name": "F1 Team Simulation - Project F (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876599,7 +876583,7 @@
       "gameInstances": [
         {
           "name": "Snatcher CD-ROMantic - Pilot Disk (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876613,7 +876597,7 @@
       "gameInstances": [
         {
           "name": "Snatcher CD-ROMantic (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876627,7 +876611,7 @@
       "gameInstances": [
         {
           "name": "Gate of Thunder (Japan) (FACT, FADT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876641,7 +876625,7 @@
       "gameInstances": [
         {
           "name": "Moonlight Lady (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876655,7 +876639,7 @@
       "gameInstances": [
         {
           "name": "Populous - The Promised Lands (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876669,7 +876653,7 @@
       "gameInstances": [
         {
           "name": "Bikkuriman Daijikai (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876683,7 +876667,7 @@
       "gameInstances": [
         {
           "name": "Xak III - The Eternal Recurrence (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876697,7 +876681,7 @@
       "gameInstances": [
         {
           "name": "Sorcerian (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876711,7 +876695,7 @@
       "gameInstances": [
         {
           "name": "Chou Jikuu Yousai Macross 2036 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876725,7 +876709,7 @@
       "gameInstances": [
         {
           "name": "Chou Jikuu Yousai Macross - Eien no Love Song (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876739,7 +876723,7 @@
       "gameInstances": [
         {
           "name": "Wizardry I, II (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876753,7 +876737,7 @@
       "gameInstances": [
         {
           "name": "Legend of Xanadu - Kaze no Densetsu Xanadu (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876767,7 +876751,7 @@
       "gameInstances": [
         {
           "name": "Legend of Xanadu - Kaze no Densetsu Xanadu II (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876781,7 +876765,7 @@
       "gameInstances": [
         {
           "name": "Wizardry III, IV (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876795,7 +876779,7 @@
       "gameInstances": [
         {
           "name": "Valis III (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876803,7 +876787,7 @@
         },
         {
           "name": "Valis III (Japan) (Alt)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876811,7 +876795,7 @@
         },
         {
           "name": "Valis III (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -876825,7 +876809,7 @@
       "gameInstances": [
         {
           "name": "CD Battle - Hikari no Yuushatachi (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876839,7 +876823,7 @@
       "gameInstances": [
         {
           "name": "Gradius II - Gofer no Yabou (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876853,7 +876837,7 @@
       "gameInstances": [
         {
           "name": "Star Parodier (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876867,7 +876851,7 @@
       "gameInstances": [
         {
           "name": "Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876881,7 +876865,7 @@
       "gameInstances": [
         {
           "name": "Tenchi Muyou! Ryououki (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876895,7 +876879,7 @@
       "gameInstances": [
         {
           "name": "Advanced V.G. (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876909,7 +876893,7 @@
       "gameInstances": [
         {
           "name": "Goetzendiener (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876923,7 +876907,7 @@
       "gameInstances": [
         {
           "name": "Dragon Ball Z - Idainaru Son Gokuu Densetsu (Japan) (FABT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876937,7 +876921,7 @@
       "gameInstances": [
         {
           "name": "Ookami-teki Monshou - Crest of Wolf (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876951,7 +876935,7 @@
       "gameInstances": [
         {
           "name": "Linda^3 (Japan) (Rev 2)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876959,7 +876943,7 @@
         },
         {
           "name": "Linda^3 (Japan) (Rev 1)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876973,7 +876957,7 @@
       "gameInstances": [
         {
           "name": "Travel Eple (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -876987,7 +876971,7 @@
       "gameInstances": [
         {
           "name": "Blood Gear (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877001,7 +876985,7 @@
       "gameInstances": [
         {
           "name": "Palladion - Auto Crusher Palladium (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877015,7 +876999,7 @@
       "gameInstances": [
         {
           "name": "Star Breaker (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877029,7 +877013,7 @@
       "gameInstances": [
         {
           "name": "Megami Paradise (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877043,7 +877027,7 @@
       "gameInstances": [
         {
           "name": "Minesweeper (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877057,7 +877041,7 @@
       "gameInstances": [
         {
           "name": "Red Alert (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877071,7 +877055,7 @@
       "gameInstances": [
         {
           "name": "L-Dis (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877085,7 +877069,7 @@
       "gameInstances": [
         {
           "name": "Puyo Puyo CD (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877099,7 +877083,7 @@
       "gameInstances": [
         {
           "name": "Puyo Puyo CD Tsuu (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877113,7 +877097,7 @@
       "gameInstances": [
         {
           "name": "Patlabor - Chapter of Griffon (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877127,7 +877111,7 @@
       "gameInstances": [
         {
           "name": "Quest of Jongmaster - Janshin Densetsu (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877141,7 +877125,7 @@
       "gameInstances": [
         {
           "name": "Ultra Box 3-gou (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877155,7 +877139,7 @@
       "gameInstances": [
         {
           "name": "Startling Odyssey II - Maryuu Sensou (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877163,7 +877147,7 @@
         },
         {
           "name": "Startling Odyssey II - Maryuu Sensou (Japan) (Demo)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877177,7 +877161,7 @@
       "gameInstances": [
         {
           "name": "Hataraku Shoujo - Tekipaki Working Love (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877191,7 +877175,7 @@
       "gameInstances": [
         {
           "name": "De-Ja (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877205,7 +877189,7 @@
       "gameInstances": [
         {
           "name": "Yamamura Misa Suspense - Kinsenka Kyouezara Satsujin Jiken (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877219,7 +877203,7 @@
       "gameInstances": [
         {
           "name": "Hyaku Monogatari - Honto ni Atta Kowai Hanashi (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877233,7 +877217,7 @@
       "gameInstances": [
         {
           "name": "Himitsu no Hanazono (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877247,7 +877231,7 @@
       "gameInstances": [
         {
           "name": "Top o Nerae! GunBuster Vol. 1 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877261,7 +877245,7 @@
       "gameInstances": [
         {
           "name": "Pastel Lime (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877275,7 +877259,7 @@
       "gameInstances": [
         {
           "name": "Ginga Fukei Densetsu Sapphire (Japan) (Reprint)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877283,7 +877267,7 @@
         },
         {
           "name": "Ginga Fukei Densetsu Sapphire (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877297,7 +877281,7 @@
       "gameInstances": [
         {
           "name": "Quiz no Hoshi - Star of Quiz (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877311,7 +877295,7 @@
       "gameInstances": [
         {
           "name": "Quiz de Gakuensai (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877325,7 +877309,7 @@
       "gameInstances": [
         {
           "name": "Fushigi no Umi no Nadia - The Secret of Blue Water (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877339,7 +877323,7 @@
       "gameInstances": [
         {
           "name": "Magical Saurus Tour (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877353,7 +877337,7 @@
       "gameInstances": [
         {
           "name": "Ultra Box 4-gou (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877367,7 +877351,7 @@
       "gameInstances": [
         {
           "name": "Seiryuu Densetsu - Monbit (Japan) (Rev 1)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877375,7 +877359,7 @@
         },
         {
           "name": "Seiryuu Densetsu - Monbit (Japan) (Rev 4)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877389,7 +877373,7 @@
       "gameInstances": [
         {
           "name": "Madou Monogatari I - Honoo no Sotsuenji (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877403,7 +877387,7 @@
       "gameInstances": [
         {
           "name": "J. B. Harold Series 1 - Murder Club (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877417,7 +877401,7 @@
       "gameInstances": [
         {
           "name": "Dragon Half (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877431,7 +877415,7 @@
       "gameInstances": [
         {
           "name": "Uchuu Senkan Yamato (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877445,7 +877429,7 @@
       "gameInstances": [
         {
           "name": "Might and Magic III - Isles of Terra (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877453,7 +877437,7 @@
         },
         {
           "name": "Might and Magic III - Isles of Terra (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -877467,7 +877451,7 @@
       "gameInstances": [
         {
           "name": "Mirai Shounen Conan (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877481,7 +877465,7 @@
       "gameInstances": [
         {
           "name": "Final Zone II (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877489,7 +877473,7 @@
         },
         {
           "name": "Final Zone II (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -877503,7 +877487,7 @@
       "gameInstances": [
         {
           "name": "Pachio-kun 3 - Pachi-Slot & Pachinko (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877517,7 +877501,7 @@
       "gameInstances": [
         {
           "name": "YaWaRa! 2 - A Fashionable Judo Girl! (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877531,7 +877515,7 @@
       "gameInstances": [
         {
           "name": "Laplace no Ma (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877539,7 +877523,7 @@
         },
         {
           "name": "Laplace no Ma (Japan) (Demo)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877553,7 +877537,7 @@
       "gameInstances": [
         {
           "name": "Shin Megami Tensei (Japan) (Rev 1)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877561,7 +877545,7 @@
         },
         {
           "name": "Shin Megami Tensei (Japan) (Rev 2)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877575,7 +877559,7 @@
       "gameInstances": [
         {
           "name": "Dekoboko Densetsu - Hashiru Wagamanmaa (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877589,7 +877573,7 @@
       "gameInstances": [
         {
           "name": "Rally Championship (Japan) (FABT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877603,7 +877587,7 @@
       "gameInstances": [
         {
           "name": "KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877617,7 +877601,7 @@
       "gameInstances": [
         {
           "name": "Private Eye dol (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877631,7 +877615,7 @@
       "gameInstances": [
         {
           "name": "Tecmo World Cup Super Soccer (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877645,7 +877629,7 @@
       "gameInstances": [
         {
           "name": "Shinsetsu Shiawase Usagi 2 - Kairaku e no Invitation (Japan) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877659,7 +877643,7 @@
       "gameInstances": [
         {
           "name": "Startling Odyssey (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877673,7 +877657,7 @@
       "gameInstances": [
         {
           "name": "Kaze no Densetsu Xanadu (Japan) (Demo)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877687,7 +877671,7 @@
       "gameInstances": [
         {
           "name": "Iga Ninden Gaiou (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877701,7 +877685,7 @@
       "gameInstances": [
         {
           "name": "Metal Angel (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877715,7 +877699,7 @@
       "gameInstances": [
         {
           "name": "Adventure Quiz - Capcom World + Hatena no Daibouken (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877729,7 +877713,7 @@
       "gameInstances": [
         {
           "name": "Nemurenu Yoru no Chiisana Ohanashi (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877743,7 +877727,7 @@
       "gameInstances": [
         {
           "name": "God Panic - Shijou Saikyou no Gundan (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877757,7 +877741,7 @@
       "gameInstances": [
         {
           "name": "Horror Story (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877771,7 +877755,7 @@
       "gameInstances": [
         {
           "name": "Loom (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877779,7 +877763,7 @@
         },
         {
           "name": "Loom (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -877793,7 +877777,7 @@
       "gameInstances": [
         {
           "name": "Zan - Kagerou no Toki (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877807,7 +877791,7 @@
       "gameInstances": [
         {
           "name": "Mahjong Lemon Angel (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877821,7 +877805,7 @@
       "gameInstances": [
         {
           "name": "Sexy Idol Mahjong - Fashion Monogatari (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877835,7 +877819,7 @@
       "gameInstances": [
         {
           "name": "Sexy Idol Mahjong - Yakyuuken no Uta (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877849,7 +877833,7 @@
       "gameInstances": [
         {
           "name": "Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsu-hen (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877863,7 +877847,7 @@
       "gameInstances": [
         {
           "name": "Jantei Monogatari (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877877,7 +877861,7 @@
       "gameInstances": [
         {
           "name": "Jantei Monogatari 3 - Saver Angels (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877891,7 +877875,7 @@
       "gameInstances": [
         {
           "name": "Super Real Mahjong Special - Miki Kasumi Shouko no Omoide yori (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877905,7 +877889,7 @@
       "gameInstances": [
         {
           "name": "Super Real Mahjong PII-III Custom (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877919,7 +877903,7 @@
       "gameInstances": [
         {
           "name": "Super Real Mahjong PIV Custom (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877933,7 +877917,7 @@
       "gameInstances": [
         {
           "name": "Super Real Mahjong P.V Custom (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877947,7 +877931,7 @@
       "gameInstances": [
         {
           "name": "Kiaidan 00 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877961,7 +877945,7 @@
       "gameInstances": [
         {
           "name": "Tengai Makyou - Deden no Den (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877975,7 +877959,7 @@
       "gameInstances": [
         {
           "name": "Kuusou Kagaku Sekai Gulliver Boy (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -877989,7 +877973,7 @@
       "gameInstances": [
         {
           "name": "In Magical Adventure - Fray CD - Xak Gaiden (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878003,7 +877987,7 @@
       "gameInstances": [
         {
           "name": "Godzilla Bakutou Retsuden (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878017,7 +878001,7 @@
       "gameInstances": [
         {
           "name": "Fiend Hunter (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878031,7 +878015,7 @@
       "gameInstances": [
         {
           "name": "Kisou Louga (Japan) (FABT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878039,7 +878023,7 @@
         },
         {
           "name": "Kisou Louga (Japan) (Demo)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878053,7 +878037,7 @@
       "gameInstances": [
         {
           "name": "Kisou Louga II - The Ends of Shangrila (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878067,7 +878051,7 @@
       "gameInstances": [
         {
           "name": "Gulclight TDF 2 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878081,7 +878065,7 @@
       "gameInstances": [
         {
           "name": "Nobunaga no Yabou - Zenkokuban (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878095,7 +878079,7 @@
       "gameInstances": [
         {
           "name": "Sangokushi - Eiketsu Tenka ni Nozomu (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878109,7 +878093,7 @@
       "gameInstances": [
         {
           "name": "Yokoyama Mitsuteru Shin Sangokushi - Tenka wa Ware ni (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878123,7 +878107,7 @@
       "gameInstances": [
         {
           "name": "3x3 Eyes - Sanjiyan Henjou (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878131,7 +878115,7 @@
         },
         {
           "name": "3x3 Eyes - Sanjiyan Henjou (Japan) (Rev 1)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878145,7 +878129,7 @@
       "gameInstances": [
         {
           "name": "CD Mahjong - Bishoujo Chuushinha (Japan) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878159,7 +878143,7 @@
       "gameInstances": [
         {
           "name": "AV Tanjou (Japan) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878167,7 +878151,7 @@
         },
         {
           "name": "AV Tanjou (Japan) (Unl) (Alt 1)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878175,7 +878159,7 @@
         },
         {
           "name": "AV Tanjou (Japan) (Unl) (Alt 2)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878189,7 +878173,7 @@
       "gameInstances": [
         {
           "name": "Cosmic Fantasy 4 - Ginga Shounen Densetsu - Totsunyuu-hen (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878203,7 +878187,7 @@
       "gameInstances": [
         {
           "name": "Cosmic Fantasy 4 - Ginga Shounen Densetsu - Gekitou-hen (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878217,7 +878201,7 @@
       "gameInstances": [
         {
           "name": "Urusei Yatsura - Stay with You (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878231,7 +878215,7 @@
       "gameInstances": [
         {
           "name": "Makai Eiyuuden - Shape Shifter (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878245,7 +878229,7 @@
       "gameInstances": [
         {
           "name": "Martial Champion (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878259,7 +878243,7 @@
       "gameInstances": [
         {
           "name": "Nobunaga no Yabou - Bushou Fuuunroku (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878273,7 +878257,7 @@
       "gameInstances": [
         {
           "name": "CD Pachi-Slot - Bishoujo Gambler (Japan) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878287,7 +878271,7 @@
       "gameInstances": [
         {
           "name": "Shin Onryou Senki (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878301,7 +878285,7 @@
       "gameInstances": [
         {
           "name": "Duo Comic - Bakuretsu Hunter (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878315,7 +878299,7 @@
       "gameInstances": [
         {
           "name": "Psychic Detective Series Vol. 4 - Orgel (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878329,7 +878313,7 @@
       "gameInstances": [
         {
           "name": "Wonder Boy III - Monster Lair (Japan) (Rev 3)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878337,7 +878321,7 @@
         },
         {
           "name": "Wonder Boy III - Monster Lair (Japan) (Rev 4)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878351,7 +878335,7 @@
       "gameInstances": [
         {
           "name": "Farjius no Jakoutei - Neo Metal Fantasy (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878359,7 +878343,7 @@
         },
         {
           "name": "Farjius no Jakoutei - Neo Metal Fantasy (Japan) (Rev 1)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878373,7 +878357,7 @@
       "gameInstances": [
         {
           "name": "Color Wars (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878387,7 +878371,7 @@
       "gameInstances": [
         {
           "name": "Bakuden - Unbalance Zone (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878401,7 +878385,7 @@
       "gameInstances": [
         {
           "name": "Go! Go! Birdie Chance (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878415,7 +878399,7 @@
       "gameInstances": [
         {
           "name": "Rayxanber III (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878429,7 +878413,7 @@
       "gameInstances": [
         {
           "name": "Nekketsu Legend - Baseballer (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878443,7 +878427,7 @@
       "gameInstances": [
         {
           "name": "Kawa no Nushitsuri - Shizen-ha (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878457,7 +878441,7 @@
       "gameInstances": [
         {
           "name": "Yuu Yuu Hakusho - Yami Shoubu!! Ankoku Bujutsu-kai (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878471,7 +878455,7 @@
       "gameInstances": [
         {
           "name": "Legion (Japan) (Rev 4)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878479,7 +878463,7 @@
         },
         {
           "name": "Legion (Japan) (Rev 4) (Alt)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878493,7 +878477,7 @@
       "gameInstances": [
         {
           "name": "Brandish (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878507,7 +878491,7 @@
       "gameInstances": [
         {
           "name": "Solid Force (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878521,7 +878505,7 @@
       "gameInstances": [
         {
           "name": "Mahjong on the Beach (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878535,7 +878519,7 @@
       "gameInstances": [
         {
           "name": "Formation Soccer 95 della Serie A (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878549,7 +878533,7 @@
       "gameInstances": [
         {
           "name": "Metal Angel 2 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878563,7 +878547,7 @@
       "gameInstances": [
         {
           "name": "Laser Soft Visual Collection Vol. 1 - Cosmic Fantasy Visual-shuu (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878577,7 +878561,7 @@
       "gameInstances": [
         {
           "name": "Tadaima Yuusha Boshuu-chuu (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878591,7 +878575,7 @@
       "gameInstances": [
         {
           "name": "Quiz Avenue III (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878605,7 +878589,7 @@
       "gameInstances": [
         {
           "name": "Yami no Ketsuzoku - Harukanaru Kioku (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878619,7 +878603,7 @@
       "gameInstances": [
         {
           "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878633,7 +878617,7 @@
       "gameInstances": [
         {
           "name": "Sword Master (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878647,7 +878631,7 @@
       "gameInstances": [
         {
           "name": "Pro Yakyuu Super '94, The (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878661,7 +878645,7 @@
       "gameInstances": [
         {
           "name": "PC Engine Fan - Special CD-ROM^2 Vol. 1 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878675,7 +878659,7 @@
       "gameInstances": [
         {
           "name": "PC Engine Hyper Catalog CD-ROM (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878689,7 +878673,7 @@
       "gameInstances": [
         {
           "name": "PC Engine Hyper Catalog CD-ROM 2 - 1993 Spring (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878703,7 +878687,7 @@
       "gameInstances": [
         {
           "name": "PC Engine Hyper Catalog CD-ROM 3 - 1993 Summer (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878717,7 +878701,7 @@
       "gameInstances": [
         {
           "name": "PC Engine Hyper Catalog CD-ROM 4 - 1993 Winter (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878731,7 +878715,7 @@
       "gameInstances": [
         {
           "name": "PC Engine Hyper Catalog CD-ROM 5 - 1994 Spring (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878745,7 +878729,7 @@
       "gameInstances": [
         {
           "name": "PC Engine Hyper Catalog CD-ROM 6 - 1994 Summer (Japan) (Disc A)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878753,7 +878737,7 @@
         },
         {
           "name": "PC Engine Hyper Catalog CD-ROM 6 - 1994 Summer (Japan) (Disc B)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878767,7 +878751,7 @@
       "gameInstances": [
         {
           "name": "Space Invaders - The Original Game (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878781,7 +878765,7 @@
       "gameInstances": [
         {
           "name": "Mamono Hunter Youko - Makai kara no Tenkousei (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878795,7 +878779,7 @@
       "gameInstances": [
         {
           "name": "Mamono Hunter Youko - Tooki Yobigoe (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878809,7 +878793,7 @@
       "gameInstances": [
         {
           "name": "Eiyuu Sangokushi (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878823,7 +878807,7 @@
       "gameInstances": [
         {
           "name": "Wrestling Universe - Fire Pro Joshi - Dome Choujo Taisen - Zenjo vs. JWP (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878837,7 +878821,7 @@
       "gameInstances": [
         {
           "name": "Ultra Box Soukangou (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878851,7 +878835,7 @@
       "gameInstances": [
         {
           "name": "Ultra Box 2-gou (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878865,7 +878849,7 @@
       "gameInstances": [
         {
           "name": "Ultra Box 5-gou (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878879,7 +878863,7 @@
       "gameInstances": [
         {
           "name": "ROM^2 Karaoke Volume 1 (Japan) (Alt)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878887,7 +878871,7 @@
         },
         {
           "name": "ROM^2 Karaoke Volume 1 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878901,7 +878885,7 @@
       "gameInstances": [
         {
           "name": "ROM^2 Karaoke Volume 2 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878915,7 +878899,7 @@
       "gameInstances": [
         {
           "name": "ROM^2 Karaoke Volume 3 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878929,7 +878913,7 @@
       "gameInstances": [
         {
           "name": "Alshark (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878943,7 +878927,7 @@
       "gameInstances": [
         {
           "name": "Downtown Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878957,7 +878941,7 @@
       "gameInstances": [
         {
           "name": "GS (Ghost Sweeper) Mikami (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878971,7 +878955,7 @@
       "gameInstances": [
         {
           "name": "Sol Moonarge (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878985,7 +878969,7 @@
       "gameInstances": [
         {
           "name": "Faussete Amour (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -878999,7 +878983,7 @@
       "gameInstances": [
         {
           "name": "Summer Carnival '93 - NEXZR Special (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879013,7 +878997,7 @@
       "gameInstances": [
         {
           "name": "Police Connection (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879027,7 +879011,7 @@
       "gameInstances": [
         {
           "name": "ROM^2 Karaoke Vol. 1 - Suteki ni Standard (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879041,7 +879025,7 @@
       "gameInstances": [
         {
           "name": "ROM^2 Karaoke Vol. 2 - Nattoku Idol (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879055,7 +879039,7 @@
       "gameInstances": [
         {
           "name": "ROM^2 Karaoke Vol. 3 - Yappashi Band (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879069,7 +879053,7 @@
       "gameInstances": [
         {
           "name": "ROM^2 Karaoke Vol. 4 - Choito Otona! (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879083,7 +879067,7 @@
       "gameInstances": [
         {
           "name": "ROM^2 Karaoke Vol. 5 - Karaoke Maku no Uchi (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879097,7 +879081,7 @@
       "gameInstances": [
         {
           "name": "Hawk F-123 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879109,14 +879093,6 @@
     {
       "name": "BOMBERMAN '94",
       "gameInstances": [
-        {
-          "name": "Bomberman '94 (Japan) (Demo)",
-          "platform": "pcengine",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40527-1"
-        },
         {
           "name": "Bomberman '94 (Japan)",
           "platform": "pcengine",
@@ -879133,7 +879109,7 @@
       "gameInstances": [
         {
           "name": "Ruin - Kami no Isan (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879147,7 +879123,7 @@
       "gameInstances": [
         {
           "name": "CD Hanafuda - Bishoujo Fan Club (Japan) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879161,7 +879137,7 @@
       "gameInstances": [
         {
           "name": "Pyramid Plunder (USA) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879175,7 +879151,7 @@
       "gameInstances": [
         {
           "name": "Mysterious Song (USA) (En,Fr,Es) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En,Fr,Es]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879183,7 +879159,7 @@
         },
         {
           "name": "Mysterious Song (USA) (En,Fr,Es) (Unl) (Rerelease)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En,Fr,Es]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879197,7 +879173,7 @@
       "gameInstances": [
         {
           "name": "Revival Chase (USA) (En,Fr) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En,Fr]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879211,7 +879187,7 @@
       "gameInstances": [
         {
           "name": "Develo Magazine Vol. 1 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879225,7 +879201,7 @@
       "gameInstances": [
         {
           "name": "Todd's Adventures in Slime World (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879239,7 +879215,7 @@
       "gameInstances": [
         {
           "name": "Wrestle Angels - Double Impact (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879253,7 +879229,7 @@
       "gameInstances": [
         {
           "name": "Pop'n Magic (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879267,7 +879243,7 @@
       "gameInstances": [
         {
           "name": "Splash Lake (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879281,7 +879257,7 @@
       "gameInstances": [
         {
           "name": "Star Mobile (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879295,7 +879271,7 @@
       "gameInstances": [
         {
           "name": "Jim Power in Mutant Planet (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879303,7 +879279,7 @@
         },
         {
           "name": "Jim Power in Mutant Planet (USA) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879317,7 +879293,7 @@
       "gameInstances": [
         {
           "name": "Flash Hiders (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879331,7 +879307,7 @@
       "gameInstances": [
         {
           "name": "Motoroader MC (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879345,7 +879321,7 @@
       "gameInstances": [
         {
           "name": "Mahjong Clinic Special (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879359,7 +879335,7 @@
       "gameInstances": [
         {
           "name": "Gensou Tairiku Auleria (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879373,7 +879349,7 @@
       "gameInstances": [
         {
           "name": "Basted (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879387,7 +879363,7 @@
       "gameInstances": [
         {
           "name": "Chiki Chiki Boys (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879401,7 +879377,7 @@
       "gameInstances": [
         {
           "name": "Sylphia (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879415,7 +879391,7 @@
       "gameInstances": [
         {
           "name": "Kabuki Ittouryoudan (Japan) (FAAT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879423,7 +879399,7 @@
         },
         {
           "name": "Kabuki Ittouryoudan (Japan) (FABT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879437,7 +879413,7 @@
       "gameInstances": [
         {
           "name": "Asuka 120% Maxima - Burning Fest. Maxima (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879451,7 +879427,7 @@
       "gameInstances": [
         {
           "name": "Kakutou Haou Densetsu - Algunos (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879465,7 +879441,7 @@
       "gameInstances": [
         {
           "name": "Steam-Heart's (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879479,7 +879455,7 @@
       "gameInstances": [
         {
           "name": "ROM^2 Karaoke Volume 4 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879493,7 +879469,7 @@
       "gameInstances": [
         {
           "name": "Virgin Dream (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879507,7 +879483,7 @@
       "gameInstances": [
         {
           "name": "Seiya Monogatari - Anearth Fantasy Stories (Japan) (Demo)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879515,7 +879491,7 @@
         },
         {
           "name": "Seiya Monogatari - Anearth Fantasy Stories (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879529,7 +879505,7 @@
       "gameInstances": [
         {
           "name": "PC Engine Hyper Catalog CD-ROM - 1994 Summer (Japan) (Disc A)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879537,7 +879513,7 @@
         },
         {
           "name": "PC Engine Hyper Catalog CD-ROM - 1994 Summer (Japan) (Disc B)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879551,7 +879527,7 @@
       "gameInstances": [
         {
           "name": "Hellfire S - The Another Story (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879565,7 +879541,7 @@
       "gameInstances": [
         {
           "name": "Exile - Wicked Phenomenon (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879579,7 +879555,7 @@
       "gameInstances": [
         {
           "name": "Mad Stalker - Full Metal Force (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879587,7 +879563,7 @@
         },
         {
           "name": "Mad Stalker - Full Metal Force (Japan) (Demo)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879601,7 +879577,7 @@
       "gameInstances": [
         {
           "name": "Chou Aniki (Japan) (FAAT, FACT)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879615,7 +879591,7 @@
       "gameInstances": [
         {
           "name": "Exile (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879629,7 +879605,7 @@
       "gameInstances": [
         {
           "name": "Cosmic Fantasy 2 (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879643,7 +879619,7 @@
       "gameInstances": [
         {
           "name": "Monster Lair (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879657,7 +879633,7 @@
       "gameInstances": [
         {
           "name": "Addams Family, The (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879671,7 +879647,7 @@
       "gameInstances": [
         {
           "name": "Magical Dinosaur Tour (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879685,7 +879661,7 @@
       "gameInstances": [
         {
           "name": "Bazar de Gozarre no Game de Gozarre (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879713,7 +879689,7 @@
       "gameInstances": [
         {
           "name": "Develo - Starter Kit - Assembler-hen (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879727,7 +879703,7 @@
       "gameInstances": [
         {
           "name": "Develo - Starter Kit - BASIC-hen (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879741,7 +879717,7 @@
       "gameInstances": [
         {
           "name": "Beyond Shadowgate (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879755,7 +879731,7 @@
       "gameInstances": [
         {
           "name": "Bonk III - Bonk's Big Adventure (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879769,7 +879745,7 @@
       "gameInstances": [
         {
           "name": "Camp California (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879783,7 +879759,7 @@
       "gameInstances": [
         {
           "name": "Godzilla (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879797,7 +879773,7 @@
       "gameInstances": [
         {
           "name": "It Came from the Desert (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879811,7 +879787,7 @@
       "gameInstances": [
         {
           "name": "J. B. Harold Murder Club (USA) (En,Ja)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En,Ja]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879825,7 +879801,7 @@
       "gameInstances": [
         {
           "name": "Jack Nicklaus Turbo Golf (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879839,7 +879815,7 @@
       "gameInstances": [
         {
           "name": "John Madden Duo CD Football (USA) (RE)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879853,7 +879829,7 @@
       "gameInstances": [
         {
           "name": "Last Alert (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879867,7 +879843,7 @@
       "gameInstances": [
         {
           "name": "Lords of the Rising Sun (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879881,7 +879857,7 @@
       "gameInstances": [
         {
           "name": "Riot Zone (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879895,7 +879871,7 @@
       "gameInstances": [
         {
           "name": "Shadow of the Beast (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879909,7 +879885,7 @@
       "gameInstances": [
         {
           "name": "Shape Shifter (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879923,7 +879899,7 @@
       "gameInstances": [
         {
           "name": "Super Air Zonk - Rockabilly-Paradise (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879937,7 +879913,7 @@
       "gameInstances": [
         {
           "name": "SydMead's TerraForming (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879951,7 +879927,7 @@
       "gameInstances": [
         {
           "name": "Dynastic Hero, The (USA)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879965,7 +879941,7 @@
       "gameInstances": [
         {
           "name": "Local Girls of Hawaii, The (USA) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -879979,7 +879955,7 @@
       "gameInstances": [
         {
           "name": "Summer Carnival '92 - Alzadick (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -879993,7 +879969,7 @@
       "gameInstances": [
         {
           "name": "Hyper Dyne - SideArms Special (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880001,7 +879977,7 @@
         },
         {
           "name": "Hyper Dyne - SideArms Special (Japan) (Alt)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880015,7 +879991,7 @@
       "gameInstances": [
         {
           "name": "Galaxy Deka Gayvan (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880029,7 +880005,7 @@
       "gameInstances": [
         {
           "name": "Tenchi o Kurau (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880043,7 +880019,7 @@
       "gameInstances": [
         {
           "name": "Implode (USA) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -880057,7 +880033,7 @@
       "gameInstances": [
         {
           "name": "Meteor Blaster DX (USA) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -880065,7 +880041,7 @@
         },
         {
           "name": "Meteor Blaster DX (USA) (Unl) (Rerelease)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -880073,7 +880049,7 @@
         },
         {
           "name": "Meteor Blaster DX (USA) (Unl) (Alt)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -880087,7 +880063,7 @@
       "gameInstances": [
         {
           "name": "Hypernova Blast (USA) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -880101,7 +880077,7 @@
       "gameInstances": [
         {
           "name": "Dragon Knight & Graffiti (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880115,7 +880091,7 @@
       "gameInstances": [
         {
           "name": "Hawiian Island Girls (USA) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -880129,7 +880105,7 @@
       "gameInstances": [
         {
           "name": "TV Show, The (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880143,7 +880119,7 @@
       "gameInstances": [
         {
           "name": "PopfulMail (Japan) (Demo)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880151,7 +880127,7 @@
         },
         {
           "name": "PopfulMail (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880165,7 +880141,7 @@
       "gameInstances": [
         {
           "name": "Strider Hiryuu (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880179,7 +880155,7 @@
       "gameInstances": [
         {
           "name": "Laser Soft Visual Collection Vol. 2 - Valis Visual-shuu (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880193,7 +880169,7 @@
       "gameInstances": [
         {
           "name": "Spriggan Mark 2 - Re Terraform Project (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880207,7 +880183,7 @@
       "gameInstances": [
         {
           "name": "Downtown Nekketsu Monogatari (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880221,7 +880197,7 @@
       "gameInstances": [
         {
           "name": "Kaze Kiri - Ninja Action (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880235,7 +880211,7 @@
       "gameInstances": [
         {
           "name": "Renny Blaster (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880249,7 +880225,7 @@
       "gameInstances": [
         {
           "name": "ROM^2 Karaoke Volume 5 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880263,7 +880239,7 @@
       "gameInstances": [
         {
           "name": "Shougi Database Kiyuu (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880277,7 +880253,7 @@
       "gameInstances": [
         {
           "name": "Dead of the Brain 1&2 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880291,7 +880267,7 @@
       "gameInstances": [
         {
           "name": "Baby Jo - The Super Hero (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880305,7 +880281,7 @@
       "gameInstances": [
         {
           "name": "Chou Eiyuu Densetsu - Dynastic Hero (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880319,7 +880295,7 @@
       "gameInstances": [
         {
           "name": "Daisenpuu Custom (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880333,7 +880309,7 @@
       "gameInstances": [
         {
           "name": "Down Load 2 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880347,7 +880323,7 @@
       "gameInstances": [
         {
           "name": "Hihou Densetsu - Chris no Bouken (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880361,7 +880337,7 @@
       "gameInstances": [
         {
           "name": "Lemmings (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880375,7 +880351,7 @@
       "gameInstances": [
         {
           "name": "Mahjong Sword - Princess Quest Gaiden (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880389,7 +880365,7 @@
       "gameInstances": [
         {
           "name": "Metamor Jupiter (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880403,7 +880379,7 @@
       "gameInstances": [
         {
           "name": "Mystic Formula (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880417,7 +880393,7 @@
       "gameInstances": [
         {
           "name": "Rainbow Islands - The Story of Bubble Bobble 2 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880431,7 +880407,7 @@
       "gameInstances": [
         {
           "name": "Seisenshi Denshou - Jantaku no Kishi (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880445,7 +880421,7 @@
       "gameInstances": [
         {
           "name": "Gain Ground SX (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880459,7 +880435,7 @@
       "gameInstances": [
         {
           "name": "Slot Gambler (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880473,7 +880449,7 @@
       "gameInstances": [
         {
           "name": "Super Darius II (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880487,7 +880463,7 @@
       "gameInstances": [
         {
           "name": "Super Raiden (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880501,7 +880477,7 @@
       "gameInstances": [
         {
           "name": "TerraForming (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880515,7 +880491,7 @@
       "gameInstances": [
         {
           "name": "Travellers! Densetsu o Buttobase (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880529,7 +880505,7 @@
       "gameInstances": [
         {
           "name": "Zero Wing (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880543,7 +880519,7 @@
       "gameInstances": [
         {
           "name": "Bishoujo Janshi Idol Pai (Japan) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880557,7 +880533,7 @@
       "gameInstances": [
         {
           "name": "CD Bishoujo Pachinko - Kyuuma Yon Shimai (Japan) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880571,7 +880547,7 @@
       "gameInstances": [
         {
           "name": "FX Unit Yuki - The Henshin Engine (USA) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -880579,7 +880555,7 @@
         },
         {
           "name": "FX Unit Yuki - The Henshin Engine (USA) (Unl) (Demo)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -880593,7 +880569,7 @@
       "gameInstances": [
         {
           "name": "Super-CD-Demo^2 (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880607,7 +880583,7 @@
       "gameInstances": [
         {
           "name": "Henshin Engine (USA) (Demo) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -880621,7 +880597,7 @@
       "gameInstances": [
         {
           "name": "Insanity (USA) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -880635,7 +880611,7 @@
       "gameInstances": [
         {
           "name": "Hi-Leg Fantasy (Japan) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880649,7 +880625,7 @@
       "gameInstances": [
         {
           "name": "J-Thunder - Tsumetai Hada wa Shoujo o Nurasu (Japan) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880663,7 +880639,7 @@
       "gameInstances": [
         {
           "name": "Shiawase Usagi - Nureta Bishoujo - Hajimete Nanoni... (Japan) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880677,7 +880653,7 @@
       "gameInstances": [
         {
           "name": "Shiawase Usagi II - Toraware Usagi Sailor Z (Japan) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880691,7 +880667,7 @@
       "gameInstances": [
         {
           "name": "Shinsetsu Shiawase Usagi (Japan) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880705,7 +880681,7 @@
       "gameInstances": [
         {
           "name": "Shinsetsu Shiawase Usagi f - Yuujou yorimo Aiyoku (Japan) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880719,7 +880695,7 @@
       "gameInstances": [
         {
           "name": "Bikini Girls (USA) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -880733,7 +880709,7 @@
       "gameInstances": [
         {
           "name": "Jessie Jaeger in Cleopatra's Curse (World) (Unl)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
@@ -880747,7 +880723,7 @@
       "gameInstances": [
         {
           "name": "Akiyama Jin no Suugaku Mystery - Hihou India no Honoo o Shishu Seyo! (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -880761,7 +880737,7 @@
       "gameInstances": [
         {
           "name": "Kid's Station Vol. 2 - Atchi Kotchi Dotchi (Japan)",
-          "platform": "pcengine",
+          "platform": "pcenginecd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
@@ -930417,6 +930393,42 @@
         }
       ],
       "id": 43295
+    },
+    {
+      "name": "JUUOUKI",
+      "gameInstances": [
+        {
+          "name": "Juuouki (Japan) (Rev 4)",
+          "platform": "pcenginecd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "43296-1"
+        },
+        {
+          "name": "Juuouki (Japan) (Rev 5)",
+          "platform": "pcenginecd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "43296-2"
+        }
+      ],
+      "id": 43296
+    },
+    {
+      "name": "BOMBERMAN '94",
+      "gameInstances": [
+        {
+          "name": "Bomberman '94 (Japan) (Demo)",
+          "platform": "pcenginecd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "43297-1"
+        }
+      ],
+      "id": 43297
     }
   ]
 }
