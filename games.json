@@ -886091,6 +886091,7142 @@
         }
       ],
       "id": 40994
+    },
+    {
+      "name": "10-YARD FIGHT",
+      "gameInstances": [
+        {
+          "name": "10-Yard Fight (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "40995-1"
+        }
+      ],
+      "id": 40995
+    },
+    {
+      "name": "1942",
+      "gameInstances": [
+        {
+          "name": "1942 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "40996-1"
+        }
+      ],
+      "id": 40996
+    },
+    {
+      "name": "3-D GOLF SIMULATION",
+      "gameInstances": [
+        {
+          "name": "3-D Golf Simulation (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "40997-1"
+        },
+        {
+          "name": "3-D Golf Simulation (Japan) (High Speed)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "40997-2"
+        }
+      ],
+      "id": 40997
+    },
+    {
+      "name": "3D TENNIS",
+      "gameInstances": [
+        {
+          "name": "3D Tennis (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "40998-1"
+        }
+      ],
+      "id": 40998
+    },
+    {
+      "name": "A.E.",
+      "gameInstances": [
+        {
+          "name": "A.E. (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "40999-1"
+        }
+      ],
+      "id": 40999
+    },
+    {
+      "name": "A1 SPIRIT - THE WAY TO FORMULA-1",
+      "gameInstances": [
+        {
+          "name": "A1 Spirit - The Way to Formula-1 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41000-1"
+        }
+      ],
+      "id": 41000
+    },
+    {
+      "name": "ACTMAN",
+      "gameInstances": [
+        {
+          "name": "Actman (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41001-1"
+        }
+      ],
+      "id": 41001
+    },
+    {
+      "name": "ADVEN' CHUTA!",
+      "gameInstances": [
+        {
+          "name": "Adven' Chuta! (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41002-1"
+        }
+      ],
+      "id": 41002
+    },
+    {
+      "name": "ALBATROS",
+      "gameInstances": [
+        {
+          "name": "Albatros (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41003-1"
+        }
+      ],
+      "id": 41003
+    },
+    {
+      "name": "ALCAZAR - THE FORGOTTEN FORTRESS",
+      "gameInstances": [
+        {
+          "name": "Alcazar - The Forgotten Fortress (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41004-1"
+        }
+      ],
+      "id": 41004
+    },
+    {
+      "name": "ALIBABA AND 40 THIEVES",
+      "gameInstances": [
+        {
+          "name": "Alibaba and 40 Thieves (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41005-1"
+        }
+      ],
+      "id": 41005
+    },
+    {
+      "name": "ALIEN 8",
+      "gameInstances": [
+        {
+          "name": "Alien 8 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41006-1"
+        }
+      ],
+      "id": 41006
+    },
+    {
+      "name": "ALIENS - ALIEN 2",
+      "gameInstances": [
+        {
+          "name": "Aliens - Alien 2 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41007-1"
+        }
+      ],
+      "id": 41007
+    },
+    {
+      "name": "ALPHA ROID",
+      "gameInstances": [
+        {
+          "name": "Alpha Roid (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41008-1"
+        }
+      ],
+      "id": 41008
+    },
+    {
+      "name": "ALPHA SQUADRON",
+      "gameInstances": [
+        {
+          "name": "Alpha Squadron (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41009-1"
+        }
+      ],
+      "id": 41009
+    },
+    {
+      "name": "AMERICAN TRUCK",
+      "gameInstances": [
+        {
+          "name": "American Truck (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41010-1"
+        }
+      ],
+      "id": 41010
+    },
+    {
+      "name": "ANAZA - KALEIDOSCOPE SPECIAL",
+      "gameInstances": [
+        {
+          "name": "Anaza - Kaleidoscope Special (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41011-1"
+        }
+      ],
+      "id": 41011
+    },
+    {
+      "name": "ANGELO",
+      "gameInstances": [
+        {
+          "name": "Angelo (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41012-1"
+        }
+      ],
+      "id": 41012
+    },
+    {
+      "name": "ANIMAL LAND",
+      "gameInstances": [
+        {
+          "name": "Animal Land (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41013-1"
+        }
+      ],
+      "id": 41013
+    },
+    {
+      "name": "ANTY",
+      "gameInstances": [
+        {
+          "name": "Anty (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41014-1"
+        }
+      ],
+      "id": 41014
+    },
+    {
+      "name": "AQUA POLIS SOS",
+      "gameInstances": [
+        {
+          "name": "Aqua Polis SOS (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41015-1"
+        }
+      ],
+      "id": 41015
+    },
+    {
+      "name": "AQUATTACK",
+      "gameInstances": [
+        {
+          "name": "Aquattack (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41016-1"
+        }
+      ],
+      "id": 41016
+    },
+    {
+      "name": "ARAMO",
+      "gameInstances": [
+        {
+          "name": "Aramo (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41017-1"
+        }
+      ],
+      "id": 41017
+    },
+    {
+      "name": "ARKANOID",
+      "gameInstances": [
+        {
+          "name": "Arkanoid (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41018-1"
+        }
+      ],
+      "id": 41018
+    },
+    {
+      "name": "ATHLETIC BALL",
+      "gameInstances": [
+        {
+          "name": "Athletic Ball (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41019-1"
+        }
+      ],
+      "id": 41019
+    },
+    {
+      "name": "ATHLETIC LAND",
+      "gameInstances": [
+        {
+          "name": "Athletic Land (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41020-1"
+        }
+      ],
+      "id": 41020
+    },
+    {
+      "name": "ATTACK FOUR VOLLEY BALL",
+      "gameInstances": [
+        {
+          "name": "Attack Four Volley Ball (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41021-1"
+        }
+      ],
+      "id": 41021
+    },
+    {
+      "name": "B.C.'S QUEST",
+      "gameInstances": [
+        {
+          "name": "B.C.'s Quest (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41022-1"
+        }
+      ],
+      "id": 41022
+    },
+    {
+      "name": "BACK GAMMON",
+      "gameInstances": [
+        {
+          "name": "Back Gammon (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41023-1"
+        }
+      ],
+      "id": 41023
+    },
+    {
+      "name": "BACK TO THE FUTURE",
+      "gameInstances": [
+        {
+          "name": "Back to the Future (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41024-1"
+        }
+      ],
+      "id": 41024
+    },
+    {
+      "name": "BALANCE",
+      "gameInstances": [
+        {
+          "name": "Balance (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41025-1"
+        }
+      ],
+      "id": 41025
+    },
+    {
+      "name": "BANANA",
+      "gameInstances": [
+        {
+          "name": "Banana (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41026-1"
+        }
+      ],
+      "id": 41026
+    },
+    {
+      "name": "BANK PANIC",
+      "gameInstances": [
+        {
+          "name": "Bank Panic (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41027-1"
+        }
+      ],
+      "id": 41027
+    },
+    {
+      "name": "BASIC LESSONS 1",
+      "gameInstances": [
+        {
+          "name": "Basic Lessons 1 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41028-1"
+        }
+      ],
+      "id": 41028
+    },
+    {
+      "name": "BASIC LESSONS 2",
+      "gameInstances": [
+        {
+          "name": "Basic Lessons 2 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41029-1"
+        }
+      ],
+      "id": 41029
+    },
+    {
+      "name": "BATMAN",
+      "gameInstances": [
+        {
+          "name": "Batman (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41030-1"
+        }
+      ],
+      "id": 41030
+    },
+    {
+      "name": "BATTEN TANUKI NO DAIBOUKEN",
+      "gameInstances": [
+        {
+          "name": "Batten Tanuki no Daibouken (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41031-1"
+        },
+        {
+          "name": "Batten Tanuki no Daibouken (Japan) (v1.03)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41031-2"
+        }
+      ],
+      "id": 41031
+    },
+    {
+      "name": "BATTLE CROSS",
+      "gameInstances": [
+        {
+          "name": "Battle Cross (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41032-1"
+        }
+      ],
+      "id": 41032
+    },
+    {
+      "name": "BATTLESHIP CLAPTON II",
+      "gameInstances": [
+        {
+          "name": "Battleship Clapton II (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41033-1"
+        }
+      ],
+      "id": 41033
+    },
+    {
+      "name": "BEAM RIDER",
+      "gameInstances": [
+        {
+          "name": "Beam Rider (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41034-1"
+        }
+      ],
+      "id": 41034
+    },
+    {
+      "name": "BECKY",
+      "gameInstances": [
+        {
+          "name": "Becky (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41035-1"
+        }
+      ],
+      "id": 41035
+    },
+    {
+      "name": "BEE & FLOWER",
+      "gameInstances": [
+        {
+          "name": "Bee & Flower (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41036-1"
+        }
+      ],
+      "id": 41036
+    },
+    {
+      "name": "BIFAMU",
+      "gameInstances": [
+        {
+          "name": "Bifamu (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41037-1"
+        }
+      ],
+      "id": 41037
+    },
+    {
+      "name": "BINARY LAND",
+      "gameInstances": [
+        {
+          "name": "Binary Land (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41038-1"
+        }
+      ],
+      "id": 41038
+    },
+    {
+      "name": "BLACK ONYX II, THE - SEARCH FOR THE FIRE CRYSTAL",
+      "gameInstances": [
+        {
+          "name": "Black Onyx II, The - Search for the Fire Crystal (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41039-1"
+        }
+      ],
+      "id": 41039
+    },
+    {
+      "name": "BLACK ONYX, THE",
+      "gameInstances": [
+        {
+          "name": "Black Onyx, The (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41040-1"
+        }
+      ],
+      "id": 41040
+    },
+    {
+      "name": "BLOCKADE RUNNER",
+      "gameInstances": [
+        {
+          "name": "Blockade Runner (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41041-1"
+        }
+      ],
+      "id": 41041
+    },
+    {
+      "name": "BOGGY '84",
+      "gameInstances": [
+        {
+          "name": "Boggy '84 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41042-1"
+        }
+      ],
+      "id": 41042
+    },
+    {
+      "name": "BOKOSUKA WARS",
+      "gameInstances": [
+        {
+          "name": "Bokosuka Wars (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41043-1"
+        }
+      ],
+      "id": 41043
+    },
+    {
+      "name": "BOMBER KING",
+      "gameInstances": [
+        {
+          "name": "Bomber King (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41044-1"
+        }
+      ],
+      "id": 41044
+    },
+    {
+      "name": "BOMBERMAN",
+      "gameInstances": [
+        {
+          "name": "Bomberman (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41045-1"
+        }
+      ],
+      "id": 41045
+    },
+    {
+      "name": "BOMBERMAN SPECIAL",
+      "gameInstances": [
+        {
+          "name": "Bomberman Special (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41046-1"
+        }
+      ],
+      "id": 41046
+    },
+    {
+      "name": "BOOGIE WOOGI JUNGLE",
+      "gameInstances": [
+        {
+          "name": "Boogie Woogi Jungle (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41047-1"
+        }
+      ],
+      "id": 41047
+    },
+    {
+      "name": "BOOMERANG",
+      "gameInstances": [
+        {
+          "name": "Boomerang (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41048-1"
+        }
+      ],
+      "id": 41048
+    },
+    {
+      "name": "BORFESU",
+      "gameInstances": [
+        {
+          "name": "Borfesu (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41049-1"
+        }
+      ],
+      "id": 41049
+    },
+    {
+      "name": "BOSCONIAN",
+      "gameInstances": [
+        {
+          "name": "Bosconian (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41050-1"
+        }
+      ],
+      "id": 41050
+    },
+    {
+      "name": "BOUKEN ROMAN - DOTA",
+      "gameInstances": [
+        {
+          "name": "Bouken Roman - Dota (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41051-1"
+        }
+      ],
+      "id": 41051
+    },
+    {
+      "name": "BOULDER DASH",
+      "gameInstances": [
+        {
+          "name": "Boulder Dash (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41052-1"
+        }
+      ],
+      "id": 41052
+    },
+    {
+      "name": "BRAIN, THE",
+      "gameInstances": [
+        {
+          "name": "Brain, The (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41053-1"
+        }
+      ],
+      "id": 41053
+    },
+    {
+      "name": "BREAK IN",
+      "gameInstances": [
+        {
+          "name": "Break In (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41054-1"
+        }
+      ],
+      "id": 41054
+    },
+    {
+      "name": "BREAK OUT",
+      "gameInstances": [
+        {
+          "name": "Break Out (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41055-1"
+        }
+      ],
+      "id": 41055
+    },
+    {
+      "name": "BRUCE LEE",
+      "gameInstances": [
+        {
+          "name": "Bruce Lee (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41056-1"
+        }
+      ],
+      "id": 41056
+    },
+    {
+      "name": "BURGERTIME",
+      "gameInstances": [
+        {
+          "name": "Burgertime (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41057-1"
+        }
+      ],
+      "id": 41057
+    },
+    {
+      "name": "BURU TO MARTY KIKIIPPATSU - INSPECTEUR Z",
+      "gameInstances": [
+        {
+          "name": "Buru To Marty Kikiippatsu - Inspecteur Z (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41058-1"
+        }
+      ],
+      "id": 41058
+    },
+    {
+      "name": "BUTAM PANTS",
+      "gameInstances": [
+        {
+          "name": "Butam Pants (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41059-1"
+        }
+      ],
+      "id": 41059
+    },
+    {
+      "name": "C-SO!",
+      "gameInstances": [
+        {
+          "name": "C-So! (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41060-1"
+        }
+      ],
+      "id": 41060
+    },
+    {
+      "name": "CABBAGE PATCH KIDS",
+      "gameInstances": [
+        {
+          "name": "Cabbage Patch Kids (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41061-1"
+        }
+      ],
+      "id": 41061
+    },
+    {
+      "name": "CANDOO NINJA",
+      "gameInstances": [
+        {
+          "name": "Candoo Ninja (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41062-1"
+        }
+      ],
+      "id": 41062
+    },
+    {
+      "name": "CANNON BALL",
+      "gameInstances": [
+        {
+          "name": "Cannon Ball (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41063-1"
+        }
+      ],
+      "id": 41063
+    },
+    {
+      "name": "CANNON FIGHTER",
+      "gameInstances": [
+        {
+          "name": "Cannon Fighter (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41064-1"
+        }
+      ],
+      "id": 41064
+    },
+    {
+      "name": "CAPTAIN CHEF",
+      "gameInstances": [
+        {
+          "name": "Captain Chef (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41065-1"
+        }
+      ],
+      "id": 41065
+    },
+    {
+      "name": "CAR FIGHTER",
+      "gameInstances": [
+        {
+          "name": "Car Fighter (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41066-1"
+        }
+      ],
+      "id": 41066
+    },
+    {
+      "name": "CAR JAMBOREE",
+      "gameInstances": [
+        {
+          "name": "Car Jamboree (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41067-1"
+        }
+      ],
+      "id": 41067
+    },
+    {
+      "name": "CAR-RACE",
+      "gameInstances": [
+        {
+          "name": "Car-Race (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41068-1"
+        }
+      ],
+      "id": 41068
+    },
+    {
+      "name": "CASIO DAISHOGAI KEIBA - EXCITING JOCKEY",
+      "gameInstances": [
+        {
+          "name": "Casio Daishogai Keiba - Exciting Jockey (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41069-1"
+        }
+      ],
+      "id": 41069
+    },
+    {
+      "name": "CASIO PACHINKO-U.F.O.",
+      "gameInstances": [
+        {
+          "name": "Casio Pachinko-U.F.O. (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41070-1"
+        }
+      ],
+      "id": 41070
+    },
+    {
+      "name": "CASIO SKI COMMAND",
+      "gameInstances": [
+        {
+          "name": "Casio Ski Command (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41071-1"
+        }
+      ],
+      "id": 41071
+    },
+    {
+      "name": "CASIO WORLDOPEN",
+      "gameInstances": [
+        {
+          "name": "Casio Worldopen (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41072-1"
+        }
+      ],
+      "id": 41072
+    },
+    {
+      "name": "CASTLE EXCELLENT",
+      "gameInstances": [
+        {
+          "name": "Castle Excellent (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41073-1"
+        }
+      ],
+      "id": 41073
+    },
+    {
+      "name": "CASTLE, THE",
+      "gameInstances": [
+        {
+          "name": "Castle, The (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41074-1"
+        }
+      ],
+      "id": 41074
+    },
+    {
+      "name": "CHACK'N POP",
+      "gameInstances": [
+        {
+          "name": "Chack'n Pop (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41075-1"
+        }
+      ],
+      "id": 41075
+    },
+    {
+      "name": "CHALLENGE DERBY",
+      "gameInstances": [
+        {
+          "name": "Challenge Derby (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41076-1"
+        }
+      ],
+      "id": 41076
+    },
+    {
+      "name": "CHAMPION BOXING",
+      "gameInstances": [
+        {
+          "name": "Champion Boxing (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41077-1"
+        }
+      ],
+      "id": 41077
+    },
+    {
+      "name": "CHAMPION ICE HOCKEY",
+      "gameInstances": [
+        {
+          "name": "Champion Ice Hockey (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41078-1"
+        }
+      ],
+      "id": 41078
+    },
+    {
+      "name": "CHAMPION KENDOU",
+      "gameInstances": [
+        {
+          "name": "Champion Kendou (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41079-1"
+        }
+      ],
+      "id": 41079
+    },
+    {
+      "name": "CHAMPION PRO WRESTLING",
+      "gameInstances": [
+        {
+          "name": "Champion Pro Wrestling (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41080-1"
+        }
+      ],
+      "id": 41080
+    },
+    {
+      "name": "CHAMPION SOCCER",
+      "gameInstances": [
+        {
+          "name": "Champion Soccer (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41081-1"
+        }
+      ],
+      "id": 41081
+    },
+    {
+      "name": "CHAMPIONSHIP LODE RUNNER",
+      "gameInstances": [
+        {
+          "name": "Championship Lode Runner (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41082-1"
+        }
+      ],
+      "id": 41082
+    },
+    {
+      "name": "CHECKERS IN TANTAN TANUKI",
+      "gameInstances": [
+        {
+          "name": "Checkers in Tantan Tanuki (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41083-1"
+        }
+      ],
+      "id": 41083
+    },
+    {
+      "name": "CHESS",
+      "gameInstances": [
+        {
+          "name": "Chess (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41084-1"
+        }
+      ],
+      "id": 41084
+    },
+    {
+      "name": "CHOPLIFTER",
+      "gameInstances": [
+        {
+          "name": "Choplifter (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41085-1"
+        }
+      ],
+      "id": 41085
+    },
+    {
+      "name": "CHORO Q",
+      "gameInstances": [
+        {
+          "name": "Choro Q (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41086-1"
+        }
+      ],
+      "id": 41086
+    },
+    {
+      "name": "CHUGAKU HISSHU EIBUNPO 1",
+      "gameInstances": [
+        {
+          "name": "Chugaku Hisshu Eibunpo 1 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41087-1"
+        }
+      ],
+      "id": 41087
+    },
+    {
+      "name": "CITY CONNECTION",
+      "gameInstances": [
+        {
+          "name": "City Connection (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41088-1"
+        }
+      ],
+      "id": 41088
+    },
+    {
+      "name": "COASTER RACE",
+      "gameInstances": [
+        {
+          "name": "Coaster Race (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41089-1"
+        }
+      ],
+      "id": 41089
+    },
+    {
+      "name": "COLOR BALL",
+      "gameInstances": [
+        {
+          "name": "Color Ball (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41090-1"
+        }
+      ],
+      "id": 41090
+    },
+    {
+      "name": "COME ON! PICOT",
+      "gameInstances": [
+        {
+          "name": "Come On! Picot (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41091-1"
+        }
+      ],
+      "id": 41091
+    },
+    {
+      "name": "COMET TAIL",
+      "gameInstances": [
+        {
+          "name": "Comet Tail (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41092-1"
+        }
+      ],
+      "id": 41092
+    },
+    {
+      "name": "COMIC BAKERY",
+      "gameInstances": [
+        {
+          "name": "Comic Bakery (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41093-1"
+        }
+      ],
+      "id": 41093
+    },
+    {
+      "name": "COMPUTER BILLIARDS",
+      "gameInstances": [
+        {
+          "name": "Computer Billiards (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41094-1"
+        }
+      ],
+      "id": 41094
+    },
+    {
+      "name": "COMPUTER NYUUMON - COMPUTER LESSONS",
+      "gameInstances": [
+        {
+          "name": "Computer Nyuumon - Computer Lessons (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41095-1"
+        }
+      ],
+      "id": 41095
+    },
+    {
+      "name": "COMPUTER OTHELLO",
+      "gameInstances": [
+        {
+          "name": "Computer Othello (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41096-1"
+        }
+      ],
+      "id": 41096
+    },
+    {
+      "name": "COMPUTER PACHINKO",
+      "gameInstances": [
+        {
+          "name": "Computer Pachinko (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41097-1"
+        }
+      ],
+      "id": 41097
+    },
+    {
+      "name": "CON-DORI",
+      "gameInstances": [
+        {
+          "name": "Con-Dori (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41098-1"
+        }
+      ],
+      "id": 41098
+    },
+    {
+      "name": "COSMO",
+      "gameInstances": [
+        {
+          "name": "Cosmo (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41099-1"
+        }
+      ],
+      "id": 41099
+    },
+    {
+      "name": "COSMO-EXPLORER",
+      "gameInstances": [
+        {
+          "name": "Cosmo-Explorer (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41100-1"
+        }
+      ],
+      "id": 41100
+    },
+    {
+      "name": "COURAGEOUS PERSEUS",
+      "gameInstances": [
+        {
+          "name": "Courageous Perseus (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41101-1"
+        }
+      ],
+      "id": 41101
+    },
+    {
+      "name": "CRAZE",
+      "gameInstances": [
+        {
+          "name": "Craze (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41102-1"
+        }
+      ],
+      "id": 41102
+    },
+    {
+      "name": "CRAZY BULLET",
+      "gameInstances": [
+        {
+          "name": "Crazy Bullet (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41103-1"
+        }
+      ],
+      "id": 41103
+    },
+    {
+      "name": "CRAZY TRAIN",
+      "gameInstances": [
+        {
+          "name": "Crazy Train (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41104-1"
+        }
+      ],
+      "id": 41104
+    },
+    {
+      "name": "CROSS BLAIM",
+      "gameInstances": [
+        {
+          "name": "Cross Blaim (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41105-1"
+        }
+      ],
+      "id": 41105
+    },
+    {
+      "name": "CRUSADER",
+      "gameInstances": [
+        {
+          "name": "Crusader (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41106-1"
+        }
+      ],
+      "id": 41106
+    },
+    {
+      "name": "CUSTAR",
+      "gameInstances": [
+        {
+          "name": "Custar (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41107-1"
+        }
+      ],
+      "id": 41107
+    },
+    {
+      "name": "D-DAY",
+      "gameInstances": [
+        {
+          "name": "D-Day (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41108-1"
+        }
+      ],
+      "id": 41108
+    },
+    {
+      "name": "DAIDASSO",
+      "gameInstances": [
+        {
+          "name": "Daidasso (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41109-1"
+        }
+      ],
+      "id": 41109
+    },
+    {
+      "name": "DAIVA STORY 4 - ASURA'S BLOODFEUD",
+      "gameInstances": [
+        {
+          "name": "Daiva Story 4 - Asura's Bloodfeud (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41110-1"
+        }
+      ],
+      "id": 41110
+    },
+    {
+      "name": "DAM BUSTERS, THE",
+      "gameInstances": [
+        {
+          "name": "Dam Busters, The (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41111-1"
+        }
+      ],
+      "id": 41111
+    },
+    {
+      "name": "DANGER X4",
+      "gameInstances": [
+        {
+          "name": "Danger X4 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41112-1"
+        }
+      ],
+      "id": 41112
+    },
+    {
+      "name": "DAVID II",
+      "gameInstances": [
+        {
+          "name": "David II (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41113-1"
+        }
+      ],
+      "id": 41113
+    },
+    {
+      "name": "DAWN PATROL",
+      "gameInstances": [
+        {
+          "name": "Dawn Patrol (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41114-1"
+        }
+      ],
+      "id": 41114
+    },
+    {
+      "name": "DECATHLON",
+      "gameInstances": [
+        {
+          "name": "Decathlon (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41115-1"
+        }
+      ],
+      "id": 41115
+    },
+    {
+      "name": "DEEP DUNGEON",
+      "gameInstances": [
+        {
+          "name": "Deep Dungeon (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41116-1"
+        }
+      ],
+      "id": 41116
+    },
+    {
+      "name": "DEEP DUNGEON II",
+      "gameInstances": [
+        {
+          "name": "Deep Dungeon II (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41117-1"
+        }
+      ],
+      "id": 41117
+    },
+    {
+      "name": "DEMON CRYSTAL, THE",
+      "gameInstances": [
+        {
+          "name": "Demon Crystal, The (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41118-1"
+        }
+      ],
+      "id": 41118
+    },
+    {
+      "name": "DEVIL'S HEAVEN",
+      "gameInstances": [
+        {
+          "name": "Devil's Heaven (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41119-1"
+        }
+      ],
+      "id": 41119
+    },
+    {
+      "name": "DIG DUG",
+      "gameInstances": [
+        {
+          "name": "Dig Dug (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41120-1"
+        }
+      ],
+      "id": 41120
+    },
+    {
+      "name": "DIGITAL DEVIL MONOGATARI MEGAMI TENSEI",
+      "gameInstances": [
+        {
+          "name": "Digital Devil Monogatari Megami Tensei (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41121-1"
+        }
+      ],
+      "id": 41121
+    },
+    {
+      "name": "DOKI DOKI PENGUIN LAND",
+      "gameInstances": [
+        {
+          "name": "Doki Doki Penguin Land (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41122-1"
+        }
+      ],
+      "id": 41122
+    },
+    {
+      "name": "DOORDOOR",
+      "gameInstances": [
+        {
+          "name": "Doordoor (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41123-1"
+        }
+      ],
+      "id": 41123
+    },
+    {
+      "name": "DORODON",
+      "gameInstances": [
+        {
+          "name": "Dorodon (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41124-1"
+        }
+      ],
+      "id": 41124
+    },
+    {
+      "name": "DR. COPY",
+      "gameInstances": [
+        {
+          "name": "Dr. Copy (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41125-1"
+        }
+      ],
+      "id": 41125
+    },
+    {
+      "name": "DRAGON ATTACK",
+      "gameInstances": [
+        {
+          "name": "Dragon Attack (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41126-1"
+        }
+      ],
+      "id": 41126
+    },
+    {
+      "name": "DRAGON QUEST",
+      "gameInstances": [
+        {
+          "name": "Dragon Quest (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41127-1"
+        }
+      ],
+      "id": 41127
+    },
+    {
+      "name": "DRAGON QUEST II",
+      "gameInstances": [
+        {
+          "name": "Dragon Quest II (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41128-1"
+        }
+      ],
+      "id": 41128
+    },
+    {
+      "name": "DRAGON SLAYER",
+      "gameInstances": [
+        {
+          "name": "Dragon Slayer (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41129-1"
+        }
+      ],
+      "id": 41129
+    },
+    {
+      "name": "DRAGON SLAYER II - XANADU",
+      "gameInstances": [
+        {
+          "name": "Dragon Slayer II - Xanadu (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41130-1"
+        }
+      ],
+      "id": 41130
+    },
+    {
+      "name": "DRAGON SLAYER IV - DRASLE FAMILY",
+      "gameInstances": [
+        {
+          "name": "Dragon Slayer IV - Drasle Family (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41131-1"
+        }
+      ],
+      "id": 41131
+    },
+    {
+      "name": "DRAGON SLAYER JR. - ROMANCIA",
+      "gameInstances": [
+        {
+          "name": "Dragon Slayer Jr. - Romancia (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41132-1"
+        }
+      ],
+      "id": 41132
+    },
+    {
+      "name": "DRAINER",
+      "gameInstances": [
+        {
+          "name": "Drainer (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41133-1"
+        }
+      ],
+      "id": 41133
+    },
+    {
+      "name": "DRUAGA NO TOU",
+      "gameInstances": [
+        {
+          "name": "Druaga no Tou (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41134-1"
+        }
+      ],
+      "id": 41134
+    },
+    {
+      "name": "DUNGEON HUNTER",
+      "gameInstances": [
+        {
+          "name": "Dungeon Hunter (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41135-1"
+        }
+      ],
+      "id": 41135
+    },
+    {
+      "name": "DUNGEON MASTER",
+      "gameInstances": [
+        {
+          "name": "Dungeon Master (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41136-1"
+        }
+      ],
+      "id": 41136
+    },
+    {
+      "name": "DUNK SHOT",
+      "gameInstances": [
+        {
+          "name": "Dunk Shot (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41137-1"
+        }
+      ],
+      "id": 41137
+    },
+    {
+      "name": "DYNAMITE BOWL",
+      "gameInstances": [
+        {
+          "name": "Dynamite Bowl (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41138-1"
+        }
+      ],
+      "id": 41138
+    },
+    {
+      "name": "EAGLE FIGHTER",
+      "gameInstances": [
+        {
+          "name": "Eagle Fighter (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41139-1"
+        }
+      ],
+      "id": 41139
+    },
+    {
+      "name": "EGGERLAND MYSTERY",
+      "gameInstances": [
+        {
+          "name": "Eggerland Mystery (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41140-1"
+        }
+      ],
+      "id": 41140
+    },
+    {
+      "name": "ELEVATOR ACTION",
+      "gameInstances": [
+        {
+          "name": "Elevator Action (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41141-1"
+        }
+      ],
+      "id": 41141
+    },
+    {
+      "name": "ERIKA",
+      "gameInstances": [
+        {
+          "name": "Erika (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41142-1"
+        }
+      ],
+      "id": 41142
+    },
+    {
+      "name": "EXA INNOVA",
+      "gameInstances": [
+        {
+          "name": "Exa Innova (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41143-1"
+        }
+      ],
+      "id": 41143
+    },
+    {
+      "name": "EXCHANGER",
+      "gameInstances": [
+        {
+          "name": "Exchanger (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41144-1"
+        }
+      ],
+      "id": 41144
+    },
+    {
+      "name": "EXERION",
+      "gameInstances": [
+        {
+          "name": "Exerion (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41145-1"
+        }
+      ],
+      "id": 41145
+    },
+    {
+      "name": "EXERION II - ZORNI",
+      "gameInstances": [
+        {
+          "name": "Exerion II - Zorni (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41146-1"
+        }
+      ],
+      "id": 41146
+    },
+    {
+      "name": "EXOIDE-Z",
+      "gameInstances": [
+        {
+          "name": "Exoide-Z (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41147-1"
+        }
+      ],
+      "id": 41147
+    },
+    {
+      "name": "EXOIDE-Z AREA 5",
+      "gameInstances": [
+        {
+          "name": "Exoide-Z Area 5 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41148-1"
+        }
+      ],
+      "id": 41148
+    },
+    {
+      "name": "F-1 SPIRIT - THE WAY TO FORMULA-1",
+      "gameInstances": [
+        {
+          "name": "F-1 Spirit - The Way to Formula-1 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41149-1"
+        }
+      ],
+      "id": 41149
+    },
+    {
+      "name": "F16 FIGHTING FALCON",
+      "gameInstances": [
+        {
+          "name": "F16 Fighting Falcon (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41150-1"
+        }
+      ],
+      "id": 41150
+    },
+    {
+      "name": "FAIRY",
+      "gameInstances": [
+        {
+          "name": "Fairy (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41151-1"
+        }
+      ],
+      "id": 41151
+    },
+    {
+      "name": "FAIRY LAND STORY, THE",
+      "gameInstances": [
+        {
+          "name": "Fairy Land Story, The (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41152-1"
+        }
+      ],
+      "id": 41152
+    },
+    {
+      "name": "FANDOM LIBRARY #1",
+      "gameInstances": [
+        {
+          "name": "Fandom Library #1 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41153-1"
+        }
+      ],
+      "id": 41153
+    },
+    {
+      "name": "FANDOM LIBRARY #2",
+      "gameInstances": [
+        {
+          "name": "Fandom Library #2 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41154-1"
+        }
+      ],
+      "id": 41154
+    },
+    {
+      "name": "FANDOM LIBRARY #3",
+      "gameInstances": [
+        {
+          "name": "Fandom Library #3 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41155-1"
+        }
+      ],
+      "id": 41155
+    },
+    {
+      "name": "FANTASY ZONE",
+      "gameInstances": [
+        {
+          "name": "Fantasy Zone (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41156-1"
+        }
+      ],
+      "id": 41156
+    },
+    {
+      "name": "FATHOM",
+      "gameInstances": [
+        {
+          "name": "Fathom (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41157-1"
+        }
+      ],
+      "id": 41157
+    },
+    {
+      "name": "FINAL JUSTICE",
+      "gameInstances": [
+        {
+          "name": "Final Justice (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41158-1"
+        }
+      ],
+      "id": 41158
+    },
+    {
+      "name": "FINAL MAHJONG",
+      "gameInstances": [
+        {
+          "name": "Final Mahjong (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41159-1"
+        }
+      ],
+      "id": 41159
+    },
+    {
+      "name": "FINAL ZONE WOLF",
+      "gameInstances": [
+        {
+          "name": "Final Zone Wolf (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41160-1"
+        }
+      ],
+      "id": 41160
+    },
+    {
+      "name": "FIRE RESCUE",
+      "gameInstances": [
+        {
+          "name": "Fire Rescue (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41161-1"
+        }
+      ],
+      "id": 41161
+    },
+    {
+      "name": "FLAPPY",
+      "gameInstances": [
+        {
+          "name": "Flappy (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41162-1"
+        }
+      ],
+      "id": 41162
+    },
+    {
+      "name": "FLAPPY - LIMITED 85",
+      "gameInstances": [
+        {
+          "name": "Flappy - Limited 85 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41163-1"
+        }
+      ],
+      "id": 41163
+    },
+    {
+      "name": "FLASH SPLASH",
+      "gameInstances": [
+        {
+          "name": "Flash Splash (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41164-1"
+        }
+      ],
+      "id": 41164
+    },
+    {
+      "name": "FLICKY",
+      "gameInstances": [
+        {
+          "name": "Flicky (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41165-1"
+        }
+      ],
+      "id": 41165
+    },
+    {
+      "name": "FLIGHT DECK",
+      "gameInstances": [
+        {
+          "name": "Flight Deck (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41166-1"
+        }
+      ],
+      "id": 41166
+    },
+    {
+      "name": "FLIGHT SIMULATOR",
+      "gameInstances": [
+        {
+          "name": "Flight Simulator (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41167-1"
+        }
+      ],
+      "id": 41167
+    },
+    {
+      "name": "FLIPPER SLIPPER",
+      "gameInstances": [
+        {
+          "name": "Flipper Slipper (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41168-1"
+        }
+      ],
+      "id": 41168
+    },
+    {
+      "name": "FORMATION Z",
+      "gameInstances": [
+        {
+          "name": "Formation Z (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41169-1"
+        }
+      ],
+      "id": 41169
+    },
+    {
+      "name": "FROGGER",
+      "gameInstances": [
+        {
+          "name": "Frogger (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41170-1"
+        }
+      ],
+      "id": 41170
+    },
+    {
+      "name": "FRONT LINE",
+      "gameInstances": [
+        {
+          "name": "Front Line (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41171-1"
+        }
+      ],
+      "id": 41171
+    },
+    {
+      "name": "FRUIT SEARCH",
+      "gameInstances": [
+        {
+          "name": "Fruit Search (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41172-1"
+        }
+      ],
+      "id": 41172
+    },
+    {
+      "name": "FUNKY MOUSE",
+      "gameInstances": [
+        {
+          "name": "Funky Mouse (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41173-1"
+        }
+      ],
+      "id": 41173
+    },
+    {
+      "name": "FUUN TAKESHIJYOU",
+      "gameInstances": [
+        {
+          "name": "Fuun Takeshijyou (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41174-1"
+        }
+      ],
+      "id": 41174
+    },
+    {
+      "name": "GP WORLD",
+      "gameInstances": [
+        {
+          "name": "GP World (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41175-1"
+        }
+      ],
+      "id": 41175
+    },
+    {
+      "name": "GALAGA",
+      "gameInstances": [
+        {
+          "name": "Galaga (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41176-1"
+        }
+      ],
+      "id": 41176
+    },
+    {
+      "name": "GALAXIAN",
+      "gameInstances": [
+        {
+          "name": "Galaxian (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41177-1"
+        }
+      ],
+      "id": 41177
+    },
+    {
+      "name": "GALL FORCE - DEFENSE OF CHAOS",
+      "gameInstances": [
+        {
+          "name": "Gall Force - Defense of Chaos (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41178-1"
+        }
+      ],
+      "id": 41178
+    },
+    {
+      "name": "GAMBLER JIKO CHUUSHINHA",
+      "gameInstances": [
+        {
+          "name": "Gambler Jiko Chuushinha (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41179-1"
+        }
+      ],
+      "id": 41179
+    },
+    {
+      "name": "GAME LAND",
+      "gameInstances": [
+        {
+          "name": "Game Land (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41180-1"
+        }
+      ],
+      "id": 41180
+    },
+    {
+      "name": "GAME MASTER",
+      "gameInstances": [
+        {
+          "name": "Game Master (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41181-1"
+        }
+      ],
+      "id": 41181
+    },
+    {
+      "name": "GAME MASTER II",
+      "gameInstances": [
+        {
+          "name": "Game Master II (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41182-1"
+        }
+      ],
+      "id": 41182
+    },
+    {
+      "name": "GANG MASTER",
+      "gameInstances": [
+        {
+          "name": "Gang Master (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41183-1"
+        }
+      ],
+      "id": 41183
+    },
+    {
+      "name": "GATE OF LABYRINTH",
+      "gameInstances": [
+        {
+          "name": "Gate of Labyrinth (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41184-1"
+        }
+      ],
+      "id": 41184
+    },
+    {
+      "name": "GENGHIS KHAN",
+      "gameInstances": [
+        {
+          "name": "Genghis Khan (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41185-1"
+        }
+      ],
+      "id": 41185
+    },
+    {
+      "name": "GLIDER",
+      "gameInstances": [
+        {
+          "name": "Glider (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41186-1"
+        }
+      ],
+      "id": 41186
+    },
+    {
+      "name": "GOJIRA VS 3 DAIKAIJUU",
+      "gameInstances": [
+        {
+          "name": "Gojira vs 3 Daikaijuu (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41187-1"
+        }
+      ],
+      "id": 41187
+    },
+    {
+      "name": "GOJIRA-KUN",
+      "gameInstances": [
+        {
+          "name": "Gojira-kun (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41188-1"
+        }
+      ],
+      "id": 41188
+    },
+    {
+      "name": "GOKIBURI DAISAKUSEN - BUG BOMB",
+      "gameInstances": [
+        {
+          "name": "Gokiburi Daisakusen - Bug Bomb (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41189-1"
+        }
+      ],
+      "id": 41189
+    },
+    {
+      "name": "GOLF GAME",
+      "gameInstances": [
+        {
+          "name": "Golf Game (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41190-1"
+        }
+      ],
+      "id": 41190
+    },
+    {
+      "name": "GOLVELLIUS",
+      "gameInstances": [
+        {
+          "name": "Golvellius (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41191-1"
+        }
+      ],
+      "id": 41191
+    },
+    {
+      "name": "GOMOK NARABE - OMO GO",
+      "gameInstances": [
+        {
+          "name": "Gomok Narabe - Omo Go (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41192-1"
+        }
+      ],
+      "id": 41192
+    },
+    {
+      "name": "GOONIES, THE",
+      "gameInstances": [
+        {
+          "name": "Goonies, The (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41193-1"
+        }
+      ],
+      "id": 41193
+    },
+    {
+      "name": "GROG'S REVENGE",
+      "gameInstances": [
+        {
+          "name": "Grog's Revenge (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41194-1"
+        }
+      ],
+      "id": 41194
+    },
+    {
+      "name": "GUARDIC",
+      "gameInstances": [
+        {
+          "name": "Guardic (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41195-1"
+        }
+      ],
+      "id": 41195
+    },
+    {
+      "name": "GULKAVE",
+      "gameInstances": [
+        {
+          "name": "Gulkave (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41196-1"
+        }
+      ],
+      "id": 41196
+    },
+    {
+      "name": "GUN FRIGHT",
+      "gameInstances": [
+        {
+          "name": "Gun Fright (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41197-1"
+        }
+      ],
+      "id": 41197
+    },
+    {
+      "name": "GUNJIN SHOUGI MARS",
+      "gameInstances": [
+        {
+          "name": "Gunjin Shougi Mars (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41198-1"
+        }
+      ],
+      "id": 41198
+    },
+    {
+      "name": "GYRODINE",
+      "gameInstances": [
+        {
+          "name": "Gyrodine (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41199-1"
+        }
+      ],
+      "id": 41199
+    },
+    {
+      "name": "H.E.R.O.",
+      "gameInstances": [
+        {
+          "name": "H.E.R.O. (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41200-1"
+        }
+      ],
+      "id": 41200
+    },
+    {
+      "name": "HADES NO MONSHO",
+      "gameInstances": [
+        {
+          "name": "Hades no Monsho (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41201-1"
+        }
+      ],
+      "id": 41201
+    },
+    {
+      "name": "HAFANUDA KOI KOI - GOSTOP GODORI",
+      "gameInstances": [
+        {
+          "name": "Hafanuda Koi Koi - Gostop Godori (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41202-1"
+        }
+      ],
+      "id": 41202
+    },
+    {
+      "name": "HAJA NO FUIN",
+      "gameInstances": [
+        {
+          "name": "Haja No Fuin (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41203-1"
+        }
+      ],
+      "id": 41203
+    },
+    {
+      "name": "HANAFUTA",
+      "gameInstances": [
+        {
+          "name": "Hanafuta (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41204-1"
+        }
+      ],
+      "id": 41204
+    },
+    {
+      "name": "HANG-ON",
+      "gameInstances": [
+        {
+          "name": "Hang-On (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41205-1"
+        }
+      ],
+      "id": 41205
+    },
+    {
+      "name": "HARAPEKO PAKKUN",
+      "gameInstances": [
+        {
+          "name": "Harapeko Pakkun (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41206-1"
+        }
+      ],
+      "id": 41206
+    },
+    {
+      "name": "HARRYFOX MSX SPECIAL",
+      "gameInstances": [
+        {
+          "name": "Harryfox MSX Special (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41207-1"
+        }
+      ],
+      "id": 41207
+    },
+    {
+      "name": "HARRYFOX YKI NO MAOH",
+      "gameInstances": [
+        {
+          "name": "Harryfox Yki No Maoh (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41208-1"
+        }
+      ],
+      "id": 41208
+    },
+    {
+      "name": "HAUNTED BOYNIGHT",
+      "gameInstances": [
+        {
+          "name": "Haunted Boynight (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41209-1"
+        }
+      ],
+      "id": 41209
+    },
+    {
+      "name": "HEAVY BOXING",
+      "gameInstances": [
+        {
+          "name": "Heavy Boxing (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41210-1"
+        }
+      ],
+      "id": 41210
+    },
+    {
+      "name": "HEIST, THE",
+      "gameInstances": [
+        {
+          "name": "Heist, The (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41211-1"
+        }
+      ],
+      "id": 41211
+    },
+    {
+      "name": "HELITANK",
+      "gameInstances": [
+        {
+          "name": "Helitank (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41212-1"
+        }
+      ],
+      "id": 41212
+    },
+    {
+      "name": "HIGH WAY STAR",
+      "gameInstances": [
+        {
+          "name": "High Way Star (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41213-1"
+        }
+      ],
+      "id": 41213
+    },
+    {
+      "name": "HISYA",
+      "gameInstances": [
+        {
+          "name": "Hisya (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41214-1"
+        }
+      ],
+      "id": 41214
+    },
+    {
+      "name": "HITSUJI YAI - PREETY SHEEP",
+      "gameInstances": [
+        {
+          "name": "Hitsuji Yai - Preety Sheep (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41215-1"
+        }
+      ],
+      "id": 41215
+    },
+    {
+      "name": "HOLE IN ONE",
+      "gameInstances": [
+        {
+          "name": "Hole in One (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41216-1"
+        }
+      ],
+      "id": 41216
+    },
+    {
+      "name": "HOLE IN ONE PROFESSIONAL",
+      "gameInstances": [
+        {
+          "name": "Hole in One Professional (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41217-1"
+        }
+      ],
+      "id": 41217
+    },
+    {
+      "name": "HONKBALL",
+      "gameInstances": [
+        {
+          "name": "Honkball (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41218-1"
+        }
+      ],
+      "id": 41218
+    },
+    {
+      "name": "HUDSON 3D GOLF",
+      "gameInstances": [
+        {
+          "name": "Hudson 3D Golf (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41219-1"
+        }
+      ],
+      "id": 41219
+    },
+    {
+      "name": "HUSTLE! CHUMY",
+      "gameInstances": [
+        {
+          "name": "Hustle! Chumy (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41220-1"
+        }
+      ],
+      "id": 41220
+    },
+    {
+      "name": "HYDLIDE",
+      "gameInstances": [
+        {
+          "name": "Hydlide (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41221-1"
+        }
+      ],
+      "id": 41221
+    },
+    {
+      "name": "HYDLIDE 3 - THE SPACE MEMORIES",
+      "gameInstances": [
+        {
+          "name": "Hydlide 3 - The Space Memories (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41222-1"
+        }
+      ],
+      "id": 41222
+    },
+    {
+      "name": "HYDLIDE II - SHINE OF DARKNESS",
+      "gameInstances": [
+        {
+          "name": "Hydlide II - Shine of Darkness (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41223-1"
+        }
+      ],
+      "id": 41223
+    },
+    {
+      "name": "HYPER OLYMPIC 1",
+      "gameInstances": [
+        {
+          "name": "Hyper Olympic 1 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41224-1"
+        }
+      ],
+      "id": 41224
+    },
+    {
+      "name": "HYPER OLYMPIC 2",
+      "gameInstances": [
+        {
+          "name": "Hyper Olympic 2 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41225-1"
+        }
+      ],
+      "id": 41225
+    },
+    {
+      "name": "HYPER RALLY",
+      "gameInstances": [
+        {
+          "name": "Hyper Rally (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41226-1"
+        }
+      ],
+      "id": 41226
+    },
+    {
+      "name": "HYPER SPORTS 1",
+      "gameInstances": [
+        {
+          "name": "Hyper Sports 1 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41227-1"
+        }
+      ],
+      "id": 41227
+    },
+    {
+      "name": "HYPER SPORTS 3",
+      "gameInstances": [
+        {
+          "name": "Hyper Sports 3 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41228-1"
+        }
+      ],
+      "id": 41228
+    },
+    {
+      "name": "ICE WORLD",
+      "gameInstances": [
+        {
+          "name": "Ice World (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41229-1"
+        }
+      ],
+      "id": 41229
+    },
+    {
+      "name": "IGA NINPOUTEN - SMALL NINJA",
+      "gameInstances": [
+        {
+          "name": "Iga Ninpouten - Small Ninja (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41230-1"
+        }
+      ],
+      "id": 41230
+    },
+    {
+      "name": "IGA NINPOUTEN 2 - SMALL NINJA 2",
+      "gameInstances": [
+        {
+          "name": "Iga Ninpouten 2 - Small Ninja 2 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41231-1"
+        }
+      ],
+      "id": 41231
+    },
+    {
+      "name": "INDIAN NO BOUKEN",
+      "gameInstances": [
+        {
+          "name": "Indian no Bouken (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41232-1"
+        }
+      ],
+      "id": 41232
+    },
+    {
+      "name": "IRIEGAS",
+      "gameInstances": [
+        {
+          "name": "Iriegas (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41233-1"
+        }
+      ],
+      "id": 41233
+    },
+    {
+      "name": "IRIEGAS - THESEUS",
+      "gameInstances": [
+        {
+          "name": "Iriegas - Theseus (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41234-1"
+        }
+      ],
+      "id": 41234
+    },
+    {
+      "name": "ISSUNHOUSHI NO DONNAMONDAI",
+      "gameInstances": [
+        {
+          "name": "Issunhoushi No Donnamondai (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41235-1"
+        }
+      ],
+      "id": 41235
+    },
+    {
+      "name": "J.P. WINKLE",
+      "gameInstances": [
+        {
+          "name": "J.P. Winkle (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41236-1"
+        }
+      ],
+      "id": 41236
+    },
+    {
+      "name": "JAGUR",
+      "gameInstances": [
+        {
+          "name": "Jagur (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41237-1"
+        }
+      ],
+      "id": 41237
+    },
+    {
+      "name": "JANKA",
+      "gameInstances": [
+        {
+          "name": "Janka (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41238-1"
+        }
+      ],
+      "id": 41238
+    },
+    {
+      "name": "JET SET WILLY",
+      "gameInstances": [
+        {
+          "name": "Jet Set Willy (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41239-1"
+        }
+      ],
+      "id": 41239
+    },
+    {
+      "name": "JIGSAW SET",
+      "gameInstances": [
+        {
+          "name": "Jigsaw Set (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41240-1"
+        }
+      ],
+      "id": 41240
+    },
+    {
+      "name": "JISSEN - 4-NIN MAHJONG",
+      "gameInstances": [
+        {
+          "name": "Jissen - 4-nin Mahjong (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41241-1"
+        }
+      ],
+      "id": 41241
+    },
+    {
+      "name": "JUMP",
+      "gameInstances": [
+        {
+          "name": "Jump (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41242-1"
+        }
+      ],
+      "id": 41242
+    },
+    {
+      "name": "JUMP COASTER",
+      "gameInstances": [
+        {
+          "name": "Jump Coaster (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41243-1"
+        }
+      ],
+      "id": 41243
+    },
+    {
+      "name": "JUMP LAND",
+      "gameInstances": [
+        {
+          "name": "Jump Land (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41244-1"
+        }
+      ],
+      "id": 41244
+    },
+    {
+      "name": "JUMPING RABBIT",
+      "gameInstances": [
+        {
+          "name": "Jumping Rabbit (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41245-1"
+        }
+      ],
+      "id": 41245
+    },
+    {
+      "name": "JUNO FIRST",
+      "gameInstances": [
+        {
+          "name": "Juno First (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41246-1"
+        }
+      ],
+      "id": 41246
+    },
+    {
+      "name": "JYAN FRIEND",
+      "gameInstances": [
+        {
+          "name": "Jyan Friend (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41247-1"
+        }
+      ],
+      "id": 41247
+    },
+    {
+      "name": "JYANKYO",
+      "gameInstances": [
+        {
+          "name": "Jyankyo (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41248-1"
+        }
+      ],
+      "id": 41248
+    },
+    {
+      "name": "JYANYUU",
+      "gameInstances": [
+        {
+          "name": "Jyanyuu (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41249-1"
+        }
+      ],
+      "id": 41249
+    },
+    {
+      "name": "KAGE NO DENSETSU - LEGEND OF KAGE, THE",
+      "gameInstances": [
+        {
+          "name": "Kage no Densetsu - Legend of Kage, The (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41250-1"
+        }
+      ],
+      "id": 41250
+    },
+    {
+      "name": "KARAMARU",
+      "gameInstances": [
+        {
+          "name": "Karamaru (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41251-1"
+        }
+      ],
+      "id": 41251
+    },
+    {
+      "name": "KARUIZAWA",
+      "gameInstances": [
+        {
+          "name": "Karuizawa (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41252-1"
+        }
+      ],
+      "id": 41252
+    },
+    {
+      "name": "KEYSTONE KAPERS",
+      "gameInstances": [
+        {
+          "name": "Keystone Kapers (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41253-1"
+        }
+      ],
+      "id": 41253
+    },
+    {
+      "name": "KICK IT",
+      "gameInstances": [
+        {
+          "name": "Kick It (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41254-1"
+        }
+      ],
+      "id": 41254
+    },
+    {
+      "name": "KINASAI",
+      "gameInstances": [
+        {
+          "name": "Kinasai (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41255-1"
+        }
+      ],
+      "id": 41255
+    },
+    {
+      "name": "KING & BALLOON",
+      "gameInstances": [
+        {
+          "name": "King & Balloon (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41256-1"
+        }
+      ],
+      "id": 41256
+    },
+    {
+      "name": "KING KNIGHT",
+      "gameInstances": [
+        {
+          "name": "King Knight (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41257-1"
+        }
+      ],
+      "id": 41257
+    },
+    {
+      "name": "KING'S VALLEY",
+      "gameInstances": [
+        {
+          "name": "King's Valley (Japan, Europe) (En)",
+          "platform": "msx",
+          "language": "[En]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41258-1"
+        }
+      ],
+      "id": 41258
+    },
+    {
+      "name": "KING'S VALLEY II",
+      "gameInstances": [
+        {
+          "name": "King's Valley II (Japan, Europe) (En)",
+          "platform": "msx",
+          "language": "[En]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41259-1"
+        }
+      ],
+      "id": 41259
+    },
+    {
+      "name": "KINNIKUMAN - MUSCLE MAN",
+      "gameInstances": [
+        {
+          "name": "Kinnikuman - Muscle Man (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41260-1"
+        }
+      ],
+      "id": 41260
+    },
+    {
+      "name": "KNIGHT LORE",
+      "gameInstances": [
+        {
+          "name": "Knight Lore (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41261-1"
+        }
+      ],
+      "id": 41261
+    },
+    {
+      "name": "KNIGHTMARE - MAJOU DENSETSU",
+      "gameInstances": [
+        {
+          "name": "Knightmare - Majou Densetsu (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41262-1"
+        }
+      ],
+      "id": 41262
+    },
+    {
+      "name": "KNIGHTMARE II - THE MAZE OF GALIOUS",
+      "gameInstances": [
+        {
+          "name": "Knightmare II - The Maze of Galious (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41263-1"
+        }
+      ],
+      "id": 41263
+    },
+    {
+      "name": "KNIGHTMARE III - SHALOM",
+      "gameInstances": [
+        {
+          "name": "Knightmare III - Shalom (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41264-1"
+        }
+      ],
+      "id": 41264
+    },
+    {
+      "name": "KNITHER SPECIAL",
+      "gameInstances": [
+        {
+          "name": "Knither Special (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41265-1"
+        }
+      ],
+      "id": 41265
+    },
+    {
+      "name": "KONAMI'S BASEBALL",
+      "gameInstances": [
+        {
+          "name": "Konami's Baseball (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41266-1"
+        }
+      ],
+      "id": 41266
+    },
+    {
+      "name": "KONAMI'S BOXING",
+      "gameInstances": [
+        {
+          "name": "Konami's Boxing (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41267-1"
+        }
+      ],
+      "id": 41267
+    },
+    {
+      "name": "KONAMI'S GOLF",
+      "gameInstances": [
+        {
+          "name": "Konami's Golf (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41268-1"
+        }
+      ],
+      "id": 41268
+    },
+    {
+      "name": "KONAMI'S MAHJONG",
+      "gameInstances": [
+        {
+          "name": "Konami's Mahjong (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41269-1"
+        }
+      ],
+      "id": 41269
+    },
+    {
+      "name": "KONAMI'S PING-PONG",
+      "gameInstances": [
+        {
+          "name": "Konami's Ping-Pong (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41270-1"
+        }
+      ],
+      "id": 41270
+    },
+    {
+      "name": "KONAMI'S SOCCER",
+      "gameInstances": [
+        {
+          "name": "Konami's Soccer (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41271-1"
+        }
+      ],
+      "id": 41271
+    },
+    {
+      "name": "KONAMI'S TENNIS",
+      "gameInstances": [
+        {
+          "name": "Konami's Tennis (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41272-1"
+        }
+      ],
+      "id": 41272
+    },
+    {
+      "name": "KONEKO NO DAIBOUKEN - CATBOY",
+      "gameInstances": [
+        {
+          "name": "Koneko no Daibouken - Catboy (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41273-1"
+        }
+      ],
+      "id": 41273
+    },
+    {
+      "name": "KUNG FU ACHO",
+      "gameInstances": [
+        {
+          "name": "Kung Fu Acho (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41274-1"
+        }
+      ],
+      "id": 41274
+    },
+    {
+      "name": "KUNG FU MASTER",
+      "gameInstances": [
+        {
+          "name": "Kung Fu Master (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41275-1"
+        }
+      ],
+      "id": 41275
+    },
+    {
+      "name": "KUNG FU TAIGUN",
+      "gameInstances": [
+        {
+          "name": "Kung Fu Taigun (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41276-1"
+        }
+      ],
+      "id": 41276
+    },
+    {
+      "name": "LADDER BUILDING",
+      "gameInstances": [
+        {
+          "name": "Ladder Building (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41277-1"
+        }
+      ],
+      "id": 41277
+    },
+    {
+      "name": "LAPTICK 2",
+      "gameInstances": [
+        {
+          "name": "Laptick 2 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41278-1"
+        }
+      ],
+      "id": 41278
+    },
+    {
+      "name": "LODE RUNNER",
+      "gameInstances": [
+        {
+          "name": "Lode Runner (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41279-1"
+        }
+      ],
+      "id": 41279
+    },
+    {
+      "name": "LODE RUNNER II",
+      "gameInstances": [
+        {
+          "name": "Lode Runner II (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41280-1"
+        }
+      ],
+      "id": 41280
+    },
+    {
+      "name": "LORD OVER",
+      "gameInstances": [
+        {
+          "name": "Lord Over (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41281-1"
+        }
+      ],
+      "id": 41281
+    },
+    {
+      "name": "LOT LOT",
+      "gameInstances": [
+        {
+          "name": "Lot Lot (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41282-1"
+        }
+      ],
+      "id": 41282
+    },
+    {
+      "name": "LUNAR BALL",
+      "gameInstances": [
+        {
+          "name": "Lunar Ball (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41283-1"
+        }
+      ],
+      "id": 41283
+    },
+    {
+      "name": "M36 - A LIFE PLANET",
+      "gameInstances": [
+        {
+          "name": "M36 - A Life Planet (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41284-1"
+        }
+      ],
+      "id": 41284
+    },
+    {
+      "name": "MSX 21",
+      "gameInstances": [
+        {
+          "name": "MSX 21 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41285-1"
+        }
+      ],
+      "id": 41285
+    },
+    {
+      "name": "MSX BASEBALL",
+      "gameInstances": [
+        {
+          "name": "MSX Baseball (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41286-1"
+        }
+      ],
+      "id": 41286
+    },
+    {
+      "name": "MSX BASEBALL II NATIONAL",
+      "gameInstances": [
+        {
+          "name": "MSX Baseball II National (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41287-1"
+        }
+      ],
+      "id": 41287
+    },
+    {
+      "name": "MSX DERBY",
+      "gameInstances": [
+        {
+          "name": "MSX Derby (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41288-1"
+        }
+      ],
+      "id": 41288
+    },
+    {
+      "name": "MSX RUGBY",
+      "gameInstances": [
+        {
+          "name": "MSX Rugby (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41289-1"
+        }
+      ],
+      "id": 41289
+    },
+    {
+      "name": "MSX SOCCER",
+      "gameInstances": [
+        {
+          "name": "MSX Soccer (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41290-1"
+        }
+      ],
+      "id": 41290
+    },
+    {
+      "name": "MACHINEGUN JOE VS THE MAFIA",
+      "gameInstances": [
+        {
+          "name": "Machinegun Joe vs The Mafia (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41291-1"
+        }
+      ],
+      "id": 41291
+    },
+    {
+      "name": "MACROSS",
+      "gameInstances": [
+        {
+          "name": "Macross (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41292-1"
+        }
+      ],
+      "id": 41292
+    },
+    {
+      "name": "MAGICAL KID WIZ",
+      "gameInstances": [
+        {
+          "name": "Magical Kid Wiz (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41293-1"
+        }
+      ],
+      "id": 41293
+    },
+    {
+      "name": "MAGICAL TREE",
+      "gameInstances": [
+        {
+          "name": "Magical Tree (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41294-1"
+        }
+      ],
+      "id": 41294
+    },
+    {
+      "name": "MAGNUM PROHIBITION 1931",
+      "gameInstances": [
+        {
+          "name": "Magnum Prohibition 1931 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41295-1"
+        }
+      ],
+      "id": 41295
+    },
+    {
+      "name": "MANES",
+      "gameInstances": [
+        {
+          "name": "Manes (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41296-1"
+        }
+      ],
+      "id": 41296
+    },
+    {
+      "name": "MAPPY",
+      "gameInstances": [
+        {
+          "name": "Mappy (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41297-1"
+        }
+      ],
+      "id": 41297
+    },
+    {
+      "name": "MARCHEN VEIL I",
+      "gameInstances": [
+        {
+          "name": "Marchen Veil I (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41298-1"
+        }
+      ],
+      "id": 41298
+    },
+    {
+      "name": "MARINE BATTLE",
+      "gameInstances": [
+        {
+          "name": "Marine Battle (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41299-1"
+        }
+      ],
+      "id": 41299
+    },
+    {
+      "name": "MARS II",
+      "gameInstances": [
+        {
+          "name": "Mars II (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41300-1"
+        }
+      ],
+      "id": 41300
+    },
+    {
+      "name": "MASHOU NO TACHI GOBLIN",
+      "gameInstances": [
+        {
+          "name": "Mashou no Tachi Goblin (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41301-1"
+        }
+      ],
+      "id": 41301
+    },
+    {
+      "name": "MEGALOPOLIS SOS",
+      "gameInstances": [
+        {
+          "name": "Megalopolis SOS (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41302-1"
+        }
+      ],
+      "id": 41302
+    },
+    {
+      "name": "MEIKYUU SHINWA",
+      "gameInstances": [
+        {
+          "name": "Meikyuu Shinwa (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41303-1"
+        }
+      ],
+      "id": 41303
+    },
+    {
+      "name": "MIDNIGHT BROTHERS",
+      "gameInstances": [
+        {
+          "name": "Midnight Brothers (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41304-1"
+        }
+      ],
+      "id": 41304
+    },
+    {
+      "name": "MIDNIGHT BUILDING",
+      "gameInstances": [
+        {
+          "name": "Midnight Building (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41305-1"
+        }
+      ],
+      "id": 41305
+    },
+    {
+      "name": "MIDWAY",
+      "gameInstances": [
+        {
+          "name": "Midway (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41306-1"
+        }
+      ],
+      "id": 41306
+    },
+    {
+      "name": "MINI GOLF",
+      "gameInstances": [
+        {
+          "name": "Mini Golf (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41307-1"
+        }
+      ],
+      "id": 41307
+    },
+    {
+      "name": "MIRAI - FUTURE",
+      "gameInstances": [
+        {
+          "name": "Mirai - Future (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41308-1"
+        }
+      ],
+      "id": 41308
+    },
+    {
+      "name": "MITSUMEGA TOOHRU - THREE-EYED ONE COMES HERE, THE",
+      "gameInstances": [
+        {
+          "name": "Mitsumega Toohru - Three-Eyed One Comes Here, The (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41309-1"
+        }
+      ],
+      "id": 41309
+    },
+    {
+      "name": "MOAI NO HIBOU",
+      "gameInstances": [
+        {
+          "name": "Moai no Hibou (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41310-1"
+        }
+      ],
+      "id": 41310
+    },
+    {
+      "name": "MOBILE PLANET SUTHIRUS - APPROACH FROM THE WESTGATE",
+      "gameInstances": [
+        {
+          "name": "Mobile Planet Suthirus - Approach from the Westgate (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41311-1"
+        }
+      ],
+      "id": 41311
+    },
+    {
+      "name": "MOBILE-SUIT GUNDAM - LAST SHOOTING",
+      "gameInstances": [
+        {
+          "name": "Mobile-Suit Gundam - Last Shooting (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41312-1"
+        }
+      ],
+      "id": 41312
+    },
+    {
+      "name": "MOKARIMAKKA",
+      "gameInstances": [
+        {
+          "name": "Mokarimakka (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41313-1"
+        }
+      ],
+      "id": 41313
+    },
+    {
+      "name": "MOLE",
+      "gameInstances": [
+        {
+          "name": "Mole (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41314-1"
+        }
+      ],
+      "id": 41314
+    },
+    {
+      "name": "MOLE MOLE 2",
+      "gameInstances": [
+        {
+          "name": "Mole Mole 2 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41315-1"
+        }
+      ],
+      "id": 41315
+    },
+    {
+      "name": "MONKEY ACADEMY",
+      "gameInstances": [
+        {
+          "name": "Monkey Academy (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41316-1"
+        }
+      ],
+      "id": 41316
+    },
+    {
+      "name": "MONSTER'S FAIR",
+      "gameInstances": [
+        {
+          "name": "Monster's Fair (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41317-1"
+        }
+      ],
+      "id": 41317
+    },
+    {
+      "name": "MOON LANDING",
+      "gameInstances": [
+        {
+          "name": "Moon Landing (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41318-1"
+        }
+      ],
+      "id": 41318
+    },
+    {
+      "name": "MOON PATROL",
+      "gameInstances": [
+        {
+          "name": "Moon Patrol (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41319-1"
+        }
+      ],
+      "id": 41319
+    },
+    {
+      "name": "MOONSWEEPER",
+      "gameInstances": [
+        {
+          "name": "Moonsweeper (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41320-1"
+        }
+      ],
+      "id": 41320
+    },
+    {
+      "name": "MOPIRANGER",
+      "gameInstances": [
+        {
+          "name": "Mopiranger (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41321-1"
+        }
+      ],
+      "id": 41321
+    },
+    {
+      "name": "MORITA KAZUO NO OTHELLO",
+      "gameInstances": [
+        {
+          "name": "Morita Kazuo no Othello (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41322-1"
+        }
+      ],
+      "id": 41322
+    },
+    {
+      "name": "MOUSER",
+      "gameInstances": [
+        {
+          "name": "Mouser (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41323-1"
+        }
+      ],
+      "id": 41323
+    },
+    {
+      "name": "MR. CHIN",
+      "gameInstances": [
+        {
+          "name": "Mr. Chin (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41324-1"
+        }
+      ],
+      "id": 41324
+    },
+    {
+      "name": "MR. DO",
+      "gameInstances": [
+        {
+          "name": "Mr. Do (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41325-1"
+        }
+      ],
+      "id": 41325
+    },
+    {
+      "name": "MR. DO VS UNICORNS",
+      "gameInstances": [
+        {
+          "name": "Mr. Do vs Unicorns (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41326-1"
+        }
+      ],
+      "id": 41326
+    },
+    {
+      "name": "MR. DO'S WILD RIDE",
+      "gameInstances": [
+        {
+          "name": "Mr. Do's Wild Ride (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41327-1"
+        }
+      ],
+      "id": 41327
+    },
+    {
+      "name": "MUGEN SENSHI VALIS - THE FANTASM SOLDIER",
+      "gameInstances": [
+        {
+          "name": "Mugen Senshi Valis - The Fantasm Soldier (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41328-1"
+        }
+      ],
+      "id": 41328
+    },
+    {
+      "name": "NAUSICAA",
+      "gameInstances": [
+        {
+          "name": "Nausicaa (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41329-1"
+        }
+      ],
+      "id": 41329
+    },
+    {
+      "name": "NEMESIS",
+      "gameInstances": [
+        {
+          "name": "Nemesis (Japan, Europe) (En)",
+          "platform": "msx",
+          "language": "[En]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41330-1"
+        }
+      ],
+      "id": 41330
+    },
+    {
+      "name": "NEMESIS 2",
+      "gameInstances": [
+        {
+          "name": "Nemesis 2 (Japan, Europe) (En)",
+          "platform": "msx",
+          "language": "[En]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41331-1"
+        }
+      ],
+      "id": 41331
+    },
+    {
+      "name": "NEMESIS 3 - THE EVE OF DESTRUCTION",
+      "gameInstances": [
+        {
+          "name": "Nemesis 3 - The Eve of Destruction (Japan, Europe) (En)",
+          "platform": "msx",
+          "language": "[En]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41332-1"
+        }
+      ],
+      "id": 41332
+    },
+    {
+      "name": "NESSEN KOUSHIYEN",
+      "gameInstances": [
+        {
+          "name": "Nessen Koushiyen (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41333-1"
+        }
+      ],
+      "id": 41333
+    },
+    {
+      "name": "NIGHT SHADE",
+      "gameInstances": [
+        {
+          "name": "Night Shade (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41334-1"
+        }
+      ],
+      "id": 41334
+    },
+    {
+      "name": "NINJA JAJAMARU-KUN",
+      "gameInstances": [
+        {
+          "name": "Ninja Jajamaru-kun (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41335-1"
+        }
+      ],
+      "id": 41335
+    },
+    {
+      "name": "NINJA PRINCESS",
+      "gameInstances": [
+        {
+          "name": "Ninja Princess (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41336-1"
+        }
+      ],
+      "id": 41336
+    },
+    {
+      "name": "NINJAKUN",
+      "gameInstances": [
+        {
+          "name": "Ninjakun (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41337-1"
+        }
+      ],
+      "id": 41337
+    },
+    {
+      "name": "NINJAKUN MAJOU",
+      "gameInstances": [
+        {
+          "name": "Ninjakun Majou (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41338-1"
+        }
+      ],
+      "id": 41338
+    },
+    {
+      "name": "NINJYA KAGE",
+      "gameInstances": [
+        {
+          "name": "Ninjya Kage (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41339-1"
+        }
+      ],
+      "id": 41339
+    },
+    {
+      "name": "NOBUNAGA NO YABOU - ZENKOKU BAN",
+      "gameInstances": [
+        {
+          "name": "Nobunaga no Yabou - Zenkoku Ban (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41340-1"
+        }
+      ],
+      "id": 41340
+    },
+    {
+      "name": "NYAN NYAN PRO WRESTLING",
+      "gameInstances": [
+        {
+          "name": "Nyan Nyan Pro Wrestling (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41341-1"
+        }
+      ],
+      "id": 41341
+    },
+    {
+      "name": "NYOROLS",
+      "gameInstances": [
+        {
+          "name": "Nyorols (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41342-1"
+        }
+      ],
+      "id": 41342
+    },
+    {
+      "name": "O'MAC FARMER",
+      "gameInstances": [
+        {
+          "name": "O'Mac Farmer (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41343-1"
+        }
+      ],
+      "id": 41343
+    },
+    {
+      "name": "OIL'S WELL",
+      "gameInstances": [
+        {
+          "name": "Oil's Well (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41344-1"
+        }
+      ],
+      "id": 41344
+    },
+    {
+      "name": "OKAMI NO SU",
+      "gameInstances": [
+        {
+          "name": "Okami no Su (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41345-1"
+        }
+      ],
+      "id": 41345
+    },
+    {
+      "name": "OTHELLO",
+      "gameInstances": [
+        {
+          "name": "Othello (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41346-1"
+        }
+      ],
+      "id": 41346
+    },
+    {
+      "name": "OYOIDE TANGO",
+      "gameInstances": [
+        {
+          "name": "Oyoide Tango (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41347-1"
+        }
+      ],
+      "id": 41347
+    },
+    {
+      "name": "PAC-MAN",
+      "gameInstances": [
+        {
+          "name": "Pac-Man (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41348-1"
+        }
+      ],
+      "id": 41348
+    },
+    {
+      "name": "PACHI COM",
+      "gameInstances": [
+        {
+          "name": "Pachi Com (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41349-1"
+        }
+      ],
+      "id": 41349
+    },
+    {
+      "name": "PAI PANIC",
+      "gameInstances": [
+        {
+          "name": "Pai Panic (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41350-1"
+        }
+      ],
+      "id": 41350
+    },
+    {
+      "name": "PAIRS",
+      "gameInstances": [
+        {
+          "name": "Pairs (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41351-1"
+        }
+      ],
+      "id": 41351
+    },
+    {
+      "name": "PANTHER",
+      "gameInstances": [
+        {
+          "name": "Panther (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41352-1"
+        }
+      ],
+      "id": 41352
+    },
+    {
+      "name": "PARODIUS",
+      "gameInstances": [
+        {
+          "name": "Parodius (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41353-1"
+        }
+      ],
+      "id": 41353
+    },
+    {
+      "name": "PASS BALL",
+      "gameInstances": [
+        {
+          "name": "Pass Ball (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41354-1"
+        }
+      ],
+      "id": 41354
+    },
+    {
+      "name": "PASTFINDER",
+      "gameInstances": [
+        {
+          "name": "Pastfinder (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41355-1"
+        }
+      ],
+      "id": 41355
+    },
+    {
+      "name": "PAY LOAD",
+      "gameInstances": [
+        {
+          "name": "Pay Load (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41356-1"
+        }
+      ],
+      "id": 41356
+    },
+    {
+      "name": "PEETAN",
+      "gameInstances": [
+        {
+          "name": "Peetan (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41357-1"
+        }
+      ],
+      "id": 41357
+    },
+    {
+      "name": "PEGASUS",
+      "gameInstances": [
+        {
+          "name": "Pegasus (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41358-1"
+        }
+      ],
+      "id": 41358
+    },
+    {
+      "name": "PENGUIN ADVENTURE",
+      "gameInstances": [
+        {
+          "name": "Penguin Adventure (Japan, Europe) (En)",
+          "platform": "msx",
+          "language": "[En]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41359-1"
+        }
+      ],
+      "id": 41359
+    },
+    {
+      "name": "PENGUIN-KUN WARS",
+      "gameInstances": [
+        {
+          "name": "Penguin-kun Wars (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41360-1"
+        }
+      ],
+      "id": 41360
+    },
+    {
+      "name": "PICO PICO",
+      "gameInstances": [
+        {
+          "name": "Pico Pico (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41361-1"
+        }
+      ],
+      "id": 41361
+    },
+    {
+      "name": "PICTURE PUZZLE",
+      "gameInstances": [
+        {
+          "name": "Picture Puzzle (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41362-1"
+        }
+      ],
+      "id": 41362
+    },
+    {
+      "name": "PILLBOX",
+      "gameInstances": [
+        {
+          "name": "Pillbox (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41363-1"
+        }
+      ],
+      "id": 41363
+    },
+    {
+      "name": "PINE APPLIN",
+      "gameInstances": [
+        {
+          "name": "Pine Applin (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41364-1"
+        }
+      ],
+      "id": 41364
+    },
+    {
+      "name": "PINGBALL MAKER",
+      "gameInstances": [
+        {
+          "name": "Pingball Maker (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41365-1"
+        }
+      ],
+      "id": 41365
+    },
+    {
+      "name": "PINKY CHASE",
+      "gameInstances": [
+        {
+          "name": "Pinky Chase (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41366-1"
+        }
+      ],
+      "id": 41366
+    },
+    {
+      "name": "PIPI",
+      "gameInstances": [
+        {
+          "name": "Pipi (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41367-1"
+        }
+      ],
+      "id": 41367
+    },
+    {
+      "name": "PIPPOLS",
+      "gameInstances": [
+        {
+          "name": "Pippols (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41368-1"
+        }
+      ],
+      "id": 41368
+    },
+    {
+      "name": "PITFALL II - LOST CAVERNS",
+      "gameInstances": [
+        {
+          "name": "Pitfall II - Lost Caverns (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41369-1"
+        }
+      ],
+      "id": 41369
+    },
+    {
+      "name": "PITFALL!",
+      "gameInstances": [
+        {
+          "name": "Pitfall! (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41370-1"
+        }
+      ],
+      "id": 41370
+    },
+    {
+      "name": "PLAY BALL",
+      "gameInstances": [
+        {
+          "name": "Play Ball (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41371-1"
+        }
+      ],
+      "id": 41371
+    },
+    {
+      "name": "POINY X SENRYOSAKUSEN - OPERATION THANKSGIVING",
+      "gameInstances": [
+        {
+          "name": "Poiny X Senryosakusen - Operation Thanksgiving (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41372-1"
+        }
+      ],
+      "id": 41372
+    },
+    {
+      "name": "POLICE STORY, THE",
+      "gameInstances": [
+        {
+          "name": "Police Story, The (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41373-1"
+        }
+      ],
+      "id": 41373
+    },
+    {
+      "name": "POOYAN",
+      "gameInstances": [
+        {
+          "name": "Pooyan (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41374-1"
+        }
+      ],
+      "id": 41374
+    },
+    {
+      "name": "POPPAQ THE FISH",
+      "gameInstances": [
+        {
+          "name": "Poppaq the Fish (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41375-1"
+        }
+      ],
+      "id": 41375
+    },
+    {
+      "name": "PROFESSIONAL BASEBALL",
+      "gameInstances": [
+        {
+          "name": "Professional Baseball (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41376-1"
+        }
+      ],
+      "id": 41376
+    },
+    {
+      "name": "PROFESSIONAL MAHJONG",
+      "gameInstances": [
+        {
+          "name": "Professional Mahjong (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41377-1"
+        }
+      ],
+      "id": 41377
+    },
+    {
+      "name": "PROTECTOR, THE",
+      "gameInstances": [
+        {
+          "name": "Protector, The (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41378-1"
+        }
+      ],
+      "id": 41378
+    },
+    {
+      "name": "PSYCHIC WAR - COSMIC SOLDIER 2",
+      "gameInstances": [
+        {
+          "name": "Psychic War - Cosmic Soldier 2 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41379-1"
+        }
+      ],
+      "id": 41379
+    },
+    {
+      "name": "PUZZLE PANIC",
+      "gameInstances": [
+        {
+          "name": "Puzzle Panic (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41380-1"
+        }
+      ],
+      "id": 41380
+    },
+    {
+      "name": "PYRAMID WARP",
+      "gameInstances": [
+        {
+          "name": "Pyramid Warp (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41381-1"
+        }
+      ],
+      "id": 41381
+    },
+    {
+      "name": "Q-BERT",
+      "gameInstances": [
+        {
+          "name": "Q-bert (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41382-1"
+        }
+      ],
+      "id": 41382
+    },
+    {
+      "name": "QUEEN'S GOLF",
+      "gameInstances": [
+        {
+          "name": "Queen's Golf (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41383-1"
+        }
+      ],
+      "id": 41383
+    },
+    {
+      "name": "R-TYPE",
+      "gameInstances": [
+        {
+          "name": "R-Type (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41384-1"
+        }
+      ],
+      "id": 41384
+    },
+    {
+      "name": "RAID ON BUNGELING BAY",
+      "gameInstances": [
+        {
+          "name": "Raid on Bungeling Bay (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41385-1"
+        }
+      ],
+      "id": 41385
+    },
+    {
+      "name": "RALLY-X",
+      "gameInstances": [
+        {
+          "name": "Rally-X (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41386-1"
+        }
+      ],
+      "id": 41386
+    },
+    {
+      "name": "RAMBO",
+      "gameInstances": [
+        {
+          "name": "Rambo (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41387-1"
+        }
+      ],
+      "id": 41387
+    },
+    {
+      "name": "REAL TENNIS",
+      "gameInstances": [
+        {
+          "name": "Real Tennis (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41388-1"
+        }
+      ],
+      "id": 41388
+    },
+    {
+      "name": "RED ZONE",
+      "gameInstances": [
+        {
+          "name": "Red Zone (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41389-1"
+        }
+      ],
+      "id": 41389
+    },
+    {
+      "name": "RELICS",
+      "gameInstances": [
+        {
+          "name": "Relics (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41390-1"
+        }
+      ],
+      "id": 41390
+    },
+    {
+      "name": "RENJU & OJAMA DOGS",
+      "gameInstances": [
+        {
+          "name": "Renju & Ojama Dogs (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41391-1"
+        }
+      ],
+      "id": 41391
+    },
+    {
+      "name": "RISE OUT FROM DUNGEONS",
+      "gameInstances": [
+        {
+          "name": "Rise Out from Dungeons (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41392-1"
+        }
+      ],
+      "id": 41392
+    },
+    {
+      "name": "RIVER RAID",
+      "gameInstances": [
+        {
+          "name": "River Raid (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41393-1"
+        }
+      ],
+      "id": 41393
+    },
+    {
+      "name": "ROAD FIGHTER",
+      "gameInstances": [
+        {
+          "name": "Road Fighter (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41394-1"
+        }
+      ],
+      "id": 41394
+    },
+    {
+      "name": "ROBO WRES 2001",
+      "gameInstances": [
+        {
+          "name": "Robo Wres 2001 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41395-1"
+        }
+      ],
+      "id": 41395
+    },
+    {
+      "name": "ROBOFROG",
+      "gameInstances": [
+        {
+          "name": "Robofrog (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41396-1"
+        }
+      ],
+      "id": 41396
+    },
+    {
+      "name": "ROCK'N BOLT",
+      "gameInstances": [
+        {
+          "name": "Rock'n Bolt (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41397-1"
+        }
+      ],
+      "id": 41397
+    },
+    {
+      "name": "ROLLER BALL",
+      "gameInstances": [
+        {
+          "name": "Roller Ball (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41398-1"
+        }
+      ],
+      "id": 41398
+    },
+    {
+      "name": "ROTORS",
+      "gameInstances": [
+        {
+          "name": "Rotors (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41399-1"
+        }
+      ],
+      "id": 41399
+    },
+    {
+      "name": "SANGOKUSHI",
+      "gameInstances": [
+        {
+          "name": "Sangokushi (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41400-1"
+        }
+      ],
+      "id": 41400
+    },
+    {
+      "name": "SASA",
+      "gameInstances": [
+        {
+          "name": "Sasa (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41401-1"
+        }
+      ],
+      "id": 41401
+    },
+    {
+      "name": "SAURUS LAND",
+      "gameInstances": [
+        {
+          "name": "Saurus Land (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41402-1"
+        }
+      ],
+      "id": 41402
+    },
+    {
+      "name": "SCARLET 7 - THE MIGHTIEST WOMEN",
+      "gameInstances": [
+        {
+          "name": "Scarlet 7 - The Mightiest Women (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41403-1"
+        }
+      ],
+      "id": 41403
+    },
+    {
+      "name": "SCION",
+      "gameInstances": [
+        {
+          "name": "Scion (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41404-1"
+        }
+      ],
+      "id": 41404
+    },
+    {
+      "name": "SCOPE ON - FIGHT IN SPACE",
+      "gameInstances": [
+        {
+          "name": "Scope On - Fight in Space (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41405-1"
+        }
+      ],
+      "id": 41405
+    },
+    {
+      "name": "SCRAMBLE EGGS",
+      "gameInstances": [
+        {
+          "name": "Scramble Eggs (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41406-1"
+        }
+      ],
+      "id": 41406
+    },
+    {
+      "name": "SENJO NO OOKAMI",
+      "gameInstances": [
+        {
+          "name": "Senjo no Ookami (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41407-1"
+        }
+      ],
+      "id": 41407
+    },
+    {
+      "name": "SENJYO",
+      "gameInstances": [
+        {
+          "name": "Senjyo (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41408-1"
+        }
+      ],
+      "id": 41408
+    },
+    {
+      "name": "SEWER SAM",
+      "gameInstances": [
+        {
+          "name": "Sewer Sam (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41409-1"
+        }
+      ],
+      "id": 41409
+    },
+    {
+      "name": "SHOUGI",
+      "gameInstances": [
+        {
+          "name": "Shougi (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41410-1"
+        }
+      ],
+      "id": 41410
+    },
+    {
+      "name": "SHOUGI 2",
+      "gameInstances": [
+        {
+          "name": "Shougi 2 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41411-1"
+        }
+      ],
+      "id": 41411
+    },
+    {
+      "name": "SHOUGI GAME",
+      "gameInstances": [
+        {
+          "name": "Shougi Game (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41412-1"
+        }
+      ],
+      "id": 41412
+    },
+    {
+      "name": "SHOUGI MEIJIN",
+      "gameInstances": [
+        {
+          "name": "Shougi Meijin (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41413-1"
+        }
+      ],
+      "id": 41413
+    },
+    {
+      "name": "SHOUT MATCH",
+      "gameInstances": [
+        {
+          "name": "Shout Match (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41414-1"
+        }
+      ],
+      "id": 41414
+    },
+    {
+      "name": "SINBAD",
+      "gameInstances": [
+        {
+          "name": "Sinbad (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41415-1"
+        }
+      ],
+      "id": 41415
+    },
+    {
+      "name": "SKOOTER",
+      "gameInstances": [
+        {
+          "name": "Skooter (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41416-1"
+        }
+      ],
+      "id": 41416
+    },
+    {
+      "name": "SKY GALDO",
+      "gameInstances": [
+        {
+          "name": "Sky Galdo (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41417-1"
+        }
+      ],
+      "id": 41417
+    },
+    {
+      "name": "SOFIA",
+      "gameInstances": [
+        {
+          "name": "Sofia (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41418-1"
+        }
+      ],
+      "id": 41418
+    },
+    {
+      "name": "SOUKOBAN",
+      "gameInstances": [
+        {
+          "name": "Soukoban (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41419-1"
+        }
+      ],
+      "id": 41419
+    },
+    {
+      "name": "SPACE CAMP",
+      "gameInstances": [
+        {
+          "name": "Space Camp (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41420-1"
+        }
+      ],
+      "id": 41420
+    },
+    {
+      "name": "SPACE INVADERS",
+      "gameInstances": [
+        {
+          "name": "Space Invaders (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41421-1"
+        }
+      ],
+      "id": 41421
+    },
+    {
+      "name": "SPACE MAZE ATTACK",
+      "gameInstances": [
+        {
+          "name": "Space Maze Attack (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41422-1"
+        }
+      ],
+      "id": 41422
+    },
+    {
+      "name": "SPACE TROUBLE",
+      "gameInstances": [
+        {
+          "name": "Space Trouble (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41423-1"
+        }
+      ],
+      "id": 41423
+    },
+    {
+      "name": "SPARKIE",
+      "gameInstances": [
+        {
+          "name": "Sparkie (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41424-1"
+        }
+      ],
+      "id": 41424
+    },
+    {
+      "name": "SPELUNKER",
+      "gameInstances": [
+        {
+          "name": "Spelunker (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41425-1"
+        }
+      ],
+      "id": 41425
+    },
+    {
+      "name": "SPIDER, THE",
+      "gameInstances": [
+        {
+          "name": "Spider, The (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41426-1"
+        }
+      ],
+      "id": 41426
+    },
+    {
+      "name": "SQUARE DANCER",
+      "gameInstances": [
+        {
+          "name": "Square Dancer (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41427-1"
+        }
+      ],
+      "id": 41427
+    },
+    {
+      "name": "SQUISH'EM",
+      "gameInstances": [
+        {
+          "name": "Squish'em (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41428-1"
+        }
+      ],
+      "id": 41428
+    },
+    {
+      "name": "STAR BLAZER",
+      "gameInstances": [
+        {
+          "name": "Star Blazer (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41429-1"
+        }
+      ],
+      "id": 41429
+    },
+    {
+      "name": "STAR COMMAND",
+      "gameInstances": [
+        {
+          "name": "Star Command (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41430-1"
+        }
+      ],
+      "id": 41430
+    },
+    {
+      "name": "STAR FORCE",
+      "gameInstances": [
+        {
+          "name": "Star Force (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41431-1"
+        }
+      ],
+      "id": 41431
+    },
+    {
+      "name": "STAR SOLDIER",
+      "gameInstances": [
+        {
+          "name": "Star Soldier (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41432-1"
+        }
+      ],
+      "id": 41432
+    },
+    {
+      "name": "STAR TRAP",
+      "gameInstances": [
+        {
+          "name": "Star Trap (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41433-1"
+        }
+      ],
+      "id": 41433
+    },
+    {
+      "name": "STARSHIP SIMULATOR",
+      "gameInstances": [
+        {
+          "name": "Starship Simulator (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41434-1"
+        }
+      ],
+      "id": 41434
+    },
+    {
+      "name": "STEP UP",
+      "gameInstances": [
+        {
+          "name": "Step Up (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41435-1"
+        }
+      ],
+      "id": 41435
+    },
+    {
+      "name": "STEPPER",
+      "gameInstances": [
+        {
+          "name": "Stepper (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41436-1"
+        }
+      ],
+      "id": 41436
+    },
+    {
+      "name": "STONE OF WISDOM, THE",
+      "gameInstances": [
+        {
+          "name": "Stone of Wisdom, The (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41437-1"
+        }
+      ],
+      "id": 41437
+    },
+    {
+      "name": "STRANGE LOOP",
+      "gameInstances": [
+        {
+          "name": "Strange Loop (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41438-1"
+        }
+      ],
+      "id": 41438
+    },
+    {
+      "name": "SUPAROBO",
+      "gameInstances": [
+        {
+          "name": "Suparobo (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41439-1"
+        }
+      ],
+      "id": 41439
+    },
+    {
+      "name": "SUPER BILLIARDS",
+      "gameInstances": [
+        {
+          "name": "Super Billiards (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41440-1"
+        }
+      ],
+      "id": 41440
+    },
+    {
+      "name": "SUPER COBRA",
+      "gameInstances": [
+        {
+          "name": "Super Cobra (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41441-1"
+        }
+      ],
+      "id": 41441
+    },
+    {
+      "name": "SUPER COLUMNS",
+      "gameInstances": [
+        {
+          "name": "Super Columns (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41442-1"
+        }
+      ],
+      "id": 41442
+    },
+    {
+      "name": "SUPER DRINKER",
+      "gameInstances": [
+        {
+          "name": "Super Drinker (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41443-1"
+        }
+      ],
+      "id": 41443
+    },
+    {
+      "name": "SUPER GOLF",
+      "gameInstances": [
+        {
+          "name": "Super Golf (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41444-1"
+        }
+      ],
+      "id": 41444
+    },
+    {
+      "name": "SUPER LAYDOCK - MISSION STRIKER",
+      "gameInstances": [
+        {
+          "name": "Super Laydock - Mission Striker (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41445-1"
+        }
+      ],
+      "id": 41445
+    },
+    {
+      "name": "SUPER PACHINKO",
+      "gameInstances": [
+        {
+          "name": "Super Pachinko (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41446-1"
+        }
+      ],
+      "id": 41446
+    },
+    {
+      "name": "SUPER PIERROT",
+      "gameInstances": [
+        {
+          "name": "Super Pierrot (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41447-1"
+        }
+      ],
+      "id": 41447
+    },
+    {
+      "name": "SUPER SNAKE",
+      "gameInstances": [
+        {
+          "name": "Super Snake (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41448-1"
+        }
+      ],
+      "id": 41448
+    },
+    {
+      "name": "SUPER SOCCER",
+      "gameInstances": [
+        {
+          "name": "Super Soccer (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41449-1"
+        }
+      ],
+      "id": 41449
+    },
+    {
+      "name": "SUPER TENNIS",
+      "gameInstances": [
+        {
+          "name": "Super Tennis (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41450-1"
+        }
+      ],
+      "id": 41450
+    },
+    {
+      "name": "SWEET ACORN",
+      "gameInstances": [
+        {
+          "name": "Sweet Acorn (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41451-1"
+        }
+      ],
+      "id": 41451
+    },
+    {
+      "name": "SWING",
+      "gameInstances": [
+        {
+          "name": "Swing (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41452-1"
+        }
+      ],
+      "id": 41452
+    },
+    {
+      "name": "SYOUGUN",
+      "gameInstances": [
+        {
+          "name": "Syougun (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41453-1"
+        }
+      ],
+      "id": 41453
+    },
+    {
+      "name": "TZR - GRAND PRIX RIDER",
+      "gameInstances": [
+        {
+          "name": "TZR - Grand Prix Rider (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41454-1"
+        }
+      ],
+      "id": 41454
+    },
+    {
+      "name": "TANIGAWA KOUJI NO SHOGI SHINAN",
+      "gameInstances": [
+        {
+          "name": "Tanigawa Kouji no Shogi Shinan (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41455-1"
+        }
+      ],
+      "id": 41455
+    },
+    {
+      "name": "TANK BATTALION",
+      "gameInstances": [
+        {
+          "name": "Tank Battalion (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41456-1"
+        }
+      ],
+      "id": 41456
+    },
+    {
+      "name": "TATICA",
+      "gameInstances": [
+        {
+          "name": "Tatica (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41457-1"
+        }
+      ],
+      "id": 41457
+    },
+    {
+      "name": "TAWARA-KUN",
+      "gameInstances": [
+        {
+          "name": "Tawara-kun (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41458-1"
+        }
+      ],
+      "id": 41458
+    },
+    {
+      "name": "TEAR OF NILE",
+      "gameInstances": [
+        {
+          "name": "Tear of Nile (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41459-1"
+        }
+      ],
+      "id": 41459
+    },
+    {
+      "name": "TELEBUNNIE",
+      "gameInstances": [
+        {
+          "name": "Telebunnie (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41460-1"
+        }
+      ],
+      "id": 41460
+    },
+    {
+      "name": "TENSAI RABBIAN DAIFUNSEN",
+      "gameInstances": [
+        {
+          "name": "Tensai Rabbian Daifunsen (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41461-1"
+        }
+      ],
+      "id": 41461
+    },
+    {
+      "name": "TENSIDACHINO GOGO",
+      "gameInstances": [
+        {
+          "name": "Tensidachino Gogo (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41462-1"
+        }
+      ],
+      "id": 41462
+    },
+    {
+      "name": "TETRA HORROR",
+      "gameInstances": [
+        {
+          "name": "Tetra Horror (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41463-1"
+        }
+      ],
+      "id": 41463
+    },
+    {
+      "name": "TETSUMAN",
+      "gameInstances": [
+        {
+          "name": "Tetsuman (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41464-1"
+        }
+      ],
+      "id": 41464
+    },
+    {
+      "name": "THEXDER",
+      "gameInstances": [
+        {
+          "name": "Thexder (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41465-1"
+        }
+      ],
+      "id": 41465
+    },
+    {
+      "name": "THUNDER BALL",
+      "gameInstances": [
+        {
+          "name": "Thunder Ball (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41466-1"
+        }
+      ],
+      "id": 41466
+    },
+    {
+      "name": "THUNDERBOLT",
+      "gameInstances": [
+        {
+          "name": "Thunderbolt (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41467-1"
+        }
+      ],
+      "id": 41467
+    },
+    {
+      "name": "TIME PILOT",
+      "gameInstances": [
+        {
+          "name": "Time Pilot (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41468-1"
+        }
+      ],
+      "id": 41468
+    },
+    {
+      "name": "TOP ROLLER!",
+      "gameInstances": [
+        {
+          "name": "Top Roller! (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41469-1"
+        }
+      ],
+      "id": 41469
+    },
+    {
+      "name": "TOPPLE ZIP",
+      "gameInstances": [
+        {
+          "name": "Topple Zip (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41470-1"
+        }
+      ],
+      "id": 41470
+    },
+    {
+      "name": "TRAFFIC",
+      "gameInstances": [
+        {
+          "name": "Traffic (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41471-1"
+        }
+      ],
+      "id": 41471
+    },
+    {
+      "name": "TRIAL SKI",
+      "gameInstances": [
+        {
+          "name": "Trial Ski (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41472-1"
+        }
+      ],
+      "id": 41472
+    },
+    {
+      "name": "TRICK BOY",
+      "gameInstances": [
+        {
+          "name": "Trick Boy (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41473-1"
+        }
+      ],
+      "id": 41473
+    },
+    {
+      "name": "TRITORN",
+      "gameInstances": [
+        {
+          "name": "Tritorn (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41474-1"
+        }
+      ],
+      "id": 41474
+    },
+    {
+      "name": "TRUMPAID",
+      "gameInstances": [
+        {
+          "name": "Trumpaid (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41475-1"
+        }
+      ],
+      "id": 41475
+    },
+    {
+      "name": "TUMEGO 120",
+      "gameInstances": [
+        {
+          "name": "Tumego 120 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41476-1"
+        }
+      ],
+      "id": 41476
+    },
+    {
+      "name": "TURBOAT",
+      "gameInstances": [
+        {
+          "name": "Turboat (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41477-1"
+        }
+      ],
+      "id": 41477
+    },
+    {
+      "name": "TURMOIL",
+      "gameInstances": [
+        {
+          "name": "Turmoil (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41478-1"
+        }
+      ],
+      "id": 41478
+    },
+    {
+      "name": "TWIN BEE",
+      "gameInstances": [
+        {
+          "name": "Twin Bee (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41479-1"
+        }
+      ],
+      "id": 41479
+    },
+    {
+      "name": "ULTRAMAN",
+      "gameInstances": [
+        {
+          "name": "Ultraman (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41480-1"
+        }
+      ],
+      "id": 41480
+    },
+    {
+      "name": "VAXOL - HEAVY ARMED STORM VEHICLE",
+      "gameInstances": [
+        {
+          "name": "Vaxol - Heavy Armed Storm Vehicle (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41481-1"
+        }
+      ],
+      "id": 41481
+    },
+    {
+      "name": "VENUS FIRE",
+      "gameInstances": [
+        {
+          "name": "Venus Fire (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41482-1"
+        }
+      ],
+      "id": 41482
+    },
+    {
+      "name": "VIDEO HUSTLER",
+      "gameInstances": [
+        {
+          "name": "Video Hustler (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41483-1"
+        }
+      ],
+      "id": 41483
+    },
+    {
+      "name": "VOLGUARD",
+      "gameInstances": [
+        {
+          "name": "Volguard (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41484-1"
+        }
+      ],
+      "id": 41484
+    },
+    {
+      "name": "WARP & WARP",
+      "gameInstances": [
+        {
+          "name": "Warp & Warp (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41485-1"
+        }
+      ],
+      "id": 41485
+    },
+    {
+      "name": "WARRIOR",
+      "gameInstances": [
+        {
+          "name": "Warrior (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41486-1"
+        }
+      ],
+      "id": 41486
+    },
+    {
+      "name": "WARROID",
+      "gameInstances": [
+        {
+          "name": "Warroid (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41487-1"
+        }
+      ],
+      "id": 41487
+    },
+    {
+      "name": "WATER DRIVER",
+      "gameInstances": [
+        {
+          "name": "Water Driver (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41488-1"
+        }
+      ],
+      "id": 41488
+    },
+    {
+      "name": "WING MAN 2",
+      "gameInstances": [
+        {
+          "name": "Wing Man 2 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41489-1"
+        }
+      ],
+      "id": 41489
+    },
+    {
+      "name": "WONDER BOY",
+      "gameInstances": [
+        {
+          "name": "Wonder Boy (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41490-1"
+        }
+      ],
+      "id": 41490
+    },
+    {
+      "name": "XYXOLOG",
+      "gameInstances": [
+        {
+          "name": "Xyxolog (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41491-1"
+        }
+      ],
+      "id": 41491
+    },
+    {
+      "name": "YELLOW SUBMARINE",
+      "gameInstances": [
+        {
+          "name": "Yellow Submarine (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41492-1"
+        }
+      ],
+      "id": 41492
+    },
+    {
+      "name": "YIE AR KUNG-FU",
+      "gameInstances": [
+        {
+          "name": "Yie Ar Kung-Fu (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41493-1"
+        }
+      ],
+      "id": 41493
+    },
+    {
+      "name": "YIE AR KUNG-FU II - THE EMPEROR YIE-GAH",
+      "gameInstances": [
+        {
+          "name": "Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41494-1"
+        }
+      ],
+      "id": 41494
+    },
+    {
+      "name": "YOKAI TANKEN CHIMACHIMA",
+      "gameInstances": [
+        {
+          "name": "Yokai Tanken Chimachima (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41495-1"
+        }
+      ],
+      "id": 41495
+    },
+    {
+      "name": "YOUNG SHERLOCK - THE LEGACY OF DOYLE",
+      "gameInstances": [
+        {
+          "name": "Young Sherlock - The Legacy of Doyle (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41496-1"
+        }
+      ],
+      "id": 41496
+    },
+    {
+      "name": "ZAIDER - BATTLE OF PEGUSS",
+      "gameInstances": [
+        {
+          "name": "Zaider - Battle of Peguss (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41497-1"
+        }
+      ],
+      "id": 41497
+    },
+    {
+      "name": "ZANAC",
+      "gameInstances": [
+        {
+          "name": "Zanac (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41498-1"
+        },
+        {
+          "name": "Zanac (Japan) (v2)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41498-2"
+        }
+      ],
+      "id": 41498
+    },
+    {
+      "name": "ZAXXON",
+      "gameInstances": [
+        {
+          "name": "Zaxxon (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41499-1"
+        }
+      ],
+      "id": 41499
+    },
+    {
+      "name": "ZENJI",
+      "gameInstances": [
+        {
+          "name": "Zenji (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41500-1"
+        }
+      ],
+      "id": 41500
+    },
+    {
+      "name": "ZEXAS LIMITED",
+      "gameInstances": [
+        {
+          "name": "Zexas Limited (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41501-1"
+        }
+      ],
+      "id": 41501
+    },
+    {
+      "name": "ZOOM 909",
+      "gameInstances": [
+        {
+          "name": "Zoom 909 (Japan)",
+          "platform": "msx",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "41502-1"
+        }
+      ],
+      "id": 41502
     }
   ]
 }
