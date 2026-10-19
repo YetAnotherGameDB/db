@@ -426969,6 +426969,24 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "16906-2"
+        },
+        {
+          "name": "Advanced Dungeons & Dragons - Eye of the Beholder - A Legend Series Fantasy Role-Playing Saga, Vol.I (Europe)",
+          "platform": "amiga",
+          "media": "disk",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "16906-3"
+        },
+        {
+          "name": "Advanced Dungeons & Dragons - Eye of the Beholder - A Legend Series Fantasy Role-Playing Saga, Vol.I (Germany)",
+          "platform": "amiga",
+          "media": "disk",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "16906-4"
         }
       ],
       "id": 16906,
@@ -946177,30 +946195,6 @@
         }
       ],
       "id": 43347
-    },
-    {
-      "name": "ADVANCED DUNGEONS & DRAGONS - EYE OF THE BEHOLDER - A LEGEND SERIES FANTASY ROLE-PLAYING SAGA, VOL.I",
-      "gameInstances": [
-        {
-          "name": "Advanced Dungeons & Dragons - Eye of the Beholder - A Legend Series Fantasy Role-Playing Saga, Vol.I (Europe)",
-          "platform": "amiga",
-          "media": "disk",
-          "language": "[En]",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "43348-1"
-        },
-        {
-          "name": "Advanced Dungeons & Dragons - Eye of the Beholder - A Legend Series Fantasy Role-Playing Saga, Vol.I (Germany)",
-          "platform": "amiga",
-          "media": "disk",
-          "language": "[En]",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "43348-2"
-        }
-      ],
-      "id": 43348
     },
     {
       "name": "ADVANCED DUNGEONS & DRAGONS - EYE OF THE BEHOLDER II - LEGENDE VON DARKMOON - A LEGEND SERIES FANTASY ROLE-PLAYING SAGA, VOL.II",
