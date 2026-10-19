@@ -20,6 +20,7 @@ INSTANCE_KEY_MAP = {
     "platform": "platform",
     "language": "language",
     "serial": "serial",
+    "media": "media",
     "region": "region",
     "releasedate": "release_date",
     "tgdbid": "tgdb_id",
@@ -33,13 +34,24 @@ INSTANCE_KEY_MAP = {
 
 INSTANCE_COLS = [
     "id", "game_id", "name", "regional_name", "platform", "language",
-    "serial", "region", "release_date", "tgdb_id", "gameye_id",
+    "serial", "media", "region", "release_date", "tgdb_id", "gameye_id",
     "pricecharting_id", "upc", "redump_id", "linked_id",
 ]
 
 SCHEMA = """
 CREATE TABLE platforms (name TEXT PRIMARY KEY);
 CREATE TABLE regions (name TEXT PRIMARY KEY);
+-- enums.regions / enums.media: which regions and media each platform allows
+CREATE TABLE platform_regions (
+    platform TEXT NOT NULL,
+    region   TEXT NOT NULL,
+    PRIMARY KEY (platform, region)
+);
+CREATE TABLE platform_media (
+    platform TEXT NOT NULL,
+    media    TEXT NOT NULL,
+    PRIMARY KEY (platform, media)
+);
 CREATE TABLE games (
     id   INTEGER PRIMARY KEY,
     name TEXT NOT NULL
@@ -58,6 +70,7 @@ CREATE TABLE game_instances (
     platform         TEXT,
     language         TEXT,
     serial           TEXT,
+    media            TEXT,
     region           TEXT,
     release_date     TEXT,
     tgdb_id          INTEGER,
@@ -91,6 +104,11 @@ def main():
                     [(p,) for p in enums.get("platforms", [])])
     cur.executemany("INSERT INTO regions VALUES (?)",
                     [(r,) for r in enums.get("regions", [])])
+
+    for table, column, mapping in (("platform_regions", "region", enums.get("regions", {})),
+                                   ("platform_media", "media", enums.get("media", {}))):
+        cur.executemany(f"INSERT INTO {table} VALUES (?, ?)",
+                        [(p, v) for p, values in mapping.items() for v in values])
 
     inst_sql = "INSERT INTO game_instances ({}) VALUES ({})".format(
         ",".join(INSTANCE_COLS), ",".join("?" * len(INSTANCE_COLS)))
