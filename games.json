@@ -406687,20 +406687,6 @@
       "id": 16173
     },
     {
-      "name": "EYE OF THE BEHOLDER",
-      "gameInstances": [
-        {
-          "name": "Eye of the Beholder",
-          "platform": "snes",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "16174-1"
-        }
-      ],
-      "id": 16174
-    },
-    {
       "name": "FARLAND STORY",
       "gameInstances": [
         {
@@ -421254,6 +421240,14 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "16906-1"
+        },
+        {
+          "name": "Eye of the Beholder",
+          "platform": "snes",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "16906-2"
         }
       ],
       "id": 16906,
