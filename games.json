@@ -248,6 +248,11 @@
       "neogeo": [
         "aes",
         "mvs"
+      ],
+      "msx": [
+        "cart",
+        "disk",
+        "tape"
       ]
     }
   },
@@ -924250,6 +924255,7 @@
         {
           "name": "10-Yard Fight (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924264,6 +924270,7 @@
         {
           "name": "1942 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924278,6 +924285,7 @@
         {
           "name": "3-D Golf Simulation (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924286,6 +924294,7 @@
         {
           "name": "3-D Golf Simulation (Japan) (High Speed)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924300,6 +924309,7 @@
         {
           "name": "3D Tennis (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924314,6 +924324,7 @@
         {
           "name": "A.E. (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924328,6 +924339,7 @@
         {
           "name": "A1 Spirit - The Way to Formula-1 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924342,6 +924354,7 @@
         {
           "name": "Actman (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924356,6 +924369,7 @@
         {
           "name": "Adven' Chuta! (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924370,6 +924384,7 @@
         {
           "name": "Albatros (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924384,6 +924399,7 @@
         {
           "name": "Alcazar - The Forgotten Fortress (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924398,6 +924414,7 @@
         {
           "name": "Alibaba and 40 Thieves (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924412,6 +924429,7 @@
         {
           "name": "Alien 8 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924426,6 +924444,7 @@
         {
           "name": "Aliens - Alien 2 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924440,6 +924459,7 @@
         {
           "name": "Alpha Roid (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924454,6 +924474,7 @@
         {
           "name": "Alpha Squadron (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924468,6 +924489,7 @@
         {
           "name": "American Truck (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924482,6 +924504,7 @@
         {
           "name": "Anaza - Kaleidoscope Special (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924496,6 +924519,7 @@
         {
           "name": "Angelo (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924510,6 +924534,7 @@
         {
           "name": "Animal Land (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924524,6 +924549,7 @@
         {
           "name": "Anty (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924538,6 +924564,7 @@
         {
           "name": "Aqua Polis SOS (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924552,6 +924579,7 @@
         {
           "name": "Aquattack (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924566,6 +924594,7 @@
         {
           "name": "Aramo (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924580,6 +924609,7 @@
         {
           "name": "Arkanoid (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924594,6 +924624,7 @@
         {
           "name": "Athletic Ball (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924608,6 +924639,7 @@
         {
           "name": "Athletic Land (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924622,6 +924654,7 @@
         {
           "name": "Attack Four Volley Ball (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924636,6 +924669,7 @@
         {
           "name": "B.C.'s Quest (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924650,6 +924684,7 @@
         {
           "name": "Back Gammon (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924664,6 +924699,7 @@
         {
           "name": "Back to the Future (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924678,6 +924714,7 @@
         {
           "name": "Balance (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924692,6 +924729,7 @@
         {
           "name": "Banana (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924706,6 +924744,7 @@
         {
           "name": "Bank Panic (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924720,6 +924759,7 @@
         {
           "name": "Basic Lessons 1 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924734,6 +924774,7 @@
         {
           "name": "Basic Lessons 2 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924748,6 +924789,7 @@
         {
           "name": "Batman (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924762,6 +924804,7 @@
         {
           "name": "Batten Tanuki no Daibouken (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924770,6 +924813,7 @@
         {
           "name": "Batten Tanuki no Daibouken (Japan) (v1.03)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924784,6 +924828,7 @@
         {
           "name": "Battle Cross (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924798,6 +924843,7 @@
         {
           "name": "Battleship Clapton II (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924812,6 +924858,7 @@
         {
           "name": "Beam Rider (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924826,6 +924873,7 @@
         {
           "name": "Becky (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924840,6 +924888,7 @@
         {
           "name": "Bee & Flower (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924854,6 +924903,7 @@
         {
           "name": "Bifamu (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924868,6 +924918,7 @@
         {
           "name": "Binary Land (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924882,6 +924933,7 @@
         {
           "name": "Black Onyx II, The - Search for the Fire Crystal (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924896,6 +924948,7 @@
         {
           "name": "Black Onyx, The (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924910,6 +924963,7 @@
         {
           "name": "Blockade Runner (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924924,6 +924978,7 @@
         {
           "name": "Boggy '84 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924938,6 +924993,7 @@
         {
           "name": "Bokosuka Wars (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924952,6 +925008,7 @@
         {
           "name": "Bomber King (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924966,6 +925023,7 @@
         {
           "name": "Bomberman (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924980,6 +925038,7 @@
         {
           "name": "Bomberman Special (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -924994,6 +925053,7 @@
         {
           "name": "Boogie Woogi Jungle (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925008,6 +925068,7 @@
         {
           "name": "Boomerang (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925022,6 +925083,7 @@
         {
           "name": "Borfesu (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925036,6 +925098,7 @@
         {
           "name": "Bosconian (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925050,6 +925113,7 @@
         {
           "name": "Bouken Roman - Dota (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925064,6 +925128,7 @@
         {
           "name": "Boulder Dash (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925078,6 +925143,7 @@
         {
           "name": "Brain, The (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925092,6 +925158,7 @@
         {
           "name": "Break In (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925106,6 +925173,7 @@
         {
           "name": "Break Out (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925120,6 +925188,7 @@
         {
           "name": "Bruce Lee (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925134,6 +925203,7 @@
         {
           "name": "Burgertime (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925148,6 +925218,7 @@
         {
           "name": "Buru To Marty Kikiippatsu - Inspecteur Z (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925162,6 +925233,7 @@
         {
           "name": "Butam Pants (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925176,6 +925248,7 @@
         {
           "name": "C-So! (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925190,6 +925263,7 @@
         {
           "name": "Cabbage Patch Kids (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925204,6 +925278,7 @@
         {
           "name": "Candoo Ninja (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925218,6 +925293,7 @@
         {
           "name": "Cannon Ball (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925232,6 +925308,7 @@
         {
           "name": "Cannon Fighter (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925246,6 +925323,7 @@
         {
           "name": "Captain Chef (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925260,6 +925338,7 @@
         {
           "name": "Car Fighter (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925274,6 +925353,7 @@
         {
           "name": "Car Jamboree (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925288,6 +925368,7 @@
         {
           "name": "Car-Race (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925302,6 +925383,7 @@
         {
           "name": "Casio Daishogai Keiba - Exciting Jockey (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925316,6 +925398,7 @@
         {
           "name": "Casio Pachinko-U.F.O. (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925330,6 +925413,7 @@
         {
           "name": "Casio Ski Command (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925344,6 +925428,7 @@
         {
           "name": "Casio Worldopen (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925358,6 +925443,7 @@
         {
           "name": "Castle Excellent (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925372,6 +925458,7 @@
         {
           "name": "Castle, The (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925386,6 +925473,7 @@
         {
           "name": "Chack'n Pop (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925400,6 +925488,7 @@
         {
           "name": "Challenge Derby (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925414,6 +925503,7 @@
         {
           "name": "Champion Boxing (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925428,6 +925518,7 @@
         {
           "name": "Champion Ice Hockey (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925442,6 +925533,7 @@
         {
           "name": "Champion Kendou (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925456,6 +925548,7 @@
         {
           "name": "Champion Pro Wrestling (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925470,6 +925563,7 @@
         {
           "name": "Champion Soccer (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925484,6 +925578,7 @@
         {
           "name": "Championship Lode Runner (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925498,6 +925593,7 @@
         {
           "name": "Checkers in Tantan Tanuki (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925512,6 +925608,7 @@
         {
           "name": "Chess (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925526,6 +925623,7 @@
         {
           "name": "Choplifter (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925540,6 +925638,7 @@
         {
           "name": "Choro Q (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925554,6 +925653,7 @@
         {
           "name": "Chugaku Hisshu Eibunpo 1 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925568,6 +925668,7 @@
         {
           "name": "City Connection (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925582,6 +925683,7 @@
         {
           "name": "Coaster Race (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925596,6 +925698,7 @@
         {
           "name": "Color Ball (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925610,6 +925713,7 @@
         {
           "name": "Come On! Picot (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925624,6 +925728,7 @@
         {
           "name": "Comet Tail (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925638,6 +925743,7 @@
         {
           "name": "Comic Bakery (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925652,6 +925758,7 @@
         {
           "name": "Computer Billiards (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925666,6 +925773,7 @@
         {
           "name": "Computer Nyuumon - Computer Lessons (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925680,6 +925788,7 @@
         {
           "name": "Computer Othello (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925694,6 +925803,7 @@
         {
           "name": "Computer Pachinko (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925708,6 +925818,7 @@
         {
           "name": "Con-Dori (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925722,6 +925833,7 @@
         {
           "name": "Cosmo (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925736,6 +925848,7 @@
         {
           "name": "Cosmo-Explorer (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925750,6 +925863,7 @@
         {
           "name": "Courageous Perseus (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925764,6 +925878,7 @@
         {
           "name": "Craze (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925778,6 +925893,7 @@
         {
           "name": "Crazy Bullet (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925792,6 +925908,7 @@
         {
           "name": "Crazy Train (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925806,6 +925923,7 @@
         {
           "name": "Cross Blaim (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925820,6 +925938,7 @@
         {
           "name": "Crusader (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925834,6 +925953,7 @@
         {
           "name": "Custar (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925848,6 +925968,7 @@
         {
           "name": "D-Day (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925862,6 +925983,7 @@
         {
           "name": "Daidasso (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925876,6 +925998,7 @@
         {
           "name": "Daiva Story 4 - Asura's Bloodfeud (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925890,6 +926013,7 @@
         {
           "name": "Dam Busters, The (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925904,6 +926028,7 @@
         {
           "name": "Danger X4 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925918,6 +926043,7 @@
         {
           "name": "David II (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925932,6 +926058,7 @@
         {
           "name": "Dawn Patrol (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925946,6 +926073,7 @@
         {
           "name": "Decathlon (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925960,6 +926088,7 @@
         {
           "name": "Deep Dungeon (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925974,6 +926103,7 @@
         {
           "name": "Deep Dungeon II (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -925988,6 +926118,7 @@
         {
           "name": "Demon Crystal, The (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926002,6 +926133,7 @@
         {
           "name": "Devil's Heaven (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926016,6 +926148,7 @@
         {
           "name": "Dig Dug (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926030,6 +926163,7 @@
         {
           "name": "Digital Devil Monogatari Megami Tensei (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926044,6 +926178,7 @@
         {
           "name": "Doki Doki Penguin Land (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926058,6 +926193,7 @@
         {
           "name": "Doordoor (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926072,6 +926208,7 @@
         {
           "name": "Dorodon (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926086,6 +926223,7 @@
         {
           "name": "Dr. Copy (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926100,6 +926238,7 @@
         {
           "name": "Dragon Attack (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926114,6 +926253,7 @@
         {
           "name": "Dragon Quest (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926128,6 +926268,7 @@
         {
           "name": "Dragon Quest II (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926142,6 +926283,7 @@
         {
           "name": "Dragon Slayer (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926156,6 +926298,7 @@
         {
           "name": "Dragon Slayer II - Xanadu (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926170,6 +926313,7 @@
         {
           "name": "Dragon Slayer IV - Drasle Family (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926184,6 +926328,7 @@
         {
           "name": "Dragon Slayer Jr. - Romancia (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926198,6 +926343,7 @@
         {
           "name": "Drainer (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926212,6 +926358,7 @@
         {
           "name": "Druaga no Tou (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926226,6 +926373,7 @@
         {
           "name": "Dungeon Hunter (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926240,6 +926388,7 @@
         {
           "name": "Dungeon Master (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926254,6 +926403,7 @@
         {
           "name": "Dunk Shot (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926268,6 +926418,7 @@
         {
           "name": "Dynamite Bowl (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926282,6 +926433,7 @@
         {
           "name": "Eagle Fighter (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926296,6 +926448,7 @@
         {
           "name": "Eggerland Mystery (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926310,6 +926463,7 @@
         {
           "name": "Elevator Action (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926324,6 +926478,7 @@
         {
           "name": "Erika (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926338,6 +926493,7 @@
         {
           "name": "Exa Innova (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926352,6 +926508,7 @@
         {
           "name": "Exchanger (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926366,6 +926523,7 @@
         {
           "name": "Exerion (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926380,6 +926538,7 @@
         {
           "name": "Exerion II - Zorni (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926394,6 +926553,7 @@
         {
           "name": "Exoide-Z (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926408,6 +926568,7 @@
         {
           "name": "Exoide-Z Area 5 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926422,6 +926583,7 @@
         {
           "name": "F-1 Spirit - The Way to Formula-1 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926436,6 +926598,7 @@
         {
           "name": "F16 Fighting Falcon (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926450,6 +926613,7 @@
         {
           "name": "Fairy (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926464,6 +926628,7 @@
         {
           "name": "Fairy Land Story, The (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926478,6 +926643,7 @@
         {
           "name": "Fandom Library #1 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926492,6 +926658,7 @@
         {
           "name": "Fandom Library #2 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926506,6 +926673,7 @@
         {
           "name": "Fandom Library #3 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926520,6 +926688,7 @@
         {
           "name": "Fantasy Zone (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926534,6 +926703,7 @@
         {
           "name": "Fathom (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926548,6 +926718,7 @@
         {
           "name": "Final Justice (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926562,6 +926733,7 @@
         {
           "name": "Final Mahjong (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926576,6 +926748,7 @@
         {
           "name": "Final Zone Wolf (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926590,6 +926763,7 @@
         {
           "name": "Fire Rescue (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926604,6 +926778,7 @@
         {
           "name": "Flappy (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926618,6 +926793,7 @@
         {
           "name": "Flappy - Limited 85 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926632,6 +926808,7 @@
         {
           "name": "Flash Splash (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926646,6 +926823,7 @@
         {
           "name": "Flicky (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926660,6 +926838,7 @@
         {
           "name": "Flight Deck (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926674,6 +926853,7 @@
         {
           "name": "Flight Simulator (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926688,6 +926868,7 @@
         {
           "name": "Flipper Slipper (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926702,6 +926883,7 @@
         {
           "name": "Formation Z (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926716,6 +926898,7 @@
         {
           "name": "Frogger (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926730,6 +926913,7 @@
         {
           "name": "Front Line (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926744,6 +926928,7 @@
         {
           "name": "Fruit Search (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926758,6 +926943,7 @@
         {
           "name": "Funky Mouse (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926772,6 +926958,7 @@
         {
           "name": "Fuun Takeshijyou (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926786,6 +926973,7 @@
         {
           "name": "GP World (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926800,6 +926988,7 @@
         {
           "name": "Galaga (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926814,6 +927003,7 @@
         {
           "name": "Galaxian (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926828,6 +927018,7 @@
         {
           "name": "Gall Force - Defense of Chaos (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926842,6 +927033,7 @@
         {
           "name": "Gambler Jiko Chuushinha (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926856,6 +927048,7 @@
         {
           "name": "Game Land (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926870,6 +927063,7 @@
         {
           "name": "Game Master (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926884,6 +927078,7 @@
         {
           "name": "Game Master II (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926898,6 +927093,7 @@
         {
           "name": "Gang Master (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926912,6 +927108,7 @@
         {
           "name": "Gate of Labyrinth (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926926,6 +927123,7 @@
         {
           "name": "Genghis Khan (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926940,6 +927138,7 @@
         {
           "name": "Glider (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926954,6 +927153,7 @@
         {
           "name": "Gojira vs 3 Daikaijuu (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926968,6 +927168,7 @@
         {
           "name": "Gojira-kun (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926982,6 +927183,7 @@
         {
           "name": "Gokiburi Daisakusen - Bug Bomb (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -926996,6 +927198,7 @@
         {
           "name": "Golf Game (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927010,6 +927213,7 @@
         {
           "name": "Golvellius (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927024,6 +927228,7 @@
         {
           "name": "Gomok Narabe - Omo Go (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927038,6 +927243,7 @@
         {
           "name": "Goonies, The (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927052,6 +927258,7 @@
         {
           "name": "Grog's Revenge (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927066,6 +927273,7 @@
         {
           "name": "Guardic (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927080,6 +927288,7 @@
         {
           "name": "Gulkave (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927094,6 +927303,7 @@
         {
           "name": "Gun Fright (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927108,6 +927318,7 @@
         {
           "name": "Gunjin Shougi Mars (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927122,6 +927333,7 @@
         {
           "name": "Gyrodine (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927136,6 +927348,7 @@
         {
           "name": "H.E.R.O. (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927150,6 +927363,7 @@
         {
           "name": "Hades no Monsho (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927164,6 +927378,7 @@
         {
           "name": "Hafanuda Koi Koi - Gostop Godori (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927178,6 +927393,7 @@
         {
           "name": "Haja No Fuin (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927192,6 +927408,7 @@
         {
           "name": "Hanafuta (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927206,6 +927423,7 @@
         {
           "name": "Hang-On (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927220,6 +927438,7 @@
         {
           "name": "Harapeko Pakkun (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927234,6 +927453,7 @@
         {
           "name": "Harryfox MSX Special (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927248,6 +927468,7 @@
         {
           "name": "Harryfox Yki No Maoh (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927262,6 +927483,7 @@
         {
           "name": "Haunted Boynight (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927276,6 +927498,7 @@
         {
           "name": "Heavy Boxing (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927290,6 +927513,7 @@
         {
           "name": "Heist, The (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927304,6 +927528,7 @@
         {
           "name": "Helitank (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927318,6 +927543,7 @@
         {
           "name": "High Way Star (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927332,6 +927558,7 @@
         {
           "name": "Hisya (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927346,6 +927573,7 @@
         {
           "name": "Hitsuji Yai - Preety Sheep (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927360,6 +927588,7 @@
         {
           "name": "Hole in One (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927374,6 +927603,7 @@
         {
           "name": "Hole in One Professional (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927388,6 +927618,7 @@
         {
           "name": "Honkball (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927402,6 +927633,7 @@
         {
           "name": "Hudson 3D Golf (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927416,6 +927648,7 @@
         {
           "name": "Hustle! Chumy (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927430,6 +927663,7 @@
         {
           "name": "Hydlide (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927444,6 +927678,7 @@
         {
           "name": "Hydlide 3 - The Space Memories (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927458,6 +927693,7 @@
         {
           "name": "Hydlide II - Shine of Darkness (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927472,6 +927708,7 @@
         {
           "name": "Hyper Olympic 1 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927486,6 +927723,7 @@
         {
           "name": "Hyper Olympic 2 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927500,6 +927738,7 @@
         {
           "name": "Hyper Rally (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927514,6 +927753,7 @@
         {
           "name": "Hyper Sports 1 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927528,6 +927768,7 @@
         {
           "name": "Hyper Sports 3 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927542,6 +927783,7 @@
         {
           "name": "Ice World (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927556,6 +927798,7 @@
         {
           "name": "Iga Ninpouten - Small Ninja (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927570,6 +927813,7 @@
         {
           "name": "Iga Ninpouten 2 - Small Ninja 2 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927584,6 +927828,7 @@
         {
           "name": "Indian no Bouken (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927598,6 +927843,7 @@
         {
           "name": "Iriegas (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927612,6 +927858,7 @@
         {
           "name": "Iriegas - Theseus (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927626,6 +927873,7 @@
         {
           "name": "Issunhoushi No Donnamondai (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927640,6 +927888,7 @@
         {
           "name": "J.P. Winkle (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927654,6 +927903,7 @@
         {
           "name": "Jagur (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927668,6 +927918,7 @@
         {
           "name": "Janka (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927682,6 +927933,7 @@
         {
           "name": "Jet Set Willy (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927696,6 +927948,7 @@
         {
           "name": "Jigsaw Set (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927710,6 +927963,7 @@
         {
           "name": "Jissen - 4-nin Mahjong (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927724,6 +927978,7 @@
         {
           "name": "Jump (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927738,6 +927993,7 @@
         {
           "name": "Jump Coaster (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927752,6 +928008,7 @@
         {
           "name": "Jump Land (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927766,6 +928023,7 @@
         {
           "name": "Jumping Rabbit (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927780,6 +928038,7 @@
         {
           "name": "Juno First (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927794,6 +928053,7 @@
         {
           "name": "Jyan Friend (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927808,6 +928068,7 @@
         {
           "name": "Jyankyo (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927822,6 +928083,7 @@
         {
           "name": "Jyanyuu (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927836,6 +928098,7 @@
         {
           "name": "Kage no Densetsu - Legend of Kage, The (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927850,6 +928113,7 @@
         {
           "name": "Karamaru (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927864,6 +928128,7 @@
         {
           "name": "Karuizawa (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927878,6 +928143,7 @@
         {
           "name": "Keystone Kapers (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927892,6 +928158,7 @@
         {
           "name": "Kick It (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927906,6 +928173,7 @@
         {
           "name": "Kinasai (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927920,6 +928188,7 @@
         {
           "name": "King & Balloon (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927934,6 +928203,7 @@
         {
           "name": "King Knight (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927948,6 +928218,7 @@
         {
           "name": "King's Valley (Japan, Europe) (En)",
           "platform": "msx",
+          "media": "cart",
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927962,6 +928233,7 @@
         {
           "name": "King's Valley II (Japan, Europe) (En)",
           "platform": "msx",
+          "media": "cart",
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927976,6 +928248,7 @@
         {
           "name": "Kinnikuman - Muscle Man (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -927990,6 +928263,7 @@
         {
           "name": "Knight Lore (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928004,6 +928278,7 @@
         {
           "name": "Knightmare - Majou Densetsu (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928018,6 +928293,7 @@
         {
           "name": "Knightmare II - The Maze of Galious (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928032,6 +928308,7 @@
         {
           "name": "Knightmare III - Shalom (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928046,6 +928323,7 @@
         {
           "name": "Knither Special (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928060,6 +928338,7 @@
         {
           "name": "Konami's Baseball (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928074,6 +928353,7 @@
         {
           "name": "Konami's Boxing (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928088,6 +928368,7 @@
         {
           "name": "Konami's Golf (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928102,6 +928383,7 @@
         {
           "name": "Konami's Mahjong (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928116,6 +928398,7 @@
         {
           "name": "Konami's Ping-Pong (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928130,6 +928413,7 @@
         {
           "name": "Konami's Soccer (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928144,6 +928428,7 @@
         {
           "name": "Konami's Tennis (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928158,6 +928443,7 @@
         {
           "name": "Koneko no Daibouken - Catboy (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928172,6 +928458,7 @@
         {
           "name": "Kung Fu Acho (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928186,6 +928473,7 @@
         {
           "name": "Kung Fu Master (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928200,6 +928488,7 @@
         {
           "name": "Kung Fu Taigun (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928214,6 +928503,7 @@
         {
           "name": "Ladder Building (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928228,6 +928518,7 @@
         {
           "name": "Laptick 2 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928242,6 +928533,7 @@
         {
           "name": "Lode Runner (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928256,6 +928548,7 @@
         {
           "name": "Lode Runner II (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928270,6 +928563,7 @@
         {
           "name": "Lord Over (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928284,6 +928578,7 @@
         {
           "name": "Lot Lot (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928298,6 +928593,7 @@
         {
           "name": "Lunar Ball (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928312,6 +928608,7 @@
         {
           "name": "M36 - A Life Planet (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928326,6 +928623,7 @@
         {
           "name": "MSX 21 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928340,6 +928638,7 @@
         {
           "name": "MSX Baseball (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928354,6 +928653,7 @@
         {
           "name": "MSX Baseball II National (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928368,6 +928668,7 @@
         {
           "name": "MSX Derby (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928382,6 +928683,7 @@
         {
           "name": "MSX Rugby (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928396,6 +928698,7 @@
         {
           "name": "MSX Soccer (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928410,6 +928713,7 @@
         {
           "name": "Machinegun Joe vs The Mafia (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928424,6 +928728,7 @@
         {
           "name": "Macross (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928438,6 +928743,7 @@
         {
           "name": "Magical Kid Wiz (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928452,6 +928758,7 @@
         {
           "name": "Magical Tree (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928466,6 +928773,7 @@
         {
           "name": "Magnum Prohibition 1931 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928480,6 +928788,7 @@
         {
           "name": "Manes (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928494,6 +928803,7 @@
         {
           "name": "Mappy (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928508,6 +928818,7 @@
         {
           "name": "Marchen Veil I (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928522,6 +928833,7 @@
         {
           "name": "Marine Battle (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928536,6 +928848,7 @@
         {
           "name": "Mars II (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928550,6 +928863,7 @@
         {
           "name": "Mashou no Tachi Goblin (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928564,6 +928878,7 @@
         {
           "name": "Megalopolis SOS (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928578,6 +928893,7 @@
         {
           "name": "Meikyuu Shinwa (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928592,6 +928908,7 @@
         {
           "name": "Midnight Brothers (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928606,6 +928923,7 @@
         {
           "name": "Midnight Building (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928620,6 +928938,7 @@
         {
           "name": "Midway (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928634,6 +928953,7 @@
         {
           "name": "Mini Golf (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928648,6 +928968,7 @@
         {
           "name": "Mirai - Future (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928662,6 +928983,7 @@
         {
           "name": "Mitsumega Toohru - Three-Eyed One Comes Here, The (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928676,6 +928998,7 @@
         {
           "name": "Moai no Hibou (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928690,6 +929013,7 @@
         {
           "name": "Mobile Planet Suthirus - Approach from the Westgate (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928704,6 +929028,7 @@
         {
           "name": "Mobile-Suit Gundam - Last Shooting (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928718,6 +929043,7 @@
         {
           "name": "Mokarimakka (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928732,6 +929058,7 @@
         {
           "name": "Mole (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928746,6 +929073,7 @@
         {
           "name": "Mole Mole 2 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928760,6 +929088,7 @@
         {
           "name": "Monkey Academy (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928774,6 +929103,7 @@
         {
           "name": "Monster's Fair (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928788,6 +929118,7 @@
         {
           "name": "Moon Landing (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928802,6 +929133,7 @@
         {
           "name": "Moon Patrol (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928816,6 +929148,7 @@
         {
           "name": "Moonsweeper (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928830,6 +929163,7 @@
         {
           "name": "Mopiranger (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928844,6 +929178,7 @@
         {
           "name": "Morita Kazuo no Othello (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928858,6 +929193,7 @@
         {
           "name": "Mouser (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928872,6 +929208,7 @@
         {
           "name": "Mr. Chin (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928886,6 +929223,7 @@
         {
           "name": "Mr. Do (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928900,6 +929238,7 @@
         {
           "name": "Mr. Do vs Unicorns (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928914,6 +929253,7 @@
         {
           "name": "Mr. Do's Wild Ride (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928928,6 +929268,7 @@
         {
           "name": "Mugen Senshi Valis - The Fantasm Soldier (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928942,6 +929283,7 @@
         {
           "name": "Nausicaa (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928956,6 +929298,7 @@
         {
           "name": "Nemesis (Japan, Europe) (En)",
           "platform": "msx",
+          "media": "cart",
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928970,6 +929313,7 @@
         {
           "name": "Nemesis 2 (Japan, Europe) (En)",
           "platform": "msx",
+          "media": "cart",
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928984,6 +929328,7 @@
         {
           "name": "Nemesis 3 - The Eve of Destruction (Japan, Europe) (En)",
           "platform": "msx",
+          "media": "cart",
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
@@ -928998,6 +929343,7 @@
         {
           "name": "Nessen Koushiyen (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929012,6 +929358,7 @@
         {
           "name": "Night Shade (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929026,6 +929373,7 @@
         {
           "name": "Ninja Jajamaru-kun (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929040,6 +929388,7 @@
         {
           "name": "Ninja Princess (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929054,6 +929403,7 @@
         {
           "name": "Ninjakun (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929068,6 +929418,7 @@
         {
           "name": "Ninjakun Majou (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929082,6 +929433,7 @@
         {
           "name": "Ninjya Kage (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929096,6 +929448,7 @@
         {
           "name": "Nobunaga no Yabou - Zenkoku Ban (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929110,6 +929463,7 @@
         {
           "name": "Nyan Nyan Pro Wrestling (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929124,6 +929478,7 @@
         {
           "name": "Nyorols (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929138,6 +929493,7 @@
         {
           "name": "O'Mac Farmer (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929152,6 +929508,7 @@
         {
           "name": "Oil's Well (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929166,6 +929523,7 @@
         {
           "name": "Okami no Su (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929180,6 +929538,7 @@
         {
           "name": "Othello (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929194,6 +929553,7 @@
         {
           "name": "Oyoide Tango (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929208,6 +929568,7 @@
         {
           "name": "Pac-Man (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929222,6 +929583,7 @@
         {
           "name": "Pachi Com (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929236,6 +929598,7 @@
         {
           "name": "Pai Panic (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929250,6 +929613,7 @@
         {
           "name": "Pairs (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929264,6 +929628,7 @@
         {
           "name": "Panther (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929278,6 +929643,7 @@
         {
           "name": "Parodius (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929292,6 +929658,7 @@
         {
           "name": "Pass Ball (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929306,6 +929673,7 @@
         {
           "name": "Pastfinder (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929320,6 +929688,7 @@
         {
           "name": "Pay Load (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929334,6 +929703,7 @@
         {
           "name": "Peetan (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929348,6 +929718,7 @@
         {
           "name": "Pegasus (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929362,6 +929733,7 @@
         {
           "name": "Penguin Adventure (Japan, Europe) (En)",
           "platform": "msx",
+          "media": "cart",
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929376,6 +929748,7 @@
         {
           "name": "Penguin-kun Wars (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929390,6 +929763,7 @@
         {
           "name": "Pico Pico (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929404,6 +929778,7 @@
         {
           "name": "Picture Puzzle (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929418,6 +929793,7 @@
         {
           "name": "Pillbox (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929432,6 +929808,7 @@
         {
           "name": "Pine Applin (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929446,6 +929823,7 @@
         {
           "name": "Pingball Maker (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929460,6 +929838,7 @@
         {
           "name": "Pinky Chase (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929474,6 +929853,7 @@
         {
           "name": "Pipi (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929488,6 +929868,7 @@
         {
           "name": "Pippols (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929502,6 +929883,7 @@
         {
           "name": "Pitfall II - Lost Caverns (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929516,6 +929898,7 @@
         {
           "name": "Pitfall! (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929530,6 +929913,7 @@
         {
           "name": "Play Ball (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929544,6 +929928,7 @@
         {
           "name": "Poiny X Senryosakusen - Operation Thanksgiving (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929558,6 +929943,7 @@
         {
           "name": "Police Story, The (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929572,6 +929958,7 @@
         {
           "name": "Pooyan (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929586,6 +929973,7 @@
         {
           "name": "Poppaq the Fish (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929600,6 +929988,7 @@
         {
           "name": "Professional Baseball (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929614,6 +930003,7 @@
         {
           "name": "Professional Mahjong (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929628,6 +930018,7 @@
         {
           "name": "Protector, The (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929642,6 +930033,7 @@
         {
           "name": "Psychic War - Cosmic Soldier 2 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929656,6 +930048,7 @@
         {
           "name": "Puzzle Panic (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929670,6 +930063,7 @@
         {
           "name": "Pyramid Warp (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929684,6 +930078,7 @@
         {
           "name": "Q-bert (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929698,6 +930093,7 @@
         {
           "name": "Queen's Golf (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929712,6 +930108,7 @@
         {
           "name": "R-Type (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929726,6 +930123,7 @@
         {
           "name": "Raid on Bungeling Bay (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929740,6 +930138,7 @@
         {
           "name": "Rally-X (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929754,6 +930153,7 @@
         {
           "name": "Rambo (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929768,6 +930168,7 @@
         {
           "name": "Real Tennis (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929782,6 +930183,7 @@
         {
           "name": "Red Zone (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929796,6 +930198,7 @@
         {
           "name": "Relics (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929810,6 +930213,7 @@
         {
           "name": "Renju & Ojama Dogs (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929824,6 +930228,7 @@
         {
           "name": "Rise Out from Dungeons (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929838,6 +930243,7 @@
         {
           "name": "River Raid (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929852,6 +930258,7 @@
         {
           "name": "Road Fighter (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929866,6 +930273,7 @@
         {
           "name": "Robo Wres 2001 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929880,6 +930288,7 @@
         {
           "name": "Robofrog (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929894,6 +930303,7 @@
         {
           "name": "Rock'n Bolt (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929908,6 +930318,7 @@
         {
           "name": "Roller Ball (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929922,6 +930333,7 @@
         {
           "name": "Rotors (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929936,6 +930348,7 @@
         {
           "name": "Sangokushi (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929950,6 +930363,7 @@
         {
           "name": "Sasa (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929964,6 +930378,7 @@
         {
           "name": "Saurus Land (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929978,6 +930393,7 @@
         {
           "name": "Scarlet 7 - The Mightiest Women (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -929992,6 +930408,7 @@
         {
           "name": "Scion (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930006,6 +930423,7 @@
         {
           "name": "Scope On - Fight in Space (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930020,6 +930438,7 @@
         {
           "name": "Scramble Eggs (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930034,6 +930453,7 @@
         {
           "name": "Senjo no Ookami (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930048,6 +930468,7 @@
         {
           "name": "Senjyo (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930062,6 +930483,7 @@
         {
           "name": "Sewer Sam (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930076,6 +930498,7 @@
         {
           "name": "Shougi (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930090,6 +930513,7 @@
         {
           "name": "Shougi 2 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930104,6 +930528,7 @@
         {
           "name": "Shougi Game (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930118,6 +930543,7 @@
         {
           "name": "Shougi Meijin (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930132,6 +930558,7 @@
         {
           "name": "Shout Match (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930146,6 +930573,7 @@
         {
           "name": "Sinbad (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930160,6 +930588,7 @@
         {
           "name": "Skooter (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930174,6 +930603,7 @@
         {
           "name": "Sky Galdo (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930188,6 +930618,7 @@
         {
           "name": "Sofia (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930202,6 +930633,7 @@
         {
           "name": "Soukoban (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930216,6 +930648,7 @@
         {
           "name": "Space Camp (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930230,6 +930663,7 @@
         {
           "name": "Space Invaders (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930244,6 +930678,7 @@
         {
           "name": "Space Maze Attack (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930258,6 +930693,7 @@
         {
           "name": "Space Trouble (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930272,6 +930708,7 @@
         {
           "name": "Sparkie (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930286,6 +930723,7 @@
         {
           "name": "Spelunker (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930300,6 +930738,7 @@
         {
           "name": "Spider, The (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930314,6 +930753,7 @@
         {
           "name": "Square Dancer (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930328,6 +930768,7 @@
         {
           "name": "Squish'em (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930342,6 +930783,7 @@
         {
           "name": "Star Blazer (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930356,6 +930798,7 @@
         {
           "name": "Star Command (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930370,6 +930813,7 @@
         {
           "name": "Star Force (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930384,6 +930828,7 @@
         {
           "name": "Star Soldier (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930398,6 +930843,7 @@
         {
           "name": "Star Trap (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930412,6 +930858,7 @@
         {
           "name": "Starship Simulator (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930426,6 +930873,7 @@
         {
           "name": "Step Up (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930440,6 +930888,7 @@
         {
           "name": "Stepper (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930454,6 +930903,7 @@
         {
           "name": "Stone of Wisdom, The (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930468,6 +930918,7 @@
         {
           "name": "Strange Loop (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930482,6 +930933,7 @@
         {
           "name": "Suparobo (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930496,6 +930948,7 @@
         {
           "name": "Super Billiards (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930510,6 +930963,7 @@
         {
           "name": "Super Cobra (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930524,6 +930978,7 @@
         {
           "name": "Super Columns (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930538,6 +930993,7 @@
         {
           "name": "Super Drinker (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930552,6 +931008,7 @@
         {
           "name": "Super Golf (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930566,6 +931023,7 @@
         {
           "name": "Super Laydock - Mission Striker (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930580,6 +931038,7 @@
         {
           "name": "Super Pachinko (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930594,6 +931053,7 @@
         {
           "name": "Super Pierrot (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930608,6 +931068,7 @@
         {
           "name": "Super Snake (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930622,6 +931083,7 @@
         {
           "name": "Super Soccer (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930636,6 +931098,7 @@
         {
           "name": "Super Tennis (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930650,6 +931113,7 @@
         {
           "name": "Sweet Acorn (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930664,6 +931128,7 @@
         {
           "name": "Swing (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930678,6 +931143,7 @@
         {
           "name": "Syougun (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930692,6 +931158,7 @@
         {
           "name": "TZR - Grand Prix Rider (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930706,6 +931173,7 @@
         {
           "name": "Tanigawa Kouji no Shogi Shinan (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930720,6 +931188,7 @@
         {
           "name": "Tank Battalion (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930734,6 +931203,7 @@
         {
           "name": "Tatica (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930748,6 +931218,7 @@
         {
           "name": "Tawara-kun (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930762,6 +931233,7 @@
         {
           "name": "Tear of Nile (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930776,6 +931248,7 @@
         {
           "name": "Telebunnie (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930790,6 +931263,7 @@
         {
           "name": "Tensai Rabbian Daifunsen (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930804,6 +931278,7 @@
         {
           "name": "Tensidachino Gogo (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930818,6 +931293,7 @@
         {
           "name": "Tetra Horror (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930832,6 +931308,7 @@
         {
           "name": "Tetsuman (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930846,6 +931323,7 @@
         {
           "name": "Thexder (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930860,6 +931338,7 @@
         {
           "name": "Thunder Ball (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930874,6 +931353,7 @@
         {
           "name": "Thunderbolt (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930888,6 +931368,7 @@
         {
           "name": "Time Pilot (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930902,6 +931383,7 @@
         {
           "name": "Top Roller! (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930916,6 +931398,7 @@
         {
           "name": "Topple Zip (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930930,6 +931413,7 @@
         {
           "name": "Traffic (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930944,6 +931428,7 @@
         {
           "name": "Trial Ski (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930958,6 +931443,7 @@
         {
           "name": "Trick Boy (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930972,6 +931458,7 @@
         {
           "name": "Tritorn (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -930986,6 +931473,7 @@
         {
           "name": "Trumpaid (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931000,6 +931488,7 @@
         {
           "name": "Tumego 120 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931014,6 +931503,7 @@
         {
           "name": "Turboat (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931028,6 +931518,7 @@
         {
           "name": "Turmoil (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931042,6 +931533,7 @@
         {
           "name": "Twin Bee (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931056,6 +931548,7 @@
         {
           "name": "Ultraman (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931070,6 +931563,7 @@
         {
           "name": "Vaxol - Heavy Armed Storm Vehicle (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931084,6 +931578,7 @@
         {
           "name": "Venus Fire (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931098,6 +931593,7 @@
         {
           "name": "Video Hustler (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931112,6 +931608,7 @@
         {
           "name": "Volguard (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931126,6 +931623,7 @@
         {
           "name": "Warp & Warp (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931140,6 +931638,7 @@
         {
           "name": "Warrior (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931154,6 +931653,7 @@
         {
           "name": "Warroid (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931168,6 +931668,7 @@
         {
           "name": "Water Driver (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931182,6 +931683,7 @@
         {
           "name": "Wing Man 2 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931196,6 +931698,7 @@
         {
           "name": "Wonder Boy (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931210,6 +931713,7 @@
         {
           "name": "Xyxolog (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931224,6 +931728,7 @@
         {
           "name": "Yellow Submarine (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931238,6 +931743,7 @@
         {
           "name": "Yie Ar Kung-Fu (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931252,6 +931758,7 @@
         {
           "name": "Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931266,6 +931773,7 @@
         {
           "name": "Yokai Tanken Chimachima (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931280,6 +931788,7 @@
         {
           "name": "Young Sherlock - The Legacy of Doyle (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931294,6 +931803,7 @@
         {
           "name": "Zaider - Battle of Peguss (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931308,6 +931818,7 @@
         {
           "name": "Zanac (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931316,6 +931827,7 @@
         {
           "name": "Zanac (Japan) (v2)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931330,6 +931842,7 @@
         {
           "name": "Zaxxon (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931344,6 +931857,7 @@
         {
           "name": "Zenji (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931358,6 +931872,7 @@
         {
           "name": "Zexas Limited (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
@@ -931372,6 +931887,7 @@
         {
           "name": "Zoom 909 (Japan)",
           "platform": "msx",
+          "media": "cart",
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
