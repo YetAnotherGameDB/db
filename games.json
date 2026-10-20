@@ -518745,6 +518745,36 @@
       }
     },
     {
+      "name": "SALAMANDER",
+      "gameInstances": [
+        {
+          "id": "45995-1",
+          "link": "21066-1"
+        }
+      ],
+      "id": 45995
+    },
+    {
+      "name": "SALAMANDER 2",
+      "gameInstances": [
+        {
+          "id": "45996-1",
+          "link": "21066-1"
+        }
+      ],
+      "id": 45996
+    },
+    {
+      "name": "LIFE FORCE",
+      "gameInstances": [
+        {
+          "id": "45997-1",
+          "link": "21066-1"
+        }
+      ],
+      "id": 45997
+    },
+    {
       "name": "SAMURAI SPIRITS - AMAKUSA KOURIN",
       "gameInstances": [
         {
