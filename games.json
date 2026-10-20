@@ -856101,7 +856101,7 @@
           "name": "Alex Kidd - Tenkuu Majou",
           "platform": "genesis",
           "language": "[Ja]",
-          "serial": "00054004-00",
+          "serial": "G-4004",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "38422-1"
@@ -856392,7 +856392,7 @@
           "name": "Arrow Flash",
           "platform": "genesis",
           "language": "[En]",
-          "serial": "00004039-00",
+          "serial": "G-4039",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "38439-1"
@@ -856584,7 +856584,7 @@
           "name": "Ayrton Senna's Super Monaco GP II",
           "platform": "genesis",
           "language": "[En,Ja]",
-          "serial": "00005514-00",
+          "serial": "G-5514",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "38450-1"
@@ -858294,7 +858294,7 @@
           "name": "Columns",
           "platform": "genesis",
           "language": "[En]",
-          "serial": "00054035-00",
+          "serial": "G-4035",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "38555-1"
@@ -858653,7 +858653,7 @@
           "name": "Cyber Police - ESWAT",
           "platform": "genesis",
           "language": "[En]",
-          "serial": "00004029-00",
+          "serial": "G-4029",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "38576-1"
@@ -858728,7 +858728,7 @@
           "name": "Daimakaimura",
           "platform": "genesis",
           "language": "[Ja]",
-          "serial": "00004013-00",
+          "serial": "G-4013",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "38581-1"
@@ -859169,7 +859169,7 @@
           "name": "Doraemon - Yume Dorobou to 7 Nin no Gozans",
           "platform": "genesis",
           "language": "[Ja]",
-          "serial": "00004094-00",
+          "serial": "G-4094",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "38608-1"
@@ -860963,7 +860963,7 @@
           "name": "Ghostbusters",
           "platform": "genesis",
           "language": "[En,Ja]",
-          "serial": "00004030-00",
+          "serial": "G-4030",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "38717-1"
@@ -861549,7 +861549,7 @@
           "name": "Hokuto no Ken - Shin Seikimatsu Kyuuseishu Densetsu",
           "platform": "genesis",
           "language": "[Ja]",
-          "serial": "00004012-00",
+          "serial": "G-4012",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "38749-1"
@@ -861594,7 +861594,7 @@
           "name": "Honoo no Toukyuuji - Dodge Danpei",
           "platform": "genesis",
           "language": "[Ja]",
-          "serial": "00004076-00",
+          "serial": "G-4076",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "38752-1"
@@ -861702,7 +861702,7 @@
           "name": "I Love Mickey Mouse - Fushigi no Oshiro Daibouken",
           "platform": "genesis",
           "language": "[Ja]",
-          "serial": "00004042-00",
+          "serial": "G-4042",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "38758-1"
@@ -862212,7 +862212,7 @@
           "name": "J. League Pro Striker Perfect",
           "platform": "genesis",
           "language": "[Ja]",
-          "serial": "00005532-00",
+          "serial": "G-5532",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "38789-1"
@@ -862731,7 +862731,7 @@
           "name": "Kujaku Ou 2 - Geneijou",
           "platform": "genesis",
           "language": "[Ja]",
-          "serial": "00004017-00",
+          "serial": "G-4017",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "38820-1"
@@ -862829,7 +862829,7 @@
           "name": "Landstalker - Koutei no Zaihou",
           "platform": "genesis",
           "language": "[Ja]",
-          "serial": "00005517-00",
+          "serial": "G-5517",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "38826-1"
@@ -863896,7 +863896,7 @@
           "name": "Michael Jackson's Moonwalker",
           "platform": "genesis",
           "language": "[En]",
-          "serial": "00004028-00",
+          "serial": "G-4028",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "38887-1"
@@ -865244,7 +865244,7 @@
           "name": "OutRun",
           "platform": "genesis",
           "language": "[En]",
-          "serial": "00004052-00",
+          "serial": "G-4052",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "38968-2"
@@ -865339,7 +865339,7 @@
           "name": "Ozaki Naomichi no Super Masters",
           "platform": "genesis",
           "language": "[Ja]",
-          "serial": "00004014-00",
+          "serial": "G-4014",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "38972-1"
@@ -865490,7 +865490,7 @@
           "name": "Party Quiz Mega Q",
           "platform": "genesis",
           "language": "[Ja]",
-          "serial": "00004107-00",
+          "serial": "G-4107",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "38981-1"
@@ -866214,7 +866214,7 @@
           "name": "Pro Yakyuu Super League '91",
           "platform": "genesis",
           "language": "[Ja]",
-          "serial": "00004529-00",
+          "serial": "G-4529",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "39021-1"
@@ -866481,7 +866481,7 @@
           "name": "Rambo III",
           "platform": "genesis",
           "language": "[En,Ja]",
-          "serial": "00054010-00",
+          "serial": "G-4010",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "39037-1"
@@ -866667,7 +866667,7 @@
           "name": "Rent a Hero",
           "platform": "genesis",
           "language": "[Ja]",
-          "serial": "55508-00",
+          "serial": "G-5508",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "39047-1"
@@ -867841,7 +867841,7 @@
           "name": "Shura no Mon",
           "platform": "genesis",
           "language": "[Ja]",
-          "serial": "00004073-00",
+          "serial": "G-4073",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "39117-1"
@@ -868185,7 +868185,7 @@
           "name": "Sorcerian",
           "platform": "genesis",
           "language": "[Ja]",
-          "serial": "00054504-00",
+          "serial": "G-4504",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "39137-1"
@@ -868239,7 +868239,7 @@
           "name": "Space Harrier II",
           "platform": "genesis",
           "language": "[En]",
-          "serial": "00004002-00",
+          "serial": "G-4002",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "39140-1"
@@ -868830,7 +868830,7 @@
           "name": "Strider Hiryuu",
           "platform": "genesis",
           "language": "[Ja]",
-          "serial": "00004037-00",
+          "serial": "G-4037",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "39174-1"
@@ -868959,7 +868959,7 @@
           "name": "Super Daisenryaku",
           "platform": "genesis",
           "language": "[Ja]",
-          "serial": "00004501-00",
+          "serial": "G-4501",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "39182-1"
@@ -869007,7 +869007,7 @@
           "name": "Super Hang-On",
           "platform": "genesis",
           "language": "[En,Ja]",
-          "serial": "00004011-00",
+          "serial": "G-4011",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "39184-1"
@@ -869154,7 +869154,7 @@
           "name": "Super Monaco GP",
           "platform": "genesis",
           "language": "[En,Ja]",
-          "serial": "4026-00",
+          "serial": "G-4026",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "39192-1"
@@ -869263,7 +869263,7 @@
           "name": "Super Thunder Blade",
           "platform": "genesis",
           "language": "[En]",
-          "serial": "00004003-00",
+          "serial": "G-4003",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "39197-1"
@@ -869803,7 +869803,7 @@
           "name": "Tetris",
           "platform": "genesis",
           "language": "[En]",
-          "serial": "00004007-00",
+          "serial": "G-4007",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "39230-1"
@@ -870549,7 +870549,7 @@
           "name": "Super Shinobi II, The",
           "platform": "genesis",
           "language": "[Ja]",
-          "serial": "00004085-00",
+          "serial": "G-4085",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "39272-1"
@@ -870891,7 +870891,7 @@
           "name": "Toki no Keishousha - Phantasy Star III",
           "platform": "genesis",
           "language": "[Ja]",
-          "serial": "5503-00",
+          "serial": "G-5503",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "39293-1"
@@ -872294,7 +872294,7 @@
           "name": "World Cup Soccer",
           "platform": "genesis",
           "language": "[En]",
-          "serial": "00004009-00",
+          "serial": "G-4009",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "39380-1"
@@ -872462,7 +872462,7 @@
           "name": "Wrestle War",
           "platform": "genesis",
           "language": "[En]",
-          "serial": "00004055-00",
+          "serial": "G-4055",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "39390-1"
