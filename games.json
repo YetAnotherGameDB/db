@@ -968137,6 +968137,15 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "44623-1"
+        },
+        {
+          "name": "Mortville Manor (Europe)",
+          "platform": "amiga",
+          "media": "disk",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "44623-2"
         }
       ],
       "id": 44623
@@ -969490,21 +969499,6 @@
         }
       ],
       "id": 44704
-    },
-    {
-      "name": "MORTVILLE MANOR",
-      "gameInstances": [
-        {
-          "name": "Mortville Manor (Europe)",
-          "platform": "amiga",
-          "media": "disk",
-          "language": "[En]",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "44705-1"
-        }
-      ],
-      "id": 44705
     },
     {
       "name": "MOTOERHEAD",
