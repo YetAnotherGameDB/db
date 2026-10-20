@@ -63585,10 +63585,10 @@
       }
     },
     {
-      "name": "SALAMANDER DELUXE PACK",
+      "name": "SALAMANDER DELUXE PACK PLUS",
       "gameInstances": [
         {
-          "name": "SALAMANDER DELUXE PACK",
+          "name": "SALAMANDER DELUXE PACK PLUS",
           "platform": "ps1",
           "Language": "[J]",
           "serial": "SLPM-86037",
@@ -63604,6 +63604,36 @@
       "localizedNames": {
         "ja": "沙羅曼蛇　デラックスパック　プラス"
       }
+    },
+    {
+      "name": "SALAMANDER",
+      "gameInstances": [
+        {
+          "id": "45992-1",
+          "link": "2338-1"
+        }
+      ],
+      "id": 45992
+    },
+    {
+      "name": "SALAMANDER 2",
+      "gameInstances": [
+        {
+          "id": "45993-1",
+          "link": "2338-1"
+        }
+      ],
+      "id": 45993
+    },
+    {
+      "name": "LIFE FORCE",
+      "gameInstances": [
+        {
+          "id": "45994-1",
+          "link": "2338-1"
+        }
+      ],
+      "id": 45994
     },
     {
       "name": "SALARY MAN CHAMP - TATAKAU SALARY MAN",
