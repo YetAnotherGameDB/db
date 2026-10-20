@@ -865776,9 +865776,10 @@
           "name": "Phantasy Star II - Kaerazaru Toki no Owari ni",
           "platform": "genesis",
           "language": "[Ja]",
-          "serial": "00005501-00",
+          "serial": "G-5501",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "upc": "4974365555016",
           "id": "38996-1"
         }
       ],
