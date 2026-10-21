@@ -427010,7 +427010,7 @@
           "id": "16906-2"
         },
         {
-          "name": "Advanced Dungeons & Dragons - Eye of the Beholder - A Legend Series Fantasy Role-Playing Saga, Vol.I (Europe)",
+          "name": "Eye of the Beholder (Europe)",
           "platform": "amiga",
           "media": "disk",
           "language": "[En]",
@@ -427019,7 +427019,7 @@
           "id": "16906-3"
         },
         {
-          "name": "Advanced Dungeons & Dragons - Eye of the Beholder - A Legend Series Fantasy Role-Playing Saga, Vol.I (Germany)",
+          "name": "Eye of the Beholder (Germany)",
           "platform": "amiga",
           "media": "disk",
           "language": "[En]",
@@ -427045,7 +427045,8 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "16906-6",
-          "serial": "T-75014"
+          "serial": "T-75014",
+          "upc": "4988013031890"
         },
         {
           "name": "Eye of the Beholder (USA)",
