@@ -427026,6 +427026,36 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "16906-4"
+        },
+        {
+          "name": "Eye of the Beholder (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "16906-5",
+          "serial": "4655-50"
+        },
+        {
+          "name": "Eye of the Beholder (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "16906-6",
+          "serial": "T-75014"
+        },
+        {
+          "name": "Eye of the Beholder (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "16906-7",
+          "serial": "4655"
         }
       ],
       "id": 16906,
@@ -992711,42 +992741,6 @@
         }
       ],
       "id": 46073
-    },
-    {
-      "name": "EYE OF THE BEHOLDER",
-      "gameInstances": [
-        {
-          "name": "Eye of the Beholder (Europe)",
-          "platform": "segacd",
-          "media": "cd",
-          "language": "[En]",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "46074-1",
-          "serial": "4655-50"
-        },
-        {
-          "name": "Eye of the Beholder (Japan)",
-          "platform": "segacd",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "46074-2",
-          "serial": "T-75014"
-        },
-        {
-          "name": "Eye of the Beholder (USA)",
-          "platform": "segacd",
-          "media": "cd",
-          "language": "[En]",
-          "region": "NTSC-U",
-          "tgdbId": 0,
-          "id": "46074-3",
-          "serial": "4655"
-        }
-      ],
-      "id": 46074
     },
     {
       "name": "F1 CIRCUS CD",
