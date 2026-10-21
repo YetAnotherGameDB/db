@@ -862346,21 +862346,6 @@
       "id": 38796
     },
     {
-      "name": "JOURNEY FROM DARKNESS - STRIDER RETURNS",
-      "gameInstances": [
-        {
-          "name": "Journey from Darkness - Strider Returns",
-          "platform": "genesis",
-          "language": "[En]",
-          "serial": "T-79036",
-          "region": "NTSC-U",
-          "tgdbId": 0,
-          "id": "38797-1"
-        }
-      ],
-      "id": 38797
-    },
-    {
       "name": "JUJU DENSETSU",
       "gameInstances": [
         {
@@ -868815,13 +868800,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "39173-1"
-        }
-      ],
-      "id": 39173
-    },
-    {
-      "name": "STRIDER HIRYUU",
-      "gameInstances": [
+        },
         {
           "name": "Strider Hiryuu",
           "platform": "genesis",
@@ -868830,13 +868809,13 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "upc": "4974365540371",
-          "id": "39174-1"
+          "id": "39173-2"
         }
       ],
-      "id": 39174
+      "id": 39173
     },
     {
-      "name": "STRIDER II",
+      "name": "STRIDER 2",
       "gameInstances": [
         {
           "name": "Strider II",
@@ -868846,6 +868825,15 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "39175-1"
+        },
+        {
+          "name": "Journey from Darkness - Strider Returns",
+          "platform": "genesis",
+          "language": "[En]",
+          "serial": "T-79036",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "39175-2"
         }
       ],
       "id": 39175
