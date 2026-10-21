@@ -868838,16 +868838,8 @@
           "serial": "G-4037",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "upc": "4974365540371",
           "id": "39174-1"
-        },
-        {
-          "name": "Strider Hiryuu",
-          "platform": "genesis",
-          "language": "[Ja]",
-          "serial": "00004037-01",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "39174-2"
         }
       ],
       "id": 39174
