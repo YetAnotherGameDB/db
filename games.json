@@ -24,6 +24,7 @@
       "nds",
       "3ds",
       "genesis",
+      "segacd",
       "sms",
       "gamegear",
       "virtualboy",
@@ -277,6 +278,11 @@
       "cdtv": [
         "NTSC-U",
         "PAL"
+      ],
+      "segacd": [
+        "NTSC-J",
+        "NTSC-U",
+        "PAL"
       ]
     },
     "media": {
@@ -341,6 +347,9 @@
         "cd"
       ],
       "cdtv": [
+        "cd"
+      ],
+      "segacd": [
         "cd"
       ]
     }
@@ -991116,6 +991125,5840 @@
         }
       ],
       "id": 45991
+    },
+    {
+      "name": "3 NINJAS KICK BACK",
+      "gameInstances": [
+        {
+          "name": "3 Ninjas Kick Back (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "45998-1",
+          "serial": "T-93175"
+        }
+      ],
+      "id": 45998
+    },
+    {
+      "name": "A-RANK THUNDER - TANJOU-HEN",
+      "gameInstances": [
+        {
+          "name": "A-Rank Thunder - Tanjou-hen (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "45999-1",
+          "serial": "T-49064"
+        }
+      ],
+      "id": 45999
+    },
+    {
+      "name": "A-X-101",
+      "gameInstances": [
+        {
+          "name": "A-X-101 (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46000-1",
+          "serial": "T-86015"
+        }
+      ],
+      "id": 46000
+    },
+    {
+      "name": "AH3 - THUNDERSTRIKE",
+      "gameInstances": [
+        {
+          "name": "AH3 - Thunderstrike (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46001-1",
+          "serial": "T-60055"
+        }
+      ],
+      "id": 46001
+    },
+    {
+      "name": "AX-101",
+      "gameInstances": [
+        {
+          "name": "AX-101 (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46002-1",
+          "serial": "G-6031"
+        }
+      ],
+      "id": 46002
+    },
+    {
+      "name": "ADVENTURES OF BATMAN AND ROBIN, THE",
+      "gameInstances": [
+        {
+          "name": "Adventures of Batman and Robin, The (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46003-1",
+          "serial": "4432-50"
+        },
+        {
+          "name": "Adventures of Batman and Robin, The (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46003-2",
+          "serial": "4432"
+        }
+      ],
+      "id": 46003
+    },
+    {
+      "name": "ADVENTURES OF WILLY BEAMISH, THE",
+      "gameInstances": [
+        {
+          "name": "Adventures of Willy Beamish, The (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46004-1",
+          "serial": "T-6300"
+        }
+      ],
+      "id": 46004
+    },
+    {
+      "name": "AFTER ARMAGEDDON GAIDEN - MAJUU TOUSHOUDEN ECLIPSE",
+      "gameInstances": [
+        {
+          "name": "After Armageddon Gaiden - Majuu Toushouden Eclipse (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46005-1",
+          "serial": "G-6026"
+        }
+      ],
+      "id": 46005
+    },
+    {
+      "name": "AFTER BURNER III",
+      "gameInstances": [
+        {
+          "name": "After Burner III (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46006-1",
+          "serial": "4415"
+        },
+        {
+          "name": "After Burner III (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46006-2",
+          "serial": "T-68014"
+        },
+        {
+          "name": "After Burner III (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46006-3",
+          "serial": "4415"
+        }
+      ],
+      "id": 46006
+    },
+    {
+      "name": "AISLE LORD",
+      "gameInstances": [
+        {
+          "name": "Aisle Lord (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46007-1",
+          "serial": "T-32044"
+        }
+      ],
+      "id": 46007
+    },
+    {
+      "name": "ALSHARK",
+      "gameInstances": [
+        {
+          "name": "Alshark (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46008-1",
+          "serial": "T-92014"
+        }
+      ],
+      "id": 46008
+    },
+    {
+      "name": "AMAZING SPIDER-MAN VS. THE KINGPIN, THE",
+      "gameInstances": [
+        {
+          "name": "Amazing Spider-Man vs. The Kingpin, The (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46009-1",
+          "serial": "4412"
+        },
+        {
+          "name": "Amazing Spider-Man vs. The Kingpin, The (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46009-2",
+          "serial": "4412"
+        },
+        {
+          "name": "Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46009-3",
+          "serial": "4412"
+        }
+      ],
+      "id": 46009
+    },
+    {
+      "name": "ANDROID ASSAULT - THE REVENGE OF BARI-ARM",
+      "gameInstances": [
+        {
+          "name": "Android Assault - The Revenge of Bari-Arm (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46010-1",
+          "serial": "4445"
+        }
+      ],
+      "id": 46010
+    },
+    {
+      "name": "ANNETT FUTATABI",
+      "gameInstances": [
+        {
+          "name": "Annett Futatabi (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46011-1",
+          "serial": "T-32104"
+        }
+      ],
+      "id": 46011
+    },
+    {
+      "name": "AOKI OOKAMI TO SHIROKI MEJIKA - GENCHOU HISHI",
+      "gameInstances": [
+        {
+          "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46012-1",
+          "serial": "T-76054"
+        }
+      ],
+      "id": 46012
+    },
+    {
+      "name": "ARCUS I, II, III",
+      "gameInstances": [
+        {
+          "name": "Arcus I, II, III (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46013-1",
+          "serial": "T-32094"
+        }
+      ],
+      "id": 46013
+    },
+    {
+      "name": "ARSLAN SENKI",
+      "gameInstances": [
+        {
+          "name": "Arslan Senki (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46014-1",
+          "serial": "G-6028"
+        }
+      ],
+      "id": 46014
+    },
+    {
+      "name": "BC RACERS",
+      "gameInstances": [
+        {
+          "name": "BC Racers (Europe) (En,Fr,De)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Fr,De]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46015-1",
+          "serial": "T-115075-50"
+        },
+        {
+          "name": "BC Racers (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46015-2",
+          "serial": "T-115075"
+        }
+      ],
+      "id": 46015
+    },
+    {
+      "name": "BAKUDEN - THE UNBALANCED ZONE",
+      "gameInstances": [
+        {
+          "name": "Bakuden - The Unbalanced Zone (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46016-1",
+          "serial": "T-145014"
+        }
+      ],
+      "id": 46016
+    },
+    {
+      "name": "BARI-ARM",
+      "gameInstances": [
+        {
+          "name": "Bari-Arm (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46017-1",
+          "serial": "T-43024"
+        }
+      ],
+      "id": 46017
+    },
+    {
+      "name": "BATMAN RETURNS",
+      "gameInstances": [
+        {
+          "name": "Batman Returns (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46018-1",
+          "serial": "4401"
+        },
+        {
+          "name": "Batman Returns (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46018-2",
+          "serial": "4401"
+        }
+      ],
+      "id": 46018
+    },
+    {
+      "name": "BATTLE FANTASY",
+      "gameInstances": [
+        {
+          "name": "Battle Fantasy (Japan) (Rev A)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46019-1",
+          "serial": "T-22044"
+        }
+      ],
+      "id": 46019
+    },
+    {
+      "name": "BATTLE FRENZY",
+      "gameInstances": [
+        {
+          "name": "Battle Frenzy (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46020-1"
+        }
+      ],
+      "id": 46020
+    },
+    {
+      "name": "BATTLETECH - GRAY DEATH LEGION",
+      "gameInstances": [
+        {
+          "name": "BattleTech - Gray Death Legion (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46021-1"
+        }
+      ],
+      "id": 46021
+    },
+    {
+      "name": "BATTLECORPS",
+      "gameInstances": [
+        {
+          "name": "Battlecorps (Europe) (En,Fr,De,Es)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Fr,De,Es]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46022-1",
+          "serial": "T-115045-50"
+        },
+        {
+          "name": "Battlecorps (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46022-2",
+          "serial": "T-60194"
+        },
+        {
+          "name": "Battlecorps (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46022-3",
+          "serial": "T-115045"
+        }
+      ],
+      "id": 46022
+    },
+    {
+      "name": "BEAST II",
+      "gameInstances": [
+        {
+          "name": "Beast II (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46023-1",
+          "serial": "T-113045-50"
+        }
+      ],
+      "id": 46023
+    },
+    {
+      "name": "BILL WALSH COLLEGE FOOTBALL",
+      "gameInstances": [
+        {
+          "name": "Bill Walsh College Football (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46024-1",
+          "serial": "T-50025-05"
+        },
+        {
+          "name": "Bill Walsh College Football (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46024-2",
+          "serial": "T-50025"
+        }
+      ],
+      "id": 46024
+    },
+    {
+      "name": "BLACK HOLE ASSAULT",
+      "gameInstances": [
+        {
+          "name": "Black Hole Assault (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46025-1",
+          "serial": "T-22024"
+        }
+      ],
+      "id": 46025
+    },
+    {
+      "name": "BLACKHOLE ASSAULT",
+      "gameInstances": [
+        {
+          "name": "Blackhole Assault (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46026-1",
+          "serial": "4405"
+        },
+        {
+          "name": "Blackhole Assault (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46026-2",
+          "serial": "PN-6400"
+        }
+      ],
+      "id": 46026
+    },
+    {
+      "name": "BLOODSHOT",
+      "gameInstances": [
+        {
+          "name": "Bloodshot (Europe) (En,Fr,De,Es)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Fr,De,Es]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46027-1",
+          "serial": "T-88045-18"
+        }
+      ],
+      "id": 46027
+    },
+    {
+      "name": "BOUNCERS",
+      "gameInstances": [
+        {
+          "name": "Bouncers (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46028-1",
+          "serial": "4908"
+        }
+      ],
+      "id": 46028
+    },
+    {
+      "name": "BRAM STOKER'S DRACULA",
+      "gameInstances": [
+        {
+          "name": "Bram Stoker's Dracula (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46029-1",
+          "serial": "T-93065"
+        },
+        {
+          "name": "Bram Stoker's Dracula (USA) (Version 2.0)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46029-2",
+          "serial": "T-93155"
+        }
+      ],
+      "id": 46029
+    },
+    {
+      "name": "BRUTAL - PAWS OF FURY",
+      "gameInstances": [
+        {
+          "name": "Brutal - Paws of Fury (Europe) (En,Fr,De)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Fr,De]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46030-1",
+          "serial": "T-83015-50"
+        },
+        {
+          "name": "Brutal - Paws of Fury (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46030-2",
+          "serial": "T-83015"
+        }
+      ],
+      "id": 46030
+    },
+    {
+      "name": "BUG BLASTERS - THE EXTERMINATORS",
+      "gameInstances": [
+        {
+          "name": "Bug Blasters - The Exterminators (USA) (Rerelease)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46031-1"
+        }
+      ],
+      "id": 46031
+    },
+    {
+      "name": "BURAI - YATSUDAMA NO YUUSHI DENSETSU",
+      "gameInstances": [
+        {
+          "name": "Burai - Yatsudama no Yuushi Densetsu (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46032-1",
+          "serial": "G-6004"
+        }
+      ],
+      "id": 46032
+    },
+    {
+      "name": "BURNING FISTS - FORCE STRIKER",
+      "gameInstances": [
+        {
+          "name": "Burning Fists - Force Striker (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46033-1"
+        }
+      ],
+      "id": 46033
+    },
+    {
+      "name": "CADILLACS AND DINOSAURS - THE SECOND CATACLYSM",
+      "gameInstances": [
+        {
+          "name": "Cadillacs and Dinosaurs - The Second Cataclysm (USA, Brazil)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46034-1",
+          "serial": "063496"
+        }
+      ],
+      "id": 46034
+    },
+    {
+      "name": "CAPTAIN TSUBASA",
+      "gameInstances": [
+        {
+          "name": "Captain Tsubasa (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46035-1",
+          "serial": "T-36014"
+        }
+      ],
+      "id": 46035
+    },
+    {
+      "name": "CHAMPIONSHIP SOCCER '94",
+      "gameInstances": [
+        {
+          "name": "Championship Soccer '94 (USA) (En,Fr,De,It)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Fr,De,It]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46036-1",
+          "serial": "T-93185"
+        }
+      ],
+      "id": 46036
+    },
+    {
+      "name": "CHUCK ROCK",
+      "gameInstances": [
+        {
+          "name": "Chuck Rock (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46037-1",
+          "serial": "T-93045-50"
+        },
+        {
+          "name": "Chuck Rock (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46037-2",
+          "serial": "T-06204"
+        }
+      ],
+      "id": 46037
+    },
+    {
+      "name": "CHUCK ROCK II - SON OF CHUCK",
+      "gameInstances": [
+        {
+          "name": "Chuck Rock II - Son of Chuck (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46038-1",
+          "serial": "T-115025-50"
+        },
+        {
+          "name": "Chuck Rock II - Son of Chuck (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46038-2",
+          "serial": "T-70045"
+        }
+      ],
+      "id": 46038
+    },
+    {
+      "name": "CITIZEN X",
+      "gameInstances": [
+        {
+          "name": "Citizen X (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46039-1"
+        }
+      ],
+      "id": 46039
+    },
+    {
+      "name": "CLIFFHANGER",
+      "gameInstances": [
+        {
+          "name": "Cliffhanger (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46040-1",
+          "serial": "T-93075"
+        }
+      ],
+      "id": 46040
+    },
+    {
+      "name": "COBRA COMMAND",
+      "gameInstances": [
+        {
+          "name": "Cobra Command (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46041-1",
+          "serial": "4402"
+        },
+        {
+          "name": "Cobra Command (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46041-2",
+          "serial": "4402"
+        }
+      ],
+      "id": 46041
+    },
+    {
+      "name": "COLORS OF MODERN ROCK, THE",
+      "gameInstances": [
+        {
+          "name": "Colors of Modern Rock, The (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46042-1",
+          "serial": "WCM-9302-00"
+        }
+      ],
+      "id": 46042
+    },
+    {
+      "name": "COMPTON'S INTERACTIVE ENCYCLOPEDIA",
+      "gameInstances": [
+        {
+          "name": "Compton's Interactive Encyclopedia (USA) (Version 2.00S)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46043-1"
+        },
+        {
+          "name": "Compton's Interactive Encyclopedia (USA) (Version 2.01R)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46043-2",
+          "serial": "T-118025"
+        },
+        {
+          "name": "Compton's Interactive Encyclopedia (USA) (Version 2.01S)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46043-3"
+        },
+        {
+          "name": "Compton's Interactive Encyclopedia (USA) (Version 2.10) (Rev 2)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46043-4"
+        }
+      ],
+      "id": 46043
+    },
+    {
+      "name": "CORPSE KILLER",
+      "gameInstances": [
+        {
+          "name": "Corpse Killer (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46044-1",
+          "serial": "T-162055-50"
+        },
+        {
+          "name": "Corpse Killer (Europe) (Mega-CD 32X)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46044-2",
+          "serial": "T-16201F-50"
+        },
+        {
+          "name": "Corpse Killer (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46044-3",
+          "serial": "T162055"
+        },
+        {
+          "name": "Corpse Killer (USA) (Sega CD 32X)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46044-4",
+          "serial": "T-16201F"
+        }
+      ],
+      "id": 46044
+    },
+    {
+      "name": "COSMIC FANTASY STORIES",
+      "gameInstances": [
+        {
+          "name": "Cosmic Fantasy Stories (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46045-1",
+          "serial": "T-49014"
+        }
+      ],
+      "id": 46045
+    },
+    {
+      "name": "CRIME PATROL",
+      "gameInstances": [
+        {
+          "name": "Crime Patrol (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46046-1",
+          "serial": "T-111055"
+        }
+      ],
+      "id": 46046
+    },
+    {
+      "name": "CYBORG 009",
+      "gameInstances": [
+        {
+          "name": "Cyborg 009 (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46047-1",
+          "serial": "T-49054"
+        }
+      ],
+      "id": 46047
+    },
+    {
+      "name": "DAIHOUSHINDEN",
+      "gameInstances": [
+        {
+          "name": "Daihoushinden (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46048-1",
+          "serial": "T-60024"
+        }
+      ],
+      "id": 46048
+    },
+    {
+      "name": "DARK WIZARD",
+      "gameInstances": [
+        {
+          "name": "Dark Wizard (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46049-1",
+          "serial": "4651"
+        }
+      ],
+      "id": 46049
+    },
+    {
+      "name": "DARK WIZARD - YOMIGAERISHI YAMI NO MADOUSHI",
+      "gameInstances": [
+        {
+          "name": "Dark Wizard - Yomigaerishi Yami no Madoushi (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46050-1",
+          "serial": "G-6005"
+        }
+      ],
+      "id": 46050
+    },
+    {
+      "name": "DEATH BRINGER",
+      "gameInstances": [
+        {
+          "name": "Death Bringer (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46051-1",
+          "serial": "T-49034"
+        }
+      ],
+      "id": 46051
+    },
+    {
+      "name": "DEMOLITION MAN",
+      "gameInstances": [
+        {
+          "name": "Demolition Man (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46052-1",
+          "serial": "T-81045"
+        }
+      ],
+      "id": 46052
+    },
+    {
+      "name": "DENNIN ALESTE - NOBUNAGA AND HIS NINJA FORCE",
+      "gameInstances": [
+        {
+          "name": "Dennin Aleste - Nobunaga and His Ninja Force (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46053-1",
+          "serial": "T-66014"
+        }
+      ],
+      "id": 46053
+    },
+    {
+      "name": "DETONATOR ORGUN",
+      "gameInstances": [
+        {
+          "name": "Detonator Orgun (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46054-1",
+          "serial": "T-28014"
+        }
+      ],
+      "id": 46054
+    },
+    {
+      "name": "DEVASTATOR",
+      "gameInstances": [
+        {
+          "name": "Devastator (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46055-1",
+          "serial": "T-32074"
+        }
+      ],
+      "id": 46055
+    },
+    {
+      "name": "DOUBLE SWITCH",
+      "gameInstances": [
+        {
+          "name": "Double Switch (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46056-1",
+          "serial": "4419"
+        },
+        {
+          "name": "Double Switch (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46056-2",
+          "serial": "G-6040"
+        },
+        {
+          "name": "Double Switch (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46056-3",
+          "serial": "4419"
+        }
+      ],
+      "id": 46056
+    },
+    {
+      "name": "DRACULA UNLEASHED",
+      "gameInstances": [
+        {
+          "name": "Dracula Unleashed (Europe) (Disc 1)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46057-1",
+          "serial": "4420"
+        },
+        {
+          "name": "Dracula Unleashed (Europe) (Disc 2)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46057-2",
+          "serial": "4420"
+        },
+        {
+          "name": "Dracula Unleashed (USA) (Disc 1)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46057-3",
+          "serial": "4420"
+        },
+        {
+          "name": "Dracula Unleashed (USA) (Disc 2)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46057-4",
+          "serial": "4420"
+        }
+      ],
+      "id": 46057
+    },
+    {
+      "name": "DRAGON'S LAIR",
+      "gameInstances": [
+        {
+          "name": "Dragon's Lair (Europe) (En,Fr,De,It)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Fr,De,It]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46058-1",
+          "serial": "4436-50"
+        },
+        {
+          "name": "Dragon's Lair (Japan) (En,Ja,Fr,De,It)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Ja,Fr,De,It]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46058-2",
+          "serial": "G-6035"
+        },
+        {
+          "name": "Dragon's Lair (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46058-3",
+          "serial": "T-121015"
+        }
+      ],
+      "id": 46058
+    },
+    {
+      "name": "DUNE",
+      "gameInstances": [
+        {
+          "name": "Dune (Europe) (En,Fr,De,Es,It)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Fr,De,Es,It]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46059-1",
+          "serial": "T-70035-50"
+        },
+        {
+          "name": "Dune (USA) (En,Fr,De,Es,It)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Fr,De,Es,It]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46059-2",
+          "serial": "T-70065"
+        }
+      ],
+      "id": 46059
+    },
+    {
+      "name": "DUNGEON EXPLORER",
+      "gameInstances": [
+        {
+          "name": "Dungeon Explorer (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46060-1",
+          "serial": "T-143025-50"
+        },
+        {
+          "name": "Dungeon Explorer (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46060-2",
+          "serial": "4657"
+        }
+      ],
+      "id": 46060
+    },
+    {
+      "name": "DUNGEON MASTER II - SKULLKEEP",
+      "gameInstances": [
+        {
+          "name": "Dungeon Master II - Skullkeep (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46061-1",
+          "serial": "T-60085-50"
+        },
+        {
+          "name": "Dungeon Master II - Skullkeep (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46061-2",
+          "serial": "T-60144"
+        },
+        {
+          "name": "Dungeon Master II - Skullkeep (USA) (Rev 3)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46061-3",
+          "serial": "T-60085"
+        }
+      ],
+      "id": 46061
+    },
+    {
+      "name": "DYNAMIC COUNTRY CLUB",
+      "gameInstances": [
+        {
+          "name": "Dynamic Country Club (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46062-1",
+          "serial": "G-6017"
+        }
+      ],
+      "id": 46062
+    },
+    {
+      "name": "ESPN BASEBALL TONIGHT",
+      "gameInstances": [
+        {
+          "name": "ESPN Baseball Tonight (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46063-1",
+          "serial": "T-93115-50"
+        },
+        {
+          "name": "ESPN Baseball Tonight (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46063-2",
+          "serial": "T-93115"
+        }
+      ],
+      "id": 46063
+    },
+    {
+      "name": "ESPN NBA HANGTIME '95",
+      "gameInstances": [
+        {
+          "name": "ESPN NBA Hangtime '95 (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46064-1",
+          "serial": "T-93245"
+        }
+      ],
+      "id": 46064
+    },
+    {
+      "name": "ESPN NATIONAL HOCKEY NIGHT",
+      "gameInstances": [
+        {
+          "name": "ESPN National Hockey Night (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46065-1",
+          "serial": "T-93215"
+        }
+      ],
+      "id": 46065
+    },
+    {
+      "name": "ESPN SUNDAY NIGHT NFL",
+      "gameInstances": [
+        {
+          "name": "ESPN Sunday Night NFL (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46066-1",
+          "serial": "T-93105"
+        }
+      ],
+      "id": 46066
+    },
+    {
+      "name": "EARNEST EVANS",
+      "gameInstances": [
+        {
+          "name": "Earnest Evans (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46067-1",
+          "serial": "T-32014"
+        }
+      ],
+      "id": 46067
+    },
+    {
+      "name": "EARTHWORM JIM - SPECIAL EDITION",
+      "gameInstances": [
+        {
+          "name": "Earthworm Jim - Special Edition (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46068-1",
+          "serial": "T-125045-50"
+        },
+        {
+          "name": "Earthworm Jim - Special Edition (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46068-2",
+          "serial": "T-125045"
+        }
+      ],
+      "id": 46068
+    },
+    {
+      "name": "ECCO - THE TIDES OF TIME",
+      "gameInstances": [
+        {
+          "name": "Ecco - The Tides of Time (Europe) (En,Fr,De,Es)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Fr,De,Es]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46069-1",
+          "serial": "4441-50"
+        },
+        {
+          "name": "Ecco - The Tides of Time (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46069-2",
+          "serial": "4441"
+        }
+      ],
+      "id": 46069
+    },
+    {
+      "name": "ECCO THE DOLPHIN",
+      "gameInstances": [
+        {
+          "name": "Ecco the Dolphin (Australia)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46070-1",
+          "serial": "4408"
+        },
+        {
+          "name": "Ecco the Dolphin (Europe) (Rerelease)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46070-2",
+          "serial": "4408"
+        },
+        {
+          "name": "Ecco the Dolphin (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46070-3",
+          "serial": "4408"
+        }
+      ],
+      "id": 46070
+    },
+    {
+      "name": "ECCO THE DOLPHIN CD",
+      "gameInstances": [
+        {
+          "name": "Ecco the Dolphin CD (Japan) (Disc 1) (Ecco the Dolphin)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46071-1",
+          "serial": "G-6041"
+        },
+        {
+          "name": "Ecco the Dolphin CD (Japan) (Disc 2) (Ecco the Dolphin II)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46071-2",
+          "serial": "G-6041"
+        }
+      ],
+      "id": 46071
+    },
+    {
+      "name": "EGAWA SUGURU NO SUPER LEAGUE CD",
+      "gameInstances": [
+        {
+          "name": "Egawa Suguru no Super League CD (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46072-1",
+          "serial": "G-6019"
+        }
+      ],
+      "id": 46072
+    },
+    {
+      "name": "ETERNAL CHAMPIONS - CHALLENGE FROM THE DARK SIDE",
+      "gameInstances": [
+        {
+          "name": "Eternal Champions - Challenge from the Dark Side (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46073-1",
+          "serial": "4427"
+        }
+      ],
+      "id": 46073
+    },
+    {
+      "name": "EYE OF THE BEHOLDER",
+      "gameInstances": [
+        {
+          "name": "Eye of the Beholder (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46074-1",
+          "serial": "4655-50"
+        },
+        {
+          "name": "Eye of the Beholder (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46074-2",
+          "serial": "T-75014"
+        },
+        {
+          "name": "Eye of the Beholder (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46074-3",
+          "serial": "4655"
+        }
+      ],
+      "id": 46074
+    },
+    {
+      "name": "F1 CIRCUS CD",
+      "gameInstances": [
+        {
+          "name": "F1 Circus CD (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46075-1",
+          "serial": "T-71014"
+        }
+      ],
+      "id": 46075
+    },
+    {
+      "name": "FIFA INTERNATIONAL SOCCER",
+      "gameInstances": [
+        {
+          "name": "FIFA International Soccer (USA) (En,Fr,De,Es)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Fr,De,Es]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46076-1",
+          "serial": "T-50055"
+        }
+      ],
+      "id": 46076
+    },
+    {
+      "name": "FIFA INTERNATIONAL SOCCER - CHAMPIONSHIP EDITION",
+      "gameInstances": [
+        {
+          "name": "FIFA International Soccer - Championship Edition (Europe) (En,Fr,De,Es)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Fr,De,Es]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46077-1",
+          "serial": "T-50055-50"
+        }
+      ],
+      "id": 46077
+    },
+    {
+      "name": "FAHRENHEIT",
+      "gameInstances": [
+        {
+          "name": "Fahrenheit (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46078-1",
+          "serial": "4438-50"
+        },
+        {
+          "name": "Fahrenheit (France)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46078-2",
+          "serial": "4438-09"
+        },
+        {
+          "name": "Fahrenheit (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46078-3",
+          "serial": "G-6043"
+        },
+        {
+          "name": "Fahrenheit (USA) (Disc 1) (Key Disc) (Sega CD)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46078-4",
+          "serial": "4438"
+        },
+        {
+          "name": "Fahrenheit (USA) (Disc 2) (32X CD)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46078-5",
+          "serial": "4438"
+        }
+      ],
+      "id": 46078
+    },
+    {
+      "name": "FATAL FURY SPECIAL",
+      "gameInstances": [
+        {
+          "name": "Fatal Fury Special (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46079-1",
+          "serial": "T-60165-50"
+        },
+        {
+          "name": "Fatal Fury Special (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46079-2",
+          "serial": "T-60165"
+        }
+      ],
+      "id": 46079
+    },
+    {
+      "name": "FINAL FIGHT CD",
+      "gameInstances": [
+        {
+          "name": "Final Fight CD (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46080-1",
+          "serial": "4410"
+        },
+        {
+          "name": "Final Fight CD (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46080-2",
+          "serial": "G-6013"
+        },
+        {
+          "name": "Final Fight CD (Japan) (Rev A)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46080-3",
+          "serial": "G-6013"
+        },
+        {
+          "name": "Final Fight CD (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46080-4",
+          "serial": "4410"
+        }
+      ],
+      "id": 46080
+    },
+    {
+      "name": "FLASHBACK - THE QUEST FOR IDENTITY",
+      "gameInstances": [
+        {
+          "name": "Flashback - The Quest for Identity (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46081-1",
+          "serial": "4448"
+        }
+      ],
+      "id": 46081
+    },
+    {
+      "name": "FLINK",
+      "gameInstances": [
+        {
+          "name": "Flink (Europe) (En,Fr,De,Es,Nl)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Fr,De,Es,Nl]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46082-1",
+          "serial": "T-113055-50"
+        },
+        {
+          "name": "Flink (USA) (En,Fr,De,Es,Nl)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Fr,De,Es,Nl]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46082-2",
+          "serial": "T-23055"
+        }
+      ],
+      "id": 46082
+    },
+    {
+      "name": "FORMULA ONE WORLD CHAMPIONSHIP - BEYOND THE LIMIT",
+      "gameInstances": [
+        {
+          "name": "Formula One World Championship - Beyond the Limit (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46083-1",
+          "serial": "4608-50"
+        },
+        {
+          "name": "Formula One World Championship - Beyond the Limit (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46083-2",
+          "serial": "4608"
+        }
+      ],
+      "id": 46083
+    },
+    {
+      "name": "FRESH CLEANER",
+      "gameInstances": [
+        {
+          "name": "Fresh Cleaner (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46084-1",
+          "serial": "M-20001"
+        }
+      ],
+      "id": 46084
+    },
+    {
+      "name": "GAME NO KANDUME VOL. 1",
+      "gameInstances": [
+        {
+          "name": "Game no Kandume Vol. 1 (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46085-1",
+          "serial": "G-6032"
+        }
+      ],
+      "id": 46085
+    },
+    {
+      "name": "GAME NO KANDUME VOL. 2",
+      "gameInstances": [
+        {
+          "name": "Game no Kandume Vol. 2 (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46086-1",
+          "serial": "G-6033"
+        }
+      ],
+      "id": 46086
+    },
+    {
+      "name": "GAROU DENSETSU SPECIAL",
+      "gameInstances": [
+        {
+          "name": "Garou Densetsu Special (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46087-1",
+          "serial": "T-60214"
+        }
+      ],
+      "id": 46087
+    },
+    {
+      "name": "GEN'EI TOSHI - ILLUSION CITY",
+      "gameInstances": [
+        {
+          "name": "Gen'ei Toshi - Illusion City (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46088-1",
+          "serial": "T-51014"
+        }
+      ],
+      "id": 46088
+    },
+    {
+      "name": "GROUND ZERO TEXAS",
+      "gameInstances": [
+        {
+          "name": "Ground Zero Texas (Europe) (Disc 1)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46089-1",
+          "serial": "T-93145-50"
+        },
+        {
+          "name": "Ground Zero Texas (Europe) (Disc 2)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46089-2",
+          "serial": "T-93145-50"
+        },
+        {
+          "name": "Ground Zero Texas (USA) (Disc 1)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46089-3",
+          "serial": "T-93145"
+        },
+        {
+          "name": "Ground Zero Texas (USA) (Disc 2)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46089-4",
+          "serial": "T-93145"
+        }
+      ],
+      "id": 46089
+    },
+    {
+      "name": "GYUWAMBLER JIKO CHUUSHINHA 2 - GEKITOU! TOKYO MAHJONGLAND-HEN",
+      "gameInstances": [
+        {
+          "name": "Gyuwambler Jiko Chuushinha 2 - Gekitou! Tokyo Mahjongland-hen (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46090-1",
+          "serial": "T-45044"
+        }
+      ],
+      "id": 46090
+    },
+    {
+      "name": "HEART OF THE ALIEN - OUT OF THIS WORLD PARTS I AND II",
+      "gameInstances": [
+        {
+          "name": "Heart of the Alien - Out of This World Parts I and II (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46091-1",
+          "serial": "T-70025"
+        }
+      ],
+      "id": 46091
+    },
+    {
+      "name": "HEAVENLY SYMPHONY - FORMULA ONE WORLD CHAMPIONSHIP 1993",
+      "gameInstances": [
+        {
+          "name": "Heavenly Symphony - Formula One World Championship 1993 (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46092-1",
+          "serial": "G-6034"
+        }
+      ],
+      "id": 46092
+    },
+    {
+      "name": "HEAVY NOVA",
+      "gameInstances": [
+        {
+          "name": "Heavy Nova (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46093-1",
+          "serial": "T-22014"
+        }
+      ],
+      "id": 46093
+    },
+    {
+      "name": "HEIMDALL",
+      "gameInstances": [
+        {
+          "name": "Heimdall (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46094-1",
+          "serial": "T-60054"
+        },
+        {
+          "name": "Heimdall (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46094-2",
+          "serial": "T-60145"
+        }
+      ],
+      "id": 46094
+    },
+    {
+      "name": "HOOK",
+      "gameInstances": [
+        {
+          "name": "Hook (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46095-1",
+          "serial": "T-93055-50"
+        },
+        {
+          "name": "Hook (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46095-2",
+          "serial": "T-06205"
+        }
+      ],
+      "id": 46095
+    },
+    {
+      "name": "IIIRD WORLD WAR, THE",
+      "gameInstances": [
+        {
+          "name": "IIIrd World War, The (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46096-1",
+          "serial": "T-22034"
+        }
+      ],
+      "id": 46096
+    },
+    {
+      "name": "IRON HELIX",
+      "gameInstances": [
+        {
+          "name": "Iron Helix (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46097-1",
+          "serial": "T-124015"
+        }
+      ],
+      "id": 46097
+    },
+    {
+      "name": "ISHII HISAICHI NO DAISEIKAI",
+      "gameInstances": [
+        {
+          "name": "Ishii Hisaichi no Daiseikai (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46098-1",
+          "serial": "G-6016"
+        }
+      ],
+      "id": 46098
+    },
+    {
+      "name": "JAGUAR XJ220",
+      "gameInstances": [
+        {
+          "name": "Jaguar XJ220 (Europe) (En,Ja)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Ja]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46099-1",
+          "serial": "4602"
+        },
+        {
+          "name": "Jaguar XJ220 (Japan) (En,Ja)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46099-2",
+          "serial": "T-60094"
+        },
+        {
+          "name": "Jaguar XJ220 (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46099-3",
+          "serial": "T-6406"
+        }
+      ],
+      "id": 46099
+    },
+    {
+      "name": "JANGOU WORLD CUP",
+      "gameInstances": [
+        {
+          "name": "Jangou World Cup (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46100-1",
+          "serial": "T-60124"
+        }
+      ],
+      "id": 46100
+    },
+    {
+      "name": "JEOPARDY!",
+      "gameInstances": [
+        {
+          "name": "Jeopardy! (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46101-1",
+          "serial": "T-93095"
+        }
+      ],
+      "id": 46101
+    },
+    {
+      "name": "JOE MONTANA'S NFL FOOTBALL",
+      "gameInstances": [
+        {
+          "name": "Joe Montana's NFL Football (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46102-1",
+          "serial": "T-4201"
+        }
+      ],
+      "id": 46102
+    },
+    {
+      "name": "JURASSIC PARK",
+      "gameInstances": [
+        {
+          "name": "Jurassic Park (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46103-1",
+          "serial": "4411"
+        },
+        {
+          "name": "Jurassic Park (France)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46103-2",
+          "serial": "4411-09"
+        },
+        {
+          "name": "Jurassic Park (Germany)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46103-3",
+          "serial": "4411-18"
+        },
+        {
+          "name": "Jurassic Park (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46103-4",
+          "serial": "G-6038"
+        },
+        {
+          "name": "Jurassic Park (Spain)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46103-5",
+          "serial": "4411-06"
+        },
+        {
+          "name": "Jurassic Park (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46103-6",
+          "serial": "4411"
+        }
+      ],
+      "id": 46103
+    },
+    {
+      "name": "KAMEN RIDER ZO",
+      "gameInstances": [
+        {
+          "name": "Kamen Rider ZO (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46104-1",
+          "serial": "T-141014"
+        }
+      ],
+      "id": 46104
+    },
+    {
+      "name": "KEIO FLYING SQUADRON",
+      "gameInstances": [
+        {
+          "name": "Keio Flying Squadron (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46105-1",
+          "serial": "T-60185-50"
+        },
+        {
+          "name": "Keio Flying Squadron (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46105-2",
+          "serial": "T-60185"
+        }
+      ],
+      "id": 46105
+    },
+    {
+      "name": "KEIOU YUUGEKITAI",
+      "gameInstances": [
+        {
+          "name": "Keiou Yuugekitai (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46106-1",
+          "serial": "T-60114"
+        }
+      ],
+      "id": 46106
+    },
+    {
+      "name": "KIDS ON SITE",
+      "gameInstances": [
+        {
+          "name": "Kids on Site (Europe) (RE-1)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46107-1",
+          "serial": "T-162015-50"
+        },
+        {
+          "name": "Kids on Site (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46107-2",
+          "serial": "T162015"
+        }
+      ],
+      "id": 46107
+    },
+    {
+      "name": "LAWNMOWER MAN, THE",
+      "gameInstances": [
+        {
+          "name": "Lawnmower Man, The (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46108-1",
+          "serial": "T-160015"
+        }
+      ],
+      "id": 46108
+    },
+    {
+      "name": "LETHAL ENFORCERS",
+      "gameInstances": [
+        {
+          "name": "Lethal Enforcers (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46109-1",
+          "serial": "T-95015-50"
+        },
+        {
+          "name": "Lethal Enforcers (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46109-2",
+          "serial": "T-95014"
+        },
+        {
+          "name": "Lethal Enforcers (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46109-3",
+          "serial": "T-95015"
+        }
+      ],
+      "id": 46109
+    },
+    {
+      "name": "LETHAL ENFORCERS II - GUN FIGHTERS",
+      "gameInstances": [
+        {
+          "name": "Lethal Enforcers II - Gun Fighters (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46110-1",
+          "serial": "T-95025-50"
+        },
+        {
+          "name": "Lethal Enforcers II - Gun Fighters (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46110-2",
+          "serial": "T-95025"
+        }
+      ],
+      "id": 46110
+    },
+    {
+      "name": "LETHAL ENFORCERS II - THE WESTERN",
+      "gameInstances": [
+        {
+          "name": "Lethal Enforcers II - The Western (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46111-1",
+          "serial": "T-95034"
+        }
+      ],
+      "id": 46111
+    },
+    {
+      "name": "LINKS - THE CHALLENGE OF GOLF",
+      "gameInstances": [
+        {
+          "name": "Links - The Challenge of Golf (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46112-1",
+          "serial": "T-70095"
+        }
+      ],
+      "id": 46112
+    },
+    {
+      "name": "LOADSTAR - THE LEGEND OF TULLY BODINE",
+      "gameInstances": [
+        {
+          "name": "Loadstar - The Legend of Tully Bodine (USA, Brazil)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46113-1",
+          "serial": "063486"
+        }
+      ],
+      "id": 46113
+    },
+    {
+      "name": "LORDS OF THUNDER",
+      "gameInstances": [
+        {
+          "name": "Lords of Thunder (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46114-1",
+          "serial": "T-143035-50"
+        },
+        {
+          "name": "Lords of Thunder (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46114-2",
+          "serial": "4450"
+        }
+      ],
+      "id": 46114
+    },
+    {
+      "name": "LUNAR - ETERNAL BLUE",
+      "gameInstances": [
+        {
+          "name": "Lunar - Eternal Blue (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46115-1",
+          "serial": "T-45074"
+        },
+        {
+          "name": "Lunar - Eternal Blue (Japan) (Rev A)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46115-2",
+          "serial": "T-45074"
+        },
+        {
+          "name": "Lunar - Eternal Blue (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46115-3",
+          "serial": "T-127045"
+        }
+      ],
+      "id": 46115
+    },
+    {
+      "name": "LUNAR - THE SILVER STAR",
+      "gameInstances": [
+        {
+          "name": "Lunar - The Silver Star (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46116-1",
+          "serial": "T-45014"
+        },
+        {
+          "name": "Lunar - The Silver Star (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46116-2",
+          "serial": "T-127015"
+        }
+      ],
+      "id": 46116
+    },
+    {
+      "name": "MAD DOG II - THE LOST GOLD",
+      "gameInstances": [
+        {
+          "name": "Mad Dog II - The Lost Gold (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46117-1",
+          "serial": "T-111065"
+        }
+      ],
+      "id": 46117
+    },
+    {
+      "name": "MAD DOG MCCREE",
+      "gameInstances": [
+        {
+          "name": "Mad Dog McCree (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46118-1",
+          "serial": "T-111015"
+        }
+      ],
+      "id": 46118
+    },
+    {
+      "name": "MAHOU NO SHOUJO - SILKY LIP",
+      "gameInstances": [
+        {
+          "name": "Mahou no Shoujo - Silky Lip (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46119-1",
+          "serial": "T-49024"
+        }
+      ],
+      "id": 46119
+    },
+    {
+      "name": "MAKE MY VIDEO - INXS",
+      "gameInstances": [
+        {
+          "name": "Make My Video - INXS (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46120-1",
+          "serial": "4902"
+        },
+        {
+          "name": "Make My Video - INXS (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46120-2",
+          "serial": "4902"
+        }
+      ],
+      "id": 46120
+    },
+    {
+      "name": "MAKE MY VIDEO - KRIS KROSS",
+      "gameInstances": [
+        {
+          "name": "Make My Video - Kris Kross (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46121-1",
+          "serial": "T-93025-50"
+        },
+        {
+          "name": "Make My Video - Kris Kross (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46121-2",
+          "serial": "T-6202"
+        }
+      ],
+      "id": 46121
+    },
+    {
+      "name": "MAKE MY VIDEO - MARKY MARK AND THE FUNKY BUNCH",
+      "gameInstances": [
+        {
+          "name": "Make My Video - Marky Mark and the Funky Bunch (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46122-1",
+          "serial": "4901"
+        }
+      ],
+      "id": 46122
+    },
+    {
+      "name": "MANSION OF HIDDEN SOULS",
+      "gameInstances": [
+        {
+          "name": "Mansion of Hidden Souls (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46123-1",
+          "serial": "T-23015"
+        }
+      ],
+      "id": 46123
+    },
+    {
+      "name": "MARKO",
+      "gameInstances": [
+        {
+          "name": "Marko (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46124-1"
+        }
+      ],
+      "id": 46124
+    },
+    {
+      "name": "MARKO'S MAGIC FOOTBALL",
+      "gameInstances": [
+        {
+          "name": "Marko's Magic Football (Europe) (En,Fr,De,Es)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Fr,De,Es]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46125-1",
+          "serial": "T-88025-50"
+        }
+      ],
+      "id": 46125
+    },
+    {
+      "name": "MARY SHELLEY'S FRANKENSTEIN",
+      "gameInstances": [
+        {
+          "name": "Mary Shelley's Frankenstein (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46126-1",
+          "serial": "T-93155"
+        }
+      ],
+      "id": 46126
+    },
+    {
+      "name": "MASKED RIDER, THE - KAMEN RIDER ZO",
+      "gameInstances": [
+        {
+          "name": "Masked Rider, The - Kamen Rider ZO (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46127-1",
+          "serial": "4444"
+        }
+      ],
+      "id": 46127
+    },
+    {
+      "name": "MEGA SCHWARZSCHILD",
+      "gameInstances": [
+        {
+          "name": "Mega Schwarzschild (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46128-1",
+          "serial": "G-6020"
+        }
+      ],
+      "id": 46128
+    },
+    {
+      "name": "MEGARACE",
+      "gameInstances": [
+        {
+          "name": "MegaRace (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46129-1",
+          "serial": "T-87025"
+        }
+      ],
+      "id": 46129
+    },
+    {
+      "name": "MICKEY MANIA",
+      "gameInstances": [
+        {
+          "name": "Mickey Mania (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46130-1",
+          "serial": "T-93305-50"
+        }
+      ],
+      "id": 46130
+    },
+    {
+      "name": "MICKEY MANIA - THE TIMELESS ADVENTURES OF MICKEY MOUSE",
+      "gameInstances": [
+        {
+          "name": "Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46131-1",
+          "serial": "T-93265"
+        }
+      ],
+      "id": 46131
+    },
+    {
+      "name": "MICROCOSM",
+      "gameInstances": [
+        {
+          "name": "Microcosm (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46132-1",
+          "serial": "T-113015-50"
+        },
+        {
+          "name": "Microcosm (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46132-2",
+          "serial": "T-60164"
+        },
+        {
+          "name": "Microcosm (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46132-3",
+          "serial": "T-113015"
+        }
+      ],
+      "id": 46132
+    },
+    {
+      "name": "MIDNIGHT RAIDERS",
+      "gameInstances": [
+        {
+          "name": "Midnight Raiders (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46133-1",
+          "serial": "4439-50"
+        },
+        {
+          "name": "Midnight Raiders (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46133-2",
+          "serial": "4439"
+        }
+      ],
+      "id": 46133
+    },
+    {
+      "name": "MIGHT AND MAGIC III - ISLES OF TERRA",
+      "gameInstances": [
+        {
+          "name": "Might and Magic III - Isles of Terra (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46134-1",
+          "serial": "T-68024"
+        }
+      ],
+      "id": 46134
+    },
+    {
+      "name": "MIGHTY MIGHTY MISSILE",
+      "gameInstances": [
+        {
+          "name": "Mighty Mighty Missile (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46135-1"
+        }
+      ],
+      "id": 46135
+    },
+    {
+      "name": "MIGHTY MORPHIN POWER RANGERS",
+      "gameInstances": [
+        {
+          "name": "Mighty Morphin Power Rangers (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46136-1",
+          "serial": "4442-50"
+        },
+        {
+          "name": "Mighty Morphin Power Rangers (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46136-2",
+          "serial": "4442"
+        }
+      ],
+      "id": 46136
+    },
+    {
+      "name": "MORTAL KOMBAT",
+      "gameInstances": [
+        {
+          "name": "Mortal Kombat (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46137-1",
+          "serial": "T-81025-50"
+        },
+        {
+          "name": "Mortal Kombat (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46137-2",
+          "serial": "T-81025"
+        }
+      ],
+      "id": 46137
+    },
+    {
+      "name": "MORTAL KOMBAT KANZENBAN",
+      "gameInstances": [
+        {
+          "name": "Mortal Kombat Kanzenban (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46138-1",
+          "serial": "T-81014"
+        }
+      ],
+      "id": 46138
+    },
+    {
+      "name": "MY PAINT",
+      "gameInstances": [
+        {
+          "name": "My Paint (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46139-1",
+          "serial": "T-10901"
+        }
+      ],
+      "id": 46139
+    },
+    {
+      "name": "NBA JAM",
+      "gameInstances": [
+        {
+          "name": "NBA Jam (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46140-1",
+          "serial": "T-81035-50"
+        },
+        {
+          "name": "NBA Jam (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46140-2",
+          "serial": "T-81034"
+        },
+        {
+          "name": "NBA Jam (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46140-3",
+          "serial": "T-81035"
+        }
+      ],
+      "id": 46140
+    },
+    {
+      "name": "NFL FOOTBALL TRIVIA CHALLENGE",
+      "gameInstances": [
+        {
+          "name": "NFL Football Trivia Challenge (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46141-1",
+          "serial": "T-135015"
+        }
+      ],
+      "id": 46141
+    },
+    {
+      "name": "NFL'S GREATEST - SAN FRANCISCO VS. DALLAS 1978-1993",
+      "gameInstances": [
+        {
+          "name": "NFL's Greatest - San Francisco vs. Dallas 1978-1993 (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46142-1",
+          "serial": "4202"
+        }
+      ],
+      "id": 46142
+    },
+    {
+      "name": "NHL '94",
+      "gameInstances": [
+        {
+          "name": "NHL '94 (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46143-1",
+          "serial": "T-50015"
+        }
+      ],
+      "id": 46143
+    },
+    {
+      "name": "NHL HOCKEY '94",
+      "gameInstances": [
+        {
+          "name": "NHL Hockey '94 (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46144-1",
+          "serial": "T-50015-50"
+        }
+      ],
+      "id": 46144
+    },
+    {
+      "name": "NIGHT STRIKER",
+      "gameInstances": [
+        {
+          "name": "Night Striker (Japan, Korea)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46145-1",
+          "serial": "GD0010JT"
+        }
+      ],
+      "id": 46145
+    },
+    {
+      "name": "NIGHT TRAP",
+      "gameInstances": [
+        {
+          "name": "Night Trap (Europe) (Disc 1)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46146-1",
+          "serial": "4903"
+        },
+        {
+          "name": "Night Trap (Europe) (Disc 1) (Mega-CD 32X)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46146-2",
+          "serial": "T-16202F-50"
+        },
+        {
+          "name": "Night Trap (Europe) (Disc 2)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46146-3",
+          "serial": "4903"
+        },
+        {
+          "name": "Night Trap (Europe) (Disc 2) (Mega-CD 32X)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46146-4",
+          "serial": "T-16202F-50"
+        },
+        {
+          "name": "Night Trap (France) (Disc 1)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46146-5",
+          "serial": "4903-09"
+        },
+        {
+          "name": "Night Trap (France) (Disc 2)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46146-6",
+          "serial": "4903-09"
+        },
+        {
+          "name": "Night Trap (Japan) (Disc 1)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46146-7",
+          "serial": "G-6025"
+        },
+        {
+          "name": "Night Trap (Japan) (Disc 2)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46146-8",
+          "serial": "G-6025"
+        },
+        {
+          "name": "Night Trap (USA) (Disc 1)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46146-9",
+          "serial": "4903"
+        },
+        {
+          "name": "Night Trap (USA) (Disc 1) (Limited Run Games)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46146-10"
+        },
+        {
+          "name": "Night Trap (USA) (Disc 1) (Sega CD 32X) (Limited Run Games)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46146-11"
+        },
+        {
+          "name": "Night Trap (USA) (Disc 1) (Sega CD 32X) (RE-1)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46146-12",
+          "serial": "T-16202F"
+        },
+        {
+          "name": "Night Trap (USA) (Disc 2)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46146-13",
+          "serial": "4903"
+        },
+        {
+          "name": "Night Trap (USA) (Disc 2) (Limited Run Games)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46146-14"
+        },
+        {
+          "name": "Night Trap (USA) (Disc 2) (Sega CD 32X) (Limited Run Games)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46146-15"
+        },
+        {
+          "name": "Night Trap (USA) (Disc 2) (Sega CD 32X) (RE-1)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46146-16",
+          "serial": "T-16202F"
+        }
+      ],
+      "id": 46146
+    },
+    {
+      "name": "NINJA WARRIORS, THE",
+      "gameInstances": [
+        {
+          "name": "Ninja Warriors, The (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46147-1",
+          "serial": "T-11024P"
+        }
+      ],
+      "id": 46147
+    },
+    {
+      "name": "NOBUNAGA NO YABOU - HAOUDEN",
+      "gameInstances": [
+        {
+          "name": "Nobunaga no Yabou - Haouden (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46148-1",
+          "serial": "T-76024"
+        }
+      ],
+      "id": 46148
+    },
+    {
+      "name": "NOSTALGIA 1907 - IN NORTH ATLANTIC SEA",
+      "gameInstances": [
+        {
+          "name": "Nostalgia 1907 - In North Atlantic Sea (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46149-1",
+          "serial": "T-77014"
+        }
+      ],
+      "id": 46149
+    },
+    {
+      "name": "NOTE! COLOR MECHANICA",
+      "gameInstances": [
+        {
+          "name": "Note! Color Mechanica (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46150-1"
+        }
+      ],
+      "id": 46150
+    },
+    {
+      "name": "NOVASTORM",
+      "gameInstances": [
+        {
+          "name": "Novastorm (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46151-1",
+          "serial": "T-113065-50"
+        },
+        {
+          "name": "Novastorm (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46151-2",
+          "serial": "T-113025"
+        }
+      ],
+      "id": 46151
+    },
+    {
+      "name": "PANIC!",
+      "gameInstances": [
+        {
+          "name": "Panic! (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46152-1",
+          "serial": "T-13015"
+        }
+      ],
+      "id": 46152
+    },
+    {
+      "name": "PIER SOLAR AND THE GREAT ARCHITECTS - THE DEFINITIVE ORIGINAL SOUNDTRACK",
+      "gameInstances": [
+        {
+          "name": "Pier Solar and the Great Architects - The Definitive Original Soundtrack (Europe) (Disc 4) (Enhanced Soundtrack Disc)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46153-1",
+          "serial": "725-0117"
+        }
+      ],
+      "id": 46153
+    },
+    {
+      "name": "PIER SOLAR AND THE GREAT ARCHITECTS ENHANCED SOUNDTRACK DISC",
+      "gameInstances": [
+        {
+          "name": "Pier Solar and the Great Architects Enhanced Soundtrack Disc (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46154-1",
+          "serial": "T-574013"
+        }
+      ],
+      "id": 46154
+    },
+    {
+      "name": "PITFALL - THE MAYAN ADVENTURE",
+      "gameInstances": [
+        {
+          "name": "Pitfall - The Mayan Adventure (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46155-1",
+          "serial": "T-130025-50"
+        },
+        {
+          "name": "Pitfall - The Mayan Adventure (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46155-2",
+          "serial": "T-130025"
+        }
+      ],
+      "id": 46155
+    },
+    {
+      "name": "POPFUL MAIL",
+      "gameInstances": [
+        {
+          "name": "Popful Mail (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46156-1",
+          "serial": "T-127035"
+        }
+      ],
+      "id": 46156
+    },
+    {
+      "name": "POPFULMAIL",
+      "gameInstances": [
+        {
+          "name": "PopfulMail (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46157-1",
+          "serial": "G-6029"
+        }
+      ],
+      "id": 46157
+    },
+    {
+      "name": "POWER FACTORY",
+      "gameInstances": [
+        {
+          "name": "Power Factory (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46158-1",
+          "serial": "T-93035-50"
+        },
+        {
+          "name": "Power Factory (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46158-2",
+          "serial": "T-93035"
+        }
+      ],
+      "id": 46158
+    },
+    {
+      "name": "POWER MONGER",
+      "gameInstances": [
+        {
+          "name": "Power Monger (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46159-1",
+          "serial": "T-50035"
+        }
+      ],
+      "id": 46159
+    },
+    {
+      "name": "POWERMONGER",
+      "gameInstances": [
+        {
+          "name": "PowerMonger (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46160-1",
+          "serial": "T-50035-50"
+        }
+      ],
+      "id": 46160
+    },
+    {
+      "name": "PRINCE OF PERSIA",
+      "gameInstances": [
+        {
+          "name": "Prince of Persia (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46161-1",
+          "serial": "MK-4652-50"
+        },
+        {
+          "name": "Prince of Persia (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46161-2",
+          "serial": "T-60014"
+        },
+        {
+          "name": "Prince of Persia (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46161-3",
+          "serial": "4652"
+        }
+      ],
+      "id": 46161
+    },
+    {
+      "name": "PRIZE FIGHTER",
+      "gameInstances": [
+        {
+          "name": "Prize Fighter (Europe) (Disc 1)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46162-1",
+          "serial": "4206"
+        },
+        {
+          "name": "Prize Fighter (Europe) (Disc 2)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46162-2",
+          "serial": "4206"
+        },
+        {
+          "name": "Prize Fighter (Japan) (Disc 1)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46162-3",
+          "serial": "G-6037"
+        },
+        {
+          "name": "Prize Fighter (Japan) (Disc 2)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46162-4",
+          "serial": "G-6037"
+        },
+        {
+          "name": "Prize Fighter (USA) (Disc 1)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46162-5",
+          "serial": "MK4206"
+        },
+        {
+          "name": "Prize Fighter (USA) (Disc 2)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46162-6",
+          "serial": "4206"
+        }
+      ],
+      "id": 46162
+    },
+    {
+      "name": "PRO YAKYUU SUPER LEAGUE CD",
+      "gameInstances": [
+        {
+          "name": "Pro Yakyuu Super League CD (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46163-1",
+          "serial": "G-6010"
+        }
+      ],
+      "id": 46163
+    },
+    {
+      "name": "PSYCHIC DETECTIVE SERIES VOL. 3 - AYA",
+      "gameInstances": [
+        {
+          "name": "Psychic Detective Series Vol. 3 - Aya (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46164-1",
+          "serial": "T-84024"
+        }
+      ],
+      "id": 46164
+    },
+    {
+      "name": "PSYCHIC DETECTIVE SERIES VOL. 4 - ORGEL",
+      "gameInstances": [
+        {
+          "name": "Psychic Detective Series Vol. 4 - Orgel (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46165-1",
+          "serial": "T-84034"
+        }
+      ],
+      "id": 46165
+    },
+    {
+      "name": "PSYGNOSIS CHRISTMAS SAMPLER",
+      "gameInstances": [
+        {
+          "name": "Psygnosis Christmas Sampler (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46166-1"
+        }
+      ],
+      "id": 46166
+    },
+    {
+      "name": "PUGGSY",
+      "gameInstances": [
+        {
+          "name": "Puggsy (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46167-1",
+          "serial": "T-113035-50"
+        },
+        {
+          "name": "Puggsy (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46167-2",
+          "serial": "T-113035"
+        }
+      ],
+      "id": 46167
+    },
+    {
+      "name": "QUIZ SCRAMBLE SPECIAL",
+      "gameInstances": [
+        {
+          "name": "Quiz Scramble Special (Japan) (Rev B)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46168-1",
+          "serial": "G-6003"
+        }
+      ],
+      "id": 46168
+    },
+    {
+      "name": "QUIZ TONOSAMA NO YABOU",
+      "gameInstances": [
+        {
+          "name": "Quiz Tonosama no Yabou (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46169-1",
+          "serial": "T-44024"
+        }
+      ],
+      "id": 46169
+    },
+    {
+      "name": "RDF - GLOBAL CONFLICT",
+      "gameInstances": [
+        {
+          "name": "RDF - Global Conflict (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46170-1",
+          "serial": "T-86025"
+        }
+      ],
+      "id": 46170
+    },
+    {
+      "name": "RACING ACES",
+      "gameInstances": [
+        {
+          "name": "Racing Aces (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46171-1",
+          "serial": "4607"
+        }
+      ],
+      "id": 46171
+    },
+    {
+      "name": "RADICAL REX",
+      "gameInstances": [
+        {
+          "name": "Radical Rex (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46172-1",
+          "serial": "T-130035"
+        }
+      ],
+      "id": 46172
+    },
+    {
+      "name": "RANMA 1-2 - BYAKURANAIKA",
+      "gameInstances": [
+        {
+          "name": "Ranma 1-2 - Byakuranaika (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46173-1",
+          "serial": "T-25014"
+        }
+      ],
+      "id": 46173
+    },
+    {
+      "name": "RECORD OF LODOSS WAR",
+      "gameInstances": [
+        {
+          "name": "Record of Lodoss War (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46174-1",
+          "serial": "G-6024"
+        }
+      ],
+      "id": 46174
+    },
+    {
+      "name": "REVENGE OF THE NINJA",
+      "gameInstances": [
+        {
+          "name": "Revenge of the Ninja (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46175-1",
+          "serial": "T-49035"
+        }
+      ],
+      "id": 46175
+    },
+    {
+      "name": "REVENGERS OF VENGEANCE",
+      "gameInstances": [
+        {
+          "name": "Revengers of Vengeance (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46176-1",
+          "serial": "T-22035"
+        }
+      ],
+      "id": 46176
+    },
+    {
+      "name": "RISE OF THE DRAGON",
+      "gameInstances": [
+        {
+          "name": "Rise of the Dragon (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46177-1",
+          "serial": "4301"
+        },
+        {
+          "name": "Rise of the Dragon (USA) (Rerelease)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46177-2",
+          "serial": "T-110035"
+        }
+      ],
+      "id": 46177
+    },
+    {
+      "name": "RISE OF THE DRAGON - A BLADE HUNTER MYSTERY",
+      "gameInstances": [
+        {
+          "name": "Rise of the Dragon - A Blade Hunter Mystery (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46178-1",
+          "serial": "G-6002"
+        }
+      ],
+      "id": 46178
+    },
+    {
+      "name": "ROAD AVENGER",
+      "gameInstances": [
+        {
+          "name": "Road Avenger (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46179-1",
+          "serial": "4603"
+        },
+        {
+          "name": "Road Avenger (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46179-2",
+          "serial": "T-6207"
+        }
+      ],
+      "id": 46179
+    },
+    {
+      "name": "ROAD BLASTER FX",
+      "gameInstances": [
+        {
+          "name": "Road Blaster FX (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46180-1",
+          "serial": "T-32124"
+        }
+      ],
+      "id": 46180
+    },
+    {
+      "name": "ROAD RASH",
+      "gameInstances": [
+        {
+          "name": "Road Rash (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46181-1",
+          "serial": "T-50085"
+        }
+      ],
+      "id": 46181
+    },
+    {
+      "name": "ROBO ALESTE",
+      "gameInstances": [
+        {
+          "name": "Robo Aleste (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46182-1",
+          "serial": "4416"
+        },
+        {
+          "name": "Robo Aleste (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46182-2",
+          "serial": "T-48015"
+        }
+      ],
+      "id": 46182
+    },
+    {
+      "name": "SAMURAI SHODOWN",
+      "gameInstances": [
+        {
+          "name": "Samurai Shodown (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46183-1",
+          "serial": "T-60175-50"
+        },
+        {
+          "name": "Samurai Shodown (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46183-2",
+          "serial": "T-60175"
+        }
+      ],
+      "id": 46183
+    },
+    {
+      "name": "SAN DIEGO ZOO PRESENTS... THE ANIMALS!, THE",
+      "gameInstances": [
+        {
+          "name": "San Diego Zoo Presents... The Animals!, The (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46184-1",
+          "serial": "T-158015-50"
+        },
+        {
+          "name": "San Diego Zoo Presents... The Animals!, The (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46184-2",
+          "serial": "T-87015"
+        }
+      ],
+      "id": 46184
+    },
+    {
+      "name": "SANGOKUSHI III",
+      "gameInstances": [
+        {
+          "name": "Sangokushi III (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46185-1",
+          "serial": "T-76014"
+        }
+      ],
+      "id": 46185
+    },
+    {
+      "name": "SECRET OF MONKEY ISLAND, THE",
+      "gameInstances": [
+        {
+          "name": "Secret of Monkey Island, The (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46186-1",
+          "serial": "T-60044"
+        },
+        {
+          "name": "Secret of Monkey Island, The (USA) (Limited Run Games)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46186-2"
+        }
+      ],
+      "id": 46186
+    },
+    {
+      "name": "SEIMA DENSETSU 3X3 EYES",
+      "gameInstances": [
+        {
+          "name": "Seima Densetsu 3x3 Eyes (Japan, Korea)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46187-1",
+          "serial": "G-6007"
+        }
+      ],
+      "id": 46187
+    },
+    {
+      "name": "SEIREI SHINSEIKI - FHEY AREA",
+      "gameInstances": [
+        {
+          "name": "Seirei Shinseiki - Fhey Area (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46188-1",
+          "serial": "T-32034"
+        }
+      ],
+      "id": 46188
+    },
+    {
+      "name": "SENGOKU DENSHOU",
+      "gameInstances": [
+        {
+          "name": "Sengoku Denshou (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46189-1",
+          "serial": "T-24034"
+        }
+      ],
+      "id": 46189
+    },
+    {
+      "name": "SENSIBLE SOCCER",
+      "gameInstances": [
+        {
+          "name": "Sensible Soccer (Europe) (En,Fr,De,It)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Fr,De,It]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46190-1",
+          "serial": "T-93185-50"
+        }
+      ],
+      "id": 46190
+    },
+    {
+      "name": "SEWER SHARK",
+      "gameInstances": [
+        {
+          "name": "Sewer Shark (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46191-1",
+          "serial": "T-93015-50"
+        },
+        {
+          "name": "Sewer Shark (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46191-2",
+          "serial": "T-6201"
+        },
+        {
+          "name": "Sewer Shark (USA) (Not for Resale)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46191-3",
+          "serial": "4101"
+        },
+        {
+          "name": "Sewer Shark (USA) (Rev 1)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46191-4",
+          "serial": "T-6201"
+        }
+      ],
+      "id": 46191
+    },
+    {
+      "name": "SHADOW OF THE BEAST II",
+      "gameInstances": [
+        {
+          "name": "Shadow of the Beast II (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46192-1",
+          "serial": "T-113045"
+        }
+      ],
+      "id": 46192
+    },
+    {
+      "name": "SHADOW OF THE BEAST II - JUUSHIN NO JUBAKU",
+      "gameInstances": [
+        {
+          "name": "Shadow of the Beast II - Juushin no Jubaku (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46193-1",
+          "serial": "T-60034"
+        }
+      ],
+      "id": 46193
+    },
+    {
+      "name": "SHADOWRUN",
+      "gameInstances": [
+        {
+          "name": "Shadowrun (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46194-1",
+          "serial": "T-66024"
+        }
+      ],
+      "id": 46194
+    },
+    {
+      "name": "SHERLOCK HOLMES - CONSULTING DETECTIVE",
+      "gameInstances": [
+        {
+          "name": "Sherlock Holmes - Consulting Detective (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46195-1",
+          "serial": "4650"
+        },
+        {
+          "name": "Sherlock Holmes - Consulting Detective (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46195-2",
+          "serial": "T-4501"
+        }
+      ],
+      "id": 46195
+    },
+    {
+      "name": "SHERLOCK HOLMES - CONSULTING DETECTIVE - VOL. II",
+      "gameInstances": [
+        {
+          "name": "Sherlock Holmes - Consulting Detective - Vol. II (Europe) (Disc 1)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46196-1",
+          "serial": "4653"
+        },
+        {
+          "name": "Sherlock Holmes - Consulting Detective - Vol. II (Europe) (Disc 2)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46196-2",
+          "serial": "4653"
+        },
+        {
+          "name": "Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 1)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46196-3",
+          "serial": "4653"
+        },
+        {
+          "name": "Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 2)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46196-4",
+          "serial": "4653"
+        }
+      ],
+      "id": 46196
+    },
+    {
+      "name": "SHIN MEGAMI TENSEI",
+      "gameInstances": [
+        {
+          "name": "Shin Megami Tensei (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46197-1",
+          "serial": "T-44044"
+        }
+      ],
+      "id": 46197
+    },
+    {
+      "name": "SHINING FORCE CD",
+      "gameInstances": [
+        {
+          "name": "Shining Force CD (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46198-1",
+          "serial": "4656-50"
+        },
+        {
+          "name": "Shining Force CD (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46198-2",
+          "serial": "G-6036"
+        },
+        {
+          "name": "Shining Force CD (USA) (5R, 6R)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46198-3",
+          "serial": "4656"
+        }
+      ],
+      "id": 46198
+    },
+    {
+      "name": "SILPHEED",
+      "gameInstances": [
+        {
+          "name": "Silpheed (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46199-1",
+          "serial": "4423"
+        },
+        {
+          "name": "Silpheed (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46199-2",
+          "serial": "T-45054"
+        },
+        {
+          "name": "Silpheed (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46199-3",
+          "serial": "4423"
+        }
+      ],
+      "id": 46199
+    },
+    {
+      "name": "SIMEARTH",
+      "gameInstances": [
+        {
+          "name": "SimEarth (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46200-1",
+          "serial": "G-6008"
+        }
+      ],
+      "id": 46200
+    },
+    {
+      "name": "SING!! SEGA GAME MUSIC PRESENTED BY B. B. QUEENS",
+      "gameInstances": [
+        {
+          "name": "Sing!! Sega Game Music Presented by B. B. Queens (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46201-1",
+          "serial": "BVRR-1"
+        }
+      ],
+      "id": 46201
+    },
+    {
+      "name": "SLAM CITY WITH SCOTTIE PIPPEN",
+      "gameInstances": [
+        {
+          "name": "Slam City with Scottie Pippen (Europe) (Disc 1) (Fingers)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46202-1",
+          "serial": "T-162035-50"
+        },
+        {
+          "name": "Slam City with Scottie Pippen (Europe) (Disc 1) (Fingers) (Mega-CD 32X)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46202-2",
+          "serial": "T-16204F-50"
+        },
+        {
+          "name": "Slam City with Scottie Pippen (Europe) (Disc 2) (Juice)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46202-3",
+          "serial": "T-162035-50"
+        },
+        {
+          "name": "Slam City with Scottie Pippen (Europe) (Disc 2) (Juice) (Mega-CD 32X)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46202-4",
+          "serial": "T-16204F-50"
+        },
+        {
+          "name": "Slam City with Scottie Pippen (Europe) (Disc 3) (Mad Dog)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46202-5",
+          "serial": "T-162035-50"
+        },
+        {
+          "name": "Slam City with Scottie Pippen (Europe) (Disc 3) (Mad Dog) (Mega-CD 32X)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46202-6",
+          "serial": "T-16204F-50"
+        },
+        {
+          "name": "Slam City with Scottie Pippen (Europe) (Disc 4) (Smash)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46202-7",
+          "serial": "T-162035-50"
+        },
+        {
+          "name": "Slam City with Scottie Pippen (Europe) (Disc 4) (Smash) (Mega-CD 32X)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46202-8",
+          "serial": "T-16204F-50"
+        },
+        {
+          "name": "Slam City with Scottie Pippen (USA) (Disc 1) (Fingers)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46202-9",
+          "serial": "T162035"
+        },
+        {
+          "name": "Slam City with Scottie Pippen (USA) (Disc 1) (Fingers) (Sega CD 32X)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46202-10",
+          "serial": "T16204F"
+        },
+        {
+          "name": "Slam City with Scottie Pippen (USA) (Disc 2) (Juice) (Sega CD 32X)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46202-11",
+          "serial": "T16204F"
+        },
+        {
+          "name": "Slam City with Scottie Pippen (USA) (Disc 3) (Mad Dog)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46202-12",
+          "serial": "T162035"
+        },
+        {
+          "name": "Slam City with Scottie Pippen (USA) (Disc 3) (Mad Dog) (Sega CD 32X)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46202-13",
+          "serial": "T16204F"
+        },
+        {
+          "name": "Slam City with Scottie Pippen (USA) (Disc 4) (Smash) (Sega CD 32X)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46202-14",
+          "serial": "T16204F"
+        },
+        {
+          "name": "Slam City with Scottie Pippen (USA, Brazil) (Disc 2) (Juice) (RE-1)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46202-15",
+          "serial": "063636"
+        },
+        {
+          "name": "Slam City with Scottie Pippen (USA, Brazil) (Disc 4) (Smash)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46202-16",
+          "serial": "063636"
+        }
+      ],
+      "id": 46202
+    },
+    {
+      "name": "SMURFS, THE",
+      "gameInstances": [
+        {
+          "name": "Smurfs, The (Europe) (En,Fr,De,Es,It)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Fr,De,Es,It]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46203-1",
+          "serial": "T-151015-50"
+        }
+      ],
+      "id": 46203
+    },
+    {
+      "name": "SNATCHER",
+      "gameInstances": [
+        {
+          "name": "Snatcher (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46204-1",
+          "serial": "T-95035-05"
+        },
+        {
+          "name": "Snatcher (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46204-2",
+          "serial": "T-95035"
+        }
+      ],
+      "id": 46204
+    },
+    {
+      "name": "SOFTWARE TOOLWORKS' STAR WARS CHESS, THE",
+      "gameInstances": [
+        {
+          "name": "Software Toolworks' Star Wars Chess, The (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46205-1",
+          "serial": "T-158025-50"
+        },
+        {
+          "name": "Software Toolworks' Star Wars Chess, The (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46205-2",
+          "serial": "T-87035"
+        }
+      ],
+      "id": 46205
+    },
+    {
+      "name": "SOL-FEACE",
+      "gameInstances": [
+        {
+          "name": "Sol-Feace (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46206-1",
+          "serial": "4130"
+        },
+        {
+          "name": "Sol-Feace (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46206-2",
+          "serial": "T-32024"
+        },
+        {
+          "name": "Sol-Feace (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46206-3",
+          "serial": "4130"
+        },
+        {
+          "name": "Sol-Feace (USA) (Rev 2)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46206-4",
+          "serial": "4130"
+        }
+      ],
+      "id": 46206
+    },
+    {
+      "name": "SONIC CD",
+      "gameInstances": [
+        {
+          "name": "Sonic CD (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46207-1",
+          "serial": "4407"
+        },
+        {
+          "name": "Sonic CD (USA) (RE125)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46207-2"
+        }
+      ],
+      "id": 46207
+    },
+    {
+      "name": "SONIC MEGAMIX",
+      "gameInstances": [
+        {
+          "name": "Sonic MegaMix (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46208-1"
+        }
+      ],
+      "id": 46208
+    },
+    {
+      "name": "SONIC THE HEDGEHOG CD",
+      "gameInstances": [
+        {
+          "name": "Sonic the Hedgehog CD (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46209-1",
+          "serial": "G-6021"
+        }
+      ],
+      "id": 46209
+    },
+    {
+      "name": "SOULSTAR",
+      "gameInstances": [
+        {
+          "name": "SoulStar (Europe) (En,Fr,De)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Fr,De]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46210-1",
+          "serial": "T-115035-50"
+        },
+        {
+          "name": "SoulStar (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46210-2",
+          "serial": "T-60184"
+        },
+        {
+          "name": "SoulStar (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46210-3",
+          "serial": "T-115035"
+        }
+      ],
+      "id": 46210
+    },
+    {
+      "name": "SPACE ACE",
+      "gameInstances": [
+        {
+          "name": "Space Ace (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46211-1",
+          "serial": "T-121025"
+        }
+      ],
+      "id": 46211
+    },
+    {
+      "name": "SPACE ADVENTURE, THE - COBRA - THE LEGENDARY BANDIT",
+      "gameInstances": [
+        {
+          "name": "Space Adventure, The - Cobra - The Legendary Bandit (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46212-1",
+          "serial": "T-143015-50"
+        },
+        {
+          "name": "Space Adventure, The - Cobra - The Legendary Bandit (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46212-2",
+          "serial": "T-143015"
+        }
+      ],
+      "id": 46212
+    },
+    {
+      "name": "STAR WARS - REBEL ASSAULT",
+      "gameInstances": [
+        {
+          "name": "Star Wars - Rebel Assault (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46213-1",
+          "serial": "T-60075-50"
+        },
+        {
+          "name": "Star Wars - Rebel Assault (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46213-2",
+          "serial": "T-60174"
+        },
+        {
+          "name": "Star Wars - Rebel Assault (USA) (Limited Run Games)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46213-3",
+          "serial": "T-60075"
+        }
+      ],
+      "id": 46213
+    },
+    {
+      "name": "STARBLADE",
+      "gameInstances": [
+        {
+          "name": "Starblade (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46214-1",
+          "serial": "4284-50"
+        },
+        {
+          "name": "Starblade (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46214-2",
+          "serial": "T-14014"
+        },
+        {
+          "name": "Starblade (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46214-3",
+          "serial": "T-14025"
+        }
+      ],
+      "id": 46214
+    },
+    {
+      "name": "STELLAR-FIRE",
+      "gameInstances": [
+        {
+          "name": "Stellar-Fire (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46215-1",
+          "serial": "T-110025"
+        }
+      ],
+      "id": 46215
+    },
+    {
+      "name": "SUPER STRIKE TRILOGY",
+      "gameInstances": [
+        {
+          "name": "Super Strike Trilogy (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46216-1"
+        }
+      ],
+      "id": 46216
+    },
+    {
+      "name": "SUPREME WARRIOR",
+      "gameInstances": [
+        {
+          "name": "Supreme Warrior (Europe) (Disc 1)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46217-1",
+          "serial": "T-162045-50"
+        },
+        {
+          "name": "Supreme Warrior (Europe) (Disc 1) (Mega-CD 32X)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46217-2",
+          "serial": "T-16203F-50"
+        },
+        {
+          "name": "Supreme Warrior (Europe) (Disc 2)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46217-3",
+          "serial": "T-162045-50"
+        },
+        {
+          "name": "Supreme Warrior (Europe) (Disc 2) (Mega-CD 32X)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46217-4",
+          "serial": "T-16203F-50"
+        },
+        {
+          "name": "Supreme Warrior (USA) (Disc 1) (Fire & Earth)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46217-5",
+          "serial": "T162045"
+        },
+        {
+          "name": "Supreme Warrior (USA) (Disc 1) (Fire & Earth) (Sega CD 32X)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46217-6",
+          "serial": "T-16203F"
+        },
+        {
+          "name": "Supreme Warrior (USA) (Disc 2) (Wind & Fang Tu)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46217-7",
+          "serial": "T162045"
+        },
+        {
+          "name": "Supreme Warrior (USA) (Disc 2) (Wind & Fang Tu) (Sega CD 32X)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46217-8",
+          "serial": "T-16203F"
+        }
+      ],
+      "id": 46217
+    },
+    {
+      "name": "SURGICAL STRIKE",
+      "gameInstances": [
+        {
+          "name": "Surgical Strike (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46218-1",
+          "serial": "4435-50"
+        },
+        {
+          "name": "Surgical Strike (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46218-2",
+          "serial": "G-6044"
+        },
+        {
+          "name": "Surgical Strike (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46218-3",
+          "serial": "4435"
+        }
+      ],
+      "id": 46218
+    },
+    {
+      "name": "SWITCH",
+      "gameInstances": [
+        {
+          "name": "Switch (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46219-1",
+          "serial": "G-6009"
+        }
+      ],
+      "id": 46219
+    },
+    {
+      "name": "SYNDICATE",
+      "gameInstances": [
+        {
+          "name": "Syndicate (Europe) (En,Fr,De)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Fr,De]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46220-1",
+          "serial": "T-88065-50"
+        }
+      ],
+      "id": 46220
+    },
+    {
+      "name": "TENBU MEGA CD SPECIAL",
+      "gameInstances": [
+        {
+          "name": "Tenbu Mega CD Special (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46221-1",
+          "serial": "T-32084"
+        }
+      ],
+      "id": 46221
+    },
+    {
+      "name": "TENKAFUBU - EIYUUTACHI NO HOUKOU",
+      "gameInstances": [
+        {
+          "name": "Tenkafubu - Eiyuutachi no Houkou (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46222-1",
+          "serial": "T-45024"
+        }
+      ],
+      "id": 46222
+    },
+    {
+      "name": "TERMINATOR, THE",
+      "gameInstances": [
+        {
+          "name": "Terminator, The (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46223-1",
+          "serial": "T-70015-50"
+        },
+        {
+          "name": "Terminator, The (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46223-2",
+          "serial": "T-70015"
+        }
+      ],
+      "id": 46223
+    },
+    {
+      "name": "THEME PARK",
+      "gameInstances": [
+        {
+          "name": "Theme Park (Europe) (En,Fr,De,Es)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Fr,De,Es]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46224-1",
+          "serial": "T-88055-50"
+        }
+      ],
+      "id": 46224
+    },
+    {
+      "name": "THIRD WORLD WAR",
+      "gameInstances": [
+        {
+          "name": "Third World War (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46225-1",
+          "serial": "T-22025"
+        }
+      ],
+      "id": 46225
+    },
+    {
+      "name": "THUNDER STORM FX",
+      "gameInstances": [
+        {
+          "name": "Thunder Storm FX (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46226-1",
+          "serial": "T-32064"
+        }
+      ],
+      "id": 46226
+    },
+    {
+      "name": "THUNDERHAWK",
+      "gameInstances": [
+        {
+          "name": "Thunderhawk (Europe) (En,Fr,De,Es)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Fr,De,Es]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46227-1",
+          "serial": "T-115015-50"
+        },
+        {
+          "name": "Thunderhawk (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46227-2",
+          "serial": "T-60134"
+        }
+      ],
+      "id": 46227
+    },
+    {
+      "name": "TIME GAL",
+      "gameInstances": [
+        {
+          "name": "Time Gal (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46228-1",
+          "serial": "4417"
+        },
+        {
+          "name": "Time Gal (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46228-2",
+          "serial": "T-32114"
+        },
+        {
+          "name": "Time Gal (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46228-3",
+          "serial": "T-6214"
+        }
+      ],
+      "id": 46228
+    },
+    {
+      "name": "TOMCAT ALLEY",
+      "gameInstances": [
+        {
+          "name": "Tomcat Alley (Australia)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46229-1",
+          "serial": "4429"
+        },
+        {
+          "name": "Tomcat Alley (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46229-2",
+          "serial": "MK-4429-50"
+        },
+        {
+          "name": "Tomcat Alley (France)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46229-3",
+          "serial": "4429-09"
+        },
+        {
+          "name": "Tomcat Alley (Germany)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46229-4",
+          "serial": "MK-4429-50"
+        },
+        {
+          "name": "Tomcat Alley (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46229-5",
+          "serial": "G-6039"
+        },
+        {
+          "name": "Tomcat Alley (Spain)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46229-6",
+          "serial": "4429-06"
+        },
+        {
+          "name": "Tomcat Alley (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46229-7",
+          "serial": "4429"
+        }
+      ],
+      "id": 46229
+    },
+    {
+      "name": "TRIVIAL PURSUIT",
+      "gameInstances": [
+        {
+          "name": "Trivial Pursuit (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46230-1",
+          "serial": "T-89015"
+        }
+      ],
+      "id": 46230
+    },
+    {
+      "name": "ULTRAVERSE PRIME",
+      "gameInstances": [
+        {
+          "name": "Ultraverse Prime (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46231-1",
+          "serial": "T-93325"
+        }
+      ],
+      "id": 46231
+    },
+    {
+      "name": "URUSEI YATSURA - DEAR MY FRIENDS",
+      "gameInstances": [
+        {
+          "name": "Urusei Yatsura - Dear My Friends (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46232-1",
+          "serial": "T-45064"
+        }
+      ],
+      "id": 46232
+    },
+    {
+      "name": "VAY",
+      "gameInstances": [
+        {
+          "name": "Vay (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46233-1",
+          "serial": "T-127025"
+        }
+      ],
+      "id": 46233
+    },
+    {
+      "name": "VAY - RYUUSEI NO YOROI",
+      "gameInstances": [
+        {
+          "name": "Vay - Ryuusei no Yoroi (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46234-1",
+          "serial": "T-44014"
+        }
+      ],
+      "id": 46234
+    },
+    {
+      "name": "WWF - RAGE IN THE CAGE",
+      "gameInstances": [
+        {
+          "name": "WWF - Rage in the Cage (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46235-1",
+          "serial": "T-81015-50"
+        },
+        {
+          "name": "WWF - Rage in the Cage (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46235-2",
+          "serial": "T-81015"
+        }
+      ],
+      "id": 46235
+    },
+    {
+      "name": "WWF MANIA TOUR - WWF - RAGE IN THE CAGE",
+      "gameInstances": [
+        {
+          "name": "WWF Mania Tour - WWF - Rage in the Cage (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46236-1",
+          "serial": "T-81024"
+        }
+      ],
+      "id": 46236
+    },
+    {
+      "name": "WAKUSEI WOODSTOCK - FUNKY HORROR BAND",
+      "gameInstances": [
+        {
+          "name": "Wakusei Woodstock - Funky Horror Band (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46237-1",
+          "serial": "G-6001"
+        }
+      ],
+      "id": 46237
+    },
+    {
+      "name": "WARAU SALESMAN",
+      "gameInstances": [
+        {
+          "name": "Warau Salesman (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46238-1",
+          "serial": "G-6006"
+        }
+      ],
+      "id": 46238
+    },
+    {
+      "name": "WHAT IS X'EYE MULTI ENTERTAINMENT SYSTEM",
+      "gameInstances": [
+        {
+          "name": "What Is X'Eye Multi Entertainment System (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46239-1",
+          "serial": "SMJ-4110"
+        }
+      ],
+      "id": 46239
+    },
+    {
+      "name": "WHEEL OF FORTUNE",
+      "gameInstances": [
+        {
+          "name": "Wheel of Fortune (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46240-1",
+          "serial": "T-93085"
+        }
+      ],
+      "id": 46240
+    },
+    {
+      "name": "WHO SHOT JOHNNY ROCK",
+      "gameInstances": [
+        {
+          "name": "Who Shot Johnny Rock (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46241-1",
+          "serial": "T-111045"
+        }
+      ],
+      "id": 46241
+    },
+    {
+      "name": "WILD WOODY",
+      "gameInstances": [
+        {
+          "name": "Wild Woody (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46242-1",
+          "serial": "4440"
+        }
+      ],
+      "id": 46242
+    },
+    {
+      "name": "WING COMMANDER",
+      "gameInstances": [
+        {
+          "name": "Wing Commander (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46243-1",
+          "serial": "G-6011"
+        },
+        {
+          "name": "Wing Commander (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46243-2",
+          "serial": "T-50045"
+        }
+      ],
+      "id": 46243
+    },
+    {
+      "name": "WINNING POST",
+      "gameInstances": [
+        {
+          "name": "Winning Post (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46244-1",
+          "serial": "T-76044"
+        }
+      ],
+      "id": 46244
+    },
+    {
+      "name": "WIREHEAD",
+      "gameInstances": [
+        {
+          "name": "WireHead (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46245-1",
+          "serial": "4437"
+        }
+      ],
+      "id": 46245
+    },
+    {
+      "name": "WOLFCHILD",
+      "gameInstances": [
+        {
+          "name": "Wolfchild (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46246-1",
+          "serial": "4404"
+        },
+        {
+          "name": "Wolfchild (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46246-2",
+          "serial": "T-60104"
+        },
+        {
+          "name": "Wolfchild (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46246-3",
+          "serial": "T-6403"
+        }
+      ],
+      "id": 46246
+    },
+    {
+      "name": "WONDER DOG",
+      "gameInstances": [
+        {
+          "name": "Wonder Dog (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46247-1",
+          "serial": "4428"
+        },
+        {
+          "name": "Wonder Dog (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46247-2",
+          "serial": "T-60074"
+        },
+        {
+          "name": "Wonder Dog (USA)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46247-3",
+          "serial": "T-6402"
+        }
+      ],
+      "id": 46247
+    },
+    {
+      "name": "WORLD CUP USA '94",
+      "gameInstances": [
+        {
+          "name": "World Cup USA '94 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Fr,De,Es,It,Nl,Pt,Sv]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46248-1",
+          "serial": "T-79025-50"
+        },
+        {
+          "name": "World Cup USA '94 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En,Fr,De,Es,It,Nl,Pt,Sv]",
+          "region": "NTSC-U",
+          "tgdbId": 0,
+          "id": "46248-2",
+          "serial": "T-79025"
+        }
+      ],
+      "id": 46248
+    },
+    {
+      "name": "YUMEMI MYSTERY MANSION",
+      "gameInstances": [
+        {
+          "name": "Yumemi Mystery Mansion (Australia)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46249-1",
+          "serial": "4430"
+        },
+        {
+          "name": "Yumemi Mystery Mansion (Europe)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[En]",
+          "region": "PAL",
+          "tgdbId": 0,
+          "id": "46249-2",
+          "serial": "4430"
+        }
+      ],
+      "id": 46249
+    },
+    {
+      "name": "YUMEMI YAKATA NO MONOGATARI",
+      "gameInstances": [
+        {
+          "name": "Yumemi Yakata no Monogatari (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46250-1",
+          "serial": "G-6027"
+        }
+      ],
+      "id": 46250
+    },
+    {
+      "name": "YUMIMI MIX",
+      "gameInstances": [
+        {
+          "name": "Yumimi Mix (Japan)",
+          "platform": "segacd",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "46251-1",
+          "serial": "T-45034"
+        }
+      ],
+      "id": 46251
     }
   ]
 }
