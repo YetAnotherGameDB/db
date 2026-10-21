@@ -868194,15 +868194,6 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "39137-1"
-        },
-        {
-          "name": "Sorcerian",
-          "platform": "genesis",
-          "language": "[Ja]",
-          "serial": "00054504-01",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "39137-2"
         }
       ],
       "id": 39137
@@ -868960,15 +868951,6 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "39182-1"
-        },
-        {
-          "name": "Super Daisenryaku",
-          "platform": "genesis",
-          "language": "[Ja]",
-          "serial": "00004501-02",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "39182-2"
         }
       ],
       "id": 39182
