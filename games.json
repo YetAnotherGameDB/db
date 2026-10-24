@@ -159839,7 +159839,7 @@
           "id": "6061-2"
         },
         {
-          "name": "FIGHT NIGHT ROUND 4",
+          "name": "FIGHT NIGHT ROUND 4 [Reissue]",
           "platform": "ps3",
           "media": "disc",
           "regionalName": "ファイトナイト　ラウンド４",
@@ -159872,6 +159872,18 @@
           "tgdbId": 0,
           "redumpId": 35416,
           "id": "6061-5"
+        },
+        {
+          "name": "FIGHT NIGHT ROUND 4",
+          "platform": "ps3",
+          "media": "disc",
+          "regionalName": "ファイトナイト　ラウンド４",
+          "serial": "BLJM-60194",
+          "region": "Japan",
+          "tgdbId": 0,
+          "releaseDate": "2010-01-28",
+          "id": "6061-6",
+          "upc": "4938833009838"
         }
       ],
       "id": 6061
