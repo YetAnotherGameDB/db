@@ -145,7 +145,7 @@ const instRegionalName = o => pick(o, "regionalName", "regioonalName");
 const instLang = o => pick(o, "language", "Language");
 const instUpc = o => pick(o, "upc", "UPC");
 const instDate = o => pick(o, "releaseDate", "ReleaseDate");
-const instRedump = o => pick(o, "redumpId");
+const instRedump = o => { const v = o.redumpIds; return Array.isArray(v) ? v.join(", ") : ""; };
 const instTgdb = o => { const v = pick(o, "tgdbId"); return v && v !== 0 ? v : ""; };
 
 let games = [];

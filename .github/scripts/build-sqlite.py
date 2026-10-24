@@ -28,14 +28,13 @@ INSTANCE_KEY_MAP = {
     "pricecharting": "pricecharting_id",
     "pricechartingid": "pricecharting_id",
     "upc": "upc",
-    "redumpid": "redump_id",
     "link": "linked_id",
 }
 
 INSTANCE_COLS = [
     "id", "game_id", "name", "regional_name", "platform", "language",
     "serial", "media", "region", "release_date", "tgdb_id", "gameye_id",
-    "pricecharting_id", "upc", "redump_id", "linked_id",
+    "pricecharting_id", "upc", "linked_id",
 ]
 
 SCHEMA = """
@@ -77,10 +76,14 @@ CREATE TABLE game_instances (
     gameye_id        INTEGER,
     pricecharting_id TEXT,
     upc              TEXT,
-    redump_id        INTEGER,
     -- set on link stubs: this row is the same physical release as the
     -- referenced instance (2-in-1 compilations under two game entries)
     linked_id        TEXT REFERENCES game_instances(id)
+);
+CREATE TABLE instance_redump (
+    instance_id TEXT NOT NULL REFERENCES game_instances(id),
+    redump_id   INTEGER NOT NULL,
+    PRIMARY KEY (instance_id, redump_id)
 );
 CREATE INDEX idx_instances_game_id ON game_instances(game_id);
 CREATE INDEX idx_instances_serial  ON game_instances(serial);
@@ -129,9 +132,13 @@ def main():
             row = dict.fromkeys(INSTANCE_COLS)
             row["id"] = inst["id"]
             row["game_id"] = game["id"]
+            redump_ids = []
             for key, value in inst.items():
                 lk = key.lower()
                 if lk in ("id", "localizednames"):
+                    continue
+                if lk == "redumpids":
+                    redump_ids = value
                     continue
                 col = INSTANCE_KEY_MAP.get(lk)
                 if col is None:
@@ -139,6 +146,8 @@ def main():
                 elif row[col] is None:
                     row[col] = value
             cur.execute(inst_sql, [row[c] for c in INSTANCE_COLS])
+            cur.executemany("INSERT OR IGNORE INTO instance_redump VALUES (?, ?)",
+                            [(inst["id"], r) for r in redump_ids])
             n_instances += 1
 
     con.commit()
