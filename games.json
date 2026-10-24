@@ -210176,6 +210176,18 @@
       "name": "WHITE ALBUM: TSUZURARERU FUYU NO OMOIDE",
       "gameInstances": [
         {
+          "name": "WHITE ALBUM: TSUZURARERU FUYU NO OMOIDE [Reissue]",
+          "platform": "ps3",
+          "media": "disc",
+          "regionalName": "WHITE ALBUM－綴られる冬の想い出－ AQUAPRICE2800",
+          "language": "[Ja]",
+          "serial": "BLJM-60428",
+          "region": "Japan",
+          "tgdbId": 0,
+          "releaseDate": "2011-12-08",
+          "id": "7517-3"
+        },
+        {
           "name": "WHITE ALBUM: TSUZURARERU FUYU NO OMOIDE",
           "platform": "ps3",
           "media": "disc",
