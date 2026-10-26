@@ -501230,6 +501230,7 @@
           "serial": "PCSE-00844",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-03-15",
           "id": "20077-1"
         }
       ],
@@ -501245,6 +501246,7 @@
           "serial": "PCSB-01066",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2017-05-19",
           "id": "20078-1"
         }
       ],
@@ -501275,6 +501277,7 @@
           "serial": "PCSB-00640",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-10-10",
           "id": "20080-1"
         }
       ],
@@ -501290,6 +501293,7 @@
           "serial": "PCSB-00397",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-11-01",
           "id": "20081-1"
         }
       ],
@@ -501305,6 +501309,7 @@
           "serial": "PCSB-00630",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-11-21",
           "id": "20082-1"
         }
       ],
@@ -501320,6 +501325,7 @@
           "serial": "PCSB-00050",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-02-22",
           "id": "20083-1"
         }
       ],
@@ -501335,6 +501341,7 @@
           "serial": "PCSB-00040",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-02-22",
           "id": "20084-1"
         }
       ],
@@ -501365,6 +501372,7 @@
           "serial": "PCSB-00074",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-10-31",
           "id": "20086-1"
         }
       ],
@@ -501380,6 +501388,7 @@
           "serial": "PCSE-01042",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-10-13",
           "id": "20087-1"
         }
       ],
@@ -501395,6 +501404,7 @@
           "serial": "PCSB-00353",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-10-25",
           "id": "20088-1"
         }
       ],
@@ -501410,6 +501420,7 @@
           "serial": "PCSE-00024",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-02-22",
           "id": "20089-1"
         }
       ],
@@ -501440,6 +501451,7 @@
           "serial": "PCSE-00279",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-06-24",
           "id": "20091-1"
         }
       ],
@@ -501470,6 +501482,7 @@
           "serial": "PCSE-00018",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-02-14",
           "id": "20093-1"
         }
       ],
@@ -501485,6 +501498,7 @@
           "serial": "PCSF-00570",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-05-30",
           "id": "20094-1"
         }
       ],
@@ -501500,6 +501514,7 @@
           "serial": "PCSG-00361",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2014-08-28",
           "id": "20095-1"
         }
       ],
@@ -501515,6 +501530,7 @@
           "serial": "PCSB-00213",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-11-13",
           "id": "20096-1"
         }
       ],
@@ -501530,6 +501546,7 @@
           "serial": "PCSE-01022",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-10-13",
           "id": "20097-1"
         }
       ],
@@ -501545,6 +501562,7 @@
           "serial": "PCSB-00598",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-07-02",
           "id": "20098-1"
         }
       ],
@@ -501560,6 +501578,7 @@
           "serial": "PCSE-01057",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2018-03-30",
           "id": "20099-1"
         }
       ],
@@ -501575,6 +501594,7 @@
           "serial": "PCSE-00763",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-10-20",
           "id": "20100-1"
         }
       ],
@@ -501605,6 +501625,7 @@
           "serial": "PCSE-00376",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-04-15",
           "id": "20102-1"
         }
       ],
@@ -501620,6 +501641,7 @@
           "serial": "PCSE-00708",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-10-13",
           "id": "20103-1"
         }
       ],
@@ -501635,6 +501657,7 @@
           "serial": "PCSB-00984",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2016-09-23",
           "id": "20104-1"
         }
       ],
@@ -501650,6 +501673,7 @@
           "serial": "PCSE-00516",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-02-03",
           "id": "20105-1"
         }
       ],
@@ -501665,6 +501689,7 @@
           "serial": "PCSE-00399",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-09-02",
           "id": "20106-1"
         }
       ],
@@ -501680,6 +501705,7 @@
           "serial": "PCSB-00788",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-09-04",
           "id": "20107-1"
         }
       ],
@@ -501695,6 +501721,7 @@
           "serial": "PCSE-00261",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-02-11",
           "id": "20108-1"
         }
       ],
@@ -501710,6 +501737,7 @@
           "serial": "PCSE-01100",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-09-26",
           "id": "20109-1"
         }
       ],
@@ -501725,6 +501753,7 @@
           "serial": "PSCB-00296",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-03-22",
           "id": "20110-1"
         }
       ],
@@ -501755,6 +501784,7 @@
           "serial": "PCSE-00401",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-03-25",
           "id": "20112-1"
         }
       ],
@@ -501770,6 +501800,7 @@
           "serial": "PCSB-00460",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-04-30",
           "id": "20113-1"
         }
       ],
@@ -501785,6 +501816,7 @@
           "serial": "PCSE-01141",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-11-14",
           "id": "20114-1"
         }
       ],
@@ -501800,6 +501832,7 @@
           "serial": "PCSE-00639",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-10-06",
           "id": "20115-1"
         }
       ],
@@ -501815,6 +501848,7 @@
           "serial": "PCSE-00022",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-04-17",
           "id": "20116-1"
         }
       ],
@@ -501830,6 +501864,7 @@
           "serial": "PCSE-00360",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-08-12",
           "id": "20117-1"
         }
       ],
@@ -501884,6 +501919,7 @@
           "serial": "PCSE-00208",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-12-04",
           "id": "20120-1"
         }
       ],
@@ -501899,6 +501935,7 @@
           "serial": "PCSB-00396",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-01-29",
           "id": "20121-1"
         }
       ],
@@ -501929,6 +501966,7 @@
           "serial": "PCSE-00912",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-10-11",
           "id": "20123-1"
         }
       ],
@@ -501944,6 +501982,7 @@
           "serial": "PCSB-00408",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-10-10",
           "id": "20124-1"
         }
       ],
@@ -501959,6 +501998,7 @@
           "serial": "PCSE-01099",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-09-08",
           "id": "20125-1"
         }
       ],
@@ -501974,6 +502014,7 @@
           "serial": "PCSB-00041",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-02-22",
           "id": "20126-1"
         }
       ],
@@ -501989,6 +502030,7 @@
           "serial": "PCSB-00813",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-10-16",
           "id": "20127-1"
         }
       ],
@@ -502004,6 +502046,7 @@
           "serial": "PCSE-00405",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-03-25",
           "id": "20128-1"
         }
       ],
@@ -502019,6 +502062,7 @@
           "serial": "PCSE-00014",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-02-15",
           "id": "20129-1"
         },
         {
@@ -502028,6 +502072,7 @@
           "serial": "PCSB-00089",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-02-22",
           "id": "20129-2"
         }
       ],
@@ -502043,6 +502088,7 @@
           "serial": "PCSE-00710",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-12-08",
           "id": "20130-1"
         }
       ],
@@ -502073,6 +502119,7 @@
           "serial": "PCSE-00883",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-10-18",
           "id": "20132-1"
         }
       ],
@@ -502088,6 +502135,7 @@
           "serial": "PCSB-00027",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-02-22",
           "id": "20133-1"
         }
       ],
@@ -502103,6 +502151,7 @@
           "serial": "PCSB-00534",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-06-04",
           "id": "20134-1"
         }
       ],
@@ -502118,6 +502167,7 @@
           "serial": "PCSB-00843",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-10-07",
           "id": "20135-1"
         }
       ],
@@ -502148,6 +502198,7 @@
           "serial": "PCSE-00928",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-01-17",
           "id": "20137-1"
         }
       ],
@@ -502163,6 +502214,7 @@
           "serial": "PCSE-00404",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-03-25",
           "id": "20138-1"
         }
       ],
@@ -502193,6 +502245,7 @@
           "serial": "PCSE-00481",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-09-24",
           "id": "20140-1"
         },
         {
@@ -502202,6 +502255,7 @@
           "serial": "PCSB-00607",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-09-25",
           "id": "20140-2"
         }
       ],
@@ -502262,6 +502316,7 @@
           "serial": "PCSA-00147",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-10-28",
           "id": "20144-1"
         }
       ],
@@ -502277,6 +502332,7 @@
           "serial": "PCSB-00956",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2016-07-20",
           "id": "20145-1"
         }
       ],
@@ -502292,6 +502348,7 @@
           "serial": "PCSB-00875",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2016-08-30",
           "id": "20146-1"
         }
       ],
@@ -502307,6 +502364,7 @@
           "serial": "PCSF-00438",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-05-09",
           "id": "20147-1"
         }
       ],
@@ -502322,6 +502380,7 @@
           "serial": "PCSE-01026",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-06-20",
           "id": "20148-1"
         }
       ],
@@ -502337,6 +502396,7 @@
           "serial": "PCSE-00879",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-06-21",
           "id": "20149-1"
         }
       ],
@@ -502352,6 +502412,7 @@
           "serial": "PCSF-00024",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-06-13",
           "id": "20150-1"
         }
       ],
@@ -502367,6 +502428,7 @@
           "serial": "PCSE-00973",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-05-16",
           "id": "20151-1"
         }
       ],
@@ -502382,6 +502444,7 @@
           "serial": "PCSB-00776",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-11-27",
           "id": "20152-1"
         }
       ],
@@ -502397,6 +502460,7 @@
           "serial": "PCSE-00434",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-11-18",
           "id": "20153-1"
         }
       ],
@@ -502412,6 +502476,7 @@
           "serial": "PCSE-00867",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-08-30",
           "id": "20154-1"
         }
       ],
@@ -502427,6 +502492,7 @@
           "serial": "PCSE-00568",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-02-24",
           "id": "20155-1"
         }
       ],
@@ -502457,6 +502523,7 @@
           "serial": "PCSE-00443",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-08-26",
           "id": "20157-1"
         }
       ],
@@ -502472,6 +502539,7 @@
           "serial": "PCSE-00508",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-01-27",
           "id": "20158-1"
         }
       ],
@@ -502487,6 +502555,7 @@
           "serial": "PCSE-00661",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-06-30",
           "id": "20159-1"
         }
       ],
@@ -502502,6 +502571,7 @@
           "serial": "PCSE-00588",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-05-19",
           "id": "20160-1"
         }
       ],
@@ -502517,6 +502587,7 @@
           "serial": "PCSE-00271",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-11-12",
           "id": "20161-1"
         },
         {
@@ -502526,6 +502597,7 @@
           "serial": "PCSB-00356",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-11-29",
           "id": "20161-2"
         }
       ],
@@ -502541,6 +502613,7 @@
           "serial": "PCSB-00713",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-06-26",
           "id": "20162-1"
         }
       ],
@@ -502556,6 +502629,7 @@
           "serial": "PCSF-00243",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-09-04",
           "id": "20163-1"
         }
       ],
@@ -502571,6 +502645,7 @@
           "serial": "PCSE-00061",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-06-19",
           "id": "20164-1"
         }
       ],
@@ -502586,6 +502661,7 @@
           "serial": "PCSE-00442",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-11-11",
           "id": "20165-1"
         }
       ],
@@ -502601,6 +502677,7 @@
           "serial": "PCSE-00057",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-03-06",
           "id": "20166-1"
         }
       ],
@@ -502616,6 +502693,7 @@
           "serial": "PCSE-00587",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-06-09",
           "id": "20167-1"
         }
       ],
@@ -502631,6 +502709,7 @@
           "serial": "PCSE-00237",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-06-25",
           "id": "20168-1"
         }
       ],
@@ -502646,6 +502725,7 @@
           "serial": "PCSB-00764",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2016-01-26",
           "id": "20169-1"
         }
       ],
@@ -502661,6 +502741,7 @@
           "serial": "PCSB-00315",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-11-15",
           "id": "20170-1"
         }
       ],
@@ -502676,6 +502757,7 @@
           "serial": "PCSB-00500",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-08-01",
           "id": "20171-1"
         }
       ],
@@ -502691,6 +502773,7 @@
           "serial": "PCSE-00534",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-03-24",
           "id": "20172-1"
         }
       ],
@@ -502706,6 +502789,7 @@
           "serial": "PCSE-00791",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-06-28",
           "id": "20173-1"
         }
       ],
@@ -502721,6 +502805,7 @@
           "serial": "PCSB-00503",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-04-11",
           "id": "20174-1"
         }
       ],
@@ -502736,6 +502821,7 @@
           "serial": "PCSE-00067",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-10-30",
           "id": "20175-1"
         }
       ],
@@ -502751,6 +502837,7 @@
           "serial": "PCSF-00021",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-09-19",
           "id": "20176-1"
         }
       ],
@@ -502781,6 +502868,7 @@
           "serial": "PCSA-00010",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-02-15",
           "id": "20178-1"
         },
         {
@@ -502790,6 +502878,7 @@
           "serial": "PCSF-00017",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-02-22",
           "id": "20178-2"
         }
       ],
@@ -502805,6 +502894,7 @@
           "serial": "PCSF-00441",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-05-27",
           "id": "20179-1"
         }
       ],
@@ -502820,6 +502910,7 @@
           "serial": "PCSB-00814",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-08-28",
           "id": "20180-1"
         }
       ],
@@ -502835,6 +502926,7 @@
           "serial": "PCSE-00009",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-02-15",
           "id": "20181-1"
         }
       ],
@@ -502850,6 +502942,7 @@
           "serial": "PCSB-00939",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2016-07-05",
           "id": "20182-1"
         }
       ],
@@ -502865,6 +502958,7 @@
           "serial": "PCSE-00084",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-08-28",
           "id": "20183-1"
         }
       ],
@@ -502880,6 +502974,7 @@
           "serial": "PCSE-01014",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-09-19",
           "id": "20184-1"
         }
       ],
@@ -502895,6 +502990,7 @@
           "serial": "PCSE-00832",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-04-26",
           "id": "20185-1"
         }
       ],
@@ -502910,6 +503006,7 @@
           "serial": "PCSE-00918",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-09-13",
           "id": "20186-1"
         }
       ],
@@ -502955,6 +503052,7 @@
           "serial": "PCSE-00359",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-05-27",
           "id": "20189-1"
         }
       ],
@@ -502985,6 +503083,7 @@
           "serial": "PCSA-00002",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-03-06",
           "id": "20191-1"
         }
       ],
@@ -503000,6 +503099,7 @@
           "serial": "PCSA-00065",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-03-05",
           "id": "20192-1"
         }
       ],
@@ -503015,6 +503115,7 @@
           "serial": "PCSA-00115",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-04-01",
           "id": "20193-1"
         }
       ],
@@ -503030,6 +503131,7 @@
           "serial": "PCSA-00001",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-02-15",
           "id": "20194-1"
         }
       ],
@@ -503045,6 +503147,7 @@
           "serial": "PCSB-00106",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-05-04",
           "id": "20195-1"
         }
       ],
@@ -503060,6 +503163,7 @@
           "serial": "PCSB-00316",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-06-19",
           "id": "20196-1"
         }
       ],
@@ -503075,6 +503179,7 @@
           "serial": "PCSB-00498",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-07-04",
           "id": "20197-1"
         }
       ],
@@ -503090,6 +503195,7 @@
           "serial": "PCSB-00182",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-10-12",
           "id": "20198-1"
         }
       ],
@@ -503105,6 +503211,7 @@
           "serial": "PCSE-00240",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-06-25",
           "id": "20199-1"
         }
       ],
@@ -503120,6 +503227,7 @@
           "serial": "PCSB-00470",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-03-28",
           "id": "20200-1"
         }
       ],
@@ -503135,6 +503243,7 @@
           "serial": "PCSB-00594",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-10-03",
           "id": "20201-1"
         }
       ],
@@ -503150,6 +503259,7 @@
           "serial": "PCSB-00183",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-11-02",
           "id": "20202-1"
         }
       ],
@@ -503165,6 +503275,7 @@
           "serial": "PCSB-00109",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-09-27",
           "id": "20203-1"
         }
       ],
@@ -503195,6 +503306,7 @@
           "serial": "PCSE-00233",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-02-26",
           "id": "20205-1"
         }
       ],
@@ -503210,6 +503322,7 @@
           "serial": "PCSE-00762",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-11-03",
           "id": "20206-1"
         }
       ],
@@ -503225,6 +503338,7 @@
           "serial": "PCSB-00986",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2016-06-24",
           "id": "20207-1"
         }
       ],
@@ -503240,6 +503354,7 @@
           "serial": "PCSB-00893",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2016-06-03",
           "id": "20208-1"
         }
       ],
@@ -503255,6 +503370,7 @@
           "serial": "PCSE-00423",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-07-15",
           "id": "20209-1"
         }
       ],
@@ -503270,6 +503386,7 @@
           "serial": "PCSB-00683",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-06-05",
           "id": "20210-1"
         }
       ],
@@ -503300,6 +503417,7 @@
           "serial": "PCSE-01012",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-04-28",
           "id": "20212-1"
         }
       ],
@@ -503315,6 +503433,7 @@
           "serial": "PCSE-00764",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-09-29",
           "id": "20213-1"
         }
       ],
@@ -503330,6 +503449,7 @@
           "serial": "PCSB-00245",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-02-22",
           "id": "20214-1"
         }
       ],
@@ -503360,6 +503480,7 @@
           "serial": "PCSA-00069",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-11-20",
           "id": "20216-1"
         },
         {
@@ -503369,6 +503490,7 @@
           "serial": "PCSF-00153",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-11-21",
           "id": "20216-2"
         }
       ],
@@ -503384,6 +503506,7 @@
           "serial": "PCSF-00088",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-06-04",
           "id": "20217-1"
         }
       ],
@@ -503399,6 +503522,7 @@
           "serial": "PCSE-00904",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-09-13",
           "id": "20218-1"
         }
       ],
@@ -503414,6 +503538,7 @@
           "serial": "PCSB-00101",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-04-16",
           "id": "20219-1"
         }
       ],
@@ -503429,6 +503554,7 @@
           "serial": "PCSE-00119",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-10-30",
           "id": "20220-1"
         }
       ],
@@ -503444,6 +503570,7 @@
           "serial": "PCSE-00300",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-04-01",
           "id": "20221-1"
         }
       ],
@@ -503459,6 +503586,7 @@
           "serial": "PCSE-00277",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-08-29",
           "id": "20222-1"
         }
       ],
@@ -503474,6 +503602,7 @@
           "serial": "PCSE-00052",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-02-15",
           "id": "20223-1"
         }
       ],
@@ -503489,6 +503618,7 @@
           "serial": "PCSF-00003",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-06-01",
           "id": "20224-1"
         },
         {
@@ -503513,6 +503643,7 @@
           "serial": "PCSB-00048",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-02-22",
           "id": "20225-1"
         }
       ],
@@ -503528,6 +503659,7 @@
           "serial": "PCSE-00963",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-10-28",
           "id": "20226-1"
         }
       ],
@@ -503543,6 +503675,7 @@
           "serial": "PCSB-00628",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-11-21",
           "id": "20227-1"
         }
       ],
@@ -503558,6 +503691,7 @@
           "serial": "PCSB-00770",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-09-04",
           "id": "20228-1"
         }
       ],
@@ -503573,6 +503707,7 @@
           "serial": "PCSB-00882",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2016-03-18",
           "id": "20229-1"
         }
       ],
@@ -503588,6 +503723,7 @@
           "serial": "PCSE-00398",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-10-14",
           "id": "20230-1"
         }
       ],
@@ -503603,6 +503739,7 @@
           "serial": "PCSE-00950",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-12-20",
           "id": "20231-1"
         }
       ],
@@ -503618,6 +503755,7 @@
           "serial": "PCSB-00049",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-02-15",
           "id": "20232-1"
         }
       ],
@@ -503633,6 +503771,7 @@
           "serial": "PCSE-00845",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-07-26",
           "id": "20233-1"
         }
       ],
@@ -503648,6 +503787,7 @@
           "serial": "PCSB-00115",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-10-26",
           "id": "20234-1"
         }
       ],
@@ -503663,6 +503803,7 @@
           "serial": "PCSA-00068",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-02-05",
           "id": "20235-1"
         }
       ],
@@ -503678,6 +503819,7 @@
           "serial": "PCSF-00020",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-10-31",
           "id": "20236-1"
         }
       ],
@@ -503708,6 +503850,7 @@
           "serial": "PCSB-00190",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-12-05",
           "id": "20238-1"
         }
       ],
@@ -503723,6 +503866,7 @@
           "serial": "PCSE-00314",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-12-10",
           "id": "20239-1"
         }
       ],
@@ -503738,6 +503882,7 @@
           "serial": "PCSA-00092",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-04-30",
           "id": "20240-1"
         },
         {
@@ -503747,6 +503892,7 @@
           "serial": "PCSF-00178",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-05-01",
           "id": "20240-2"
         }
       ],
@@ -503762,6 +503908,7 @@
           "serial": "PCSB-00733",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-10-20",
           "id": "20241-1"
         }
       ],
@@ -503777,6 +503924,7 @@
           "serial": "PCSE-00577",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-02-03",
           "id": "20242-1"
         }
       ],
@@ -503792,6 +503940,7 @@
           "serial": "PCSE-00068",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-10-09",
           "id": "20243-1"
         },
         {
@@ -503801,6 +503950,7 @@
           "serial": "PCSB-00166",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-10-11",
           "id": "20243-2"
         }
       ],
@@ -503816,6 +503966,7 @@
           "serial": "PCSE-00644",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-08-25",
           "id": "20244-1"
         }
       ],
@@ -503831,6 +503982,7 @@
           "serial": "PCSE-00949",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-09-27",
           "id": "20245-1"
         }
       ],
@@ -503846,6 +503998,7 @@
           "serial": "PCSE-00818",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-04-26",
           "id": "20246-1"
         }
       ],
@@ -503861,6 +504014,7 @@
           "serial": "PCSB-00144",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-10-19",
           "id": "20247-1"
         }
       ],
@@ -503876,6 +504030,7 @@
           "serial": "PCSE-00717",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-11-10",
           "id": "20248-1"
         }
       ],
@@ -503906,6 +504061,7 @@
           "serial": "PCSE-00017",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-10-23",
           "id": "20250-1"
         }
       ],
@@ -503936,6 +504092,7 @@
           "serial": "PCSB-00972",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2016-11-08",
           "id": "20252-1"
         }
       ],
@@ -503951,6 +504108,7 @@
           "serial": "PCSE-00740",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-11-17",
           "id": "20253-1"
         }
       ],
@@ -503966,6 +504124,7 @@
           "serial": "PCSB-00458",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-12-04",
           "id": "20254-1"
         }
       ],
@@ -503981,6 +504140,7 @@
           "serial": "PCSB-00670",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-11-28",
           "id": "20255-1"
         }
       ],
@@ -503996,6 +504156,7 @@
           "serial": "PCSE-00429",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-11-11",
           "id": "20256-1"
         }
       ],
@@ -504011,6 +504172,7 @@
           "serial": "PCSA-00099",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-11-22",
           "id": "20257-1"
         },
         {
@@ -504020,6 +504182,7 @@
           "serial": "PCSF-00214",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-11-22",
           "id": "20257-2"
         }
       ],
@@ -504035,6 +504198,7 @@
           "serial": "PCSB-00405",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-12-04",
           "id": "20258-1"
         }
       ],
@@ -504050,6 +504214,7 @@
           "serial": "PCSB-00722",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-11-27",
           "id": "20259-1"
         }
       ],
@@ -504065,6 +504230,7 @@
           "serial": "PCSB-00642",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-06-04",
           "id": "20260-1"
         }
       ],
@@ -504245,6 +504411,7 @@
           "serial": "PCSE-00935",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-04-23",
           "id": "20272-1"
         }
       ],
@@ -504260,6 +504427,7 @@
           "serial": "PCSG-00575",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2015-04-30",
           "id": "20273-1"
         }
       ],
@@ -504275,6 +504443,7 @@
           "serial": "PCSE-01150",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-11-14",
           "id": "20274-1"
         }
       ],
@@ -504290,6 +504459,7 @@
           "serial": "PCSB-00655",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-03-13",
           "id": "20275-1"
         }
       ],
@@ -504305,6 +504475,7 @@
           "serial": "PCSE-00893",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-06-30",
           "id": "20276-1"
         }
       ],
@@ -504320,6 +504491,7 @@
           "serial": "PCSE-00016",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-02-22",
           "id": "20277-1"
         }
       ],
@@ -504335,6 +504507,7 @@
           "serial": "PCSE-00940",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-03-21",
           "id": "20278-1"
         }
       ],
@@ -504350,6 +504523,7 @@
           "serial": "PCSB-00574",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-03-27",
           "id": "20279-1"
         }
       ],
@@ -504365,6 +504539,7 @@
           "serial": "PCSB-00478",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-02-14",
           "id": "20280-1"
         }
       ],
@@ -504380,6 +504555,7 @@
           "serial": "PCSE-00813",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-03-29",
           "id": "20281-1"
         }
       ],
@@ -504395,6 +504571,7 @@
           "serial": "PCSB-00070",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-02-22",
           "id": "20282-1"
         }
       ],
@@ -504410,6 +504587,7 @@
           "serial": "PCSF-00001",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-02-22",
           "id": "20283-1"
         }
       ],
@@ -504425,6 +504603,7 @@
           "serial": "PCSA-00014",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-03-06",
           "id": "20284-1"
         },
         {
@@ -504434,6 +504613,7 @@
           "serial": "PCSF-00068",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-03-07",
           "id": "20284-2"
         }
       ],
@@ -504449,6 +504629,7 @@
           "serial": "PCSE-00959",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-05-23",
           "id": "20285-1"
         }
       ],
@@ -504464,6 +504645,7 @@
           "serial": "PCSE-01102",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-09-05",
           "id": "20286-1"
         }
       ],
@@ -504479,6 +504661,7 @@
           "serial": "PCSE-00244",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-10-15",
           "id": "20287-1"
         }
       ],
@@ -504494,6 +504677,7 @@
           "serial": "PCSB-01011",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2016-09-16",
           "id": "20288-1"
         }
       ],
@@ -504509,6 +504693,7 @@
           "serial": "PCSE-00003",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-02-15",
           "id": "20289-1"
         },
         {
@@ -504518,6 +504703,7 @@
           "serial": "PCSB-00031",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-02-22",
           "id": "20289-2"
         }
       ],
@@ -504533,6 +504719,7 @@
           "serial": "PCSF-00007",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-02-22",
           "id": "20290-1"
         }
       ],
@@ -504548,6 +504735,7 @@
           "serial": "PCSB-00951",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2016-10-27",
           "id": "20291-1"
         }
       ],
@@ -504563,6 +504751,7 @@
           "serial": "PCSB-00204",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-11-02",
           "id": "20292-1"
         }
       ],
@@ -504578,6 +504767,7 @@
           "serial": "PCSB-00345",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-10-25",
           "id": "20293-1"
         }
       ],
@@ -504608,6 +504798,7 @@
           "serial": "PCSE-00346",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-06-24",
           "id": "20295-1"
         }
       ],
@@ -504623,6 +504814,7 @@
           "serial": "PCSE-00627",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-08-11",
           "id": "20296-1"
         }
       ],
@@ -504638,6 +504830,7 @@
           "serial": "PCSE-01139",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-10-24",
           "id": "20297-1"
         }
       ],
@@ -504668,6 +504861,7 @@
           "serial": "PCSE-00245",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-11-26",
           "id": "20299-1"
         }
       ],
@@ -504683,6 +504877,7 @@
           "serial": "PCSE-01103",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-09-12",
           "id": "20300-1"
         }
       ],
@@ -504698,6 +504893,7 @@
           "serial": "PCSE-01006",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-03-24",
           "id": "20301-1"
         }
       ],
@@ -504713,6 +504909,7 @@
           "serial": "PCSB-00205",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-11-16",
           "id": "20302-1"
         }
       ],
