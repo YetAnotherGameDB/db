@@ -450891,6 +450891,7 @@
           "serial": "ULUS-10504",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2010-04-27",
           "id": "18016-1"
         },
         {
@@ -450909,6 +450910,7 @@
           "serial": "ULES-01412",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2010-04-30",
           "id": "18016-3"
         },
         {
@@ -451035,6 +451037,7 @@
           "serial": "ULES-00451",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2006-10-27",
           "id": "18021-2"
         },
         {
@@ -451287,6 +451290,7 @@
           "serial": "ULJS-00086",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2006-10-26",
           "id": "18032-1"
         },
         {
@@ -451483,6 +451487,7 @@
           "serial": "ULES-00753",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-03-30",
           "id": "18039-2"
         },
         {
@@ -451528,6 +451533,7 @@
           "serial": "ULJS-00008",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2004-12-22",
           "id": "18041-1"
         },
         {
@@ -452386,6 +452392,7 @@
           "serial": "UCUS-98619",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2006-01-17",
           "id": "18078-1"
         }
       ],
@@ -452401,6 +452408,7 @@
           "serial": "UCUS-98609",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2005-03-24",
           "id": "18079-1"
         }
       ],
@@ -453610,6 +453618,7 @@
           "serial": "ULES-00905",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-11-09",
           "id": "18133-2"
         },
         {
@@ -453792,6 +453801,7 @@
           "serial": "ULJM-06219",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2012-12-20",
           "id": "18142-1"
         },
         {
@@ -454819,6 +454829,7 @@
           "serial": "ULJM-05125",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2006-09-28",
           "id": "18186-1"
         },
         {
@@ -454956,6 +454967,7 @@
           "serial": "ULES-00814",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-08-31",
           "id": "18193-1"
         }
       ],
@@ -455002,6 +455014,7 @@
           "serial": "ULJM-06065",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2012-05-17",
           "id": "18196-1"
         },
         {
@@ -455198,6 +455211,7 @@
           "serial": "ULJM-05242",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2007-09-20",
           "id": "18205-1"
         },
         {
@@ -455226,6 +455240,7 @@
           "serial": "ULES-00703",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-04-27",
           "id": "18205-4"
         },
         {
@@ -455268,6 +455283,7 @@
           "serial": "ULJM-05049",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2005-10-20",
           "id": "18206-1"
         },
         {
@@ -455372,6 +455388,7 @@
           "serial": "ULUS-10057",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2006-04-04",
           "id": "18209-1"
         }
       ],
@@ -455402,6 +455419,7 @@
           "serial": "UCES-01157",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2008-11-28",
           "id": "18211-1"
         },
         {
@@ -455456,6 +455474,7 @@
           "serial": "UCES-01196",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2009-02-13",
           "id": "18214-1"
         }
       ],
@@ -455601,6 +455620,7 @@
           "serial": "UCES-01031",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2008-07-25",
           "id": "18223-2"
         },
         {
@@ -455730,6 +455750,7 @@
           "serial": "UCES-01289",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2009-12-18",
           "id": "18228-1"
         },
         {
@@ -455823,6 +455844,7 @@
           "serial": "UCES-01445",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2011-01-14",
           "id": "18230-1"
         },
         {
@@ -456000,6 +456022,7 @@
           "serial": "ULES-00643",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-03-30",
           "id": "18236-2"
         },
         {
@@ -456292,6 +456315,7 @@
           "serial": "ULUS-10267",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2008-05-05",
           "id": "18247-1"
         }
       ],
@@ -456675,6 +456699,7 @@
           "serial": "ULJM-06358",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2014-04-24",
           "id": "18267-1"
         },
         {
@@ -456974,6 +456999,7 @@
           "serial": "ULES-01318",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2009-09-11",
           "id": "18280-2"
         },
         {
@@ -457458,6 +457484,7 @@
           "serial": "ULES-01170",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2008-10-31",
           "id": "18300-2"
         },
         {
@@ -457501,6 +457528,7 @@
           "serial": "ULES-00915",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-11-23",
           "id": "18301-2"
         },
         {
@@ -457553,6 +457581,7 @@
           "serial": "ULES-00168",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2005-11-25",
           "id": "18302-2"
         },
         {
@@ -457742,6 +457771,7 @@
           "serial": "ULJM-05275",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2007-09-13",
           "id": "18310-1"
         },
         {
@@ -457770,6 +457800,7 @@
           "serial": "ULES-01044",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2008-06-20",
           "id": "18310-4"
         },
         {
@@ -457904,6 +457935,7 @@
           "serial": "ULUS-10223",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2007-04-30",
           "id": "18313-1"
         },
         {
@@ -457913,6 +457945,7 @@
           "serial": "ULES-00722",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-07-20",
           "id": "18313-2"
         }
       ],
@@ -458247,6 +458280,7 @@
           "serial": "ULES-01384",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2010-02-26",
           "id": "18328-2"
         },
         {
@@ -458413,6 +458447,7 @@
           "serial": "UCUS-98618",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2006-03-14",
           "id": "18333-1"
         },
         {
@@ -458554,6 +458589,7 @@
           "serial": "ULES-00902",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-10-26",
           "id": "18338-2"
         },
         {
@@ -458615,6 +458651,7 @@
           "serial": "ULES-01416",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2010-04-01",
           "id": "18340-3"
         },
         {
@@ -458917,6 +458954,7 @@
           "serial": "UCJS-10006",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2005-04-21",
           "id": "18354-1"
         },
         {
@@ -460237,6 +460275,7 @@
           "serial": "UCES-01229",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2009-09-04",
           "id": "18399-5"
         },
         {
@@ -460455,6 +460494,7 @@
           "serial": "UCJS-10002",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2004-12-12",
           "id": "18408-1"
         },
         {
@@ -460479,6 +460519,7 @@
           "serial": "UCJS-10039",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2006-06-12",
           "id": "18409-1"
         },
         {
@@ -460848,6 +460889,7 @@
           "serial": "ULUS-10234",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2007-03-20",
           "id": "18423-1"
         }
       ],
@@ -461474,6 +461516,7 @@
           "serial": "ULES-00026",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2005-09-01",
           "id": "18450-2"
         },
         {
@@ -461543,6 +461586,7 @@
           "serial": "ULES-00604",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2006-11-17",
           "id": "18452-2"
         },
         {
@@ -461673,6 +461717,7 @@
           "serial": "ULJS-00562",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2013-03-07",
           "id": "18458-1"
         },
         {
@@ -462060,6 +462105,7 @@
           "serial": "ULJS-00548",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2012-10-04",
           "id": "18476-1"
         },
         {
@@ -462109,6 +462155,7 @@
           "serial": "ULES-00474",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2006-11-24",
           "id": "18478-2"
         },
         {
@@ -462425,6 +462472,7 @@
           "serial": "ULJM-05062",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2005-12-15",
           "id": "18491-1"
         },
         {
@@ -462744,6 +462792,7 @@
           "serial": "ULES-00567",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2006-12-01",
           "id": "18503-2"
         },
         {
@@ -462887,6 +462936,7 @@
           "serial": "ULJM-05266",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2007-09-13",
           "id": "18507-1"
         },
         {
@@ -463032,6 +463082,7 @@
           "serial": "ULES-00161",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2005-10-21",
           "id": "18512-2"
         },
         {
@@ -463095,6 +463146,7 @@
           "serial": "ULES-00440",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2006-09-29",
           "id": "18513-2"
         },
         {
@@ -463158,6 +463210,7 @@
           "serial": "ULES-00891",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-09-28",
           "id": "18514-1"
         },
         {
@@ -463236,6 +463289,7 @@
           "serial": "ULES-01135",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2008-10-03",
           "id": "18515-1"
         },
         {
@@ -463347,6 +463401,7 @@
           "serial": "ULES-01322",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2009-10-02",
           "id": "18517-1"
         },
         {
@@ -463455,6 +463510,7 @@
           "serial": "ULES-01475",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2010-09-30",
           "id": "18519-1"
         },
         {
@@ -463581,6 +463637,7 @@
           "serial": "ULES-01543",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2011-09-30",
           "id": "18521-1"
         },
         {
@@ -463689,6 +463746,7 @@
           "serial": "ULES-01565",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-09-28",
           "id": "18523-1"
         },
         {
@@ -464359,6 +464417,7 @@
           "serial": "ULJM-05245",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2007-06-07",
           "id": "18547-1"
         },
         {
@@ -464656,6 +464715,7 @@
           "serial": "ULES-00968",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2008-03-14",
           "id": "18556-2"
         },
         {
@@ -464864,6 +464924,7 @@
           "serial": "ULUS-10326",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2008-09-23",
           "id": "18568-1"
         }
       ],
@@ -465438,6 +465499,7 @@
           "serial": "UCES-00113",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2006-09-01",
           "id": "18597-2"
         },
         {
@@ -465610,6 +465672,7 @@
           "serial": "ULUS-10075",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2006-02-28",
           "id": "18604-1"
         },
         {
@@ -465619,6 +465682,7 @@
           "serial": "ULES-00820",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-09-14",
           "id": "18604-2"
         }
       ],
@@ -465834,6 +465898,7 @@
           "serial": "UCES-01276",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2009-11-06",
           "id": "18616-2"
         },
         {
@@ -466295,6 +466360,7 @@
           "serial": "UCES-01401",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2010-11-03",
           "id": "18634-2"
         },
         {
@@ -466694,6 +466760,7 @@
           "serial": "ULES-00151",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2005-10-28",
           "id": "18646-5"
         },
         {
@@ -466776,6 +466843,7 @@
           "serial": "ULES-00502",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2006-11-03",
           "id": "18647-5"
         },
         {
@@ -466824,6 +466892,7 @@
           "serial": "UCUS-90691",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2009-10-01",
           "id": "18648-3"
         },
         {
@@ -467262,6 +467331,7 @@
           "serial": "ULJS-00083",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2006-10-05",
           "id": "18665-1"
         },
         {
@@ -467450,6 +467520,7 @@
           "serial": "ULES-00484",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2006-11-13",
           "id": "18673-2"
         },
         {
@@ -467980,6 +468051,7 @@
           "serial": "ULES-01303",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2009-10-23",
           "id": "18699-2"
         },
         {
@@ -468077,6 +468149,7 @@
           "serial": "ULES-00210",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2005-11-18",
           "id": "18703-2"
         },
         {
@@ -468146,6 +468219,7 @@
           "serial": "ULES-00829",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-06-29",
           "id": "18705-2"
         },
         {
@@ -469620,6 +469694,7 @@
           "serial": "ULES-01161",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2009-09-04",
           "id": "18773-1"
         },
         {
@@ -469696,6 +469771,7 @@
           "serial": "ULES-00337",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2006-09-29",
           "id": "18776-2"
         },
         {
@@ -469937,6 +470013,7 @@
           "serial": "UCES-01411",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2010-11-12",
           "id": "18786-2"
         },
         {
@@ -470008,6 +470085,7 @@
           "serial": "ULES-01070",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2008-05-09",
           "id": "18789-2"
         },
         {
@@ -470111,6 +470189,7 @@
           "serial": "ULJS-00334",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2010-12-25",
           "id": "18793-1"
         },
         {
@@ -470295,6 +470374,7 @@
           "serial": "UCES-01225",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2009-11-20",
           "id": "18802-2"
         },
         {
@@ -472447,6 +472527,7 @@
           "serial": "ULUS-10505",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2010-09-07",
           "id": "18901-3"
         },
         {
@@ -472935,6 +473016,7 @@
           "serial": "ULJS-00524",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2012-09-27",
           "id": "18926-1"
         },
         {
@@ -473536,6 +473618,7 @@
           "serial": "ULJS-00243",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2009-11-26",
           "id": "18953-1"
         }
       ],
@@ -473774,6 +473857,7 @@
           "serial": "ULES-01532",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2011-11-18",
           "id": "18962-2"
         },
         {
@@ -474236,6 +474320,7 @@
           "serial": "UCJS-10041",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2006-07-13",
           "id": "18982-2"
         },
         {
@@ -474782,6 +474867,7 @@
           "serial": "ULJM-05111",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2006-07-30",
           "id": "19002-1"
         },
         {
@@ -474826,6 +474912,7 @@
           "serial": "ULES-00565",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-03-09",
           "id": "19003-3"
         },
         {
@@ -475011,6 +475098,7 @@
           "serial": "UCUS-10352",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2008-08-12",
           "id": "19010-1"
         },
         {
@@ -475101,6 +475189,7 @@
           "serial": "ULUS-10581",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2011-08-30",
           "id": "19013-2"
         }
       ],
@@ -475116,6 +475205,7 @@
           "serial": "ULES-00621",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2008-05-23",
           "id": "19014-1"
         },
         {
@@ -475140,6 +475230,7 @@
           "serial": "ULJS-00042",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2006-05-25",
           "id": "19015-1"
         },
         {
@@ -475854,6 +475945,7 @@
           "serial": "ULJS-00272",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2010-04-28",
           "id": "19044-1"
         },
         {
@@ -476115,6 +476207,7 @@
           "serial": "ULJM-05213",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2007-02-08",
           "id": "19056-1"
         },
         {
@@ -476143,6 +476236,7 @@
           "serial": "ULES-00557",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2006-11-24",
           "id": "19056-4"
         },
         {
@@ -476225,6 +476319,7 @@
           "serial": "ULES-00955",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-11-30",
           "id": "19057-3"
         },
         {
@@ -476712,6 +476807,7 @@
           "serial": "ULJM-05001",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2004-12-16",
           "id": "19078-1"
         },
         {
@@ -476874,6 +476970,7 @@
           "serial": "ULUS-10509",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2010-06-08",
           "id": "19081-4"
         },
         {
@@ -477024,6 +477121,7 @@
           "serial": "ULJM-05261",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2007-09-20",
           "id": "19083-1"
         },
         {
@@ -477200,6 +477298,7 @@
           "serial": "ULES-00375",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2006-07-21",
           "id": "19087-3"
         },
         {
@@ -478144,6 +478243,7 @@
           "serial": "UCUS-98741",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2010-05-25",
           "id": "19124-1"
         },
         {
@@ -478441,6 +478541,7 @@
           "serial": "ULUS-10391",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2009-06-22",
           "id": "19135-1"
         },
         {
@@ -478948,6 +479049,7 @@
           "serial": "ULJM-06029",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2012-02-23",
           "id": "19151-1"
         },
         {
@@ -479364,6 +479466,7 @@
           "serial": "ULES-00412",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2006-10-13",
           "id": "19169-2"
         },
         {
@@ -480305,6 +480408,7 @@
           "serial": "ULES-00156",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2005-10-20",
           "id": "19206-3"
         },
         {
@@ -480347,6 +480451,7 @@
           "serial": "ULJM-05190",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2006-12-21",
           "id": "19207-1"
         },
         {
@@ -480375,6 +480480,7 @@
           "serial": "ULES-00462",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2006-10-06",
           "id": "19207-4"
         },
         {
@@ -480457,6 +480563,7 @@
           "serial": "ULES-00920",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-12-07",
           "id": "19208-4"
         },
         {
@@ -480515,6 +480622,7 @@
           "serial": "ULES-01147",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2008-10-10",
           "id": "19209-3"
         },
         {
@@ -480585,6 +480693,7 @@
           "serial": "ULES-01308",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2009-10-09",
           "id": "19210-4"
         },
         {
@@ -480748,6 +480857,7 @@
           "serial": "ULES-00576",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2006-11-03",
           "id": "19215-3"
         },
         {
@@ -480790,6 +480900,7 @@
           "serial": "ULJM-05073",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2005-12-22",
           "id": "19216-1"
         },
         {
@@ -480883,6 +480994,7 @@
           "serial": "ULES-01019",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2008-02-22",
           "id": "19217-4"
         },
         {
@@ -480940,6 +481052,7 @@
           "serial": "ULUS-10462",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2009-09-15",
           "id": "19218-3"
         },
         {
@@ -481749,6 +481862,7 @@
           "serial": "ULJM-05072",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2005-12-22",
           "id": "19254-1"
         },
         {
@@ -481876,6 +481990,7 @@
           "serial": "ULUS-10340",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2008-08-26",
           "id": "19260-1"
         },
         {
@@ -482244,6 +482359,7 @@
           "serial": "ULES-00507",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2006-10-06",
           "id": "19278-2"
         },
         {
@@ -484241,6 +484357,7 @@
           "serial": "ULES-01440",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2010-06-24",
           "id": "19355-1"
         },
         {
@@ -484986,6 +485103,7 @@
           "serial": "ULES-00160",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2005-11-25",
           "id": "19391-1"
         }
       ],
@@ -485273,6 +485391,7 @@
           "serial": "UCES-00694",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-12-07",
           "id": "19406-2"
         },
         {
@@ -485557,6 +485676,7 @@
           "serial": "ULES-00720",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-03-16",
           "id": "19418-2"
         },
         {
@@ -485581,6 +485701,7 @@
           "serial": "ULES-01066",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2008-08-01",
           "id": "19419-1"
         },
         {
@@ -486705,6 +486826,7 @@
           "serial": "ULJS-00401",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2011-10-27",
           "id": "19464-1"
         },
         {
@@ -486786,6 +486908,7 @@
           "serial": "ULJS-00094",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2007-01-25",
           "id": "19468-2"
         },
         {
@@ -487099,6 +487222,7 @@
           "serial": "ULJS-00566",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2013-02-14",
           "id": "19484-1"
         },
         {
@@ -487173,6 +487297,7 @@
           "serial": "ULJS-00217",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2009-09-03",
           "id": "19487-1"
         },
         {
@@ -487263,6 +487388,7 @@
           "serial": "ULES-00297",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2006-03-24",
           "id": "19490-2"
         },
         {
@@ -487420,6 +487546,7 @@
           "serial": "ULJM-05038",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2005-10-06",
           "id": "19496-1"
         },
         {
@@ -487444,6 +487571,7 @@
           "serial": "ULJM-05083",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2007-03-21",
           "id": "19497-1"
         },
         {
@@ -487468,6 +487596,7 @@
           "serial": "ULJM-05240",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2007-03-21",
           "id": "19498-1"
         },
         {
@@ -487549,6 +487678,7 @@
           "serial": "UCJS-10032",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2006-12-07",
           "id": "19501-1"
         },
         {
@@ -487603,6 +487733,7 @@
           "serial": "UCJS-10060",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2007-07-26",
           "id": "19503-1"
         },
         {
@@ -487731,6 +487862,7 @@
           "serial": "ULES-00545",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2006-11-17",
           "id": "19510-2"
         },
         {
@@ -487837,6 +487969,7 @@
           "serial": "ULES-00571",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2006-11-17",
           "id": "19515-2"
         },
         {
@@ -488389,6 +488522,7 @@
           "serial": "ULJM-06003",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2012-03-29",
           "id": "19538-1"
         },
         {
@@ -488807,6 +488941,7 @@
           "serial": "ULJM-06020",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2012-03-15",
           "id": "19558-1"
         },
         {
@@ -490552,6 +490687,7 @@
           "serial": "UCES-01242",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2010-02-19",
           "id": "19636-2"
         },
         {
@@ -491262,6 +491398,7 @@
           "serial": "ULES-00022",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2005-09-01",
           "id": "19665-3"
         },
         {
@@ -491340,6 +491477,7 @@
           "serial": "ULES-00899",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-11-02",
           "id": "19668-2"
         },
         {
@@ -491983,6 +492121,7 @@
           "serial": "ULES-01284",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2009-10-09",
           "id": "19693-2"
         },
         {
@@ -492017,6 +492156,7 @@
           "serial": "ULES-00981",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2008-09-19",
           "id": "19694-2"
         },
         {
@@ -492176,6 +492316,7 @@
           "serial": "ULJS-00299",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2010-08-05",
           "id": "19702-1"
         },
         {
@@ -492239,6 +492380,7 @@
           "serial": "ULJS-00505",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2012-06-07",
           "id": "19704-1"
         },
         {
@@ -492866,6 +493008,7 @@
           "serial": "ULES-00816",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-08-03",
           "id": "19734-2"
         },
         {
@@ -493052,6 +493195,7 @@
           "serial": "ULUS-10652",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-08-27",
           "id": "19741-1"
         }
       ],
@@ -493067,6 +493211,7 @@
           "serial": "ULJS-00557",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2013-03-14",
           "id": "19742-1"
         },
         {
@@ -493558,6 +493703,7 @@
           "serial": "ULJS-00079",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2005-03-03",
           "id": "19764-1"
         },
         {
@@ -494433,6 +494579,7 @@
           "serial": "ULJM-05106",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2006-07-13",
           "id": "19798-1"
         },
         {
@@ -494561,6 +494708,7 @@
           "serial": "ULUS-10567",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2011-03-29",
           "id": "19802-3"
         },
         {
@@ -494570,6 +494718,7 @@
           "serial": "ULES-01513",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2011-04-01",
           "id": "19802-4"
         }
       ],
@@ -494588,6 +494737,7 @@
           "serial": "ULUS-10284",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2007-06-26",
           "id": "19803-1"
         }
       ],
@@ -494603,6 +494753,7 @@
           "serial": "ULUS-10448",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2009-07-07",
           "id": "19804-1"
         }
       ],
@@ -494618,6 +494769,7 @@
           "serial": "UCUS-98621",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2005-10-18",
           "id": "19805-1"
         },
         {
@@ -494627,6 +494779,7 @@
           "serial": "ULES-00509",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-03-30",
           "id": "19805-2"
         },
         {
@@ -494693,6 +494846,7 @@
           "serial": "UCES-01334",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2010-03-11",
           "id": "19807-1"
         }
       ],
@@ -494747,6 +494901,7 @@
           "serial": "ULUS-10098",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2006-09-19",
           "id": "19810-1"
         },
         {
@@ -494771,6 +494926,7 @@
           "serial": "ULUS-10315",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2007-12-04",
           "id": "19811-1"
         },
         {
@@ -494780,6 +494936,7 @@
           "serial": "ULES-00950",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-12-14",
           "id": "19811-2"
         }
       ],
@@ -494795,6 +494952,7 @@
           "serial": "ULES-00798",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-06-15",
           "id": "19812-1"
         }
       ],
@@ -494810,6 +494968,7 @@
           "serial": "ULUS-10048",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2005-10-25",
           "id": "19813-1"
         },
         {
@@ -494819,6 +494978,7 @@
           "serial": "ULES-00603",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-03-09",
           "id": "19813-2"
         }
       ],
@@ -495005,6 +495165,7 @@
           "serial": "ULUS-10360",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2008-10-28",
           "id": "19820-1"
         },
         {
@@ -495014,6 +495175,7 @@
           "serial": "ULES-01191",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2009-02-27",
           "id": "19820-2"
         }
       ],
@@ -495029,6 +495191,7 @@
           "serial": "ULUS-10022",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2005-11-15",
           "id": "19821-1"
         }
       ],
@@ -495044,6 +495207,7 @@
           "serial": "ULUS-10144",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2007-01-23",
           "id": "19822-1"
         }
       ],
@@ -495059,6 +495223,7 @@
           "serial": "ULUS-10125",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2006-06-20",
           "id": "19823-1"
         }
       ],
@@ -495074,6 +495239,7 @@
           "serial": "ULUS-10540",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2011-03-29",
           "id": "19824-1"
         },
         {
@@ -495083,6 +495249,7 @@
           "serial": "ULES-01556",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2011-11-04",
           "id": "19824-2"
         }
       ],
@@ -495098,6 +495265,7 @@
           "serial": "ULUS-10475",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2010-09-14",
           "id": "19825-1"
         },
         {
@@ -495107,6 +495275,7 @@
           "serial": "ULES-01395",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2010-10-29",
           "id": "19825-2"
         }
       ],
@@ -495122,6 +495291,7 @@
           "serial": "ULUS-10038",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2005-11-08",
           "id": "19826-1"
         },
         {
@@ -495131,6 +495301,7 @@
           "serial": "ULES-00198",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2005-12-02",
           "id": "19826-2"
         }
       ],
@@ -495146,6 +495317,7 @@
           "serial": "UCES-01536",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2011-12-01",
           "id": "19827-1"
         }
       ],
@@ -495161,6 +495333,7 @@
           "serial": "ULUS-10443",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2009-10-20",
           "id": "19828-1"
         },
         {
@@ -495170,6 +495343,7 @@
           "serial": "ULES-01363",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2009-11-20",
           "id": "19828-2"
         }
       ],
@@ -495185,6 +495359,7 @@
           "serial": "ULUS-10295",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2007-11-05",
           "id": "19829-1"
         },
         {
@@ -495194,6 +495369,7 @@
           "serial": "ULES-00975",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-11-09",
           "id": "19829-2"
         },
         {
@@ -495218,6 +495394,7 @@
           "serial": "ULUS-10031",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2005-12-07",
           "id": "19830-1"
         },
         {
@@ -495227,6 +495404,7 @@
           "serial": "ULES-00211",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2006-01-13",
           "id": "19830-2"
         }
       ],
@@ -495242,6 +495420,7 @@
           "serial": "ULUS-10296",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2007-10-22",
           "id": "19831-1"
         },
         {
@@ -495251,6 +495430,7 @@
           "serial": "ULES-00945",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-11-02",
           "id": "19831-2"
         }
       ],
@@ -495281,6 +495461,7 @@
           "serial": "ULUS-10130",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2006-12-14",
           "id": "19833-1"
         },
         {
@@ -495290,6 +495471,7 @@
           "serial": "ULES-00595",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2006-12-15",
           "id": "19833-2"
         },
         {
@@ -495347,6 +495529,7 @@
           "serial": "ULUS-10213",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2007-02-12",
           "id": "19835-1"
         },
         {
@@ -495356,6 +495539,7 @@
           "serial": "ULES-00483",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-02-23",
           "id": "19835-2"
         }
       ],
@@ -495573,6 +495757,7 @@
           "serial": "ULES-00153",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2005-09-26",
           "id": "19842-3"
         },
         {
@@ -495635,6 +495820,7 @@
           "serial": "ULES-00455",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2006-09-22",
           "id": "19843-3"
         },
         {
@@ -495669,6 +495855,7 @@
           "serial": "ULES-00845",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-10-05",
           "id": "19844-2"
         },
         {
@@ -496427,6 +496614,7 @@
           "serial": "ULES-00625",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-06-08",
           "id": "19878-2"
         },
         {
@@ -496461,6 +496649,7 @@
           "serial": "ULES-00033",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2005-09-01",
           "id": "19879-2"
         },
         {
@@ -496630,6 +496819,7 @@
           "serial": "ULES-01286",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2009-06-26",
           "id": "19887-2"
         },
         {
@@ -496673,6 +496863,7 @@
           "serial": "ULES-00823",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-07-20",
           "id": "19888-2"
         },
         {
@@ -496958,6 +497149,7 @@
           "serial": "ULES-00699",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-03-23",
           "id": "19901-2"
         },
         {
@@ -497449,6 +497641,7 @@
           "serial": "ULJM-06280",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2013-06-27",
           "id": "19919-1"
         },
         {
@@ -498149,6 +498342,7 @@
           "serial": "ULJS-00470",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2012-02-09",
           "id": "19947-1"
         },
         {
@@ -498367,6 +498561,7 @@
           "serial": "ULJM-05264",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2007-09-27",
           "id": "19957-1"
         },
         {
@@ -498493,6 +498688,7 @@
           "serial": "ULES-01054",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2008-03-28",
           "id": "19962-2"
         },
         {
@@ -498536,6 +498732,7 @@
           "serial": "ULES-01261",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2009-09-04",
           "id": "19963-2"
         },
         {
@@ -499666,6 +499863,7 @@
           "serial": "UCUS-98631",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2006-06-27",
           "id": "20012-1"
         }
       ],
@@ -499936,6 +500134,7 @@
           "serial": "ULES-00931",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-11-09",
           "id": "20022-2"
         },
         {
@@ -499970,6 +500169,7 @@
           "serial": "ULES-01165",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2008-11-07",
           "id": "20023-2"
         },
         {
@@ -500146,6 +500346,7 @@
           "serial": "ULES-00189",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2005-11-25",
           "id": "20030-2"
         },
         {
@@ -500762,6 +500963,7 @@
           "serial": "ULJM-05151",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2006-09-14",
           "id": "20056-1"
         }
       ],
@@ -500798,6 +501000,7 @@
           "serial": "ULJM-05373",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2008-11-27",
           "id": "20058-1"
         }
       ],
@@ -500813,6 +501016,7 @@
           "serial": "ULUS-10136",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2006-11-14",
           "id": "20059-1"
         },
         {
@@ -500822,6 +501026,7 @@
           "serial": "ULES-00600",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-03-02",
           "id": "20059-2"
         }
       ],
@@ -500837,6 +501042,7 @@
           "serial": "ULUS-10302",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2007-09-18",
           "id": "20060-1"
         },
         {
@@ -500846,6 +501052,7 @@
           "serial": "ULES-00925",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2007-12-07",
           "id": "20060-2"
         }
       ],
@@ -500861,6 +501068,7 @@
           "serial": "ULES-01183",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2008-11-28",
           "id": "20061-1"
         }
       ],
