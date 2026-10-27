@@ -14501,6 +14501,7 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpIds": [43710],
+          "releaseDate": "2010-11-16",
           "id": "503-3",
           "upc": "083717202028"
         }
@@ -136122,6 +136123,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpIds": [56883],
+          "releaseDate": "2011-10-21",
           "id": "5456-2"
         }
       ],
@@ -136956,6 +136958,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpIds": [57198],
+          "releaseDate": "2014-05-02",
           "id": "5486-1"
         },
         {
@@ -136992,6 +136995,7 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpIds": [32510],
+          "releaseDate": "2014-04-29",
           "id": "5486-4"
         }
       ],
@@ -137009,6 +137013,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpIds": [53970],
+          "releaseDate": "2012-06-29",
           "id": "5487-1",
           "upc": "5030917107849"
         },
@@ -137021,6 +137026,7 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpIds": [29547],
+          "releaseDate": "2012-06-26",
           "id": "5487-2",
           "upc": "047875843479"
         }
@@ -141466,6 +141472,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpIds": [26234],
+          "releaseDate": "2009-09-09",
           "id": "5579-1",
           "upc": "5030930075231>"
         },
@@ -141478,6 +141485,7 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpIds": [40138],
+          "releaseDate": "2009-09-09",
           "id": "5579-2"
         }
       ],
@@ -149156,6 +149164,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpIds": [67917],
+          "releaseDate": "2011-03-18",
           "id": "5765-1"
         }
       ],
@@ -149234,6 +149243,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpIds": [29444],
+          "releaseDate": "2011-10-21",
           "id": "5768-1"
         },
         {
@@ -149286,6 +149296,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpIds": [31886],
+          "releaseDate": "2012-10-12",
           "id": "5769-1",
           "upc": "711719206354"
         },
@@ -150129,6 +150140,7 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpIds": [48087],
+          "releaseDate": "2011-02-22",
           "id": "5786-1",
           "upc": "812872013169"
         }
@@ -151118,6 +151130,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpIds": [58207],
+          "releaseDate": "2013-04-26",
           "id": "5807-1"
         },
         {
@@ -151129,6 +151142,7 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpIds": [29026],
+          "releaseDate": "2013-04-26",
           "id": "5807-2"
         }
       ],
@@ -156620,6 +156634,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpIds": [59323],
+          "releaseDate": "2014-04-04",
           "id": "5940-1",
           "upc": "5060327530791"
         },
@@ -156631,6 +156646,7 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpIds": [34836],
+          "releaseDate": "2014-04-04",
           "id": "5940-2",
           "upc": "040198002479"
         }
@@ -158251,6 +158267,7 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpIds": [29740],
+          "releaseDate": "2011-10-18",
           "id": "5983-1"
         }
       ],
@@ -158268,6 +158285,7 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpIds": [55724],
+          "releaseDate": "2012-10-12",
           "id": "5984-1",
           "upc": "711719984665"
         }
@@ -158323,6 +158341,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpIds": [56313],
+          "releaseDate": "2008-03-26",
           "id": "5987-1"
         }
       ],
@@ -158525,6 +158544,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpIds": [28301],
+          "releaseDate": "2007-10-26",
           "id": "5992-1",
           "upc": "711719600459"
         }
@@ -166926,6 +166946,7 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpIds": [45710],
+          "releaseDate": "2008-07-01",
           "id": "6171-1",
           "upc": "899163001128"
         }
@@ -168069,6 +168090,7 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpIds": [36033],
+          "releaseDate": "2010-09-27",
           "id": "6203-1",
           "upc": "711719826125"
         }
@@ -168543,6 +168565,7 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpIds": [29027],
+          "releaseDate": "2008-03-18",
           "id": "6216-2"
         }
       ],
@@ -171540,6 +171563,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpIds": [32038],
+          "releaseDate": "2011-11-04",
           "id": "6316-1",
           "upc": "3307215591420"
         }
@@ -171558,6 +171582,7 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpIds": [29743],
+          "releaseDate": "2011-10-25",
           "id": "6317-1",
           "upc": "008888346951"
         }
@@ -180432,6 +180457,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpIds": [28372],
+          "releaseDate": "2007-03-23",
           "id": "6541-1",
           "upc": "3296580803378"
         },
@@ -182346,6 +182372,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpIds": [47581],
+          "releaseDate": "2011-02-04",
           "id": "6603-1"
         },
         {
@@ -182370,6 +182397,7 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpIds": [32286],
+          "releaseDate": "2010-11-30",
           "id": "6603-3",
           "upc": "895678002605"
         }
@@ -188764,6 +188792,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpIds": [47325],
+          "releaseDate": "2014-03-06",
           "id": "6821-1",
           "upc": "3391891972406"
         },
@@ -188776,6 +188805,7 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpIds": [30384],
+          "releaseDate": "2013-10-03",
           "id": "6821-2",
           "upc": "722674111034"
         }
@@ -190320,6 +190350,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpIds": [57162],
+          "releaseDate": "2011-03-25",
           "id": "6871-2"
         },
         {
@@ -190364,6 +190395,7 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpIds": [23862],
+          "releaseDate": "2011-03-25",
           "id": "6871-6"
         },
         {
@@ -192736,6 +192768,7 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpIds": [28737],
+          "releaseDate": "2012-11-28",
           "id": "6953-2",
           "upc": "711719983804"
         }
@@ -192831,6 +192864,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpIds": [30696],
+          "releaseDate": "2012-11-28",
           "id": "6957-1"
         },
         {
@@ -202688,6 +202722,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpIds": [59193],
+          "releaseDate": "2013-07-23",
           "id": "7245-1"
         },
         {
@@ -202710,6 +202745,7 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpIds": [30191],
+          "releaseDate": "2013-07-23",
           "id": "7245-3"
         }
       ],
@@ -203572,6 +203608,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpIds": [29284],
+          "releaseDate": "2012-05-25",
           "id": "7268-1"
         },
         {
@@ -203616,6 +203653,7 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpIds": [29429],
+          "releaseDate": "2012-05-25",
           "id": "7268-5",
           "upc": "711719820321"
         },
@@ -210699,6 +210737,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpIds": [32543],
+          "releaseDate": "2011-11-15",
           "id": "7445-1"
         },
         {
@@ -210721,6 +210760,7 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpIds": [55178],
+          "releaseDate": "2011-11-15",
           "id": "7445-3",
           "upc": "752919993453"
         }
@@ -216219,6 +216259,7 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpIds": [42029],
+          "releaseDate": "2009-02-10",
           "id": "7590-3",
           "upc": "612561600188"
         },
@@ -216231,6 +216272,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpIds": [59716],
+          "releaseDate": "2009-02-20",
           "id": "7590-4",
           "upc": "5060112741456"
         }
@@ -917141,6 +917183,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-12-07",
           "id": "41175-1",
           "serial": "ASVP52"
         },
@@ -917151,6 +917194,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-12-11",
           "id": "41175-2",
           "serial": "ASVE52"
         }
@@ -917500,6 +917544,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-07-06",
           "id": "41188-1",
           "serial": "BRFE"
         }
@@ -917516,6 +917561,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2017-06-01",
           "id": "41189-1",
           "serial": "BJYP"
         }
@@ -917548,6 +917594,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-11-13",
           "id": "41191-1",
           "serial": "WKLE"
         }
@@ -917789,6 +917836,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2017-04-13",
           "id": "41202-1",
           "serial": "AUUP"
         },
@@ -917799,6 +917847,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-04-27",
           "id": "41202-2",
           "serial": "AUUE"
         }
@@ -919267,6 +919316,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2016-06-09",
           "id": "41258-1",
           "serial": "AB3P"
         },
@@ -919277,6 +919327,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-06-02",
           "id": "41258-2",
           "serial": "AB3E"
         }
@@ -921640,6 +921691,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-03-25",
           "id": "41359-1",
           "serial": "ACEE52"
         }
@@ -926204,6 +926256,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-09-14",
           "id": "41554-1",
           "serial": "AE7E"
         }
@@ -926872,6 +926925,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-01-16",
           "id": "41583-1",
           "serial": "AF9P"
         },
@@ -926882,6 +926936,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2013-06-27",
           "id": "41583-2",
           "serial": "AF9J36"
         },
@@ -926892,6 +926947,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-01-16",
           "id": "41583-3",
           "serial": "AF9E"
         }
@@ -928736,6 +928792,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-07-17",
           "id": "41668-1",
           "serial": "WBGP"
         },
@@ -928746,6 +928803,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2013-12-25",
           "id": "41668-2",
           "serial": "WBGJ"
         },
@@ -928756,6 +928814,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-08-14",
           "id": "41668-3",
           "serial": "WBGE"
         }
@@ -929262,6 +929321,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-08-22",
           "id": "41692-1",
           "serial": "WGSP"
         },
@@ -929272,6 +929332,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2015-03-18",
           "id": "41692-2",
           "serial": "WGSJ"
         },
@@ -929282,6 +929343,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-09-05",
           "id": "41692-3",
           "serial": "WGSE"
         }
@@ -929298,6 +929360,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-09-08",
           "id": "41693-1",
           "serial": "WGSZCX"
         }
@@ -930047,6 +930110,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-11-06",
           "id": "41728-1",
           "serial": "AHKPYM"
         },
@@ -930057,6 +930121,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-03-21",
           "id": "41728-2",
           "serial": "AHKEYM"
         }
@@ -930553,6 +930618,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2017-02-16",
           "id": "41751-1",
           "serial": "AZ3P"
         },
@@ -930563,6 +930629,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-02-02",
           "id": "41751-2",
           "serial": "AZ3E"
         }
@@ -931047,6 +931114,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2016-07-14",
           "id": "41772-1",
           "serial": "BMWP"
         },
@@ -931057,6 +931125,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-07-14",
           "id": "41772-2",
           "serial": "BMWE"
         }
@@ -931519,6 +931588,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-11-30",
           "id": "41791-1",
           "serial": "AJDP41"
         },
@@ -931529,6 +931599,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-11-18",
           "id": "41791-2",
           "serial": "AJDE41"
         }
@@ -931590,6 +931661,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-10-23",
           "id": "41794-1",
           "serial": "ADPP41"
         },
@@ -931600,6 +931672,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-10-20",
           "id": "41794-2",
           "serial": "ADPE41"
         }
@@ -931787,6 +931860,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2014-06-26",
           "id": "41805-1",
           "serial": "ABWJAF"
         }
@@ -933279,6 +933353,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-07-09",
           "id": "41867-1",
           "serial": "AL6E"
         }
@@ -934012,6 +934087,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-11-18",
           "id": "41899-1",
           "serial": "AMDE69"
         }
@@ -936984,6 +937060,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-12-06",
           "id": "42022-1",
           "serial": "WHYP"
         },
@@ -936994,6 +937071,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2014-09-10",
           "id": "42022-2",
           "serial": "WHYJ"
         },
@@ -937004,6 +937082,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-11-18",
           "id": "42022-3",
           "serial": "WHYE"
         }
@@ -938455,6 +938534,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-11-30",
           "id": "42085-1",
           "serial": "WASP"
         },
@@ -938465,6 +938545,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2013-02-27",
           "id": "42085-2",
           "serial": "WASJ"
         },
@@ -938475,6 +938556,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-11-18",
           "id": "42085-3",
           "serial": "WASE"
         }
@@ -939481,6 +939563,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2016-11-24",
           "id": "42125-1",
           "serial": "BE3P"
         },
@@ -939491,6 +939574,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-11-24",
           "id": "42125-2",
           "serial": "BE3E"
         }
@@ -940370,6 +940454,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-03-06",
           "id": "42161-1",
           "serial": "APCPAF"
         },
@@ -940380,6 +940465,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-10-29",
           "id": "42161-2",
           "serial": "APCEAF"
         }
@@ -941364,6 +941450,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2016-03-18",
           "id": "42204-1",
           "serial": "APKP01"
         },
@@ -941374,6 +941461,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-03-18",
           "id": "42204-2",
           "serial": "APKE01"
         }
@@ -941700,6 +941788,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-08-15",
           "id": "42215-1",
           "serial": "WCNP"
         },
@@ -941710,6 +941799,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-08-29",
           "id": "42215-2",
           "serial": "WCNE"
         }
@@ -942255,6 +942345,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-08-27",
           "id": "42240-1",
           "serial": "WDCP"
         },
@@ -942265,6 +942356,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-08-27",
           "id": "42240-2",
           "serial": "AQEE"
         }
@@ -942281,6 +942373,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-07-02",
           "id": "42241-1",
           "serial": "AQPE"
         }
@@ -942650,6 +942743,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2012-11-30",
           "id": "42256-1",
           "serial": "ARBP41"
         },
@@ -942660,6 +942754,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2013-06-06",
           "id": "42256-2",
           "serial": "ARBJ41"
         },
@@ -942670,6 +942765,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2012-11-18",
           "id": "42256-3",
           "serial": "ARBE41"
         }
@@ -944465,6 +944561,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2016-08-06",
           "id": "42335-1",
           "serial": "AHSP"
         }
@@ -944988,6 +945085,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-02-05",
           "id": "42360-1",
           "serial": "BSXP"
         },
@@ -944998,6 +945096,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2016-09-07",
           "id": "42360-2",
           "serial": "BSXJ"
         },
@@ -945008,6 +945107,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-12-25",
           "id": "42360-3",
           "serial": "BSXE"
         }
@@ -949302,6 +949402,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-04-16",
           "id": "42534-1",
           "serial": "AR2P"
         },
@@ -949312,6 +949413,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-01-07",
           "id": "42534-2",
           "serial": "AR2E"
         },
@@ -949476,6 +949578,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2015-04-02",
           "id": "42540-1",
           "serial": "AXZJ"
         },
@@ -949486,6 +949589,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-11-06",
           "id": "42540-2",
           "serial": "AXZP"
         },
@@ -949496,6 +949600,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-11-06",
           "id": "42540-3",
           "serial": "AXZE"
         }
@@ -950274,6 +950379,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-05-02",
           "id": "42570-1",
           "serial": "AM9P52"
         },
@@ -950284,6 +950390,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-04-29",
           "id": "42570-2",
           "serial": "AM9E52"
         }
@@ -950300,6 +950407,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-03-08",
           "id": "42571-1",
           "serial": "AMZP52"
         },
@@ -950310,6 +950418,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-03-05",
           "id": "42571-2",
           "serial": "AMZE52"
         }
@@ -950326,6 +950435,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2016-03-31",
           "id": "42572-1",
           "serial": "WTRP"
         },
@@ -950336,6 +950446,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-05-05",
           "id": "42572-2",
           "serial": "WTRE"
         }
@@ -950352,6 +950463,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-10-29",
           "id": "42573-1",
           "serial": "BRXP"
         },
@@ -950362,6 +950474,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2015-10-28",
           "id": "42573-2",
           "serial": "BRXJ"
         },
@@ -950372,6 +950485,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-07-23",
           "id": "42573-3",
           "serial": "BRXE"
         }
@@ -950388,6 +950502,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2016-06-07",
           "id": "42574-1",
           "serial": "BUTP6V"
         },
@@ -950398,6 +950513,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-06-07",
           "id": "42574-2",
           "serial": "BUTE6V"
         }
@@ -950414,6 +950530,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-08-20",
           "id": "42575-1",
           "serial": "ABCP"
         },
@@ -950424,6 +950541,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-08-20",
           "id": "42575-2",
           "serial": "ABCE"
         }
@@ -950440,6 +950558,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-01-24",
           "id": "42576-1",
           "serial": "WCVP"
         },
@@ -950450,6 +950569,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2013-08-28",
           "id": "42576-2",
           "serial": "WCVJ"
         },
@@ -950460,6 +950580,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-01-22",
           "id": "42576-3",
           "serial": "WCVE"
         }
@@ -950476,6 +950597,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-03-29",
           "id": "42577-1",
           "serial": "ACRPAF"
         },
@@ -950486,6 +950608,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-03-19",
           "id": "42577-2",
           "serial": "ACREG9"
         }
@@ -950502,6 +950625,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-04-28",
           "id": "42578-1",
           "serial": "AA3E"
         }
@@ -950518,6 +950642,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-08-26",
           "id": "42579-1",
           "serial": "BTFP"
         },
@@ -950528,6 +950653,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-08-26",
           "id": "42579-2",
           "serial": "BTFE"
         }
@@ -950544,6 +950670,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-09-01",
           "id": "42580-1",
           "serial": "BFKE"
         }
@@ -950588,6 +950715,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2017-09-13",
           "id": "42582-1",
           "serial": "BRJJ"
         },
@@ -950598,6 +950726,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2017-06-22",
           "id": "42582-2",
           "serial": "BRJP"
         },
@@ -950608,6 +950737,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-05-25",
           "id": "42582-3",
           "serial": "BRJE"
         }
@@ -950682,6 +950812,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2014-02-14",
           "id": "42586-1",
           "serial": "ALAPWR"
         },
@@ -950692,6 +950823,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-02-07",
           "id": "42586-2",
           "serial": "ALAEWR"
         }
@@ -950796,6 +950928,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2017-03-03",
           "id": "42590-1",
           "serial": "ALZP01"
         },
@@ -950806,6 +950939,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-03-03",
           "id": "42590-2",
           "serial": "ALZE01"
         }
@@ -951054,6 +951188,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-10-04",
           "id": "42598-1",
           "serial": "BCZP01"
         },
@@ -951064,6 +951199,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-09-20",
           "id": "42598-2",
           "serial": "BCZE01"
         }
@@ -951080,6 +951216,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2016-03-04",
           "id": "42599-1",
           "serial": "AZAP01"
         },
@@ -951090,6 +951227,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-03-04",
           "id": "42599-2",
           "serial": "AZAE01"
         }
@@ -951132,6 +951270,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-07-10",
           "id": "42601-1",
           "serial": "ATLE"
         }
@@ -951148,6 +951287,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-11-21",
           "id": "42602-1",
           "serial": "WC3P"
         },
@@ -951158,6 +951298,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-11-21",
           "id": "42602-2",
           "serial": "WC3E"
         }
@@ -951190,6 +951331,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-01-14",
           "id": "42604-1",
           "serial": "APEE"
         }
@@ -951206,6 +951348,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-09-24",
           "id": "42605-1",
           "serial": "BRAP"
         },
@@ -951216,6 +951359,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-10-01",
           "id": "42605-2",
           "serial": "BRAE"
         }
@@ -951232,6 +951376,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-07-19",
           "id": "42606-1",
           "serial": "ASUP41"
         },
@@ -951242,6 +951387,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-07-23",
           "id": "42606-2",
           "serial": "ASUE41"
         }
@@ -951258,6 +951404,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2017-04-13",
           "id": "42607-1",
           "serial": "BTTP"
         },
@@ -951268,6 +951415,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-06-04",
           "id": "42607-2",
           "serial": "BTTE"
         }
@@ -951284,6 +951432,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2015-09-10",
           "id": "42608-1",
           "serial": "BS7P"
         },
@@ -951294,6 +951443,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-09-10",
           "id": "42608-2",
           "serial": "BS7E"
         }
@@ -951342,6 +951492,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-10-21",
           "id": "42611-1",
           "serial": "AVCE52"
         }
@@ -951358,6 +951509,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-03-22",
           "id": "42612-1",
           "serial": "AWDP52"
         },
@@ -951368,6 +951520,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-03-19",
           "id": "42612-2",
           "serial": "AWDE52"
         }
@@ -951384,6 +951537,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2013-08-23",
           "id": "42613-1",
           "serial": "ACMP01"
         },
@@ -951394,6 +951548,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "2013-08-24",
           "id": "42613-2",
           "serial": "ACMJ01"
         },
@@ -951414,6 +951569,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2013-09-15",
           "id": "42613-4",
           "serial": "ACME01"
         }
@@ -952030,6 +952186,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2015-02-05",
           "id": "42640-1",
           "serial": "ATPE"
         }
@@ -952389,6 +952546,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2016-03-03",
           "id": "42655-1",
           "serial": "AUHP"
         },
@@ -952399,6 +952557,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2016-03-17",
           "id": "42655-2",
           "serial": "AUHE"
         }
@@ -952744,6 +952903,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-02-23",
           "id": "42669-1",
           "serial": "AVNE"
         }
@@ -954489,6 +954649,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-11-13",
           "id": "42739-1",
           "serial": "AXAE"
         }
@@ -954644,6 +954805,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "2017-04-06",
           "id": "42746-1",
           "serial": "AYGP"
         },
@@ -954654,6 +954816,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2017-02-09",
           "id": "42746-2",
           "serial": "AYGE"
         }
@@ -955043,6 +955206,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "2014-07-03",
           "id": "42763-1",
           "serial": "WLSE"
         }
