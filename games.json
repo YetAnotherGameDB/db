@@ -83751,7 +83751,7 @@
       "id": 3090
     },
     {
-      "name": "TOKIMEKI MEMORIAL - FOREVER WITH YOU",
+      "name": "TOKIMEKI MEMORIAL",
       "gameInstances": [
         {
           "name": "TOKIMEKI MEMORIAL - FOREVER WITH YOU",
@@ -83811,6 +83811,90 @@
           "regionalName": "ときめきメモリアル forever with you [PSONE BOOKS]",
           "releaseDate": "2003-09-18",
           "id": "3091-5"
+        },
+        {
+          "name": "Tokimeki Memorial - Forever with You",
+          "platform": "saturn",
+          "language": "[Ja]",
+          "serial": "T-9504G",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "3091-6",
+          "regionalName": "ときめきメモリアル ～forever with you(フォーエバーウィズユー)～ デラックス版",
+          "releaseDate": "1996-07-19",
+          "upc": "4988602010503"
+        },
+        {
+          "name": "Tokimeki Memorial - Forever with You",
+          "platform": "saturn",
+          "language": "[Ja]",
+          "serial": "T-9511G",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "3091-7",
+          "regionalName": "ときめきメモリアル ～forever with you～ (フォーエバーウィズユー) スペシャル版(限定版)",
+          "releaseDate": "1996-07-19",
+          "upc": "4988602026559"
+        },
+        {
+          "name": "Tokimeki Memorial - Forever with You",
+          "platform": "psp",
+          "language": "[Ja]",
+          "serial": "ULJM-05078",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "3091-8",
+          "regionalName": "ときめきメモリアル ～Forever with you～(フォーエバーウィズユー)",
+          "releaseDate": "2006-03-09",
+          "upc": "4988602127645"
+        },
+        {
+          "name": "Tokimeki Memorial - Densetsu no Ki no Shita de",
+          "platform": "snes",
+          "language": "[Ja]",
+          "serial": "SHVC-AM8J",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "regionalName": "ときめきメモリアル 伝説の樹の下で",
+          "releaseDate": "1996-02-09",
+          "id": "3091-9"
+        },
+        {
+          "name": "Tokimeki Memorial (Japan)",
+          "platform": "pcengine",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "releaseDate": "1994-05-27",
+          "id": "3091-10"
+        },
+        {
+          "name": "Tokimeki Memorial (Japan) (Rev 2) (FABT)",
+          "platform": "pcengine",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "3091-11"
+        },
+        {
+          "name": "Tokimeki Memorial (Japan) (Rev 3)",
+          "platform": "pcengine",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "3091-12"
+        },
+        {
+          "name": "Tokimeki Memorial (Japan) (Rev 1)",
+          "platform": "pcengine",
+          "media": "cd",
+          "language": "[Ja]",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "3091-13"
         }
       ],
       "id": 3091,
@@ -430910,26 +430994,6 @@
       }
     },
     {
-      "name": "TOKIMEKI MEMORIAL - DENSETSU NO KI NO SHITA DE",
-      "gameInstances": [
-        {
-          "name": "Tokimeki Memorial - Densetsu no Ki no Shita de",
-          "platform": "snes",
-          "language": "[Ja]",
-          "serial": "SHVC-AM8J",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "regionalName": "ときめきメモリアル 伝説の樹の下で",
-          "releaseDate": "1996-02-09",
-          "id": "16818-1"
-        }
-      ],
-      "id": 16818,
-      "localizedNames": {
-        "ja": "ときめきメモリアル 伝説の樹の下で"
-      }
-    },
-    {
       "name": "TOKORO'S MAHJONG",
       "gameInstances": [
         {
@@ -500811,27 +500875,6 @@
       "id": 19861
     },
     {
-      "name": "TOKIMEKI MEMORIAL - FOREVER WITH YOU",
-      "gameInstances": [
-        {
-          "name": "Tokimeki Memorial - Forever with You",
-          "platform": "psp",
-          "language": "[Ja]",
-          "serial": "ULJM-05078",
-          "region": "Japan",
-          "tgdbId": 0,
-          "id": "19862-1",
-          "regionalName": "ときめきメモリアル ～Forever with you～(フォーエバーウィズユー)",
-          "releaseDate": "2006-03-09",
-          "upc": "4988602127645"
-        }
-      ],
-      "id": 19862,
-      "localizedNames": {
-        "ja": "ときめきメモリアル ～Forever with you～(フォーエバーウィズユー)"
-      }
-    },
-    {
       "name": "TOKIMEKI MEMORIAL GIRL'S SIDE PREMIUM - 3RD STORY",
       "gameInstances": [
         {
@@ -531727,39 +531770,6 @@
       "id": 21326,
       "localizedNames": {
         "ja": "ときめきメモリアル ドラマシリーズ Vol.3 旅立ちの詩 スペシャルBOX"
-      }
-    },
-    {
-      "name": "TOKIMEKI MEMORIAL - FOREVER WITH YOU",
-      "gameInstances": [
-        {
-          "name": "Tokimeki Memorial - Forever with You",
-          "platform": "saturn",
-          "language": "[Ja]",
-          "serial": "T-9504G",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "21327-1",
-          "regionalName": "ときめきメモリアル ～forever with you(フォーエバーウィズユー)～ デラックス版",
-          "releaseDate": "1996-07-19",
-          "upc": "4988602010503"
-        },
-        {
-          "name": "Tokimeki Memorial - Forever with You",
-          "platform": "saturn",
-          "language": "[Ja]",
-          "serial": "T-9511G",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "21327-2",
-          "regionalName": "ときめきメモリアル ～forever with you～ (フォーエバーウィズユー) スペシャル版(限定版)",
-          "releaseDate": "1996-07-19",
-          "upc": "4988602026559"
-        }
-      ],
-      "id": 21327,
-      "localizedNames": {
-        "ja": "ときめきメモリアル ～forever with you(フォーエバーウィズユー)～ デラックス版"
       }
     },
     {
@@ -902572,49 +902582,6 @@
         }
       ],
       "id": 40235
-    },
-    {
-      "name": "TOKIMEKI MEMORIAL",
-      "gameInstances": [
-        {
-          "name": "Tokimeki Memorial (Japan)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "releaseDate": "1994-05-27",
-          "id": "40236-1"
-        },
-        {
-          "name": "Tokimeki Memorial (Japan) (Rev 2) (FABT)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40236-2"
-        },
-        {
-          "name": "Tokimeki Memorial (Japan) (Rev 3)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40236-3"
-        },
-        {
-          "name": "Tokimeki Memorial (Japan) (Rev 1)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40236-4"
-        }
-      ],
-      "id": 40236
     },
     {
       "name": "MAHJONG VANILLA SYNDROME",
