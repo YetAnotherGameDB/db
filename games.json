@@ -432442,6 +432442,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-04-22",
           "id": "16906-6",
           "serial": "T-75014",
           "upc": "4988013031890"
@@ -889577,6 +889578,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1986-08-17",
           "id": "39416-1"
         },
         {
@@ -889641,6 +889643,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1988-02-29",
           "id": "39420-1"
         }
       ],
@@ -889753,6 +889756,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1987-10-18",
           "id": "39428-1"
         },
         {
@@ -889831,6 +889835,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1987-07-19",
           "id": "39433-1"
         }
       ],
@@ -889859,6 +889864,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1988-03-25",
           "id": "39435-1"
         }
       ],
@@ -889887,6 +889893,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1986-11-16",
           "id": "39437-1"
         }
       ],
@@ -889965,6 +889972,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1985-12-22",
           "id": "39442-1"
         }
       ],
@@ -889979,6 +889987,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1986-12-14",
           "id": "39443-1"
         }
       ],
@@ -890057,6 +890066,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "1992-06-24",
           "id": "39448-1"
         }
       ],
@@ -890253,6 +890263,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "1993-11-19",
           "id": "39462-1"
         }
       ],
@@ -890323,6 +890334,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1988-07-02",
           "id": "39467-1"
         },
         {
@@ -890563,6 +890575,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1986-04-21",
           "id": "39483-1"
         }
       ],
@@ -890773,6 +890786,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1987-01-18",
           "id": "39498-1"
         }
       ],
@@ -890815,6 +890829,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "1995-02-20",
           "id": "39501-1"
         }
       ],
@@ -890927,6 +890942,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1987-05-18",
           "id": "39509-1"
         },
         {
@@ -890991,6 +891007,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1985-12-22",
           "id": "39513-1"
         },
         {
@@ -891027,6 +891044,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1987-12-27",
           "id": "39515-1"
         }
       ],
@@ -891055,6 +891073,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1986-06-15",
           "id": "39517-1"
         }
       ],
@@ -891139,6 +891158,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1988-07-02",
           "id": "39523-1"
         }
       ],
@@ -891195,6 +891215,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1985-12-14",
           "id": "39527-1"
         }
       ],
@@ -891223,6 +891244,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1988-02-21",
           "id": "39529-1"
         }
       ],
@@ -891335,6 +891357,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1986-04-21",
           "id": "39537-1"
         },
         {
@@ -891413,6 +891436,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1986-07-20",
           "id": "39542-1"
         }
       ],
@@ -891569,6 +891593,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1985-12-22",
           "id": "39552-1"
         }
       ],
@@ -891583,6 +891608,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1987-03-29",
           "id": "39553-1"
         },
         {
@@ -891619,6 +891645,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1985-10-20",
           "id": "39555-1"
         },
         {
@@ -891697,6 +891724,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1986-12-15",
           "id": "39560-1"
         }
       ],
@@ -891711,6 +891739,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1986-07-20",
           "id": "39561-1"
         }
       ],
@@ -891725,6 +891754,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "1993-06-07",
           "id": "39562-1"
         }
       ],
@@ -891739,6 +891769,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1988-04-02",
           "id": "39563-1"
         }
       ],
@@ -891873,6 +891904,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1988-06-02",
           "id": "39572-1"
         },
         {
@@ -891979,6 +892011,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "1991-12-19",
           "id": "39579-1"
         }
       ],
@@ -892091,6 +892124,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1987-10-18",
           "id": "39587-1"
         }
       ],
@@ -892105,6 +892139,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1987-05-17",
           "id": "39588-1"
         }
       ],
@@ -892217,6 +892252,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1988-01-31",
           "id": "39596-1"
         }
       ],
@@ -892231,6 +892267,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1988-07-30",
           "id": "39597-1"
         }
       ],
@@ -892301,6 +892338,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "1994-03-10",
           "id": "39602-1"
         }
       ],
@@ -892483,6 +892521,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1988-09-09",
           "id": "39615-1"
         }
       ],
@@ -892547,6 +892586,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1987-12-20",
           "id": "39619-1"
         }
       ],
@@ -892703,6 +892743,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1987-12-20",
           "id": "39629-1"
         },
         {
@@ -892987,6 +893028,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "1992-12-03",
           "id": "39647-1"
         }
       ],
@@ -893183,6 +893225,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1985-12-20",
           "id": "39661-1"
         }
       ],
@@ -893211,6 +893254,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1987-10-24",
           "id": "39663-1"
         }
       ],
@@ -893267,6 +893311,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1986-01-31",
           "id": "39667-1"
         }
       ],
@@ -893295,6 +893340,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "1994-02-11",
           "id": "39669-1"
         }
       ],
@@ -893351,6 +893397,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1988-06-19",
           "id": "39673-1"
         },
         {
@@ -893423,6 +893470,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1988-04-17",
           "id": "39677-1"
         }
       ],
@@ -893507,6 +893555,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "1992-11-19",
           "id": "39683-1"
         }
       ],
@@ -893521,6 +893570,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1986-12-21",
           "id": "39684-1"
         },
         {
@@ -893543,6 +893593,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1988-02-29",
           "id": "39685-1"
         },
         {
@@ -893565,6 +893616,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "1992-10-15",
           "id": "39686-1"
         }
       ],
@@ -893593,6 +893645,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "1992-10-29",
           "id": "39688-1"
         }
       ],
@@ -893663,6 +893716,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1987-07-19",
           "id": "39693-1"
         }
       ],
@@ -893677,6 +893731,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1986-09-20",
           "id": "39694-1"
         },
         {
@@ -893923,6 +893978,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1988-07-02",
           "id": "39711-1"
         }
       ],
@@ -893937,6 +893993,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "1992-11-05",
           "id": "39712-1"
         }
       ],
@@ -893951,6 +894008,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "1992-06-24",
           "id": "39713-1"
         }
       ],
@@ -893979,6 +894037,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1988-01-31",
           "id": "39715-1"
         }
       ],
@@ -894091,6 +894150,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1985-10-20",
           "id": "39723-1"
         }
       ],
@@ -894119,6 +894179,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1988-06-02",
           "id": "39725-1"
         }
       ],
@@ -894161,6 +894222,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1986-09-21",
           "id": "39728-1"
         }
       ],
@@ -894407,6 +894469,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1988-07-30",
           "id": "39745-1"
         },
         {
@@ -894471,6 +894534,7 @@
           "language": "[En,Fr,De,Es]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "1992-10-15",
           "id": "39749-1"
         }
       ],
@@ -894669,6 +894733,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1987-03-22",
           "id": "39762-1"
         },
         {
@@ -894733,6 +894798,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1987-03-15",
           "id": "39766-1"
         }
       ],
@@ -894839,6 +894905,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "1991-11-21",
           "id": "39773-1"
         }
       ],
@@ -894895,6 +894962,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1987-05-24",
           "id": "39777-1"
         },
         {
@@ -894959,6 +895027,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-03-25",
           "id": "39781-1"
         },
         {
@@ -894981,6 +895050,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-05-27",
           "id": "39782-1"
         },
         {
@@ -895003,6 +895073,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1992-03-19",
           "id": "39783-1"
         },
         {
@@ -895011,6 +895082,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "1992-12-03",
           "id": "39783-2"
         }
       ],
@@ -895187,6 +895259,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1992-08-28",
           "id": "39795-1"
         },
         {
@@ -895273,6 +895346,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-01-14",
           "id": "39800-1"
         },
         {
@@ -895309,6 +895383,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-11-29",
           "id": "39802-1"
         }
       ],
@@ -895323,6 +895398,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1995-01-27",
           "id": "39803-1"
         }
       ],
@@ -895359,6 +895435,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "1993-11-19",
           "id": "39805-2"
         }
       ],
@@ -895415,6 +895492,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1992-03-20",
           "id": "39809-1"
         }
       ],
@@ -895429,6 +895507,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-02-11",
           "id": "39810-1"
         }
       ],
@@ -895513,6 +895592,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "1992-12-08",
           "id": "39816-1"
         }
       ],
@@ -895653,6 +895733,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1990-10-06",
           "id": "39826-1"
         },
         {
@@ -895661,6 +895742,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "1991-04-26",
           "id": "39826-2"
         }
       ],
@@ -895683,6 +895765,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "1994-06-19",
           "id": "39827-2"
         }
       ],
@@ -895711,6 +895794,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1995-02-24",
           "id": "39829-1"
         }
       ],
@@ -895859,6 +895943,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-03-29",
           "id": "39839-1"
         },
         {
@@ -895909,6 +895994,7 @@
           "language": "[En,Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-03-04",
           "id": "39842-1"
         }
       ],
@@ -895923,6 +896009,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1993-04-29",
           "id": "39843-1"
         }
       ],
@@ -895937,6 +896024,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1996-04-26",
           "id": "39844-1"
         }
       ],
@@ -896029,6 +896117,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-09-16",
           "id": "39850-1"
         }
       ],
@@ -896043,6 +896132,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-08-05",
           "id": "39851-1"
         },
         {
@@ -896087,6 +896177,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-03-11",
           "id": "39853-1"
         },
         {
@@ -896151,6 +896242,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-08-09",
           "id": "39857-1"
         }
       ],
@@ -896221,6 +896313,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1993-12-17",
           "id": "39862-1"
         }
       ],
@@ -896307,6 +896400,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1995-09-14",
           "id": "39867-1"
         },
         {
@@ -896343,6 +896437,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1995-10-27",
           "id": "39869-1"
         }
       ],
@@ -896385,6 +896480,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-12-23",
           "id": "39872-1"
         },
         {
@@ -896435,6 +896531,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-10-25",
           "id": "39875-1"
         }
       ],
@@ -896449,6 +896546,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1995-01-27",
           "id": "39876-1"
         }
       ],
@@ -896463,6 +896561,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1992-06-12",
           "id": "39877-1"
         }
       ],
@@ -896519,6 +896618,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-04-05",
           "id": "39881-1"
         }
       ],
@@ -896533,6 +896633,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1995-10-20",
           "id": "39882-1"
         }
       ],
@@ -896575,6 +896676,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-12-29",
           "id": "39885-1"
         }
       ],
@@ -896617,6 +896719,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1996-11-22",
           "id": "39888-1"
         }
       ],
@@ -896631,6 +896734,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1996-11-01",
           "id": "39889-1"
         }
       ],
@@ -896659,6 +896763,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1990-12-15",
           "id": "39891-1"
         },
         {
@@ -896695,6 +896800,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-04-22",
           "id": "39893-1"
         }
       ],
@@ -896723,6 +896829,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-07-26",
           "id": "39895-1"
         }
       ],
@@ -896737,6 +896844,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1995-03-24",
           "id": "39896-1"
         }
       ],
@@ -896751,6 +896859,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-06-21",
           "id": "39897-1"
         },
         {
@@ -896773,6 +896882,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-03-15",
           "id": "39898-1"
         }
       ],
@@ -896787,6 +896897,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-12-27",
           "id": "39899-1"
         }
       ],
@@ -896837,6 +896948,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "1993-11-12",
           "id": "39902-2"
         }
       ],
@@ -896865,6 +896977,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1992-05-22",
           "id": "39904-1"
         }
       ],
@@ -896879,6 +896992,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1992-04-24",
           "id": "39905-1"
         }
       ],
@@ -896921,6 +897035,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "1996-11-14",
           "id": "39908-1"
         }
       ],
@@ -897013,6 +897128,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-07-22",
           "id": "39914-1"
         }
       ],
@@ -897027,6 +897143,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1995-11-24",
           "id": "39915-1"
         }
       ],
@@ -897041,6 +897158,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1992-05-22",
           "id": "39916-1"
         },
         {
@@ -897077,6 +897195,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "1995-06-16",
           "id": "39918-1"
         }
       ],
@@ -897091,6 +897210,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-02-24",
           "id": "39919-1"
         },
         {
@@ -897127,6 +897247,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1993-07-30",
           "id": "39921-1"
         },
         {
@@ -897185,6 +897306,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-09-09",
           "id": "39924-1"
         }
       ],
@@ -897213,6 +897335,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-03-29",
           "id": "39926-1"
         }
       ],
@@ -897227,6 +897350,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1995-09-01",
           "id": "39927-1"
         }
       ],
@@ -897269,6 +897393,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-11-22",
           "id": "39930-1"
         }
       ],
@@ -897283,6 +897408,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1992-12-18",
           "id": "39931-1"
         }
       ],
@@ -897353,6 +897479,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1996-01-12",
           "id": "39936-1"
         }
       ],
@@ -897507,6 +897634,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-05-24",
           "id": "39947-1"
         }
       ],
@@ -897585,6 +897713,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-04-22",
           "id": "39952-1"
         }
       ],
@@ -897739,6 +897868,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-10-30",
           "id": "39963-1"
         }
       ],
@@ -897781,6 +897911,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "1993-09-13",
           "id": "39966-1"
         }
       ],
@@ -897837,6 +897968,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1993-07-23",
           "id": "39970-1"
         }
       ],
@@ -897851,6 +897983,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1993-12-10",
           "id": "39971-1"
         }
       ],
@@ -897865,6 +897998,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-07-29",
           "id": "39972-1"
         }
       ],
@@ -897893,6 +898027,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-04-29",
           "id": "39974-1"
         },
         {
@@ -897901,6 +898036,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "1994-03-04",
           "id": "39974-2"
         }
       ],
@@ -897929,6 +898065,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "1994-11-15",
           "id": "39976-1"
         }
       ],
@@ -897943,6 +898080,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "1995-10-27",
           "id": "39977-1"
         }
       ],
@@ -897985,6 +898123,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-11-01",
           "id": "39980-1"
         },
         {
@@ -898007,6 +898146,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1995-07-21",
           "id": "39981-1"
         }
       ],
@@ -898035,6 +898175,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1995-11-03",
           "id": "39983-1"
         }
       ],
@@ -898085,6 +898226,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-08-09",
           "id": "39986-1"
         },
         {
@@ -898143,6 +898285,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-01-29",
           "id": "39989-1"
         },
         {
@@ -898165,6 +898308,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1996-11-22",
           "id": "39990-1"
         }
       ],
@@ -898207,6 +898351,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1990-10-06",
           "id": "39993-1"
         },
         {
@@ -898215,6 +898360,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "1991-12-12",
           "id": "39993-2"
         }
       ],
@@ -898229,6 +898375,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1996-12-06",
           "id": "39994-1"
         }
       ],
@@ -898307,6 +898454,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1992-03-13",
           "id": "39999-1"
         }
       ],
@@ -898321,6 +898469,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1992-10-16",
           "id": "40000-1"
         }
       ],
@@ -898363,6 +898512,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1992-02-07",
           "id": "40003-1"
         }
       ],
@@ -898433,6 +898583,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-02-23",
           "id": "40008-1"
         }
       ],
@@ -898475,6 +898626,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1993-10-01",
           "id": "40011-1"
         }
       ],
@@ -898531,6 +898683,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1993-04-29",
           "id": "40015-1"
         }
       ],
@@ -898545,6 +898698,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-09-30",
           "id": "40016-1"
         }
       ],
@@ -898559,6 +898713,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-02-02",
           "id": "40017-1"
         },
         {
@@ -898581,6 +898736,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-09-27",
           "id": "40018-1"
         },
         {
@@ -898603,6 +898759,7 @@
           "language": "[En,Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1993-03-19",
           "id": "40019-1"
         }
       ],
@@ -898659,6 +898816,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1996-08-02",
           "id": "40023-1"
         }
       ],
@@ -898687,6 +898845,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-08-09",
           "id": "40025-1"
         }
       ],
@@ -898743,6 +898902,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-01-21",
           "id": "40029-1"
         },
         {
@@ -898815,6 +898975,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1995-02-24",
           "id": "40033-1"
         }
       ],
@@ -898885,6 +899046,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-03-25",
           "id": "40038-1"
         },
         {
@@ -898907,6 +899069,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1995-03-24",
           "id": "40039-1"
         }
       ],
@@ -898963,6 +899126,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1990-12-27",
           "id": "40043-1"
         }
       ],
@@ -898991,6 +899155,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-04-26",
           "id": "40045-1"
         }
       ],
@@ -899019,6 +899184,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1995-06-30",
           "id": "40047-1"
         }
       ],
@@ -899173,6 +899339,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-03-18",
           "id": "40058-1"
         }
       ],
@@ -899201,6 +899368,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-12-28",
           "id": "40060-1"
         }
       ],
@@ -899411,6 +899579,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1995-05-26",
           "id": "40075-1"
         },
         {
@@ -899419,6 +899588,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "1995-06-05",
           "id": "40075-2"
         }
       ],
@@ -899433,6 +899603,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-04-19",
           "id": "40076-1"
         },
         {
@@ -899483,6 +899654,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1995-12-15",
           "id": "40079-1"
         }
       ],
@@ -899497,6 +899669,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1990-10-06",
           "id": "40080-1"
         },
         {
@@ -899575,6 +899748,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1995-01-27",
           "id": "40085-1"
         }
       ],
@@ -899589,6 +899763,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-02-25",
           "id": "40086-1"
         },
         {
@@ -899611,6 +899786,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1995-04-28",
           "id": "40087-1"
         }
       ],
@@ -899625,6 +899801,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-09-28",
           "id": "40088-1"
         }
       ],
@@ -899639,6 +899816,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1990-11-10",
           "id": "40089-1"
         }
       ],
@@ -899653,6 +899831,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1993-12-17",
           "id": "40090-1"
         }
       ],
@@ -899695,6 +899874,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1995-03-03",
           "id": "40093-1"
         }
       ],
@@ -899723,6 +899903,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "1994-11-10",
           "id": "40095-1"
         }
       ],
@@ -899737,6 +899918,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1995-07-14",
           "id": "40096-1"
         }
       ],
@@ -899863,6 +900045,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-04-26",
           "id": "40105-1"
         }
       ],
@@ -899927,6 +900110,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1995-01-13",
           "id": "40109-1"
         },
         {
@@ -899935,6 +900119,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "1994-11-09",
           "id": "40109-2"
         },
         {
@@ -899943,6 +900128,7 @@
           "language": "[En]",
           "region": "Europe",
           "tgdbId": 0,
+          "releaseDate": "1994-11-04",
           "id": "40109-3"
         }
       ],
@@ -899957,6 +900143,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "1997-08-26",
           "id": "40110-1"
         }
       ],
@@ -900013,6 +900200,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-01-26",
           "id": "40114-1"
         }
       ],
@@ -900027,6 +900215,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1995-04-07",
           "id": "40115-1"
         }
       ],
@@ -900111,6 +900300,7 @@
           "language": "[En,Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1993-06-25",
           "id": "40121-1"
         },
         {
@@ -900119,6 +900309,7 @@
           "language": "[En,Ja]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "1993-07-14",
           "id": "40121-2"
         }
       ],
@@ -900133,6 +900324,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-06-03",
           "id": "40122-1"
         }
       ],
@@ -900147,6 +900339,7 @@
           "language": "[En,Fr,De,Es,It]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1993-10-29",
           "id": "40123-1"
         }
       ],
@@ -900189,6 +900382,7 @@
           "language": "[En]",
           "region": "North America",
           "tgdbId": 0,
+          "releaseDate": "1996-08-30",
           "id": "40126-1"
         }
       ],
@@ -900231,6 +900425,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-07-26",
           "id": "40129-1"
         }
       ],
@@ -900309,6 +900504,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1990-12-08",
           "id": "40134-1"
         },
         {
@@ -900345,6 +900541,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1991-03-01",
           "id": "40136-1"
         },
         {
@@ -900395,6 +900592,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-05-27",
           "id": "40139-1"
         }
       ],
@@ -900507,6 +900705,7 @@
           "language": "[En]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-03-18",
           "id": "40147-1"
         }
       ],
@@ -900521,6 +900720,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1994-09-30",
           "id": "40148-1"
         }
       ],
@@ -900535,6 +900735,7 @@
           "language": "[Ja]",
           "region": "Japan",
           "tgdbId": 0,
+          "releaseDate": "1990-10-23",
           "id": "40149-1"
         }
       ],
@@ -1009165,6 +1009366,7 @@
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
+          "releaseDate": "1994-02-28",
           "id": "45998-1",
           "serial": "T-93175"
         }
@@ -1009181,6 +1009383,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-06-25",
           "id": "45999-1",
           "serial": "T-49064"
         }
@@ -1009229,6 +1009432,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-03-25",
           "id": "46002-1",
           "serial": "G-6031"
         }
@@ -1009313,6 +1009517,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1992-12-18",
           "id": "46006-2",
           "serial": "T-68014"
         },
@@ -1009339,6 +1009544,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1992-05-29",
           "id": "46007-1",
           "serial": "T-32044"
         }
@@ -1009355,6 +1009561,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-11-26",
           "id": "46008-1",
           "serial": "T-92014"
         }
@@ -1009455,6 +1009662,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-07-23",
           "id": "46013-1",
           "serial": "T-32094"
         }
@@ -1009471,6 +1009679,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-11-19",
           "id": "46014-1",
           "serial": "G-6028"
         }
@@ -1009529,6 +1009738,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-07-30",
           "id": "46017-1",
           "serial": "T-43024"
         }
@@ -1009627,6 +1009837,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-09-30",
           "id": "46022-2",
           "serial": "T-60194"
         },
@@ -1009695,6 +1009906,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1992-10-23",
           "id": "46025-1",
           "serial": "T-22024"
         }
@@ -1009711,6 +1009923,7 @@
           "language": "[En]",
           "region": "PAL",
           "tgdbId": 0,
+          "releaseDate": "1993-04-02",
           "id": "46026-1",
           "serial": "4405"
         },
@@ -1009883,6 +1010096,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-09-30",
           "id": "46035-1",
           "serial": "T-36014"
         }
@@ -1009998,6 +1010212,7 @@
           "language": "[En]",
           "region": "PAL",
           "tgdbId": 0,
+          "releaseDate": "1993-04-02",
           "id": "46041-1",
           "serial": "4402"
         },
@@ -1010008,6 +1010223,7 @@
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
+          "releaseDate": "1992-10-15",
           "id": "46041-2",
           "serial": "4402"
         }
@@ -1010129,6 +1010345,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1992-03-27",
           "id": "46045-1",
           "serial": "T-49014"
         }
@@ -1010161,6 +1010378,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-07-30",
           "id": "46047-1",
           "serial": "T-49054"
         }
@@ -1010177,6 +1010395,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1995-02-24",
           "id": "46048-1",
           "serial": "T-60024"
         }
@@ -1010225,6 +1010444,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1992-04-17",
           "id": "46051-1",
           "serial": "T-49034"
         }
@@ -1010241,6 +1010461,7 @@
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
+          "releaseDate": "1995-11-15",
           "id": "46052-1",
           "serial": "T-81045"
         }
@@ -1010273,6 +1010494,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1992-07-31",
           "id": "46054-1",
           "serial": "T-28014"
         }
@@ -1010289,6 +1010511,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-05-28",
           "id": "46055-1",
           "serial": "T-32074"
         }
@@ -1010315,6 +1010538,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1995-03-24",
           "id": "46056-2",
           "serial": "G-6040"
         },
@@ -1010511,6 +1010735,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-07-16",
           "id": "46062-1",
           "serial": "G-6017"
         }
@@ -1010601,6 +1010826,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1991-12-20",
           "id": "46067-1",
           "serial": "T-32014"
         }
@@ -1010731,6 +1010957,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-08-06",
           "id": "46072-1",
           "serial": "G-6019"
         }
@@ -1010763,6 +1010990,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-03-18",
           "id": "46075-1",
           "serial": "T-71014"
         }
@@ -1010831,6 +1011059,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1995-09-01",
           "id": "46078-3",
           "serial": "G-6043"
         },
@@ -1010903,6 +1011132,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-04-02",
           "id": "46080-2",
           "serial": "G-6013"
         },
@@ -1011165,6 +1011395,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-04-23",
           "id": "46092-1",
           "serial": "G-6034"
         }
@@ -1011181,6 +1011412,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1991-12-12",
           "id": "46093-1",
           "serial": "T-22014"
         }
@@ -1011197,6 +1011429,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-03-18",
           "id": "46094-1",
           "serial": "T-60054"
         },
@@ -1011281,6 +1011514,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-01-28",
           "id": "46098-1",
           "serial": "G-6016"
         }
@@ -1011411,6 +1011645,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-09-30",
           "id": "46103-4",
           "serial": "G-6038"
         },
@@ -1011447,6 +1011682,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-05-13",
           "id": "46104-1",
           "serial": "T-141014"
         }
@@ -1011473,6 +1011709,7 @@
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
+          "releaseDate": "1994-11-10",
           "id": "46105-2",
           "serial": "T-60185"
         }
@@ -1011557,6 +1011794,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-10-29",
           "id": "46109-2",
           "serial": "T-95014"
         },
@@ -1011593,6 +1011831,7 @@
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
+          "releaseDate": "1994-11-24",
           "id": "46110-2",
           "serial": "T-95025"
         }
@@ -1011683,6 +1011922,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-12-22",
           "id": "46115-1",
           "serial": "T-45074"
         },
@@ -1011719,6 +1011959,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1992-06-26",
           "id": "46116-1",
           "serial": "T-45014"
         },
@@ -1011777,6 +1012018,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1992-06-19",
           "id": "46119-1",
           "serial": "T-49024"
         }
@@ -1011940,6 +1012182,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-06-25",
           "id": "46128-1",
           "serial": "G-6020"
         }
@@ -1011988,6 +1012231,7 @@
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
+          "releaseDate": "1994-10-26",
           "id": "46131-1",
           "serial": "T-93265"
         }
@@ -1012014,6 +1012258,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-02-25",
           "id": "46132-2",
           "serial": "T-60164"
         },
@@ -1012024,6 +1012269,7 @@
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
+          "releaseDate": "1993-12-22",
           "id": "46132-3",
           "serial": "T-113015"
         }
@@ -1012066,6 +1012312,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-11-26",
           "id": "46134-1",
           "serial": "T-68024"
         }
@@ -1012191,6 +1012438,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-12-20",
           "id": "46140-2",
           "serial": "T-81034"
         },
@@ -1012281,6 +1012529,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-05-28",
           "id": "46145-1",
           "serial": "GD0010JT"
         }
@@ -1012459,6 +1012708,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-03-12",
           "id": "46147-1",
           "serial": "T-11024P"
         }
@@ -1012622,6 +1012872,7 @@
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
+          "releaseDate": "1995-02-23",
           "id": "46156-1",
           "serial": "T-127035"
         }
@@ -1012638,6 +1012889,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-04-01",
           "id": "46157-1",
           "serial": "G-6029"
         }
@@ -1012712,6 +1012964,7 @@
           "language": "[En]",
           "region": "PAL",
           "tgdbId": 0,
+          "releaseDate": "1993-04-02",
           "id": "46161-1",
           "serial": "MK-4652-50"
         },
@@ -1012722,6 +1012975,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1992-08-07",
           "id": "46161-2",
           "serial": "T-60014"
         },
@@ -1012830,6 +1013084,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-01-03",
           "id": "46164-1",
           "serial": "T-84024"
         }
@@ -1012846,6 +1013101,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-12-10",
           "id": "46165-1",
           "serial": "T-84034"
         }
@@ -1012887,6 +1013143,7 @@
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
+          "releaseDate": "1994-01-06",
           "id": "46167-2",
           "serial": "T-113035"
         }
@@ -1012999,6 +1013256,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-05-20",
           "id": "46174-1",
           "serial": "G-6024"
         }
@@ -1013115,6 +1013373,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1992-12-18",
           "id": "46180-1",
           "serial": "T-32124"
         }
@@ -1013225,6 +1013484,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-04-23",
           "id": "46185-1",
           "serial": "T-76014"
         }
@@ -1013241,6 +1013501,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-09-23",
           "id": "46186-1",
           "serial": "T-60044"
         },
@@ -1013282,6 +1013543,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1992-02-18",
           "id": "46188-1",
           "serial": "T-32034"
         }
@@ -1013298,6 +1013560,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-12-28",
           "id": "46189-1",
           "serial": "T-24034"
         }
@@ -1013408,6 +1013671,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1996-02-23",
           "id": "46194-1",
           "serial": "T-66024"
         }
@@ -1013496,6 +1013760,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-02-25",
           "id": "46197-1",
           "serial": "T-44044"
         }
@@ -1013522,6 +1013787,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-07-22",
           "id": "46198-2",
           "serial": "G-6036"
         },
@@ -1013558,6 +1013824,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-07-30",
           "id": "46199-2",
           "serial": "T-45054"
         },
@@ -1013584,6 +1013851,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-03-12",
           "id": "46200-1",
           "serial": "G-6008"
         }
@@ -1013798,6 +1014066,7 @@
           "language": "[En]",
           "region": "PAL",
           "tgdbId": 0,
+          "releaseDate": "1994-12-15",
           "id": "46204-1",
           "serial": "T-95035-05"
         },
@@ -1013850,6 +1014119,7 @@
           "language": "[En]",
           "region": "PAL",
           "tgdbId": 0,
+          "releaseDate": "1993-04-02",
           "id": "46206-1",
           "serial": "4130"
         },
@@ -1013860,6 +1014130,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1991-12-12",
           "id": "46206-2",
           "serial": "T-32024"
         },
@@ -1013870,6 +1014141,7 @@
           "language": "[En]",
           "region": "NTSC-U",
           "tgdbId": 0,
+          "releaseDate": "1992-10-15",
           "id": "46206-3",
           "serial": "4130"
         },
@@ -1013896,6 +1014168,7 @@
           "language": "[En]",
           "region": "PAL",
           "tgdbId": 0,
+          "releaseDate": "1993-11-23",
           "id": "46207-1",
           "serial": "4407"
         },
@@ -1013962,6 +1014235,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-12-22",
           "id": "46210-2",
           "serial": "T-60184"
         },
@@ -1014040,6 +1014314,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-09-22",
           "id": "46213-2",
           "serial": "T-60174"
         },
@@ -1014076,6 +1014351,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-10-28",
           "id": "46214-2",
           "serial": "T-14014"
         },
@@ -1014229,6 +1014505,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1995-12-22",
           "id": "46218-2",
           "serial": "G-6044"
         },
@@ -1014255,6 +1014532,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-04-23",
           "id": "46219-1",
           "serial": "G-6009"
         }
@@ -1014287,6 +1014565,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1992-12-25",
           "id": "46221-1",
           "serial": "T-32084"
         }
@@ -1014303,6 +1014582,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1991-12-28",
           "id": "46222-1",
           "serial": "T-45024"
         }
@@ -1014377,6 +1014657,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1992-08-28",
           "id": "46226-1",
           "serial": "T-32064"
         }
@@ -1014403,6 +1014684,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-09-17",
           "id": "46227-2",
           "serial": "T-60134"
         }
@@ -1014429,6 +1014711,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1992-11-13",
           "id": "46228-2",
           "serial": "T-32114"
         },
@@ -1014495,6 +1014778,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-12-22",
           "id": "46229-5",
           "serial": "G-6039"
         },
@@ -1014563,6 +1014847,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-04-15",
           "id": "46232-1",
           "serial": "T-45064"
         }
@@ -1014595,6 +1014880,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-10-22",
           "id": "46234-1",
           "serial": "T-44014"
         }
@@ -1014653,6 +1014939,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1991-12-20",
           "id": "46237-1",
           "serial": "G-6001"
         }
@@ -1014669,6 +1014956,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-09-17",
           "id": "46238-1",
           "serial": "G-6006"
         }
@@ -1014749,6 +1015037,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1994-03-25",
           "id": "46243-1",
           "serial": "G-6011"
         },
@@ -1014775,6 +1015064,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-09-17",
           "id": "46244-1",
           "serial": "T-76044"
         }
@@ -1014807,6 +1015097,7 @@
           "language": "[En]",
           "region": "PAL",
           "tgdbId": 0,
+          "releaseDate": "1993-04-02",
           "id": "46246-1",
           "serial": "4404"
         },
@@ -1014817,6 +1015108,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-03-19",
           "id": "46246-2",
           "serial": "T-60104"
         },
@@ -1014853,6 +1015145,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1992-09-25",
           "id": "46247-2",
           "serial": "T-60074"
         },
@@ -1014931,6 +1015224,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-12-10",
           "id": "46250-1",
           "serial": "G-6027"
         }
@@ -1014947,6 +1015241,7 @@
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
+          "releaseDate": "1993-01-29",
           "id": "46251-1",
           "serial": "T-45034"
         }
