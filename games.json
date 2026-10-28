@@ -226641,6 +226641,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1992-07-24",
+          "confidence": "unsure",
           "id": "8043-2"
         }
       ],
@@ -226672,6 +226673,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-08-11",
+          "confidence": "unsure",
           "id": "8044-2"
         }
       ],
@@ -226745,6 +226747,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1993-04-03",
+          "confidence": "unsure",
           "id": "8047-2"
         }
       ],
@@ -227476,6 +227479,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1993-03-26",
+          "confidence": "unsure",
           "id": "8081-2"
         },
         {
@@ -230369,6 +230373,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-03-04",
+          "confidence": "unsure",
           "id": "8215-2"
         },
         {
@@ -231307,6 +231312,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1993-12-24",
+          "confidence": "unsure",
           "id": "8258-2"
         },
         {
@@ -231473,6 +231479,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1993-01-01",
+          "confidence": "unsure",
           "id": "8265-2"
         }
       ],
@@ -232029,6 +232036,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1992-08-07",
+          "confidence": "unsure",
           "id": "8291-2"
         },
         {
@@ -233649,6 +233657,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-03-25",
+          "confidence": "unsure",
           "id": "8365-2"
         },
         {
@@ -234171,6 +234180,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-11-26",
+          "confidence": "unsure",
           "id": "8389-2"
         },
         {
@@ -234861,6 +234871,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1990-11-21",
+          "confidence": "unsure",
           "id": "8421-2"
         },
         {
@@ -235027,6 +235038,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1992-07-03",
+          "confidence": "unsure",
           "id": "8428-2"
         }
       ],
@@ -236293,6 +236305,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1993-10-29",
+          "confidence": "unsure",
           "id": "8486-2"
         },
         {
@@ -236521,6 +236534,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1992-11-20",
+          "confidence": "unsure",
           "id": "8496-2"
         }
       ],
@@ -237657,6 +237671,7 @@
           "tgdbId": 0,
           "upc": "083717150237",
           "releaseDate": "1995-09-01",
+          "confidence": "unsure",
           "id": "8546-2"
         },
         {
@@ -414657,6 +414672,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1993-11-26",
+          "confidence": "unsure",
           "id": "16015-2"
         }
       ],
@@ -414727,6 +414743,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1993-10-29",
+          "confidence": "unsure",
           "id": "16018-2"
         },
         {
@@ -414765,6 +414782,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1990-12-16",
+          "confidence": "unsure",
           "id": "16019-2"
         },
         {
@@ -414917,6 +414935,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1993-07-09",
+          "confidence": "unsure",
           "id": "16026-2"
         },
         {
@@ -414990,6 +415009,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-03-31",
+          "confidence": "unsure",
           "id": "16029-2"
         }
       ],
@@ -415060,6 +415080,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-12-22",
+          "confidence": "unsure",
           "id": "16032-2"
         },
         {
@@ -415098,6 +415119,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1997-03-07",
+          "confidence": "unsure",
           "id": "16033-2"
         },
         {
@@ -415211,6 +415233,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1993-11-26",
+          "confidence": "unsure",
           "id": "16038-2"
         },
         {
@@ -415319,6 +415342,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-07-28",
+          "confidence": "unsure",
           "id": "16043-2"
         }
       ],
@@ -415450,6 +415474,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-09-07",
+          "confidence": "unsure",
           "id": "16050-2"
         },
         {
@@ -415689,6 +415714,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-01-07",
+          "confidence": "unsure",
           "id": "16061-2"
         },
         {
@@ -415977,6 +416003,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1996-08-09",
+          "confidence": "unsure",
           "id": "16076-2"
         },
         {
@@ -416084,6 +416111,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-01-28",
+          "confidence": "unsure",
           "id": "16080-2"
         }
       ],
@@ -416289,6 +416317,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-07-28",
+          "confidence": "unsure",
           "id": "16090-2"
         },
         {
@@ -416327,6 +416356,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1997-03-14",
+          "confidence": "unsure",
           "id": "16091-2"
         },
         {
@@ -416541,6 +416571,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-03-11",
+          "confidence": "unsure",
           "id": "16101-2"
         }
       ],
@@ -416700,6 +416731,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1993-12-10",
+          "confidence": "unsure",
           "id": "16109-2"
         },
         {
@@ -417335,6 +417367,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1996-03-01",
+          "confidence": "unsure",
           "id": "16141-2"
         },
         {
@@ -417738,6 +417771,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1991-12-20",
+          "confidence": "unsure",
           "id": "16161-2"
         },
         {
@@ -417804,6 +417838,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-06-23",
+          "confidence": "unsure",
           "id": "16164-2"
         },
         {
@@ -417983,6 +418018,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-02-24",
+          "confidence": "unsure",
           "id": "16172-2"
         }
       ],
@@ -418095,6 +418131,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1993-05-22",
+          "confidence": "unsure",
           "id": "16178-2"
         },
         {
@@ -418302,6 +418339,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1993-12-22",
+          "confidence": "unsure",
           "id": "16188-2"
         },
         {
@@ -418340,6 +418378,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-10-27",
+          "confidence": "unsure",
           "id": "16189-2"
         },
         {
@@ -418988,6 +419027,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-05-26",
+          "confidence": "unsure",
           "id": "16224-2"
         },
         {
@@ -419289,6 +419329,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-11-18",
+          "confidence": "unsure",
           "id": "16239-2"
         },
         {
@@ -420341,6 +420382,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-07-28",
+          "confidence": "unsure",
           "id": "16294-2"
         },
         {
@@ -420999,6 +421041,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-10-27",
+          "confidence": "unsure",
           "id": "16328-2"
         },
         {
@@ -421058,6 +421101,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-09-22",
+          "confidence": "unsure",
           "id": "16330-2"
         },
         {
@@ -421110,6 +421154,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-06-24",
+          "confidence": "unsure",
           "id": "16332-2"
         },
         {
@@ -421149,6 +421194,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-10-27",
+          "confidence": "unsure",
           "id": "16333-2"
         },
         {
@@ -421919,6 +421965,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-08-12",
+          "confidence": "unsure",
           "id": "16376-2"
         },
         {
@@ -422634,6 +422681,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1996-12-27",
+          "confidence": "unsure",
           "id": "16413-2"
         },
         {
@@ -422747,6 +422795,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-01-20",
+          "confidence": "unsure",
           "id": "16418-2"
         }
       ],
@@ -422777,6 +422826,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-03-31",
+          "confidence": "unsure",
           "id": "16419-2"
         },
         {
@@ -423114,6 +423164,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-06-23",
+          "confidence": "unsure",
           "id": "16436-2"
         },
         {
@@ -423153,6 +423204,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-10-07",
+          "confidence": "unsure",
           "id": "16437-2"
         },
         {
@@ -423251,6 +423303,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-02-24",
+          "confidence": "unsure",
           "id": "16441-2"
         },
         {
@@ -423310,6 +423363,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-12-16",
+          "confidence": "unsure",
           "id": "16443-2"
         },
         {
@@ -423348,6 +423402,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1996-03-01",
+          "confidence": "unsure",
           "id": "16444-2"
         },
         {
@@ -424102,6 +424157,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-01-03",
+          "confidence": "unsure",
           "id": "16484-2"
         },
         {
@@ -424731,6 +424787,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1996-12-20",
+          "confidence": "unsure",
           "id": "16519-2"
         },
         {
@@ -424770,6 +424827,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-07-14",
+          "confidence": "unsure",
           "id": "16520-2"
         },
         {
@@ -424808,6 +424866,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1993-12-10",
+          "confidence": "unsure",
           "id": "16521-2"
         },
         {
@@ -424927,6 +424986,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1992-07-03",
+          "confidence": "unsure",
           "id": "16526-2"
         },
         {
@@ -425366,6 +425426,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1996-03-01",
+          "confidence": "unsure",
           "id": "16548-2"
         },
         {
@@ -425418,6 +425479,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-12-22",
+          "confidence": "unsure",
           "id": "16550-2"
         },
         {
@@ -426598,6 +426660,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-03-18",
+          "confidence": "unsure",
           "id": "16615-2"
         },
         {
@@ -426656,6 +426719,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1993-02-26",
+          "confidence": "unsure",
           "id": "16617-2"
         }
       ],
@@ -426686,6 +426750,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-05-26",
+          "confidence": "unsure",
           "id": "16618-2"
         },
         {
@@ -427012,6 +427077,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-09-15",
+          "confidence": "unsure",
           "id": "16633-2"
         },
         {
@@ -427164,6 +427230,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-05-26",
+          "confidence": "unsure",
           "id": "16640-2"
         },
         {
@@ -427203,6 +427270,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-04-28",
+          "confidence": "unsure",
           "id": "16641-2"
         }
       ],
@@ -427253,6 +427321,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-12-02",
+          "confidence": "unsure",
           "id": "16643-2"
         },
         {
@@ -427542,6 +427611,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-04-28",
+          "confidence": "unsure",
           "id": "16657-2"
         },
         {
@@ -427776,6 +427846,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-11-21",
+          "confidence": "unsure",
           "id": "16668-2"
         },
         {
@@ -428776,6 +428847,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1996-03-09",
+          "confidence": "unsure",
           "id": "16720-2"
         }
       ],
@@ -429034,6 +429106,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-01-08",
+          "confidence": "unsure",
           "id": "16733-2"
         },
         {
@@ -429430,6 +429503,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1992-12-18",
+          "confidence": "unsure",
           "id": "16752-2"
         },
         {
@@ -429609,6 +429683,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-03-25",
+          "confidence": "unsure",
           "id": "16760-2"
         },
         {
@@ -429862,6 +429937,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-05-19",
+          "confidence": "unsure",
           "id": "16772-2"
         },
         {
@@ -430205,6 +430281,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-12-22",
+          "confidence": "unsure",
           "id": "16789-2"
         }
       ],
@@ -430431,6 +430508,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1993-03-26",
+          "confidence": "unsure",
           "id": "16801-2"
         },
         {
@@ -430469,6 +430547,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-02-17",
+          "confidence": "unsure",
           "id": "16802-2"
         },
         {
@@ -430575,6 +430654,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-12-09",
+          "confidence": "unsure",
           "id": "16806-2"
         },
         {
@@ -430777,6 +430857,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-02-17",
+          "confidence": "unsure",
           "id": "16815-2"
         },
         {
@@ -431033,6 +431114,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1996-04-26",
+          "confidence": "unsure",
           "id": "16828-2"
         },
         {
@@ -431112,6 +431194,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-04-28",
+          "confidence": "unsure",
           "id": "16831-2"
         },
         {
@@ -431554,6 +431637,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-09-30",
+          "confidence": "unsure",
           "id": "16853-2"
         },
         {
@@ -431592,6 +431676,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-12-09",
+          "confidence": "unsure",
           "id": "16854-2"
         },
         {
@@ -431630,6 +431715,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1996-03-01",
+          "confidence": "unsure",
           "id": "16855-2"
         },
         {
@@ -431746,6 +431832,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-05-26",
+          "confidence": "unsure",
           "id": "16861-2"
         },
         {
@@ -431804,6 +431891,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-08-12",
+          "confidence": "unsure",
           "id": "16863-2"
         },
         {
@@ -431911,6 +431999,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-01-27",
+          "confidence": "unsure",
           "id": "16868-2"
         },
         {
@@ -432717,6 +432806,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1993-10-12",
+          "confidence": "unsure",
           "id": "16909-1"
         },
         {
@@ -433006,6 +433096,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-06-07",
+          "confidence": "unsure",
           "id": "16924-1"
         },
         {
@@ -433117,6 +433208,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-07-08",
+          "confidence": "unsure",
           "id": "16930-1"
         },
         {
@@ -433168,6 +433260,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-04-01",
+          "confidence": "unsure",
           "id": "16932-1"
         }
       ],
@@ -433251,6 +433344,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-12-01",
+          "confidence": "unsure",
           "id": "16936-1"
         },
         {
@@ -433303,6 +433397,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-12-05",
+          "confidence": "unsure",
           "id": "16939-1"
         },
         {
@@ -433490,6 +433585,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-10-15",
+          "confidence": "unsure",
           "id": "16949-1"
         },
         {
@@ -433597,6 +433693,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1992-11-21",
+          "confidence": "unsure",
           "id": "16954-1"
         }
       ],
@@ -434134,6 +434231,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1992-12-18",
+          "confidence": "unsure",
           "id": "16984-1"
         },
         {
@@ -434281,6 +434379,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1996-11-23",
+          "confidence": "unsure",
           "id": "16991-1"
         },
         {
@@ -434336,6 +434435,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-08-05",
+          "confidence": "unsure",
           "id": "16994-1"
         },
         {
@@ -434514,6 +434614,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-06-05",
+          "confidence": "unsure",
           "id": "17004-1"
         }
       ],
@@ -434530,6 +434631,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-11-15",
+          "confidence": "unsure",
           "id": "17005-1"
         },
         {
@@ -435004,6 +435106,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-12-01",
+          "confidence": "unsure",
           "id": "17032-1"
         },
         {
@@ -435054,6 +435157,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1998-10-06",
+          "confidence": "unsure",
           "id": "17034-1"
         }
       ],
@@ -435115,6 +435219,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-11-18",
+          "confidence": "unsure",
           "id": "17037-1"
         }
       ],
@@ -435468,6 +435573,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-09-26",
+          "confidence": "unsure",
           "id": "17057-1"
         }
       ],
@@ -435950,6 +436056,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-10-21",
+          "confidence": "unsure",
           "id": "17085-1"
         },
         {
@@ -435977,6 +436084,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-08-30",
+          "confidence": "unsure",
           "id": "17086-1"
         },
         {
@@ -436038,6 +436146,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1996-09-20",
+          "confidence": "unsure",
           "id": "17089-1"
         }
       ],
@@ -436091,6 +436200,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1997-11-17",
+          "confidence": "unsure",
           "id": "17092-1"
         }
       ],
@@ -436444,6 +436554,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1997-12-02",
+          "confidence": "unsure",
           "id": "17112-1"
         }
       ],
@@ -437052,6 +437163,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-10-13",
+          "confidence": "unsure",
           "id": "17144-1"
         },
         {
@@ -437076,6 +437188,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-09-09",
+          "confidence": "unsure",
           "id": "17145-1"
         },
         {
@@ -437115,6 +437228,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1996-11-11",
+          "confidence": "unsure",
           "id": "17147-1"
         },
         {
@@ -437175,6 +437289,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1996-11-05",
+          "confidence": "unsure",
           "id": "17150-1"
         },
         {
@@ -437388,6 +437503,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1996-10-15",
+          "confidence": "unsure",
           "id": "17161-1"
         },
         {
@@ -437493,6 +437609,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-12-16",
+          "confidence": "unsure",
           "id": "17167-1"
         },
         {
@@ -437615,6 +437732,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1992-02-28",
+          "confidence": "unsure",
           "id": "17174-1"
         }
       ],
@@ -438303,6 +438421,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-08-25",
+          "confidence": "unsure",
           "id": "17210-1"
         },
         {
@@ -438767,6 +438886,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1993-08-27",
+          "confidence": "unsure",
           "id": "17236-1"
         }
       ],
@@ -438959,6 +439079,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-10-01",
+          "confidence": "unsure",
           "id": "17247-1"
         },
         {
@@ -439031,6 +439152,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1994-10-28",
+          "confidence": "unsure",
           "id": "17250-1"
         },
         {
@@ -439470,6 +439592,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1996-10-28",
+          "confidence": "unsure",
           "id": "17275-1"
         },
         {
@@ -439495,6 +439618,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1992-06-10",
+          "confidence": "unsure",
           "id": "17276-1"
         },
         {
@@ -439948,6 +440072,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1993-12-22",
+          "confidence": "unsure",
           "id": "17302-1"
         }
       ],
@@ -440026,6 +440151,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-08-05",
+          "confidence": "unsure",
           "id": "17306-1"
         },
         {
@@ -440110,6 +440236,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1998-03-01",
+          "confidence": "unsure",
           "id": "17311-1"
         },
         {
@@ -440263,6 +440390,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-06-23",
+          "confidence": "unsure",
           "id": "17319-1"
         },
         {
@@ -440291,6 +440419,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1993-12-17",
+          "confidence": "unsure",
           "id": "17320-1"
         },
         {
@@ -440519,6 +440648,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1992-08-15",
+          "confidence": "unsure",
           "id": "17332-1"
         },
         {
@@ -440871,6 +441001,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1993-10-01",
+          "confidence": "unsure",
           "id": "17349-1"
         },
         {
@@ -441031,6 +441162,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1992-04-13",
+          "confidence": "unsure",
           "id": "17357-1"
         },
         {
@@ -441459,6 +441591,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1997-11-30",
+          "confidence": "unsure",
           "id": "17380-1"
         },
         {
@@ -441499,6 +441632,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1992-12-18",
+          "confidence": "unsure",
           "id": "17382-1"
         },
         {
@@ -441958,6 +442092,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1996-10-11",
+          "confidence": "unsure",
           "id": "17406-1"
         },
         {
@@ -442602,6 +442737,7 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "releaseDate": "1995-03-30",
+          "confidence": "unsure",
           "id": "17441-1"
         },
         {
