@@ -84561,6 +84561,18 @@
           "upc": "4988602103045",
           "releaseDate": "2003-09-23",
           "id": "3106-3"
+        },
+        {
+          "name": "Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun",
+          "platform": "saturn",
+          "language": "[Ja]",
+          "serial": "T-9522G",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "3106-4",
+          "regionalName": "ときめきメモリアル ドラマシリーズvol.1 虹色の青春",
+          "releaseDate": "1997-07-10",
+          "upc": "4988602048490"
         }
       ],
       "id": 3106
@@ -84669,6 +84681,18 @@
           "regionalName": "ときめきメモリアルドラマシリーズVol.3 旅立ちの詩 KONAMI THE BEST",
           "releaseDate": "1999-11-25",
           "id": "3110-3"
+        },
+        {
+          "name": "Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta",
+          "platform": "saturn",
+          "language": "[Ja]",
+          "serial": "T-9532G",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "3110-4",
+          "regionalName": "ときめきメモリアル ドラマシリーズ Vol.3 旅立ちの詩 スペシャルBOX",
+          "releaseDate": "1999-04-01",
+          "upc": "4988602522686"
         }
       ],
       "id": 3110,
@@ -538859,48 +538883,6 @@
         }
       ],
       "id": 21323
-    },
-    {
-      "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 1 - NIJIIRO NO SEISHUN",
-      "gameInstances": [
-        {
-          "name": "Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun",
-          "platform": "saturn",
-          "language": "[Ja]",
-          "serial": "T-9522G",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "21324-1",
-          "regionalName": "ときめきメモリアル ドラマシリーズvol.1 虹色の青春",
-          "releaseDate": "1997-07-10",
-          "upc": "4988602048490"
-        }
-      ],
-      "id": 21324,
-      "localizedNames": {
-        "ja": "ときめきメモリアル ドラマシリーズvol.1 虹色の青春"
-      }
-    },
-    {
-      "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 3 - TABIDACHI NO UTA",
-      "gameInstances": [
-        {
-          "name": "Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta",
-          "platform": "saturn",
-          "language": "[Ja]",
-          "serial": "T-9532G",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "21326-1",
-          "regionalName": "ときめきメモリアル ドラマシリーズ Vol.3 旅立ちの詩 スペシャルBOX",
-          "releaseDate": "1999-04-01",
-          "upc": "4988602522686"
-        }
-      ],
-      "id": 21326,
-      "localizedNames": {
-        "ja": "ときめきメモリアル ドラマシリーズ Vol.3 旅立ちの詩 スペシャルBOX"
-      }
     },
     {
       "name": "TOKIMEKI MEMORIAL TAISEN PUZZLEDAMA",
