@@ -84240,33 +84240,6 @@
           "tgdbId": 0,
           "releaseDate": "1994-05-27",
           "id": "3091-10"
-        },
-        {
-          "name": "Tokimeki Memorial (Japan) (Rev 2) (FABT)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "3091-11"
-        },
-        {
-          "name": "Tokimeki Memorial (Japan) (Rev 3)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "3091-12"
-        },
-        {
-          "name": "Tokimeki Memorial (Japan) (Rev 1)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "3091-13"
         }
       ],
       "id": 3091,
@@ -918615,22 +918588,13 @@
       "name": "HATSUKOI MONOGATARI",
       "gameInstances": [
         {
-          "name": "Hatsukoi Monogatari (Japan) (Rev 1)",
+          "name": "Hatsukoi Monogatari (Japan)",
           "platform": "pcengine",
           "media": "cd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "40181-1"
-        },
-        {
-          "name": "Hatsukoi Monogatari (Japan) (Rev 2)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40181-2"
         }
       ],
       "id": 40181
@@ -918731,15 +918695,6 @@
       "name": "COSMIC FANTASY - BOUKEN SHOUNEN YUU",
       "gameInstances": [
         {
-          "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 2)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40188-1"
-        },
-        {
           "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan)",
           "platform": "pcengine",
           "media": "cd",
@@ -918747,15 +918702,6 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "40188-2"
-        },
-        {
-          "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 1)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40188-3"
         }
       ],
       "id": 40188
@@ -919021,40 +918967,13 @@
       "name": "DOUKYUUSEI",
       "gameInstances": [
         {
-          "name": "Doukyuusei (Japan) (Rev 3) (Alt 1)",
+          "name": "Doukyuusei (Japan)",
           "platform": "pcengine",
           "media": "cd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "40204-1"
-        },
-        {
-          "name": "Doukyuusei (Japan) (Rev 3)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40204-2"
-        },
-        {
-          "name": "Doukyuusei (Japan) (Rev 3) (Alt 2)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40204-3"
-        },
-        {
-          "name": "Doukyuusei (Japan) (Rev 4)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40204-4"
         }
       ],
       "id": 40204
@@ -919100,15 +919019,6 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "40207-1"
-        },
-        {
-          "name": "Sotsugyou - Graduation (Japan) (Rev 1)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40207-2"
         }
       ],
       "id": 40207
@@ -919143,15 +919053,6 @@
           "releaseDate": "1993-03-31",
           "confidence": "sourced",
           "id": "40209-1"
-        },
-        {
-          "name": "CAL II (Japan) (Alt)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40209-2"
         }
       ],
       "id": 40209
@@ -919176,15 +919077,6 @@
     {
       "name": "MONSTER MAKER - YAMI NO RYUUKISHI",
       "gameInstances": [
-        {
-          "name": "Monster Maker - Yami no Ryuukishi (Japan) (Alt)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40211-1"
-        },
         {
           "name": "Monster Maker - Yami no Ryuukishi (Japan)",
           "platform": "pcengine",
@@ -919630,15 +919522,6 @@
       "name": "MAHJONG VANILLA SYNDROME",
       "gameInstances": [
         {
-          "name": "Mahjong Vanilla Syndrome (Japan) (Alt)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40237-1"
-        },
-        {
           "name": "Mahjong Vanilla Syndrome (Japan)",
           "platform": "pcengine",
           "media": "cd",
@@ -919730,15 +919613,6 @@
           "releaseDate": "1990-03-16",
           "confidence": "sourced",
           "id": "40241-1"
-        },
-        {
-          "name": "Golden Axe (Japan) (Alt)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40241-2"
         }
       ],
       "id": 40241
@@ -919938,15 +919812,6 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "40252-1"
-        },
-        {
-          "name": "Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan) (Alt)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40252-2"
         }
       ],
       "id": 40252
@@ -919955,22 +919820,13 @@
       "name": "PACHIO-KUN - MABOROSHI NO DENSETSU",
       "gameInstances": [
         {
-          "name": "Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 7)",
+          "name": "Pachio-kun - Maboroshi no Densetsu (Japan)",
           "platform": "pcengine",
           "media": "cd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "40253-1"
-        },
-        {
-          "name": "Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 8)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40253-2"
         }
       ],
       "id": 40253
@@ -919994,7 +919850,7 @@
       "name": "FAR EAST OF EDEN - TENGAI MAKYOU - ZIRIA",
       "gameInstances": [
         {
-          "name": "Far East of Eden - Tengai Makyou - Ziria (Japan) (Rev 6)",
+          "name": "Far East of Eden - Tengai Makyou - Ziria (Japan)",
           "platform": "pcengine",
           "media": "cd",
           "language": "[Ja]",
@@ -920010,15 +919866,6 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "40255-2"
-        },
-        {
-          "name": "Far East of Eden - Tengai Makyou - Ziria (Japan) (Rev 7)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40255-3"
         }
       ],
       "id": 40255
@@ -920115,22 +919962,13 @@
       "name": "YS IV - THE DAWN OF YS",
       "gameInstances": [
         {
-          "name": "Ys IV - The Dawn of Ys (Japan) (Rev 3)",
+          "name": "Ys IV - The Dawn of Ys (Japan)",
           "platform": "pcengine",
           "media": "cd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "40261-1"
-        },
-        {
-          "name": "Ys IV - The Dawn of Ys (Japan) (Rev 4)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40261-2"
         }
       ],
       "id": 40261
@@ -920204,15 +920042,6 @@
           "releaseDate": "1989-12-21",
           "confidence": "sourced",
           "id": "40265-1"
-        },
-        {
-          "name": "Ys I & II (Japan) (Alt)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40265-2"
         }
       ],
       "id": 40265
@@ -920283,22 +920112,13 @@
       "name": "QUIZ MARUGOTO THE WORLD",
       "gameInstances": [
         {
-          "name": "Quiz Marugoto the World (Japan) (Rev 7)",
+          "name": "Quiz Marugoto the World (Japan)",
           "platform": "pcengine",
           "media": "cd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "40270-1"
-        },
-        {
-          "name": "Quiz Marugoto the World (Japan) (Rev 8)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40270-2"
         }
       ],
       "id": 40270
@@ -920401,24 +920221,6 @@
           "id": "40276-1"
         },
         {
-          "name": "Valis II (Japan) (Alt 2)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40276-2"
-        },
-        {
-          "name": "Valis II (Japan) (Alt 1)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40276-3"
-        },
-        {
           "name": "Valis II (USA)",
           "platform": "pcengine",
           "media": "cd",
@@ -920466,22 +920268,13 @@
       "name": "FIGHTING STREET",
       "gameInstances": [
         {
-          "name": "Fighting Street (Japan) (Rev 5)",
+          "name": "Fighting Street (Japan)",
           "platform": "pcengine",
           "media": "cd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "40279-1"
-        },
-        {
-          "name": "Fighting Street (Japan) (Rev 4)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40279-2"
         },
         {
           "name": "Fighting Street (USA)",
@@ -920972,15 +920765,6 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "40304-1"
-        },
-        {
-          "name": "Ys Book I & II (USA) (Alt)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[En]",
-          "region": "NTSC-U",
-          "tgdbId": 0,
-          "id": "40304-2"
         }
       ],
       "id": 40304
@@ -921049,15 +920833,6 @@
       "name": "EMERALD DRAGON",
       "gameInstances": [
         {
-          "name": "Emerald Dragon (Japan) (Rev 1)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40308-1"
-        },
-        {
           "name": "Emerald Dragon (Japan)",
           "platform": "pcengine",
           "media": "cd",
@@ -921097,22 +920872,13 @@
       "name": "LAST ARMAGEDDON",
       "gameInstances": [
         {
-          "name": "Last Armageddon (Japan) (Rev 6)",
+          "name": "Last Armageddon (Japan)",
           "platform": "pcengine",
           "media": "cd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "40310-1"
-        },
-        {
-          "name": "Last Armageddon (Japan) (Rev 5)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40310-2"
         }
       ],
       "id": 40310
@@ -921273,15 +921039,6 @@
           "releaseDate": "1990-03-16",
           "confidence": "sourced",
           "id": "40319-1"
-        },
-        {
-          "name": "Super Darius (Japan) (Alt)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40319-2"
         }
       ],
       "id": 40319
@@ -921928,22 +921685,13 @@
           "id": "40356-3"
         },
         {
-          "name": "Juuouki (Japan) (Rev 4)",
+          "name": "Juuouki (Japan)",
           "platform": "pcengine",
           "media": "cd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "40356-4"
-        },
-        {
-          "name": "Juuouki (Japan) (Rev 5)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40356-5"
         }
       ],
       "id": 40356
@@ -922219,15 +921967,6 @@
           "id": "40373-1"
         },
         {
-          "name": "Valis III (Japan) (Alt)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40373-2"
-        },
-        {
           "name": "Valis III (USA)",
           "platform": "pcengine",
           "media": "cd",
@@ -922382,22 +922121,13 @@
       "name": "LINDA^3",
       "gameInstances": [
         {
-          "name": "Linda^3 (Japan) (Rev 2)",
+          "name": "Linda^3 (Japan)",
           "platform": "pcengine",
           "media": "cd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "40383-1"
-        },
-        {
-          "name": "Linda^3 (Japan) (Rev 1)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40383-2"
         }
       ],
       "id": 40383
@@ -922857,22 +922587,13 @@
       "name": "SEIRYUU DENSETSU - MONBIT",
       "gameInstances": [
         {
-          "name": "Seiryuu Densetsu - Monbit (Japan) (Rev 1)",
+          "name": "Seiryuu Densetsu - Monbit (Japan)",
           "platform": "pcengine",
           "media": "cd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "40411-1"
-        },
-        {
-          "name": "Seiryuu Densetsu - Monbit (Japan) (Rev 4)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40411-2"
         }
       ],
       "id": 40411
@@ -923070,22 +922791,13 @@
       "name": "SHIN MEGAMI TENSEI",
       "gameInstances": [
         {
-          "name": "Shin Megami Tensei (Japan) (Rev 1)",
+          "name": "Shin Megami Tensei (Japan)",
           "platform": "pcengine",
           "media": "cd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "40422-1"
-        },
-        {
-          "name": "Shin Megami Tensei (Japan) (Rev 2)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40422-2"
         }
       ],
       "id": 40422
@@ -923719,15 +923431,6 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "40461-1"
-        },
-        {
-          "name": "3x3 Eyes - Sanjiyan Henjou (Japan) (Rev 1)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40461-2"
         }
       ],
       "id": 40461
@@ -923758,24 +923461,6 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "40463-1"
-        },
-        {
-          "name": "AV Tanjou (Japan) (Unl) (Alt 1)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40463-2"
-        },
-        {
-          "name": "AV Tanjou (Japan) (Unl) (Alt 2)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40463-3"
         }
       ],
       "id": 40463
@@ -923940,22 +923625,13 @@
       "name": "WONDER BOY III - MONSTER LAIR",
       "gameInstances": [
         {
-          "name": "Wonder Boy III - Monster Lair (Japan) (Rev 3)",
+          "name": "Wonder Boy III - Monster Lair (Japan)",
           "platform": "pcengine",
           "media": "cd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "40474-1"
-        },
-        {
-          "name": "Wonder Boy III - Monster Lair (Japan) (Rev 4)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40474-2"
         }
       ],
       "id": 40474
@@ -923971,15 +923647,6 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "40475-1"
-        },
-        {
-          "name": "Farjius no Jakoutei - Neo Metal Fantasy (Japan) (Rev 1)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40475-2"
         }
       ],
       "id": 40475
@@ -924101,22 +923768,13 @@
       "name": "LEGION",
       "gameInstances": [
         {
-          "name": "Legion (Japan) (Rev 4)",
+          "name": "Legion (Japan)",
           "platform": "pcengine",
           "media": "cd",
           "language": "[Ja]",
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "40483-1"
-        },
-        {
-          "name": "Legion (Japan) (Rev 4) (Alt)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40483-2"
         }
       ],
       "id": 40483
@@ -924550,15 +924208,6 @@
     {
       "name": "ROM^2 KARAOKE VOLUME 1",
       "gameInstances": [
-        {
-          "name": "ROM^2 Karaoke Volume 1 (Japan) (Alt)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40511-1"
-        },
         {
           "name": "ROM^2 Karaoke Volume 1 (Japan)",
           "platform": "pcengine",
@@ -925805,15 +925454,6 @@
           "region": "NTSC-J",
           "tgdbId": 0,
           "id": "40586-1"
-        },
-        {
-          "name": "Hyper Dyne - SideArms Special (Japan) (Alt)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "40586-2"
         }
       ],
       "id": 40586
@@ -925885,15 +925525,6 @@
           "region": "NTSC-U",
           "tgdbId": 0,
           "id": "40590-2"
-        },
-        {
-          "name": "Meteor Blaster DX (USA) (Unl) (Alt)",
-          "platform": "pcengine",
-          "media": "cd",
-          "language": "[En]",
-          "region": "NTSC-U",
-          "tgdbId": 0,
-          "id": "40590-3"
         }
       ],
       "id": 40590
@@ -932875,7 +932506,7 @@
       "name": "DOUBLE DRAGON",
       "gameInstances": [
         {
-          "name": "Double Dragon (Japan) (En,Ja) (Rev 1)",
+          "name": "Double Dragon (Japan) (En,Ja)",
           "platform": "neogeocd",
           "language": "[En,Ja]",
           "region": "NTSC-J",
@@ -933055,7 +932686,7 @@
       "name": "KING OF FIGHTERS '95, THE",
       "gameInstances": [
         {
-          "name": "King of Fighters '95, The (Japan) (En,Ja) (Rev 1)",
+          "name": "King of Fighters '95, The (Japan) (En,Ja)",
           "platform": "neogeocd",
           "language": "[En,Ja]",
           "region": "NTSC-J",
@@ -934928,15 +934559,6 @@
           "region": "Japan",
           "tgdbId": 0,
           "id": "41148-1",
-          "serial": "KN11-00103"
-        },
-        {
-          "name": "Sangokushi V (Japan) (Alt)",
-          "platform": "pc98",
-          "language": "[Ja]",
-          "region": "Japan",
-          "tgdbId": 0,
-          "id": "41148-2",
           "serial": "KN11-00103"
         }
       ],
@@ -1026025,15 +1025647,6 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "45826-1"
-        },
-        {
-          "name": "Diggers & Oscar (Europe) (Rev 1)",
-          "platform": "amigacd32",
-          "media": "cd",
-          "language": "[En]",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "45826-2"
         }
       ],
       "id": 45826
@@ -1026687,40 +1026300,13 @@
       "gameInstances": [
         {
           "name": "Liberation - Captive II (Europe)",
+          "serial": "/DP130004",
           "platform": "amigacd32",
           "media": "cd",
           "language": "[En]",
           "region": "PAL",
           "tgdbId": 0,
           "id": "45869-1"
-        },
-        {
-          "name": "Liberation - Captive II (Europe) (Rev 1)",
-          "platform": "amigacd32",
-          "media": "cd",
-          "language": "[En]",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "45869-2"
-        },
-        {
-          "name": "Liberation - Captive II (Europe) (Rev 2)",
-          "platform": "amigacd32",
-          "media": "cd",
-          "language": "[En]",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "45869-3",
-          "serial": "/DP130004"
-        },
-        {
-          "name": "Liberation - Captive II (Europe) (Rev 3)",
-          "platform": "amigacd32",
-          "media": "cd",
-          "language": "[En]",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "45869-4"
         }
       ],
       "id": 45869
@@ -1026766,15 +1026352,6 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "45872-1"
-        },
-        {
-          "name": "Manchester United - Premier League Champions (Europe) (En,Fr,De,It) (Rev 1)",
-          "platform": "amigacd32",
-          "media": "cd",
-          "language": "[En,Fr,De,It]",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "45872-2"
         }
       ],
       "id": 45872
@@ -1027743,15 +1027320,6 @@
           "region": "PAL",
           "tgdbId": 0,
           "id": "45935-1"
-        },
-        {
-          "name": "Whale's Voyage (Europe) (Rev 1)",
-          "platform": "amigacd32",
-          "media": "cd",
-          "language": "[En]",
-          "region": "PAL",
-          "tgdbId": 0,
-          "id": "45935-2"
         },
         {
           "name": "Whale's Voyage (Germany)",
@@ -1028894,16 +1028462,6 @@
           "tgdbId": 0,
           "id": "46009-2",
           "serial": "4412"
-        },
-        {
-          "name": "Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1)",
-          "platform": "segacd",
-          "media": "cd",
-          "language": "[En]",
-          "region": "NTSC-U",
-          "tgdbId": 0,
-          "id": "46009-3",
-          "serial": "4412"
         }
       ],
       "id": 46009
@@ -1029082,7 +1028640,7 @@
       "name": "BATTLE FANTASY",
       "gameInstances": [
         {
-          "name": "Battle Fantasy (Japan) (Rev A)",
+          "name": "Battle Fantasy (Japan)",
           "platform": "segacd",
           "media": "cd",
           "language": "[Ja]",
@@ -1029591,7 +1029149,7 @@
           "id": "46043-3"
         },
         {
-          "name": "Compton's Interactive Encyclopedia (USA) (Version 2.10) (Rev 2)",
+          "name": "Compton's Interactive Encyclopedia (USA) (Version 2.10)",
           "platform": "segacd",
           "media": "cd",
           "language": "[En]",
@@ -1030034,7 +1029592,7 @@
           "serial": "T-60144"
         },
         {
-          "name": "Dungeon Master II - Skullkeep (USA) (Rev 3)",
+          "name": "Dungeon Master II - Skullkeep (USA)",
           "platform": "segacd",
           "media": "cd",
           "language": "[En]",
@@ -1030461,16 +1030019,6 @@
           "releaseDate": "1993-04-02",
           "confidence": "sourced",
           "id": "46080-2",
-          "serial": "G-6013"
-        },
-        {
-          "name": "Final Fight CD (Japan) (Rev A)",
-          "platform": "segacd",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "46080-3",
           "serial": "G-6013"
         },
         {
@@ -1031261,16 +1030809,6 @@
           "releaseDate": "1994-12-22",
           "confidence": "sourced",
           "id": "46115-1",
-          "serial": "T-45074"
-        },
-        {
-          "name": "Lunar - Eternal Blue (Japan) (Rev A)",
-          "platform": "segacd",
-          "media": "cd",
-          "language": "[Ja]",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "46115-2",
           "serial": "T-45074"
         },
         {
@@ -1032508,7 +1032046,7 @@
       "name": "QUIZ SCRAMBLE SPECIAL",
       "gameInstances": [
         {
-          "name": "Quiz Scramble Special (Japan) (Rev B)",
+          "name": "Quiz Scramble Special (Japan)",
           "platform": "segacd",
           "media": "cd",
           "language": "[Ja]",
@@ -1032975,16 +1032513,6 @@
           "tgdbId": 0,
           "id": "46191-3",
           "serial": "4101"
-        },
-        {
-          "name": "Sewer Shark (USA) (Rev 1)",
-          "platform": "segacd",
-          "media": "cd",
-          "language": "[En]",
-          "region": "NTSC-U",
-          "tgdbId": 0,
-          "id": "46191-4",
-          "serial": "T-6201"
         }
       ],
       "id": 46191
@@ -1033512,16 +1033040,6 @@
           "releaseDate": "1992-10-15",
           "confidence": "sourced",
           "id": "46206-3",
-          "serial": "4130"
-        },
-        {
-          "name": "Sol-Feace (USA) (Rev 2)",
-          "platform": "segacd",
-          "media": "cd",
-          "language": "[En]",
-          "region": "NTSC-U",
-          "tgdbId": 0,
-          "id": "46206-4",
           "serial": "4130"
         }
       ],
