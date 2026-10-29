@@ -84657,6 +84657,18 @@
           "regionalName": "ときめきメモリアルドラマシリーズVol.3 旅立ちの詩 KONAMI THE BEST",
           "releaseDate": "1999-11-25",
           "id": "3110-3"
+        },
+        {
+          "name": "Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta",
+          "platform": "saturn",
+          "language": "[Ja]",
+          "serial": "T-9532G",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "3110-4",
+          "regionalName": "ときめきメモリアル ドラマシリーズ Vol.3 旅立ちの詩 スペシャルBOX",
+          "releaseDate": "1999-04-01",
+          "upc": "4988602522686"
         }
       ],
       "id": 3110,
@@ -538888,27 +538900,6 @@
       "id": 21325,
       "localizedNames": {
         "ja": "ときめきメモリアル ドラマシリーズ Vol.2 彩のラブソング"
-      }
-    },
-    {
-      "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 3 - TABIDACHI NO UTA",
-      "gameInstances": [
-        {
-          "name": "Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta",
-          "platform": "saturn",
-          "language": "[Ja]",
-          "serial": "T-9532G",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "21326-1",
-          "regionalName": "ときめきメモリアル ドラマシリーズ Vol.3 旅立ちの詩 スペシャルBOX",
-          "releaseDate": "1999-04-01",
-          "upc": "4988602522686"
-        }
-      ],
-      "id": 21326,
-      "localizedNames": {
-        "ja": "ときめきメモリアル ドラマシリーズ Vol.3 旅立ちの詩 スペシャルBOX"
       }
     },
     {
