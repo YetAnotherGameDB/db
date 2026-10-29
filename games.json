@@ -84624,6 +84624,18 @@
           "upc": "4988602103052",
           "releaseDate": "2003-09-18",
           "id": "3108-4"
+        },
+        {
+          "name": "Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song",
+          "platform": "saturn",
+          "language": "[Ja]",
+          "serial": "T-9529G",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "3108-5",
+          "regionalName": "ときめきメモリアル ドラマシリーズ Vol.2 彩のラブソング",
+          "releaseDate": "1998-03-26",
+          "upc": "4988602428704"
         }
       ],
       "id": 3108,
@@ -538871,27 +538883,6 @@
         }
       ],
       "id": 21323
-    },
-    {
-      "name": "TOKIMEKI MEMORIAL DRAMA SERIES VOL. 2 - IRODORI NO LOVE SONG",
-      "gameInstances": [
-        {
-          "name": "Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song",
-          "platform": "saturn",
-          "language": "[Ja]",
-          "serial": "T-9529G",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "21325-1",
-          "regionalName": "ときめきメモリアル ドラマシリーズ Vol.2 彩のラブソング",
-          "releaseDate": "1998-03-26",
-          "upc": "4988602428704"
-        }
-      ],
-      "id": 21325,
-      "localizedNames": {
-        "ja": "ときめきメモリアル ドラマシリーズ Vol.2 彩のラブソング"
-      }
     },
     {
       "name": "TOKIMEKI MEMORIAL TAISEN PUZZLEDAMA",
