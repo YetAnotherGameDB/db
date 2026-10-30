@@ -84305,6 +84305,18 @@
           "regionalName": "ときめきメモリアル 対戦とっかえだま",
           "releaseDate": "1997-09-16",
           "id": "3096-1"
+        },
+        {
+          "name": "Tokimeki Memorial Taisen Tokkaedama",
+          "platform": "saturn",
+          "language": "[Ja]",
+          "serial": "T-9524G",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "id": "3096-2",
+          "regionalName": "ときめきメモリアル 対戦とっかえだま コナミ",
+          "releaseDate": "1997-08-07",
+          "upc": "4988602045314"
         }
       ],
       "id": 3096,
@@ -538903,27 +538915,6 @@
       "id": 21328,
       "localizedNames": {
         "ja": "ときめきメモリアル 対戦ぱずるだま"
-      }
-    },
-    {
-      "name": "TOKIMEKI MEMORIAL TAISEN TOKKAEDAMA",
-      "gameInstances": [
-        {
-          "name": "Tokimeki Memorial Taisen Tokkaedama",
-          "platform": "saturn",
-          "language": "[Ja]",
-          "serial": "T-9524G",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "id": "21329-1",
-          "regionalName": "ときめきメモリアル 対戦とっかえだま コナミ",
-          "releaseDate": "1997-08-07",
-          "upc": "4988602045314"
-        }
-      ],
-      "id": 21329,
-      "localizedNames": {
-        "ja": "ときめきメモリアル 対戦とっかえだま コナミ"
       }
     },
     {
