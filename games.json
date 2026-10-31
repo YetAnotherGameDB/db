@@ -85002,6 +85002,17 @@
           "releaseDate": "1996-09-27",
           "id": "3125-1",
           "upc": "4988611960097"
+        },
+        {
+          "name": "Tokyo Shadow",
+          "platform": "saturn",
+          "language": "[Ja]",
+          "serial": "T-1110G",
+          "region": "NTSC-J",
+          "tgdbId": 0,
+          "releaseDate": "1997-04-25",
+          "confidence": "sourced",
+          "id": "3125-2"
         }
       ],
       "id": 3125
@@ -538931,23 +538942,6 @@
         }
       ],
       "id": 21330
-    },
-    {
-      "name": "TOKYO SHADOW",
-      "gameInstances": [
-        {
-          "name": "Tokyo Shadow",
-          "platform": "saturn",
-          "language": "[Ja]",
-          "serial": "T-1110G",
-          "region": "NTSC-J",
-          "tgdbId": 0,
-          "releaseDate": "1997-04-25",
-          "confidence": "sourced",
-          "id": "21331-1"
-        }
-      ],
-      "id": 21331
     },
     {
       "name": "TOMB RAIDER",
