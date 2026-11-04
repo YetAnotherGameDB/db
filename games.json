@@ -151814,6 +151814,20 @@
           "tgdbId": 0,
           "redumpIds": [29809],
           "id": "5773-7"
+        },
+        {
+          "name": "DARK SOULS WITH ARTORIAS OF THE ABYSS EDITION",
+          "platform": "ps3",
+          "media": "disc",
+          "regionalName": "ダークソウル",
+          "language": "[Ja]",
+          "serial": "BLJM-60517",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpIds": [60455],
+          "releaseDate": "2012-10-25",
+          "id": "5773-8",
+          "upc": "4949776341060"
         }
       ],
       "id": 5773
@@ -151884,13 +151898,7 @@
           "releaseDate": "2014-03-14",
           "confidence": "sourced",
           "id": "5774-5"
-        }
-      ],
-      "id": 5774
-    },
-    {
-      "name": "DARK SOULS II: SCHOLAR OF THE FIRST SIN",
-      "gameInstances": [
+        },
         {
           "name": "DARK SOULS II: SCHOLAR OF THE FIRST SIN",
           "platform": "ps3",
@@ -151900,7 +151908,7 @@
           "region": "Europe",
           "tgdbId": 0,
           "redumpIds": [58243],
-          "id": "5775-1",
+          "id": "5774-6",
           "upc": "3391891982894"
         },
         {
@@ -151914,7 +151922,7 @@
           "tgdbId": 0,
           "redumpIds": [81046],
           "releaseDate": "2015-02-05",
-          "id": "5775-2",
+          "id": "5774-7",
           "upc": "4949776341107"
         },
         {
@@ -151926,31 +151934,11 @@
           "region": "North America",
           "tgdbId": 0,
           "redumpIds": [58097],
-          "id": "5775-3",
+          "id": "5774-8",
           "upc": "722674111843"
         }
       ],
-      "id": 5775
-    },
-    {
-      "name": "DARK SOULS WITH ARTORIAS OF THE ABYSS EDITION",
-      "gameInstances": [
-        {
-          "name": "DARK SOULS WITH ARTORIAS OF THE ABYSS EDITION",
-          "platform": "ps3",
-          "media": "disc",
-          "regionalName": "ダークソウル",
-          "language": "[Ja]",
-          "serial": "BLJM-60517",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpIds": [60455],
-          "releaseDate": "2012-10-25",
-          "id": "5776-1",
-          "upc": "4949776341060"
-        }
-      ],
-      "id": 5776
+      "id": 5774
     },
     {
       "name": "DARK SOULS: PREPARE TO DIE EDITION",
