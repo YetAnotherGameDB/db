@@ -665433,22 +665433,6 @@
       "id": 27006
     },
     {
-      "name": "MUSOU OROCHI 2",
-      "gameInstances": [
-        {
-          "name": "Musou Orochi 2",
-          "platform": "xbox360",
-          "media": "disc",
-          "language": "[Ja]",
-          "serial": "KV-2009",
-          "region": "Japan",
-          "tgdbId": 0,
-          "id": "27007-1"
-        }
-      ],
-      "id": 27007
-    },
-    {
       "name": "MUV-LUV",
       "gameInstances": [
         {
@@ -675502,6 +675486,16 @@
           "releaseDate": "2012-04-06",
           "confidence": "sourced",
           "id": "27555-1"
+        },
+        {
+          "name": "Musou Orochi 2",
+          "platform": "xbox360",
+          "media": "disc",
+          "language": "[Ja]",
+          "serial": "KV-2009",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "27555-2"
         }
       ],
       "id": 27555
@@ -956409,22 +956403,6 @@
       "id": 42063
     },
     {
-      "name": "MUSOU OROCHI 2 HYPER",
-      "gameInstances": [
-        {
-          "name": "Musou Orochi 2 Hyper (Japan)",
-          "platform": "wiiu",
-          "media": "disc",
-          "language": "[Ja]",
-          "region": "Japan",
-          "tgdbId": 0,
-          "id": "42064-1",
-          "serial": "AHBJC8"
-        }
-      ],
-      "id": 42064
-    },
-    {
       "name": "MUTANT ALIEN MOLES OF THE DEAD",
       "gameInstances": [
         {
@@ -972574,6 +972552,16 @@
           "confidence": "sourced",
           "id": "42697-2",
           "serial": "AHBEC8"
+        },
+        {
+          "name": "Musou Orochi 2 Hyper (Japan)",
+          "platform": "wiiu",
+          "media": "disc",
+          "language": "[Ja]",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "42697-3",
+          "serial": "AHBJC8"
         }
       ],
       "id": 42697
