@@ -152288,10 +152288,10 @@
       "name": "DATE A LIVE: ARUSU INSTALL",
       "gameInstances": [
         {
-          "name": "DATE A LIVE: ARUSU INSTALL",
+          "name": "DATE A LIVE: ARUSU INSTALL [LIMITED EDITION]",
           "platform": "ps3",
           "media": "disc",
-          "regionalName": "デート・ア・ライブ　或守インストール",
+          "regionalName": "デート・ア・ライブ　或守インストール 限定版",
           "releaseDate": "2014-06-26",
           "language": "[Ja]",
           "serial": "BLJM-61189",
@@ -152316,7 +152316,10 @@
           "upc": "4995857093366"
         }
       ],
-      "id": 5784
+      "id": 5784,
+      "localizedNames": {
+        "ja": "デート・ア・ライブ　或守インストール"
+      }
     },
     {
       "name": "DATE A LIVE: RINNE UTOPIA",
