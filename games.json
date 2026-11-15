@@ -152316,7 +152316,10 @@
           "upc": "4995857093366"
         }
       ],
-      "id": 5784
+      "id": 5784,
+      "localizedNames": {
+        "ja": "デート・ア・ライブ　或守インストール"
+      }
     },
     {
       "name": "DATE A LIVE: RINNE UTOPIA",
