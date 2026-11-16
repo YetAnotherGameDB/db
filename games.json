@@ -201776,54 +201776,6 @@
       "id": 7113
     },
     {
-      "name": "SENJOU NO VALKYRIA",
-      "gameInstances": [
-        {
-          "name": "SENJOU NO VALKYRIA",
-          "platform": "ps3",
-          "media": "disc",
-          "regionalName": "戦場のヴァルキュリア",
-          "language": "[Ja]",
-          "serial": "BLJM-55008",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpIds": [61302],
-          "releaseDate": "2009-03-05",
-          "id": "7114-1",
-          "upc": "4974365835354"
-        },
-        {
-          "name": "SENJOU NO VALKYRIA",
-          "platform": "ps3",
-          "media": "disc",
-          "regionalName": "戦場のヴァルキュリア",
-          "language": "[Ja]",
-          "serial": "BLJM-55027",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpIds": [61302],
-          "releaseDate": "2011-06-30",
-          "id": "7114-2",
-          "upc": "4974365835699"
-        },
-        {
-          "name": "SENJOU NO VALKYRIA",
-          "platform": "ps3",
-          "media": "disc",
-          "regionalName": "戦場のヴァルキュリア",
-          "language": "[Ja]",
-          "serial": "BLJM-60063",
-          "region": "Japan",
-          "tgdbId": 0,
-          "redumpIds": [32949],
-          "releaseDate": "2008-04-24",
-          "id": "7114-3",
-          "upc": "4974365835101"
-        }
-      ],
-      "id": 7114
-    },
-    {
       "name": "SHADOWS OF THE DAMNED",
       "gameInstances": [
         {
@@ -215986,9 +215938,54 @@
           "tgdbId": 0,
           "redumpIds": [63389],
           "id": "7477-3"
+        },
+        {
+          "name": "SENJOU NO VALKYRIA",
+          "platform": "ps3",
+          "media": "disc",
+          "regionalName": "戦場のヴァルキュリア",
+          "language": "[Ja]",
+          "serial": "BLJM-60063",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpIds": [32949],
+          "releaseDate": "2008-04-24",
+          "id": "7477-4",
+          "upc": "4974365835101"
+        },
+        {
+          "name": "SENJOU NO VALKYRIA",
+          "platform": "ps3",
+          "media": "disc",
+          "regionalName": "戦場のヴァルキュリア",
+          "language": "[Ja]",
+          "serial": "BLJM-55008",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpIds": [61302],
+          "releaseDate": "2009-03-05",
+          "id": "7477-5",
+          "upc": "4974365835354"
+        },
+        {
+          "name": "SENJOU NO VALKYRIA",
+          "platform": "ps3",
+          "media": "disc",
+          "regionalName": "戦場のヴァルキュリア",
+          "language": "[Ja]",
+          "serial": "BLJM-55027",
+          "region": "Japan",
+          "tgdbId": 0,
+          "redumpIds": [61302],
+          "releaseDate": "2011-06-30",
+          "id": "7477-6",
+          "upc": "4974365835699"
         }
       ],
-      "id": 7477
+      "id": 7477,
+      "localizedNames": {
+        "ja": "戦場のヴァルキュリア"
+      }
     },
     {
       "name": "VAMPIRE RAIN: ALTERED SPECIES",
