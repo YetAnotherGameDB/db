@@ -201776,6 +201776,24 @@
       "id": 7113
     },
     {
+      "name": "SENJOU NO VALKYRIA",
+      "gameInstances": [
+        {
+          "id": "7114-1",
+          "link": "7477-5"
+        },
+        {
+          "id": "7114-2",
+          "link": "7477-6"
+        },
+        {
+          "id": "7114-3",
+          "link": "7477-4"
+        }
+      ],
+      "id": 7114
+    },
+    {
       "name": "SHADOWS OF THE DAMNED",
       "gameInstances": [
         {
