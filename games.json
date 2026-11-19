@@ -164574,6 +164574,16 @@
           "tgdbId": 0,
           "redumpIds": [35168],
           "id": "6059-4"
+        },
+        {
+          "name": "FIGHT NIGHT CHAMPION",
+          "platform": "ps3",
+          "media": "disc",
+          "regionalName": "ファイトナイト　チャンピオン",
+          "serial": "BLJM-60267",
+          "region": "Japan",
+          "id": "6059-5",
+          "upc": "4938833020451"
         }
       ],
       "id": 6059
