@@ -85,6 +85,31 @@ foreach ($entry in $linkTargets.GetEnumerator()) {
     }
 }
 
+# A redirectTo (tombstone) must be an integer id of an existing game that is
+# neither itself nor another tombstone.
+$gameById = @{}
+foreach ($game in $json.games) { $gameById[[string]$game.id] = $game }
+foreach ($game in $json.games) {
+    if (-not $game.PSObject.Properties.Name.Contains("redirectTo")) { continue }
+    $target = $game.redirectTo
+    if ($target -isnot [int] -and $target -isnot [long]) {
+        Write-Error "Game $($game.id) has a non-integer redirectTo '$target'"
+        $errors++
+    }
+    elseif ($target -eq $game.id) {
+        Write-Error "Game $($game.id) redirects to itself"
+        $errors++
+    }
+    elseif (-not $gameById.ContainsKey([string]$target)) {
+        Write-Error "Game $($game.id) redirects to nonexistent game $target"
+        $errors++
+    }
+    elseif ($gameById[[string]$target].PSObject.Properties.Name.Contains("redirectTo")) {
+        Write-Error "Game $($game.id) redirects to $target, which is itself redirected"
+        $errors++
+    }
+}
+
 # The same serial under two games means a duplicated instance — it should be
 # a link stub instead (or the serial belongs on the allowlist above).
 # TEMPORARY: reported as a warning instead of an error while the existing
