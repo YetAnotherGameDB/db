@@ -94,6 +94,9 @@
   .kv a:hover { text-decoration: underline; }
   .empty { color: var(--muted); padding: 40px 8px; text-align: center; }
   .more { color: var(--muted); padding: 16px 8px; text-align: center; font-size: 13px; }
+  .moved { color: var(--muted); font-weight: 400; font-size: 13px; }
+  .moved a { color: var(--accent); text-decoration: none; }
+  .moved a:hover { text-decoration: underline; }
   .twirl { display: inline-block; width: 14px; color: var(--muted); }
   mark { background: #4a4400; color: #fff; border-radius: 2px; }
   footer { color: var(--muted); font-size: 12px; padding: 16px 20px; border-top: 1px solid var(--border); }
@@ -156,6 +159,8 @@ let filtered = [];
 let shown = 0;
 const expanded = new Set();
 
+const gameById = new Map();
+
 const $ = id => document.getElementById(id);
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
@@ -188,6 +193,7 @@ function gameRegions(g) { return uniq((g.gameInstances || []).map(i => resolve(i
 // Build a lowercase search blob once per game.
 function indexGame(g) {
   const parts = [g.name, String(g.id), ...localNames(g)];
+  if (g.redirectTo) parts.push("moved to " + g.redirectTo);
   for (const raw of (g.gameInstances || [])) {
     const i = resolve(raw);
     parts.push(instName(i), instRegionalName(i), pick(i, "serial"), instUpc(i), instRedump(i), i.platform, i.region);
@@ -236,6 +242,11 @@ function renderMore() {
   }
 }
 
+function movedName(g) {
+  const t = gameById.get(g.redirectTo);
+  return t ? " " + esc(t.name) : "";
+}
+
 function chip(text) { return `<span class="chip">${esc(text)}</span>`; }
 
 function rowFor(g, terms) {
@@ -247,6 +258,7 @@ function rowFor(g, terms) {
     `<td class="twirl">${isOpen ? "▾" : "▸"}</td>` +
     `<td class="id">${g.id}</td>` +
     `<td class="name">${highlight(g.name, terms)}` +
+      (g.redirectTo ? `<div class="moved">Moved to #${esc(g.redirectTo)}${movedName(g)}</div>` : "") +
       (local.length ? `<div class="local">${highlight(local.join(" / "), terms)}</div>` : "") +
     `</td>` +
     `<td><div class="chips">${gamePlatforms(g).map(chip).join("")}</div></td>` +
@@ -311,7 +323,21 @@ function detailRow(g, terms) {
       `<div class="kv">${kv.join("")}</div>` +
     `</div>`;
   }).join("");
-  tr.innerHTML = `<td></td><td colspan="5"><div class="instances">${cells}</div></td>`;
+  const moved = g.redirectTo
+    ? `<div class="moved">This entry was merged. Moved to <a href="#" data-goto="${esc(g.redirectTo)}">#${esc(g.redirectTo)}${movedName(g)}</a></div>`
+    : "";
+  tr.innerHTML = `<td></td><td colspan="5"><div class="instances">${moved}${cells}</div></td>`;
+  const a = tr.querySelector("a[data-goto]");
+  if (a) a.addEventListener("click", e => {
+    e.preventDefault();
+    e.stopPropagation();
+    $("platform").value = "";
+    $("region").value = "";
+    $("q").value = a.dataset.goto;
+    expanded.add(Number(a.dataset.goto));
+    applyFilters();
+    window.scrollTo(0, 0);
+  });
   return tr;
 }
 
@@ -338,6 +364,7 @@ async function load() {
     if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
     games = data.games || [];
+    for (const g of games) gameById.set(g.id, g);
     for (const g of games) for (const i of (g.gameInstances || [])) {
       instById.set(i.id, i);
       gameByInstId.set(i.id, g);

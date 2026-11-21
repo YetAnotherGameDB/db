@@ -53,7 +53,9 @@ CREATE TABLE platform_media (
 );
 CREATE TABLE games (
     id   INTEGER PRIMARY KEY,
-    name TEXT NOT NULL
+    name TEXT NOT NULL,
+    -- set on tombstones: the game was merged into the referenced game
+    redirect_to INTEGER REFERENCES games(id)
 );
 CREATE TABLE localized_names (
     game_id INTEGER NOT NULL REFERENCES games(id),
@@ -120,8 +122,8 @@ def main():
     n_games = n_instances = 0
 
     for game in data["games"]:
-        cur.execute("INSERT INTO games (id, name) VALUES (?, ?)",
-                    (game["id"], game["name"]))
+        cur.execute("INSERT INTO games (id, name, redirect_to) VALUES (?, ?, ?)",
+                    (game["id"], game["name"], game.get("redirectTo")))
         n_games += 1
 
         for lang, lname in (game.get("localizedNames") or {}).items():
