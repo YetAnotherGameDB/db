@@ -171173,6 +171173,18 @@
           "redumpIds": [26586],
           "id": "6215-2",
           "upc": "4988615045851"
+        },
+        {
+          "name": "HOKUTO MUSOU INTERNATIONAL",
+          "platform": "ps3",
+          "media": "disc",
+          "regionalName": "北斗無双　Ｉｎｔｅｒｎａｔｉｏｎａｌ",
+          "language": "[Ja]",
+          "serial": "BLJM-60303",
+          "region": "Japan",
+          "tgdbId": 0,
+          "id": "6215-3",
+          "upc": "4988615035760"
         }
       ],
       "id": 6215
